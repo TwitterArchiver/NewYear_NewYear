@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858553440172957697"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1858553445323596236",
+    "created_at": "2024-11-18T16:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T17:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1858553445323596236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/quNx8XiSHK",
+          "end": 27,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1858553445323596236/photo/1",
+          "media_key": "3_1858553440172957697",
+          "start": 4,
+          "url": "https://t.co/quNx8XiSHK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858553445323596236",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一年前 https://t.co/quNx8XiSHK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1858553445323596236].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1858553445323596236",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1858553445323596236"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_1858553440172957697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gcrogb2W4AER7uH.jpg",
+        "width": 1250
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "",
+        "id": "1850587533924876288",
+        "name": "New&Year",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850587758617890816/1iNTpnM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 52,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 7
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

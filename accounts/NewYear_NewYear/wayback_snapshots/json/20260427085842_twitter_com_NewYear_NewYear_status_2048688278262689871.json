@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2048625498788340195",
+    "created_at": "2026-04-27T08:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048688278262689871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1996037660821929984",
+          "start": 0,
+          "username": "RevivedTenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048688278262689871",
+    "in_reply_to_user_id": "1996037660821929984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048625498788340195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RevivedTenshi 暖呼呼\n不过这个好深要注意消毒w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15240,
+        "height": 1280,
+        "media_key": "13_2048625337391603713",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048625337391603713/img/ea5ZxKweF7zDdRPg.jpg",
+        "public_metrics": {
+          "view_count": 22
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048625337391603713/vid/avc1/320x568/8RePMEiKqy18XgVY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048625337391603713/vid/avc1/480x852/z5FiNc_zAnipnERs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048625337391603713/vid/avc1/720x1280/y5e0nK7ponoRD3R9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048625337391603713/pl/_Y5Z6dbsJKwAj2zY.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 26818,
+        "height": 1280,
+        "media_key": "13_2048625337391599616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048625337391599616/img/ro1fwl_1_3Xk3laP.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048625337391599616/vid/avc1/320x568/cGJsEJ8ufBUaLP9u.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048625337391599616/vid/avc1/480x852/nctL-6hEPkwkGdxH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048625337391599616/vid/avc1/720x1280/sagCM8fd9IaGLImK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048625337391599616/pl/R51fVDBrl5GawX-8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2048625498788340195",
+        "created_at": "2026-04-27T08:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048688278262689871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1996037660821929984",
+              "start": 0,
+              "username": "RevivedTenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048688278262689871",
+        "in_reply_to_user_id": "1996037660821929984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048625498788340195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RevivedTenshi 暖呼呼\n不过这个好深要注意消毒w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048625337391603713",
+            "13_2048625337391599616"
+          ]
+        },
+        "author_id": "1996037660821929984",
+        "conversation_id": "2048625498788340195",
+        "created_at": "2026-04-27T04:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048625498788340195"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "自残"
+            },
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "shtwt"
+            },
+            {
+              "end": 44,
+              "start": 35,
+              "tag": "beanstwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BoUGPEUQvK",
+              "end": 68,
+              "expanded_url": "https://x.com/RevivedTenshi/status/2048625498788340195/video/1",
+              "media_key": "13_2048625337391603713",
+              "start": 45,
+              "url": "https://t.co/BoUGPEUQvK"
+            },
+            {
+              "display_url": "pic.x.com/BoUGPEUQvK",
+              "end": 68,
+              "expanded_url": "https://x.com/RevivedTenshi/status/2048625498788340195/video/1",
+              "media_key": "13_2048625337391599616",
+              "start": 45,
+              "url": "https://t.co/BoUGPEUQvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048625498788340195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 43,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "静脉血暖呼呼的 FAKE SFX MAKEUP #自残 #shtwt #beanstwt https://t.co/BoUGPEUQvK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 224,
+          "like_count": 3426,
+          "listed_count": 1,
+          "media_count": 681,
+          "tweet_count": 3207
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T02:04:31.000Z",
+        "description": "小天☆彡 | 中文/Eng | 欢迎小宝们加好友哦!|17，INTP",
+        "id": "1996037660821929984",
+        "name": "☆*:.｡. Tenshi!! .｡.:*☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022407662692884481/T18JhTmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 23,
+          "like_count": 1661,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 83
+        },
+        "username": "RevivedTenshi",
+        "verified": false
+      }
+    ]
+  }
+}

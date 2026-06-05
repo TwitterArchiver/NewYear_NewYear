@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1964360544586252746",
+    "created_at": "2025-09-06T16:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T17:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964361407597858959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1534402073269309442",
+          "start": 0,
+          "username": "libai33587376"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964361407597858959",
+    "in_reply_to_user_id": "1534402073269309442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964360544586252746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libai33587376 我是丑比，我可以玩推😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1964360544586252746",
+        "created_at": "2025-09-06T16:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T17:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964361407597858959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1534402073269309442",
+              "start": 0,
+              "username": "libai33587376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964361407597858959",
+        "in_reply_to_user_id": "1534402073269309442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964360544586252746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libai33587376 我是丑比，我可以玩推😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534402073269309442",
+        "conversation_id": "1964360544586252746",
+        "created_at": "2025-09-06T16:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T17:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964360544586252746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964360544586252746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你大爷的帅哥不许玩推特给我洁身自好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福",
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 150,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 592
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T05:09:22.000Z",
+        "description": "这里是虾条，名字是因为我爱吃虾条/推特私聊ptsd了除非你发口令红包/堆放脑中碎碎念废料/跟我熟了才加v/性癖很古怪/infp和enfp一直在转/什么都说点/最爱是银魂/其实我是狗派",
+        "id": "1534402073269309442",
+        "location": "200m",
+        "name": "咪咪虾条",
+        "pinned_tweet_id": "1955982725728625160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339870882021376/f0b-Q2JB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 35,
+          "like_count": 1348,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 89
+        },
+        "username": "libai33587376",
+        "verified": false
+      }
+    ]
+  }
+}

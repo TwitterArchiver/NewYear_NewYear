@@ -1,0 +1,640 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Mar 31 10:08:18 +0000 2021",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1285785322190565377,
+        "id_str": "1285785322190565377",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "TREASURE JAPAN OFFICIAL",
+        "screen_name": "yg_treasure_jp"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1377201077393661953,
+  "id_str": "1377201077393661953",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "ja",
+  "place": null,
+  "quote_count": 0,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 31 09:01:24 +0000 2021",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1377184240480083971",
+          "indices": [
+            123,
+            146
+          ],
+          "url": "https://t.co/lneFNcuexE"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        152
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              125,
+              129
+            ],
+            "text": "트레저"
+          },
+          {
+            "indices": [
+              130,
+              139
+            ],
+            "text": "TREASURE"
+          },
+          {
+            "indices": [
+              140,
+              145
+            ],
+            "text": "마녀공장"
+          },
+          {
+            "indices": [
+              146,
+              152
+            ],
+            "text": "MANYO"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UCGXzMse5t",
+            "expanded_url": "https://twitter.com/treasuremembers/status/1377184240480083971/photo/1",
+            "id": 1377184232301195277,
+            "id_str": "1377184232301195277",
+            "indices": [
+              153,
+              176
+            ],
+            "media_url": "http://pbs.twimg.com/media/Exy9wzyU8A0YXMa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Exy9wzyU8A0YXMa.jpg",
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/UCGXzMse5t"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UCGXzMse5t",
+            "expanded_url": "https://twitter.com/treasuremembers/status/1377184240480083971/photo/1",
+            "id": 1377184232301195277,
+            "id_str": "1377184232301195277",
+            "indices": [
+              153,
+              176
+            ],
+            "media_url": "http://pbs.twimg.com/media/Exy9wzyU8A0YXMa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Exy9wzyU8A0YXMa.jpg",
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/UCGXzMse5t"
+          }
+        ]
+      },
+      "full_text": "마녀공장에서 트레저의 일본 데뷔 기념으로 꽃과 케이크를 보내주셨어요😂\n항상 좋은 제품 잘 쓰고 있어요 ! 트레저의 기념일을 챙겨주셔서 감사합니당 &gt;&lt; 예쁜 꽃이랑 센스있는 케이크 잘 받았습니다 사랑해요 마녀공장😄\n#트레저 #TREASURE #마녀공장 #MANYO https://t.co/UCGXzMse5t"
+    },
+    "favorite_count": 52560,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1377184240480083971,
+    "id_str": "1377184240480083971",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "ko",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 734,
+    "reply_count": 3001,
+    "retweet_count": 21569,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "마녀공장에서 트레저의 일본 데뷔 기념으로 꽃과 케이크를 보내주셨어요😂\n항상 좋은 제품 잘 쓰고 있어요 ! 트레저의 기념일을 챙겨주셔서 감사합니당 &gt;&lt; 예쁜 꽃이랑 센스있는 케이크 잘 받았습니다 사랑해요 마녀… https://t.co/lneFNcuexE",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 19 13:15:22 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "TREASURE MEMBERS TWITTER",
+      "favourites_count": 131,
+      "follow_request_sent": null,
+      "followers_count": 1659647,
+      "following": null,
+      "friends_count": 3,
+      "geo_enabled": false,
+      "id": 1240627844868268033,
+      "id_str": "1240627844868268033",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8996,
+      "location": "대한민국 서울",
+      "name": "TREASURE",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240627844868268033/1585713671",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1245199469571796993/TaKDsz-3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245199469571796993/TaKDsz-3_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "treasuremembers",
+      "statuses_count": 1102,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://instagram.com/yg_treasure_official",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1377184240480083971,
+  "quoted_status_id_str": "1377184240480083971",
+  "quoted_status_permalink": {
+    "display": "twitter.com/treasuremember…",
+    "expanded": "https://twitter.com/treasuremembers/status/1377184240480083971",
+    "url": "https://t.co/9EfvLfctft"
+  },
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 31 09:14:39 +0000 2021",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1377187573165031435",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/xNgaFVIHko"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        156
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              127,
+              133
+            ],
+            "text": "トレジャー"
+          },
+          {
+            "indices": [
+              134,
+              143
+            ],
+            "text": "TREASURE"
+          },
+          {
+            "indices": [
+              144,
+              149
+            ],
+            "text": "魔女工場"
+          },
+          {
+            "indices": [
+              150,
+              156
+            ],
+            "text": "MANYO"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "full_text": "魔女工場さんがTREASUREの日本デビュー記念のお花とケーキを送ってくれました😂いつも良い商品ちゃんと使ってます！TREASUREの記念日を祝って下さりありがとうございます＞＜綺麗なお花とセンスあるケーキありがとうございました。愛してます。魔女工場😄\n＃トレジャー ＃TREASURE ＃魔女工場 ＃MANYO"
+    },
+    "favorite_count": 8786,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1377187573165031435,
+    "id_str": "1377187573165031435",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "ja",
+    "place": null,
+    "quote_count": 16,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Mar 31 09:01:24 +0000 2021",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/1…",
+            "expanded_url": "https://twitter.com/i/web/status/1377184240480083971",
+            "indices": [
+              123,
+              146
+            ],
+            "url": "https://t.co/lneFNcuexE"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_tweet": {
+        "display_text_range": [
+          0,
+          152
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                125,
+                129
+              ],
+              "text": "트레저"
+            },
+            {
+              "indices": [
+                130,
+                139
+              ],
+              "text": "TREASURE"
+            },
+            {
+              "indices": [
+                140,
+                145
+              ],
+              "text": "마녀공장"
+            },
+            {
+              "indices": [
+                146,
+                152
+              ],
+              "text": "MANYO"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/UCGXzMse5t",
+              "expanded_url": "https://twitter.com/treasuremembers/status/1377184240480083971/photo/1",
+              "id": 1377184232301195277,
+              "id_str": "1377184232301195277",
+              "indices": [
+                153,
+                176
+              ],
+              "media_url": "http://pbs.twimg.com/media/Exy9wzyU8A0YXMa.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Exy9wzyU8A0YXMa.jpg",
+              "sizes": {
+                "large": {
+                  "h": 1280,
+                  "resize": "fit",
+                  "w": 1280
+                },
+                "medium": {
+                  "h": 1200,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/UCGXzMse5t"
+            }
+          ],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/UCGXzMse5t",
+              "expanded_url": "https://twitter.com/treasuremembers/status/1377184240480083971/photo/1",
+              "id": 1377184232301195277,
+              "id_str": "1377184232301195277",
+              "indices": [
+                153,
+                176
+              ],
+              "media_url": "http://pbs.twimg.com/media/Exy9wzyU8A0YXMa.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Exy9wzyU8A0YXMa.jpg",
+              "sizes": {
+                "large": {
+                  "h": 1280,
+                  "resize": "fit",
+                  "w": 1280
+                },
+                "medium": {
+                  "h": 1200,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/UCGXzMse5t"
+            }
+          ]
+        },
+        "full_text": "마녀공장에서 트레저의 일본 데뷔 기념으로 꽃과 케이크를 보내주셨어요😂\n항상 좋은 제품 잘 쓰고 있어요 ! 트레저의 기념일을 챙겨주셔서 감사합니당 &gt;&lt; 예쁜 꽃이랑 센스있는 케이크 잘 받았습니다 사랑해요 마녀공장😄\n#트레저 #TREASURE #마녀공장 #MANYO https://t.co/UCGXzMse5t"
+      },
+      "favorite_count": 52560,
+      "favorited": false,
+      "filter_level": "low",
+      "geo": null,
+      "id": 1377184240480083971,
+      "id_str": "1377184240480083971",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "ko",
+      "place": null,
+      "possibly_sensitive": false,
+      "quote_count": 734,
+      "reply_count": 3001,
+      "retweet_count": 21569,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text": "마녀공장에서 트레저의 일본 데뷔 기념으로 꽃과 케이크를 보내주셨어요😂\n항상 좋은 제품 잘 쓰고 있어요 ! 트레저의 기념일을 챙겨주셔서 감사합니당 &gt;&lt; 예쁜 꽃이랑 센스있는 케이크 잘 받았습니다 사랑해요 마녀… https://t.co/lneFNcuexE",
+      "truncated": true,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 19 13:15:22 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "TREASURE MEMBERS TWITTER",
+        "favourites_count": 131,
+        "follow_request_sent": null,
+        "followers_count": 1659647,
+        "following": null,
+        "friends_count": 3,
+        "geo_enabled": false,
+        "id": 1240627844868268033,
+        "id_str": "1240627844868268033",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8996,
+        "location": "대한민국 서울",
+        "name": "TREASURE",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240627844868268033/1585713671",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245199469571796993/TaKDsz-3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245199469571796993/TaKDsz-3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "treasuremembers",
+        "statuses_count": 1102,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://instagram.com/yg_treasure_official",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1377184240480083971,
+    "quoted_status_id_str": "1377184240480083971",
+    "quoted_status_permalink": {
+      "display": "twitter.com/treasuremember…",
+      "expanded": "https://twitter.com/treasuremembers/status/1377184240480083971",
+      "url": "https://t.co/9EfvLfctft"
+    },
+    "reply_count": 177,
+    "retweet_count": 2372,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "魔女工場さんがTREASUREの日本デビュー記念のお花とケーキを送ってくれました😂いつも良い商品ちゃんと使ってます！TREASUREの記念日を祝って下さりありがとうございます＞＜綺麗なお花とセンスあるケーキありがとうございました。… https://t.co/xNgaFVIHko",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 22 03:56:47 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "TREASURE JAPAN official Twitter",
+      "favourites_count": 4,
+      "follow_request_sent": null,
+      "followers_count": 253447,
+      "following": null,
+      "friends_count": 4,
+      "geo_enabled": false,
+      "id": 1285785322190565377,
+      "id_str": "1285785322190565377",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1631,
+      "location": null,
+      "name": "TREASURE JAPAN OFFICIAL",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285785322190565377/1615208602",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1285806403160928256/Dpt2UN1l_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1285806403160928256/Dpt2UN1l_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "yg_treasure_jp",
+      "statuses_count": 1421,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://ygex.jp/treasure/",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @yg_treasure_jp: 魔女工場さんがTREASUREの日本デビュー記念のお花とケーキを送ってくれました😂いつも良い商品ちゃんと使ってます！TREASUREの記念日を祝って下さりありがとうございます＞＜綺麗なお花とセンスあるケーキありがとうございました。愛してま…",
+  "timestamp_ms": "1617185298666",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "ออกผัวแต่เป็น นางงาม",
+    "favourites_count": 2805,
+    "follow_request_sent": null,
+    "followers_count": 64,
+    "following": null,
+    "friends_count": 70,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "New Year",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1376159416521662471/YziwbT5o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376159416521662471/YziwbT5o_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 4245,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

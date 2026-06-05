@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1967910770118894006",
+    "created_at": "2025-09-16T11:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T12:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967910770118894006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nairanarra/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Nairanarra/status/1967742482395066467",
+          "start": 6,
+          "url": "https://t.co/dZjwyflEZ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967910770118894006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967742482395066467",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好搞笑这个 https://t.co/dZjwyflEZ7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12493,
+        "height": 1280,
+        "media_key": "7_1967742457627721730",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1967742457627721730/pu/img/QHtCvqwL323dg26z.jpg",
+        "public_metrics": {
+          "view_count": 56861
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967742457627721730/pu/vid/avc1/320x568/TMITjQ7fn1SP1upb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967742457627721730/pu/vid/avc1/480x854/1ZYxCAPL4-QzH1zD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967742457627721730/pu/vid/avc1/718x1278/8L9Q8OdQX8Tk6CBQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1967742457627721730/pu/pl/aA8lynO2xN6qIGuR.m3u8?tag=12"
+          }
+        ],
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1967910770118894006",
+        "created_at": "2025-09-16T11:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967910770118894006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nairanarra/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Nairanarra/status/1967742482395066467",
+              "start": 6,
+              "url": "https://t.co/dZjwyflEZ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967910770118894006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967742482395066467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好搞笑这个 https://t.co/dZjwyflEZ7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1967742457627721730"
+          ]
+        },
+        "author_id": "1877311475683045376",
+        "conversation_id": "1967742482395066467",
+        "created_at": "2025-09-16T00:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T01:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967742482395066467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Gikpjhnts",
+              "end": 121,
+              "expanded_url": "https://x.com/Nairanarra/status/1967742482395066467/video/1",
+              "media_key": "7_1967742457627721730",
+              "start": 98,
+              "url": "https://t.co/0Gikpjhnts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967742482395066467",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 129010,
+          "like_count": 524,
+          "quote_count": 13,
+          "reply_count": 129,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "I think we need this faucet at home to encourage more handwashing 😅😅 Look at this, it's so cute 🥰 https://t.co/0Gikpjhnts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 154,
+          "like_count": 254,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 951
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T11:08:37.000Z",
+        "description": "what's are you looking for??",
+        "id": "1877311475683045376",
+        "location": "Indonesia",
+        "name": "Naira 🍒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945187283503652865/Zr9zpmV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2932,
+          "following_count": 1154,
+          "like_count": 21132,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 20189
+        },
+        "username": "Nairanarra",
+        "verified": true
+      }
+    ]
+  }
+}

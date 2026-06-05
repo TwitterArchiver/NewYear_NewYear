@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041414851583684608"
+      ],
+      "media_source_tweet_id": [
+        "2041414964175659236"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2055146904170926106",
+    "created_at": "2026-05-15T04:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055146904170926106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1850587533924876288",
+          "start": 3,
+          "username": "NewYear_NewYear"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ITuPihvjW8",
+          "end": 57,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2041414964175659236/photo/1",
+          "media_key": "3_2041414851583684608",
+          "start": 34,
+          "url": "https://t.co/ITuPihvjW8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055146904170926106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041414964175659236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NewYear_NewYear: 我喜欢这张图片，再发一次 https://t.co/ITuPihvjW8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055146904170926106].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055146904170926106",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055146904170926106"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041414851583684608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSP_dvaMAAXXM_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041414851583684608"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2041414964175659236",
+        "created_at": "2026-04-07T07:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041414964175659236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITuPihvjW8",
+              "end": 36,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2041414964175659236/photo/1",
+              "media_key": "3_2041414851583684608",
+              "start": 13,
+              "url": "https://t.co/ITuPihvjW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041414964175659236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢这张图片，再发一次 https://t.co/ITuPihvjW8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 349,
+          "like_count": 6250,
+          "listed_count": 1,
+          "media_count": 762,
+          "tweet_count": 4226
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1966339909406621902",
+    "created_at": "2025-09-12T15:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T16:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966524744460632416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1708687870268235776",
+          "start": 0,
+          "username": "fhcv294899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966524744460632416",
+    "in_reply_to_user_id": "1708687870268235776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966467895229034953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fhcv294899 物理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1966339909406621902",
+        "created_at": "2025-09-12T15:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T16:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966524744460632416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1708687870268235776",
+              "start": 0,
+              "username": "fhcv294899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966524744460632416",
+        "in_reply_to_user_id": "1708687870268235776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966467895229034953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fhcv294899 物理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708687870268235776",
+        "conversation_id": "1966339909406621902",
+        "created_at": "2025-09-12T11:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T12:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966467895229034953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966467895229034953",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966431838513353024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 对了，你学什么专业来的喵？集成电路还是什么喵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号",
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 150,
+          "like_count": 160,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 824
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T03:38:37.000Z",
+        "description": "In order to break the information gap and correct, I will reprint the CN network related to the personal blog",
+        "id": "1708687870268235776",
+        "location": "香江",
+        "name": "report",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887506321345482752/wGreZKXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 389,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 163
+        },
+        "username": "fhcv294899",
+        "verified": false
+      }
+    ]
+  }
+}

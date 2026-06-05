@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1969295657606217884",
+    "created_at": "2025-09-20T07:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T08:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969295657606217884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1802720725310345216",
+          "start": 3,
+          "username": "Xxxtac_17"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/P6Na",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/P6Na"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969295657606217884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969285371172151400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xxxtac_17: 2000fo抽奖来了\n坐标哈尔滨 可接全国\n06|165cm|60kg 全身大面积纹身\n过128🚪接线下，接全国，接线上电子女友，接陪玩\n详细价格表私信咨询\n转此帖抽10个免门槛 5个52🧧5个小美代付一天后开奖 https://t.co/P6Na…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1969295657606217884].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1969295657606217884",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1969295657606217884"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969285359663267841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ROmdQbQAEQM1Y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1969285359659044864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ROmdPa0AA1y24.jpg",
+        "width": 674
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1969285359654879233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ROmdObQAEl_N3.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969285359663267841",
+            "3_1969285359659044864",
+            "3_1969285359654879233"
+          ]
+        },
+        "author_id": "1802720725310345216",
+        "conversation_id": "1969285371172151400",
+        "created_at": "2025-09-20T06:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T07:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969285371172151400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6Naq5VuPj",
+              "end": 130,
+              "expanded_url": "https://x.com/Xxxtac_17/status/1969285371172151400/photo/1",
+              "media_key": "3_1969285359663267841",
+              "start": 107,
+              "url": "https://t.co/P6Naq5VuPj"
+            },
+            {
+              "display_url": "pic.x.com/P6Naq5VuPj",
+              "end": 130,
+              "expanded_url": "https://x.com/Xxxtac_17/status/1969285371172151400/photo/1",
+              "media_key": "3_1969285359659044864",
+              "start": 107,
+              "url": "https://t.co/P6Naq5VuPj"
+            },
+            {
+              "display_url": "pic.x.com/P6Naq5VuPj",
+              "end": 130,
+              "expanded_url": "https://x.com/Xxxtac_17/status/1969285371172151400/photo/1",
+              "media_key": "3_1969285359654879233",
+              "start": 107,
+              "url": "https://t.co/P6Naq5VuPj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969285371172151400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "2000fo抽奖来了\n坐标哈尔滨 可接全国\n06|165cm|60kg 全身大面积纹身\n过128🚪接线下，接全国，接线上电子女友，接陪玩\n详细价格表私信咨询\n转此帖抽10个免门槛 5个52🧧5个小美代付一天后开奖 https://t.co/P6Naq5VuPj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 154,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 1043
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T15:11:36.000Z",
+        "description": "你像湖水卷入我的肺 门槛128",
+        "id": "1802720725310345216",
+        "location": "0.01km",
+        "name": "三次元败狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802720863877570560/vEGrNwL3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2134,
+          "following_count": 127,
+          "like_count": 477,
+          "listed_count": 3,
+          "media_count": 375,
+          "tweet_count": 730
+        },
+        "username": "Xxxtac_17",
+        "verified": false
+      }
+    ]
+  }
+}

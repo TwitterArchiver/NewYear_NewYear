@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1976140156605194298",
+    "created_at": "2025-10-09T10:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T11:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976233171701436438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1955850423904165913",
+          "start": 0,
+          "username": "Ammaaazzz_62com"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976233171701436438",
+    "in_reply_to_user_id": "1955850423904165913",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976140156605194298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ammaaazzz_62com 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1976140156605194298",
+        "created_at": "2025-10-09T10:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T11:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976233171701436438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1955850423904165913",
+              "start": 0,
+              "username": "Ammaaazzz_62com"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976233171701436438",
+        "in_reply_to_user_id": "1955850423904165913",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976140156605194298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ammaaazzz_62com 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955850423904165913",
+        "conversation_id": "1976140156605194298",
+        "created_at": "2025-10-09T04:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T05:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976140156605194298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976140156605194298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1124,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人和我做朋友吗🥺QQ3580432040"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 158,
+          "like_count": 518,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 1275
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T04:34:38.000Z",
+        "description": "哎呀呀～看看，看看，这是谁来了，我怎么知道？【我将成为跨圈最温柔的喵「叉腰」】｜最硬气的喵，我就是跨怎么了｜｜友好交流，别刷存在感｜",
+        "id": "1955850423904165913",
+        "name": "落喵🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1966017928832098588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965709290456367105/udo8xzLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 71,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 169
+        },
+        "username": "Ammaaazzz_62com",
+        "verified": false
+      }
+    ]
+  }
+}

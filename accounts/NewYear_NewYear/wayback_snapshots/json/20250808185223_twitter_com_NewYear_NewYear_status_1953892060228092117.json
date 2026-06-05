@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1953770316750258176"
+      ],
+      "media_source_tweet_id": [
+        "1953770433125167477"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1953892060228092117",
+    "created_at": "2025-08-08T18:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T19:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953892060228092117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1508447794537070595",
+          "start": 3,
+          "username": "sakura2333owo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cCPTHE0oFu",
+          "end": 68,
+          "expanded_url": "https://x.com/sakura2333owo/status/1953770433125167477/video/1",
+          "media_key": "13_1953770316750258176",
+          "start": 45,
+          "url": "https://t.co/cCPTHE0oFu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953892060228092117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953770433125167477",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakura2333owo: 果咩内 明天再一起玩吧 我要回家吃饭了。=^_^= https://t.co/cCPTHE0oFu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10416,
+        "height": 720,
+        "media_key": "13_1953770316750258176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1953770316750258176/img/k30L-fxa13UqDUCZ.jpg",
+        "public_metrics": {
+          "view_count": 1455
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953770316750258176/vid/avc1/366x270/_MtUjibkuyERxs82.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953770316750258176/vid/avc1/488x360/5XqqI0LWaBXOOasP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953770316750258176/vid/avc1/976x720/TXjzmoGjLAZlSSss.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1953770316750258176/pl/lHx2nOUFW1NTasA6.m3u8?v=cfc"
+          }
+        ],
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953770316750258176"
+          ],
+          "media_source_tweet_id": [
+            "1953770433125167477"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1953892060228092117",
+        "created_at": "2025-08-08T18:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T19:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953892060228092117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1508447794537070595",
+              "start": 3,
+              "username": "sakura2333owo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cCPTHE0oFu",
+              "end": 68,
+              "expanded_url": "https://x.com/sakura2333owo/status/1953770433125167477/video/1",
+              "media_key": "13_1953770316750258176",
+              "start": 45,
+              "url": "https://t.co/cCPTHE0oFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953892060228092117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953770433125167477",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakura2333owo: 果咩内 明天再一起玩吧 我要回家吃饭了。=^_^= https://t.co/cCPTHE0oFu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953770316750258176"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1953770433125167477",
+        "created_at": "2025-08-08T10:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T11:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953770433125167477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cCPTHE0oFu",
+              "end": 49,
+              "expanded_url": "https://x.com/sakura2333owo/status/1953770433125167477/video/1",
+              "media_key": "13_1953770316750258176",
+              "start": 26,
+              "url": "https://t.co/cCPTHE0oFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953770433125167477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 3640,
+          "like_count": 388,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "果咩内 明天再一起玩吧 我要回家吃饭了。=^_^= https://t.co/cCPTHE0oFu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1952052623164727313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 144,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 438
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34586,
+          "following_count": 278,
+          "like_count": 7283,
+          "listed_count": 63,
+          "media_count": 1096,
+          "tweet_count": 4957
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

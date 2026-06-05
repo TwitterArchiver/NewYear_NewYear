@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2047522678085685275",
+    "created_at": "2026-04-24T06:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047563424914358570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1381812832426024960",
+          "start": 0,
+          "username": "NjnYtVq1xd7gZSg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047563424914358570",
+    "in_reply_to_user_id": "1381812832426024960",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047539413283184937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NjnYtVq1xd7gZSg 🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2047522678085685275",
+        "created_at": "2026-04-24T06:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047563424914358570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1381812832426024960",
+              "start": 0,
+              "username": "NjnYtVq1xd7gZSg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047563424914358570",
+        "in_reply_to_user_id": "1381812832426024960",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047539413283184937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NjnYtVq1xd7gZSg 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1381812832426024960",
+        "conversation_id": "2047522678085685275",
+        "created_at": "2026-04-24T04:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047539413283184937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047539413283184937",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047522678085685275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 我也觉得！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2046548745811382505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 222,
+          "like_count": 3273,
+          "listed_count": 1,
+          "media_count": 671,
+          "tweet_count": 3133
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-13T03:33:58.000Z",
+        "description": "“你好呀，我是大户爱，很开心认识你😘”\nKigurumi新人，希望下辈子能活在二次元🥰\n偶尔色色😋爱你哦👻",
+        "id": "1381812832426024960",
+        "location": "珠海澳门",
+        "name": "小宇酱",
+        "pinned_tweet_id": "2035921979774275655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040884672402718720/KcGnBQSY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 162,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 108
+        },
+        "username": "NjnYtVq1xd7gZSg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1902034879317266542",
+    "created_at": "2025-03-18T16:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T17:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902034879317266542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoneyamai/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yoneyamai/status/1901968923857449202",
+          "start": 6,
+          "url": "https://t.co/4FO5HMBjFU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902034879317266542",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901968923857449202",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太好看…… https://t.co/4FO5HMBjFU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_1901968916064440320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmUmpu_bEAASpUE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1902034879317266542",
+        "created_at": "2025-03-18T16:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T17:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902034879317266542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoneyamai/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yoneyamai/status/1901968923857449202",
+              "start": 6,
+              "url": "https://t.co/4FO5HMBjFU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902034879317266542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901968923857449202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太好看…… https://t.co/4FO5HMBjFU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901968916064440320"
+          ]
+        },
+        "author_id": "105097140",
+        "conversation_id": "1901968923857449202",
+        "created_at": "2025-03-18T12:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T13:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901968923857449202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uIEc3tm56r",
+              "end": 27,
+              "expanded_url": "https://x.com/yoneyamai/status/1901968923857449202/photo/1",
+              "media_key": "3_1901968916064440320",
+              "start": 4,
+              "url": "https://t.co/uIEc3tm56r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901968923857449202",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1256,
+          "impression_count": 349977,
+          "like_count": 16164,
+          "quote_count": 20,
+          "reply_count": 20,
+          "retweet_count": 1820
+        },
+        "reply_settings": "everyone",
+        "text": "DYE https://t.co/uIEc3tm56r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福",
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850587758617890816/1iNTpnM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 123,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 55
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-15T10:35:46.000Z",
+        "description": "Yoneyama Mai - Illustrator,Animator,Artist SSS by applibot所属 イラストレーション、アートディレクション、作家、アニメーション監督、アニメーターなどをやっています",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yoneyamai/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yoneyamai/",
+                "start": 0,
+                "url": "https://t.co/IvKzNPB6Xf"
+              }
+            ]
+          }
+        },
+        "id": "105097140",
+        "location": "Japan",
+        "name": "米山 舞 Yoneyama Mai",
+        "pinned_tweet_id": "1901968923857449202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1155680462464942081/JBCvjutU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361593,
+          "following_count": 4643,
+          "like_count": 21583,
+          "listed_count": 9412,
+          "media_count": 633,
+          "tweet_count": 23704
+        },
+        "url": "https://t.co/IvKzNPB6Xf",
+        "username": "yoneyamai",
+        "verified": true
+      }
+    ]
+  }
+}

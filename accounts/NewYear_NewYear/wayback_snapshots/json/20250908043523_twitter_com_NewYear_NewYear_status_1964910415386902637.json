@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1964848486605812097",
+    "created_at": "2025-09-08T04:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T05:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964910415386902637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880108847953747968",
+          "start": 0,
+          "username": "bing111330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964910415386902637",
+    "in_reply_to_user_id": "1880108847953747968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964848486605812097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bing111330 是的!!!\n就是脆升升有些小贵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1584,
+        "media_key": "3_1964848478674452480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0SLR_jbgAAiPzr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1964848486605812097",
+        "created_at": "2025-09-08T04:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T05:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964910415386902637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880108847953747968",
+              "start": 0,
+              "username": "bing111330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964910415386902637",
+        "in_reply_to_user_id": "1880108847953747968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964848486605812097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing111330 是的!!!\n就是脆升升有些小贵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964848478674452480"
+          ]
+        },
+        "author_id": "1880108847953747968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1964848486605812097",
+        "created_at": "2025-09-08T00:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T01:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964848486605812097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X0Nv2NLB23",
+              "end": 36,
+              "expanded_url": "https://x.com/bing111330/status/1964848486605812097/photo/1",
+              "media_key": "3_1964848478674452480",
+              "start": 13,
+              "url": "https://t.co/X0Nv2NLB23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964848486605812097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1083,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几个特特特特特别好吃。 https://t.co/X0Nv2NLB23"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福",
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 147,
+          "like_count": 79,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 627
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T04:24:41.000Z",
+        "description": "碎碎念📝 @lan_zhai003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "lan_zhai003"
+              }
+            ]
+          }
+        },
+        "id": "1880108847953747968",
+        "name": "症懒宅",
+        "pinned_tweet_id": "1910327675182293322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919287169774190592/91BAzeVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5079,
+          "following_count": 454,
+          "like_count": 31788,
+          "listed_count": 24,
+          "media_count": 518,
+          "tweet_count": 22074
+        },
+        "username": "bing111330",
+        "verified": false
+      }
+    ]
+  }
+}

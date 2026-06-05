@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2031258312059363819",
+    "created_at": "2026-03-10T06:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T07:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031258312059363819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nullnull_synta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/nullnull_syntax/status/2030932847192924652",
+          "start": 6,
+          "url": "https://t.co/7tz5nM8tbH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031258312059363819",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030932847192924652",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要笑死了 https://t.co/7tz5nM8tbH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2030932838519021569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9SqAKaIAE3RA6.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2031258312059363819",
+        "created_at": "2026-03-10T06:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031258312059363819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nullnull_synta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/nullnull_syntax/status/2030932847192924652",
+              "start": 6,
+              "url": "https://t.co/7tz5nM8tbH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031258312059363819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030932847192924652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要笑死了 https://t.co/7tz5nM8tbH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030932838519021569"
+          ]
+        },
+        "author_id": "1758380594344697856",
+        "conversation_id": "2030932847192924652",
+        "created_at": "2026-03-09T09:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030932847192924652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3cjXfaHoa",
+              "end": 23,
+              "expanded_url": "https://x.com/nullnull_syntax/status/2030932847192924652/photo/1",
+              "media_key": "3_2030932838519021569",
+              "start": 0,
+              "url": "https://t.co/g3cjXfaHoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030932847192924652",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 23929,
+          "like_count": 869,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 238
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/g3cjXfaHoa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 183,
+          "like_count": 1768,
+          "listed_count": 1,
+          "media_count": 516,
+          "tweet_count": 2201
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T06:39:47.000Z",
+        "description": "怪文書付きグラフィックアートや絵文字漫画などを作っています ∣ LINEスタンプ 𓅰 https://t.co/2FefwxPzX1 ∣ 連絡𓅰 nullnullcontact@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "store.line.me/stickershop/pr…",
+                "end": 66,
+                "expanded_url": "https://store.line.me/stickershop/product/31916036/",
+                "start": 43,
+                "url": "https://t.co/2FefwxPzX1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullnullsyntax.net",
+                "end": 23,
+                "expanded_url": "https://nullnullsyntax.net/",
+                "start": 0,
+                "url": "https://t.co/TM3BTOiSoI"
+              }
+            ]
+          }
+        },
+        "id": "1758380594344697856",
+        "location": "JavaScript",
+        "name": "ぬ絵（葱）",
+        "pinned_tweet_id": "2027325593256411601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995370110534766593/S3Sv9iPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12038,
+          "following_count": 468,
+          "like_count": 178819,
+          "listed_count": 49,
+          "media_count": 2036,
+          "tweet_count": 7829
+        },
+        "url": "https://t.co/TM3BTOiSoI",
+        "username": "nullnull_syntax",
+        "verified": false
+      }
+    ]
+  }
+}

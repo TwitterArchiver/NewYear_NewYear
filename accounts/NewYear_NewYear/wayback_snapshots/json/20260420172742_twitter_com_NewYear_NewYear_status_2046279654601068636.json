@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2042846037233274915",
+    "created_at": "2026-04-20T17:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T18:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046279654601068636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1996194862501396480",
+          "start": 0,
+          "username": "rcamo8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046279654601068636",
+    "in_reply_to_user_id": "1996194862501396480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042846037233274915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rcamo8 萌w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042846017763315712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmloTOakAAhqrZ.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2042846037233274915",
+        "created_at": "2026-04-20T17:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T18:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046279654601068636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1996194862501396480",
+              "start": 0,
+              "username": "rcamo8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046279654601068636",
+        "in_reply_to_user_id": "1996194862501396480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042846037233274915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rcamo8 萌w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042846017763315712"
+          ]
+        },
+        "author_id": "1996194862501396480",
+        "conversation_id": "2042846037233274915",
+        "created_at": "2026-04-11T06:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042846037233274915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HO9ScSoyfr",
+              "end": 23,
+              "expanded_url": "https://x.com/rcamo8/status/2042846037233274915/photo/1",
+              "media_key": "3_2042846017763315712",
+              "start": 0,
+              "url": "https://t.co/HO9ScSoyfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042846037233274915",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HO9ScSoyfr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 210,
+          "like_count": 2900,
+          "listed_count": 1,
+          "media_count": 649,
+          "tweet_count": 2900
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T12:28:56.000Z",
+        "description": "谢谢你喜欢我！欢迎宝宝互fo互转 没回复就是在上课哦 欢迎宝贝来入🚪^ω^ 出大腿袜 要的话私信喵 小号@yuuiwhhi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "yuuiwhhi"
+              }
+            ]
+          }
+        },
+        "id": "1996194862501396480",
+        "name": "auio",
+        "pinned_tweet_id": "2044231559927214325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044284986132750336/a5dUlwdL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 65,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 121
+        },
+        "username": "rcamo8",
+        "verified": false
+      }
+    ]
+  }
+}

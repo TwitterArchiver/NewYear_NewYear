@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2051693516066259257",
+    "created_at": "2026-05-05T16:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T17:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051693516066259257"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051693516066259257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特别讨厌那种，活在自己的世界的人\n不是说不允许这种人存在，只是说既然这种人活在自己的世界里，为什么要接触我\n这种人接触别人的时候总是会让别人去做符合他们的想法的事情，特别傲慢\n\n只是躺在床上突然想到这个东西，不是在说推友们啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2051693516066259257",
+        "created_at": "2026-05-05T16:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051693516066259257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051693516066259257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别讨厌那种，活在自己的世界的人\n不是说不允许这种人存在，只是说既然这种人活在自己的世界里，为什么要接触我\n这种人接触别人的时候总是会让别人去做符合他们的想法的事情，特别傲慢\n\n只是躺在床上突然想到这个东西，不是在说推友们啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 266,
+          "like_count": 4021,
+          "listed_count": 1,
+          "media_count": 718,
+          "tweet_count": 3575
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

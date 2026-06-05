@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947718532516745219",
+        "3_1947718541018533888",
+        "3_1947718549071663104"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1947718564519055465",
+    "created_at": "2025-07-22T18:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T19:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947718564519055465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hZOWpuu4St",
+          "end": 111,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1947718564519055465/photo/1",
+          "media_key": "3_1947718532516745219",
+          "start": 88,
+          "url": "https://t.co/hZOWpuu4St"
+        },
+        {
+          "display_url": "pic.x.com/hZOWpuu4St",
+          "end": 111,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1947718564519055465/photo/1",
+          "media_key": "3_1947718541018533888",
+          "start": 88,
+          "url": "https://t.co/hZOWpuu4St"
+        },
+        {
+          "display_url": "pic.x.com/hZOWpuu4St",
+          "end": 111,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1947718564519055465/photo/1",
+          "media_key": "3_1947718549071663104",
+          "start": 88,
+          "url": "https://t.co/hZOWpuu4St"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947718564519055465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 13,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前几天第一次和女友做了\n后面每天都有做一两次\n然后女友每天在床上动不动就用虚空屌草我，我就配合着叫，学着她说我那样说她\n她也学着我说她那样说我\n\n现在已经变成发消息来草我了👿 https://t.co/hZOWpuu4St"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 734,
+        "media_key": "3_1947718532516745219",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwevr5UbEAM9yG_.jpg",
+        "width": 901
+      },
+      {
+        "height": 517,
+        "media_key": "3_1947718541018533888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwevsY_aEAAM42A.jpg",
+        "width": 1023
+      },
+      {
+        "height": 852,
+        "media_key": "3_1947718549071663104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwevs2_bEAA01S8.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947718532516745219",
+            "3_1947718541018533888",
+            "3_1947718549071663104"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947718564519055465",
+        "created_at": "2025-07-22T18:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T19:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947718564519055465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZOWpuu4St",
+              "end": 111,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1947718564519055465/photo/1",
+              "media_key": "3_1947718532516745219",
+              "start": 88,
+              "url": "https://t.co/hZOWpuu4St"
+            },
+            {
+              "display_url": "pic.x.com/hZOWpuu4St",
+              "end": 111,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1947718564519055465/photo/1",
+              "media_key": "3_1947718541018533888",
+              "start": 88,
+              "url": "https://t.co/hZOWpuu4St"
+            },
+            {
+              "display_url": "pic.x.com/hZOWpuu4St",
+              "end": 111,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1947718564519055465/photo/1",
+              "media_key": "3_1947718549071663104",
+              "start": 88,
+              "url": "https://t.co/hZOWpuu4St"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947718564519055465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前几天第一次和女友做了\n后面每天都有做一两次\n然后女友每天在床上动不动就用虚空屌草我，我就配合着叫，学着她说我那样说她\n她也学着我说她那样说我\n\n现在已经变成发消息来草我了👿 https://t.co/hZOWpuu4St"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 142,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 422
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

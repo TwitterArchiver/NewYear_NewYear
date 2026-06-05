@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2024156917619474739",
+    "created_at": "2026-02-18T16:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024156917619474739"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024156917619474739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然意识到，是经济下行吗？\n反正我今年只收到过我的爷爷和另一位老人的红包，两百块，然后就是父母给的红包，用来存到银行的\n虽然历来红包多少与我无关，但是就没有收到红包还是很奇怪\n因为我长大了吗？但是我妹妹也没有，就感觉有一点点的恐慌，感觉大家都没什么钱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2024156917619474739",
+        "created_at": "2026-02-18T16:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024156917619474739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024156917619474739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然意识到，是经济下行吗？\n反正我今年只收到过我的爷爷和另一位老人的红包，两百块，然后就是父母给的红包，用来存到银行的\n虽然历来红包多少与我无关，但是就没有收到红包还是很奇怪\n因为我长大了吗？但是我妹妹也没有，就感觉有一点点的恐慌，感觉大家都没什么钱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 183,
+          "like_count": 1587,
+          "listed_count": 1,
+          "media_count": 505,
+          "tweet_count": 2113
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

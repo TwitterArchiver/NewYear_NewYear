@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047286155377541120"
+      ],
+      "media_source_tweet_id": [
+        "2047286973325570101"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2047297352055361881",
+    "created_at": "2026-04-23T12:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047297352055361881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491369269833388032",
+          "start": 3,
+          "username": "koyatofu3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aFcqVe8iDo",
+          "end": 45,
+          "expanded_url": "https://x.com/koyatofu3/status/2047286973325570101/photo/1",
+          "media_key": "3_2047286155377541120",
+          "start": 22,
+          "url": "https://t.co/aFcqVe8iDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047297352055361881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 229
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047286973325570101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koyatofu3: 紐なしビキニ https://t.co/aFcqVe8iDo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2047297352055361881].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2047297352055361881",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2047297352055361881"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2047286155377541120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlr6UzagAA0y4z.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047286155377541120"
+          ]
+        },
+        "author_id": "1491369269833388032",
+        "conversation_id": "2047286973325570101",
+        "created_at": "2026-04-23T12:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047286973325570101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aFcqVe8iDo",
+              "end": 30,
+              "expanded_url": "https://x.com/koyatofu3/status/2047286973325570101/photo/1",
+              "media_key": "3_2047286155377541120",
+              "start": 7,
+              "url": "https://t.co/aFcqVe8iDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047286973325570101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 460,
+          "impression_count": 14278,
+          "like_count": 2194,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 229
+        },
+        "reply_settings": "everyone",
+        "text": "紐なしビキニ https://t.co/aFcqVe8iDo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2046548745811382505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 221,
+          "like_count": 3256,
+          "listed_count": 1,
+          "media_count": 668,
+          "tweet_count": 3118
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T11:15:04.000Z",
+        "description": "荒野を駆ける一丁の豆腐（メンタルは絹ごし）。\nコミュ障につきレスポンス悪いですがご寛恕を。\n未成年の方のフォローはご遠慮ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/78992108",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/78992108",
+                "start": 0,
+                "url": "https://t.co/B0hpFa2tz8"
+              }
+            ]
+          }
+        },
+        "id": "1491369269833388032",
+        "location": "最下層",
+        "name": "荒野豆腐",
+        "pinned_tweet_id": "1573281606449926144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573270857212104705/6KFrNdTz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158473,
+          "following_count": 110,
+          "like_count": 3600,
+          "listed_count": 808,
+          "media_count": 450,
+          "tweet_count": 1514
+        },
+        "url": "https://t.co/B0hpFa2tz8",
+        "username": "koyatofu3",
+        "verified": false
+      }
+    ]
+  }
+}

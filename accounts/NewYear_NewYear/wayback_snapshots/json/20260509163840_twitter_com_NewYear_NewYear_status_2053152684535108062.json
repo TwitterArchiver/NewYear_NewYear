@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2052726745112162407",
+    "created_at": "2026-05-09T16:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053152684535108062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1892971043280814080",
+          "start": 0,
+          "username": "sawatama_arijit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053152684535108062",
+    "in_reply_to_user_id": "1892971043280814080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053150783059976284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sawatama_arijit 先摸摸你🥺\n幸福和风都在记忆里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2052726745112162407",
+        "created_at": "2026-05-09T16:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053152684535108062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892971043280814080",
+              "start": 0,
+              "username": "sawatama_arijit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053152684535108062",
+        "in_reply_to_user_id": "1892971043280814080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053150783059976284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sawatama_arijit 先摸摸你🥺\n幸福和风都在记忆里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892971043280814080",
+        "conversation_id": "2052726745112162407",
+        "created_at": "2026-05-09T16:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053150783059976284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053150783059976284",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052726745112162407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 去分手之前每次去我对象家都陪她在楼顶吹风，她会跟树懒一样挂在我身上。好像也是33层，也许是32层。她家是复式楼，所有的墙都被摆满的柜子占据了，感觉好像魔法工房。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 295,
+          "like_count": 4838,
+          "listed_count": 1,
+          "media_count": 731,
+          "tweet_count": 3815
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T16:15:19.000Z",
+        "description": "头像是诗音：“要是陪我睡的话就原谅你”。\n是诗人（存疑）。保持中立。\n一般乡下中学经历",
+        "id": "1892971043280814080",
+        "location": "联合王国,谢菲尔德",
+        "name": "空气动力少女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050831475277549568/cJXzqkND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 47,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 80
+        },
+        "username": "sawatama_arijit",
+        "verified": false
+      }
+    ]
+  }
+}

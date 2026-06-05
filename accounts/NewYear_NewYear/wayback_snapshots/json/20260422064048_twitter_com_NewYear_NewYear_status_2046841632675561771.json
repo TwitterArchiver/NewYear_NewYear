@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2046841632675561771",
+    "created_at": "2026-04-22T06:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T07:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046841632675561771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1117364044753772544",
+          "start": 3,
+          "username": "Greencitypop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046841632675561771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046523507379728754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Greencitypop: 我很感激这个推特，因为我在这个推特认识了现在已经是好几年现实生活朋友的好朋友们，而且Ta们的人生各不相同的前途光明，有在国外念了几年博士之后打算回国当青椒的，有刚录上博士的，有跑去西班牙学调酒的，我衷心为Ta们开心。借着朋友们我看到了人生到底…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2046841632675561771",
+        "created_at": "2026-04-22T06:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046841632675561771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1117364044753772544",
+              "start": 3,
+              "username": "Greencitypop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046841632675561771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046523507379728754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Greencitypop: 我很感激这个推特，因为我在这个推特认识了现在已经是好几年现实生活朋友的好朋友们，而且Ta们的人生各不相同的前途光明，有在国外念了几年博士之后打算回国当青椒的，有刚录上博士的，有跑去西班牙学调酒的，我衷心为Ta们开心。借着朋友们我看到了人生到底…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1117364044753772544",
+        "conversation_id": "2046523507379728754",
+        "created_at": "2026-04-21T09:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046523507379728754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046523507379728754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 25324,
+          "like_count": 513,
+          "quote_count": 9,
+          "reply_count": 39,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我很感激这个推特，因为我在这个推特认识了现在已经是好几年现实生活朋友的好朋友们，而且Ta们的人生各不相同的前途光明，有在国外念了几年博士之后打算回国当青椒的，有刚录上博士的，有跑去西班牙学调酒的，我衷心为Ta们开心。借着朋友们我看到了人生到底可以有多么广阔。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2046548745811382505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 219,
+          "like_count": 3160,
+          "listed_count": 1,
+          "media_count": 661,
+          "tweet_count": 3045
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-14T09:48:42.000Z",
+        "description": "",
+        "id": "1117364044753772544",
+        "location": "kepler-442b",
+        "name": "🟢",
+        "pinned_tweet_id": "1991802253616042166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021271957971533830/IMrsWFC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5478,
+          "following_count": 325,
+          "like_count": 13704,
+          "listed_count": 20,
+          "media_count": 1917,
+          "tweet_count": 12468
+        },
+        "username": "Greencitypop",
+        "verified": false
+      }
+    ]
+  }
+}

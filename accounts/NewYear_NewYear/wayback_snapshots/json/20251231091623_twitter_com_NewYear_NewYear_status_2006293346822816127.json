@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006293316355407872"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2006293346822816127",
+    "created_at": "2025-12-31T09:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T10:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006293346822816127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/newyear53907",
+          "end": 26,
+          "expanded_url": "https://ngl.link/newyear53907",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2005600477065646080/dO7YhFTy?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2005600477065646080/dO7YhFTy?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 3,
+          "status": 200,
+          "title": "@Newyear: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/newyear53907",
+          "url": "https://t.co/fPt7ghoXQ5"
+        },
+        {
+          "display_url": "pic.x.com/0SzDP6aVCb",
+          "end": 50,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2006293346822816127/photo/1",
+          "media_key": "3_2006293316355407872",
+          "start": 27,
+          "url": "https://t.co/0SzDP6aVCb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006293346822816127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不给\nhttps://t.co/fPt7ghoXQ5 https://t.co/0SzDP6aVCb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2006293316355407872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fJJDSawAAqpeO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006293316355407872"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2006293346822816127",
+        "created_at": "2025-12-31T09:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T10:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006293346822816127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/newyear53907",
+              "end": 26,
+              "expanded_url": "https://ngl.link/newyear53907",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2005600477065646080/dO7YhFTy?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2005600477065646080/dO7YhFTy?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 3,
+              "status": 200,
+              "title": "@Newyear: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/newyear53907",
+              "url": "https://t.co/fPt7ghoXQ5"
+            },
+            {
+              "display_url": "pic.x.com/0SzDP6aVCb",
+              "end": 50,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2006293346822816127/photo/1",
+              "media_key": "3_2006293316355407872",
+              "start": 27,
+              "url": "https://t.co/0SzDP6aVCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006293346822816127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不给\nhttps://t.co/fPt7ghoXQ5 https://t.co/0SzDP6aVCb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 175,
+          "like_count": 1252,
+          "listed_count": 1,
+          "media_count": 436,
+          "tweet_count": 1831
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

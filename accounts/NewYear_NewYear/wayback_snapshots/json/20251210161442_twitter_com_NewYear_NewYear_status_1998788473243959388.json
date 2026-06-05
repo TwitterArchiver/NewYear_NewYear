@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998587152767307776"
+      ],
+      "media_source_tweet_id": [
+        "1998587160346431993"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1998788473243959388",
+    "created_at": "2025-12-10T16:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T17:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998788473243959388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4273179211",
+          "start": 3,
+          "username": "gurispega"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6WLBTPqpqh",
+          "end": 38,
+          "expanded_url": "https://x.com/gurispega/status/1998587160346431993/photo/1",
+          "media_key": "3_1998587152767307776",
+          "start": 15,
+          "url": "https://t.co/6WLBTPqpqh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998788473243959388",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3731
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998587160346431993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gurispega: https://t.co/6WLBTPqpqh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1456,
+        "media_key": "3_1998587152767307776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7xobS1a0AA-Tnu.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998587152767307776"
+          ],
+          "media_source_tweet_id": [
+            "1998587160346431993"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1998788473243959388",
+        "created_at": "2025-12-10T16:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T17:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998788473243959388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4273179211",
+              "start": 3,
+              "username": "gurispega"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6WLBTPqpqh",
+              "end": 38,
+              "expanded_url": "https://x.com/gurispega/status/1998587160346431993/photo/1",
+              "media_key": "3_1998587152767307776",
+              "start": 15,
+              "url": "https://t.co/6WLBTPqpqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998788473243959388",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3731
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998587160346431993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gurispega: https://t.co/6WLBTPqpqh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998587152767307776"
+          ]
+        },
+        "author_id": "4273179211",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1998587160346431993",
+        "created_at": "2025-12-10T02:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T03:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998587160346431993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6WLBTPqpqh",
+              "end": 23,
+              "expanded_url": "https://x.com/gurispega/status/1998587160346431993/photo/1",
+              "media_key": "3_1998587152767307776",
+              "start": 0,
+              "url": "https://t.co/6WLBTPqpqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998587160346431993",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1065,
+          "impression_count": 326389,
+          "like_count": 33176,
+          "quote_count": 140,
+          "reply_count": 64,
+          "retweet_count": 3731
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6WLBTPqpqh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 169,
+          "like_count": 1129,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 1731
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-18T00:23:36.000Z",
+        "description": "猫モチーフのAIイラストを作成してます。 AI猫術師🐈🪽 愛猫家🐈‍⬛ ただの猫好き🐈 #にゃんこアート #猫好きさんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 44,
+                "tag": "にゃんこアート"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "tag": "猫好きさんと繋がりたい"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gurispega?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/gurispega?igsh=cXVzazE1N283Mm9r&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jEPKHiB5Me"
+              }
+            ]
+          }
+        },
+        "id": "4273179211",
+        "name": "グリズペガ",
+        "pinned_tweet_id": "1896852722454052894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988322246809841665/pxvvMtGf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10271,
+          "following_count": 2959,
+          "like_count": 12000,
+          "listed_count": 52,
+          "media_count": 3041,
+          "tweet_count": 9790
+        },
+        "url": "https://t.co/jEPKHiB5Me",
+        "username": "gurispega",
+        "verified": true
+      }
+    ]
+  }
+}

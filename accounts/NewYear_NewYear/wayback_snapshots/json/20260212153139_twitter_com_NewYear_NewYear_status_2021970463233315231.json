@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2021897911471333384",
+    "created_at": "2026-02-12T15:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T16:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021970463233315231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1897597646162079744",
+          "start": 0,
+          "username": "foooxwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021970463233315231",
+    "in_reply_to_user_id": "1897597646162079744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021897911471333384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foooxwww 好萌…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4930,
+        "height": 720,
+        "media_key": "7_2021897890923520000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2021897890923520000/pu/img/qucCr86fS1wHIT-w.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021897890923520000/pu/vid/avc1/480x270/meuDGJqSAECheCIy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021897890923520000/pu/vid/avc1/640x360/sZMsv4kbeNWC8nF9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021897890923520000/pu/vid/avc1/1280x720/Oxmagw0q4Gj2f6g0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2021897890923520000/pu/pl/6xQNiWApjvYWnSxw.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2021897911471333384",
+        "created_at": "2026-02-12T15:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021970463233315231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897597646162079744",
+              "start": 0,
+              "username": "foooxwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021970463233315231",
+        "in_reply_to_user_id": "1897597646162079744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021897911471333384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foooxwww 好萌…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2021897890923520000"
+          ]
+        },
+        "author_id": "1897597646162079744",
+        "conversation_id": "2021897911471333384",
+        "created_at": "2026-02-12T10:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021897911471333384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K5IIGrI5ev",
+              "end": 31,
+              "expanded_url": "https://x.com/foooxwww/status/2021897911471333384/video/1",
+              "media_key": "7_2021897890923520000",
+              "start": 8,
+              "url": "https://t.co/K5IIGrI5ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021897911471333384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一件新帽衫（） https://t.co/K5IIGrI5ev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 183,
+          "like_count": 1537,
+          "listed_count": 1,
+          "media_count": 497,
+          "tweet_count": 2079
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T10:38:38.000Z",
+        "description": "🚪10块钱，成都，欢迎面基一起玩，接纯绿线下陪玩😋。私聊不了就在我置顶下评论。想要互fo请私聊我哦。我只有85斤，我的目标是至少长胖到90斤😿😿。匿名问答😋：https://t.co/DZBWxF5NS0。（快来找我匿名问答🥺）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/foooxwww",
+                "end": 102,
+                "expanded_url": "https://ngl.link/foooxwww",
+                "start": 79,
+                "url": "https://t.co/DZBWxF5NS0"
+              }
+            ]
+          }
+        },
+        "id": "1897597646162079744",
+        "location": "布吉岛",
+        "name": "🧀小狐狸🦊🎃⛄❄️",
+        "pinned_tweet_id": "1970307554015080759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998285392169308160/q8wM6Nz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 164,
+          "like_count": 3079,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 1215
+        },
+        "username": "foooxwww",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2043570155503095808"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2043570330904793273",
+    "created_at": "2026-04-13T06:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043570330904793273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ulK9nB1DiP",
+          "end": 57,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2043570330904793273/video/1",
+          "media_key": "13_2043570155503095808",
+          "start": 34,
+          "url": "https://t.co/ulK9nB1DiP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043570330904793273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的网站还有多久才可以备案好TAT，我闲着没事给这个猫加了很多功能 https://t.co/ulK9nB1DiP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26166,
+        "height": 1004,
+        "media_key": "13_2043570155503095808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043570155503095808/img/cJ66ejF2l_URTja2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043570155503095808/vid/avc1/320x336/AMnJITBsHEN18OGS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043570155503095808/vid/avc1/480x504/7vB8U1-h4MtE9O3I.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043570155503095808/vid/avc1/720x756/oeKkmPD_9zXnJB6E.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043570155503095808/pl/Dn1AsmzJB5wwyDfl.m3u8?tag=14"
+          }
+        ],
+        "width": 954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043570155503095808"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2043570330904793273",
+        "created_at": "2026-04-13T06:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043570330904793273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulK9nB1DiP",
+              "end": 57,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2043570330904793273/video/1",
+              "media_key": "13_2043570155503095808",
+              "start": 34,
+              "url": "https://t.co/ulK9nB1DiP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043570330904793273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的网站还有多久才可以备案好TAT，我闲着没事给这个猫加了很多功能 https://t.co/ulK9nB1DiP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 202,
+          "like_count": 2534,
+          "listed_count": 1,
+          "media_count": 617,
+          "tweet_count": 2711
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

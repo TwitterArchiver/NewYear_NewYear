@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1918194198878273577",
+    "created_at": "2025-05-02T15:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T16:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918332097787470103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918332097787470103",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918194198878273577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 我不想要孩子也不想做爱😔\n女友说她也不想要，也不想结婚\n我说好呀，那就不结\n结了婚一堆事情一堆限制，有了孩子更是一堆事情一堆限制。很多男的结婚，更多是“男主外女主内”的思想，潜意识把自己当统治者了(应该是吧)毕竟这样子，做那些琐事的不是男的，生孩带孩也不是男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1918194198878273577",
+        "created_at": "2025-05-02T15:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T16:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918332097787470103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918332097787470103",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918194198878273577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 我不想要孩子也不想做爱😔\n女友说她也不想要，也不想结婚\n我说好呀，那就不结\n结了婚一堆事情一堆限制，有了孩子更是一堆事情一堆限制。很多男的结婚，更多是“男主外女主内”的思想，潜意识把自己当统治者了(应该是吧)毕竟这样子，做那些琐事的不是男的，生孩带孩也不是男的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1918194198878273577",
+        "created_at": "2025-05-02T06:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T07:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918194198878273577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918194198878273577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 955,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉很多时候男性想要孩子的意向大过女性\n但事实证明父亲缺席的家庭远多于母亲缺席的家庭\n要是我有吉尔，我也能轻轻松松说出\n“我喜欢还孩子我想要生孩子”\n这种事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850587758617890816/1iNTpnM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 137,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 172
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🪆我是爱礼请关注我哇/是碎碎念推和画画推/非常喜欢猫咪丨🦜嘤鹉：@SENDOH214丨 自用梯子：https://t.co/yyQ5wxPP3A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 72,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 49,
+                "url": "https://t.co/yyQ5wxPP3A"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1915444559724896676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41674,
+          "following_count": 1050,
+          "like_count": 22940,
+          "listed_count": 46,
+          "media_count": 2175,
+          "tweet_count": 26903
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

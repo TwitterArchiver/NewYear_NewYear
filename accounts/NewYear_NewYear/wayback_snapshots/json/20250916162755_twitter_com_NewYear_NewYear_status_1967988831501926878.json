@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1967988831501926878",
+    "created_at": "2025-09-16T16:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T17:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967988831501926878"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1967988831501926878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前几天讲了一个小时网课和做了一条背带，赚了一百五十多\n然后交了白条剩下的欠款一百二还有四十几，报考四级又花三十五\n现在全身家当只有十块不到\n我还想着这周生日买一个小蛋糕一个人去酒店吃😭😭😭做不到了\n我下个月开始每天攒两块钱，明年有七百多的生日基金，我会把今年的生日补回去的！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1967988831501926878",
+        "created_at": "2025-09-16T16:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T17:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967988831501926878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967988831501926878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前几天讲了一个小时网课和做了一条背带，赚了一百五十多\n然后交了白条剩下的欠款一百二还有四十几，报考四级又花三十五\n现在全身家当只有十块不到\n我还想着这周生日买一个小蛋糕一个人去酒店吃😭😭😭做不到了\n我下个月开始每天攒两块钱，明年有七百多的生日基金，我会把今年的生日补回去的！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 154,
+          "like_count": 260,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 960
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

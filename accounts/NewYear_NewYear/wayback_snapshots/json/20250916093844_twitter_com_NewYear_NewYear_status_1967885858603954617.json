@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1967884109805654232",
+    "created_at": "2025-09-16T09:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T10:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967885858603954617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877920276316585984",
+          "start": 0,
+          "username": "CelestialSayuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967885858603954617",
+    "in_reply_to_user_id": "1877920276316585984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967885712478663042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CelestialSayuki 好吧w原来是🍎的屏幕👉🏻👈🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1967884109805654232",
+        "created_at": "2025-09-16T09:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T10:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967885858603954617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877920276316585984",
+              "start": 0,
+              "username": "CelestialSayuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967885858603954617",
+        "in_reply_to_user_id": "1877920276316585984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967885712478663042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CelestialSayuki 好吧w原来是🍎的屏幕👉🏻👈🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877920276316585984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1967884109805654232",
+        "created_at": "2025-09-16T09:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T10:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967885712478663042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967885712478663042",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967884590036685110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 并不😭\n自己的话没有资源能拿到200元的iPhone 12 Pro原装总成"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 154,
+          "like_count": 246,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 945
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T03:27:49.000Z",
+        "description": "19岁 | 摆烂大学生 | UESTC | Arcaea | https://t.co/VMTivG91k7 维护者 | 想找对象 | 发些日常 | 想和大家做朋友❤️ | 无🍥不术mtf (心理上可能是)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "infodrop.cn",
+                "end": 54,
+                "expanded_url": "http://infodrop.cn",
+                "start": 31,
+                "url": "https://t.co/VMTivG91k7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "infodrop.cn",
+                "end": 23,
+                "expanded_url": "http://infodrop.cn",
+                "start": 0,
+                "url": "https://t.co/VMTivG91k7"
+              }
+            ]
+          }
+        },
+        "id": "1877920276316585984",
+        "location": " Celestial Ethereal Labs",
+        "name": "Celestial紗雪",
+        "pinned_tweet_id": "1967835108939010229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879836377480900608/zKNfkNH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 37,
+          "like_count": 147,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/VMTivG91k7",
+        "username": "CelestialSayuki",
+        "verified": false
+      }
+    ]
+  }
+}

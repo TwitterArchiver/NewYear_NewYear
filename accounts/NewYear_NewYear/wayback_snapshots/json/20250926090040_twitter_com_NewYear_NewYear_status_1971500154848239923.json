@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1971472690960793850",
+    "created_at": "2025-09-26T09:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T10:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971500154848239923"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "好美🥺",
+          "probability": 0.6304,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1677530479782768641",
+          "start": 0,
+          "username": "bai57248"
+        },
+        {
+          "end": 19,
+          "id": "1224577240324657152",
+          "start": 10,
+          "username": "quasoawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971500154848239923",
+    "in_reply_to_user_id": "1677530479782768641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971472690960793850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai57248 @quasoawa 好美🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1971472642067906560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1wT7DLbwAAwpa2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1971472690960793850",
+        "created_at": "2025-09-26T09:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T10:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971500154848239923"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "好美🥺",
+              "probability": 0.6304,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1677530479782768641",
+              "start": 0,
+              "username": "bai57248"
+            },
+            {
+              "end": 19,
+              "id": "1224577240324657152",
+              "start": 10,
+              "username": "quasoawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971500154848239923",
+        "in_reply_to_user_id": "1677530479782768641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971472690960793850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai57248 @quasoawa 好美🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971472642067906560"
+          ]
+        },
+        "author_id": "1677530479782768641",
+        "conversation_id": "1971472690960793850",
+        "created_at": "2025-09-26T07:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T08:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971472690960793850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1224577240324657152",
+              "start": 0,
+              "username": "quasoawa"
+            },
+            {
+              "end": 27,
+              "id": "1850587533924876288",
+              "start": 11,
+              "username": "NewYear_NewYear"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WebLff6v6k",
+              "end": 51,
+              "expanded_url": "https://x.com/bai57248/status/1971472690960793850/photo/1",
+              "media_key": "3_1971472642067906560",
+              "start": 28,
+              "url": "https://t.co/WebLff6v6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971472690960793850",
+        "in_reply_to_user_id": "1224577240324657152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@quasoawa \n@NewYear_NewYear https://t.co/WebLff6v6k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 152,
+          "like_count": 385,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 1131
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T04:10:14.000Z",
+        "description": "泉//类日记，包含无意义喊话",
+        "id": "1677530479782768641",
+        "name": "丸山添白水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965408530112065536/-9vMzJGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5891,
+          "following_count": 788,
+          "like_count": 42721,
+          "listed_count": 9,
+          "media_count": 1727,
+          "tweet_count": 10567
+        },
+        "username": "bai57248",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-04T06:15:51.000Z",
+        "description": "中国人，会点日语和俄语（包括乌克兰语）母语是中文和韩语（朝鲜语），友好交流，有事欢迎私信，你关注我一般我都会回关！如果没有可能是我没看到消息被老马顶了，可以私信我回！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Quasoawa",
+                "end": 23,
+                "expanded_url": "http://t.me/Quasoawa",
+                "start": 0,
+                "url": "https://t.co/K2iCzEFVW4"
+              }
+            ]
+          }
+        },
+        "id": "1224577240324657152",
+        "location": "Одесский",
+        "name": "Quaso",
+        "pinned_tweet_id": "1968723215397581114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963258707946680320/STAIlb4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 493,
+          "like_count": 13706,
+          "listed_count": 1,
+          "media_count": 703,
+          "tweet_count": 4408
+        },
+        "url": "https://t.co/K2iCzEFVW4",
+        "username": "quasoawa",
+        "verified": false
+      }
+    ]
+  }
+}

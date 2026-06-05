@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1966773697496190984",
+    "created_at": "2025-09-13T08:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T09:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966782412719092151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1806538395612819457",
+          "start": 0,
+          "username": "TPNHET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966782412719092151",
+    "in_reply_to_user_id": "1806538395612819457",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966773697496190984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TPNHET 好看🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1418,
+        "media_key": "3_1966773691657637888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0tiQIzWUAAQOQ4.jpg",
+        "width": 969
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1966773697496190984",
+        "created_at": "2025-09-13T08:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T09:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966782412719092151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1806538395612819457",
+              "start": 0,
+              "username": "TPNHET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966782412719092151",
+        "in_reply_to_user_id": "1806538395612819457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966773697496190984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TPNHET 好看🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966773691657637888"
+          ]
+        },
+        "author_id": "1806538395612819457",
+        "conversation_id": "1966773697496190984",
+        "created_at": "2025-09-13T07:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T08:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966773697496190984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3lqKJ70qcu",
+              "end": 31,
+              "expanded_url": "https://x.com/TPNHET/status/1966773697496190984/photo/1",
+              "media_key": "3_1966773691657637888",
+              "start": 8,
+              "url": "https://t.co/3lqKJ70qcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966773697496190984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這樣會好一點！ https://t.co/3lqKJ70qcu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号",
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 150,
+          "like_count": 168,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 837
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T04:02:11.000Z",
+        "description": "請叫我小順⸝⸝⸝˘◡˘♡",
+        "id": "1806538395612819457",
+        "name": "小順",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964354362655809536/Hog-wcrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 18,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 69
+        },
+        "username": "TPNHET",
+        "verified": false
+      }
+    ]
+  }
+}

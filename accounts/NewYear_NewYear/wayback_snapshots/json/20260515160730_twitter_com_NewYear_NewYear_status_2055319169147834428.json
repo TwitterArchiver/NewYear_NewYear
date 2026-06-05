@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2055218400109216056",
+    "created_at": "2026-05-15T16:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055319169147834428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049054456659189760",
+          "start": 0,
+          "username": "foamveil17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055319169147834428",
+    "in_reply_to_user_id": "2049054456659189760",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055319007868362914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foamveil17 ≡ω≡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2055218400109216056",
+        "created_at": "2026-05-15T16:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055319169147834428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049054456659189760",
+              "start": 0,
+              "username": "foamveil17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055319169147834428",
+        "in_reply_to_user_id": "2049054456659189760",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055319007868362914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foamveil17 ≡ω≡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049054456659189760",
+        "conversation_id": "2055218400109216056",
+        "created_at": "2026-05-15T16:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055319007868362914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055319007868362914",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055318965208105168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 359,
+          "like_count": 6405,
+          "listed_count": 1,
+          "media_count": 768,
+          "tweet_count": 4313
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T09:15:37.000Z",
+        "description": "无🚪不私加/只想来放点其他地方没办法放的照片和念头/双相/ED/暴露狂/sub/爱吃辣/痛恨上班/露脸照为高P现实中不长这张脸/泛性恋平时爱看女生/只回复关注我的人",
+        "id": "2049054456659189760",
+        "name": "foamveil",
+        "pinned_tweet_id": "2055243939477872927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054184818737557504/c7hIEI2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 56,
+          "like_count": 27,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 846
+        },
+        "username": "foamveil17",
+        "verified": false
+      }
+    ]
+  }
+}

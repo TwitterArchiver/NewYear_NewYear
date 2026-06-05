@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1930227582970277971",
+    "created_at": "2025-06-04T16:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T17:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930293738171183505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1349745600334503937",
+          "start": 0,
+          "username": "LOOYI10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930293738171183505",
+    "in_reply_to_user_id": "1349745600334503937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930280169903927733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LOOYI10 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1930227582970277971",
+        "created_at": "2025-06-04T16:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T17:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930293738171183505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1349745600334503937",
+              "start": 0,
+              "username": "LOOYI10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930293738171183505",
+        "in_reply_to_user_id": "1349745600334503937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930280169903927733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LOOYI10 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1349745600334503937",
+        "conversation_id": "1930227582970277971",
+        "created_at": "2025-06-04T15:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T16:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930280169903927733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930280169903927733",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930227582970277971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 白天老子天下第一半夜生而为人对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 141,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 299
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-14T15:50:26.000Z",
+        "description": "莫得感情的色图搜集机器",
+        "id": "1349745600334503937",
+        "name": "LOOYI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1374969444921839620/Wr6KrJiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 3541,
+          "like_count": 45,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 225
+        },
+        "username": "LOOYI10",
+        "verified": false
+      }
+    ]
+  }
+}

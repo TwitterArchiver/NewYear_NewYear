@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2021539856103637069",
+    "created_at": "2026-02-12T04:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T05:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021809218563846583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910147922873966592",
+          "start": 0,
+          "username": "TGh005762340547"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021809218563846583",
+    "in_reply_to_user_id": "1910147922873966592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021683363741151710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TGh005762340547 完了TAT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2021539856103637069",
+        "created_at": "2026-02-12T04:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T05:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021809218563846583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910147922873966592",
+              "start": 0,
+              "username": "TGh005762340547"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021809218563846583",
+        "in_reply_to_user_id": "1910147922873966592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021683363741151710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TGh005762340547 完了TAT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910147922873966592",
+        "conversation_id": "2021539856103637069",
+        "created_at": "2026-02-11T20:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T21:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021683363741151710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021683363741151710",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021539856103637069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 完了，一世英名"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 183,
+          "like_count": 1530,
+          "listed_count": 1,
+          "media_count": 497,
+          "tweet_count": 2070
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T01:50:19.000Z",
+        "description": "",
+        "id": "1910147922873966592",
+        "name": "U・ᴥ・U",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954249271353520128/j62Sh57J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 205,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 64
+        },
+        "username": "TGh005762340547",
+        "verified": false
+      }
+    ]
+  }
+}

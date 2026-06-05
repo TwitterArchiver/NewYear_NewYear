@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1972398177459556797",
+    "created_at": "2025-09-29T03:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T04:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972507200997535897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1657345897049751553",
+          "start": 0,
+          "username": "givemeahug555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972507200997535897",
+    "in_reply_to_user_id": "1657345897049751553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972398177459556797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@givemeahug555 吃！！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972398171608502272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G19dr9Za0AAiRKp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1972398177459556797",
+        "created_at": "2025-09-29T03:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T04:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972507200997535897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1657345897049751553",
+              "start": 0,
+              "username": "givemeahug555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972507200997535897",
+        "in_reply_to_user_id": "1657345897049751553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972398177459556797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@givemeahug555 吃！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972398171608502272"
+          ]
+        },
+        "author_id": "1657345897049751553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1972398177459556797",
+        "created_at": "2025-09-28T20:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T21:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972398177459556797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZZgF9O1Xum",
+              "end": 23,
+              "expanded_url": "https://x.com/givemeahug555/status/1972398177459556797/photo/1",
+              "media_key": "3_1972398171608502272",
+              "start": 0,
+              "url": "https://t.co/ZZgF9O1Xum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972398177459556797",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZZgF9O1Xum"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 155,
+          "like_count": 419,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1166
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T11:24:03.000Z",
+        "description": "好宝宝我来抱抱🧟‍♀️",
+        "id": "1657345897049751553",
+        "location": "世界",
+        "name": "抱你",
+        "pinned_tweet_id": "1952655991914594713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657346355990519810/Mv3oDXsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 87,
+          "like_count": 32822,
+          "listed_count": 1,
+          "media_count": 686,
+          "tweet_count": 4386
+        },
+        "username": "givemeahug555",
+        "verified": false
+      }
+    ]
+  }
+}

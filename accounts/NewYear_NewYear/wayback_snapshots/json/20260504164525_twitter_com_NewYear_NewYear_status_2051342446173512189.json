@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2051342446173512189",
+    "created_at": "2026-05-04T16:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T17:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051342446173512189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1919917951186345984",
+          "start": 3,
+          "username": "byebye_wor1d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051342446173512189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051340874022572071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @byebye_wor1d: 我想互fo还有互动。有没有人。和我玩啊。帮个忙转发一下也可以。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2051342446173512189",
+        "created_at": "2026-05-04T16:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051342446173512189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919917951186345984",
+              "start": 3,
+              "username": "byebye_wor1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051342446173512189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051340874022572071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @byebye_wor1d: 我想互fo还有互动。有没有人。和我玩啊。帮个忙转发一下也可以。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919917951186345984",
+        "conversation_id": "2051340874022572071",
+        "created_at": "2026-05-04T16:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051340874022572071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051340874022572071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想互fo还有互动。有没有人。和我玩啊。帮个忙转发一下也可以。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 263,
+          "like_count": 3893,
+          "listed_count": 1,
+          "media_count": 714,
+          "tweet_count": 3493
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T00:52:23.000Z",
+        "description": "一辈子活在幻觉里其实是好事",
+        "id": "1919917951186345984",
+        "location": "蒋介石御用中医，可以找我咨询精神问题",
+        "name": "taphos*8964",
+        "pinned_tweet_id": "2043224327395680401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049185073799495681/cyonJN5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 62,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 61
+        },
+        "username": "byebye_wor1d",
+        "verified": false
+      }
+    ]
+  }
+}

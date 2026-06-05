@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1916560508209058167",
+    "created_at": "2025-04-28T16:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T17:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916898319085003127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646433542661115904",
+          "start": 0,
+          "username": "Kiraxiaoyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916898319085003127",
+    "in_reply_to_user_id": "1646433542661115904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916560508209058167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiraxiaoyao 社会关系好麻烦的，特别烦去维持 ，真的想去爆了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1916560508209058167",
+        "created_at": "2025-04-28T16:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T17:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916898319085003127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646433542661115904",
+              "start": 0,
+              "username": "Kiraxiaoyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916898319085003127",
+        "in_reply_to_user_id": "1646433542661115904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916560508209058167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiraxiaoyao 社会关系好麻烦的，特别烦去维持 ，真的想去爆了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646433542661115904",
+        "conversation_id": "1916560508209058167",
+        "created_at": "2025-04-27T18:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T19:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916560508209058167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916560508209058167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2174,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在大概是根本不在乎也根本没打算维持正常社会关系。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850587758617890816/1iNTpnM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 133,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 131
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T08:42:08.000Z",
+        "description": "^^",
+        "id": "1646433542661115904",
+        "location": "我的布偶叫小水  边牧叫小椰",
+        "name": "小予大王",
+        "pinned_tweet_id": "1916828098747679113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848436220306792448/SX5oednd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9442,
+          "following_count": 8,
+          "like_count": 2636,
+          "listed_count": 20,
+          "media_count": 251,
+          "tweet_count": 1662
+        },
+        "username": "Kiraxiaoyao",
+        "verified": false
+      }
+    ]
+  }
+}

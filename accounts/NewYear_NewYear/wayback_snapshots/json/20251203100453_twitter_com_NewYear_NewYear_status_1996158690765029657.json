@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996071426562953216"
+      ],
+      "media_source_tweet_id": [
+        "1996071443105546484"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1996158690765029657",
+    "created_at": "2025-12-03T10:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996158690765029657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1365444576530563080",
+          "start": 3,
+          "username": "retro_anime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3qhfycMnXX",
+          "end": 40,
+          "expanded_url": "https://x.com/retro_anime/status/1996071443105546484/photo/1",
+          "media_key": "3_1996071426562953216",
+          "start": 17,
+          "url": "https://t.co/3qhfycMnXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996158690765029657",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3976
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996071443105546484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @retro_anime: https://t.co/3qhfycMnXX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1996071426562953216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7N4YwaXkAAUd24.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996071426562953216"
+          ],
+          "media_source_tweet_id": [
+            "1996071443105546484"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1996158690765029657",
+        "created_at": "2025-12-03T10:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996158690765029657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1365444576530563080",
+              "start": 3,
+              "username": "retro_anime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qhfycMnXX",
+              "end": 40,
+              "expanded_url": "https://x.com/retro_anime/status/1996071443105546484/photo/1",
+              "media_key": "3_1996071426562953216",
+              "start": 17,
+              "url": "https://t.co/3qhfycMnXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996158690765029657",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3976
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996071443105546484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @retro_anime: https://t.co/3qhfycMnXX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996071426562953216"
+          ]
+        },
+        "author_id": "1365444576530563080",
+        "conversation_id": "1996071443105546484",
+        "created_at": "2025-12-03T04:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T05:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996071443105546484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qhfycMnXX",
+              "end": 23,
+              "expanded_url": "https://x.com/retro_anime/status/1996071443105546484/photo/1",
+              "media_key": "3_1996071426562953216",
+              "start": 0,
+              "url": "https://t.co/3qhfycMnXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996071443105546484",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1276,
+          "impression_count": 321093,
+          "like_count": 27470,
+          "quote_count": 144,
+          "reply_count": 44,
+          "retweet_count": 3976
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3qhfycMnXX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 167,
+          "like_count": 1072,
+          "listed_count": 1,
+          "media_count": 390,
+          "tweet_count": 1687
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T23:32:26.000Z",
+        "description": "the golden age of anime",
+        "id": "1365444576530563080",
+        "name": "Retro Anime",
+        "pinned_tweet_id": "1995795145757778285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657231216142331905/wKeESPsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716189,
+          "following_count": 289,
+          "like_count": 8660,
+          "listed_count": 2963,
+          "media_count": 12686,
+          "tweet_count": 13366
+        },
+        "username": "retro_anime",
+        "verified": true
+      }
+    ]
+  }
+}

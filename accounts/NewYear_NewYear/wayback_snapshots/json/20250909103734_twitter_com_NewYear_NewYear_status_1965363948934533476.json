@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965008844347842560"
+      ],
+      "media_source_tweet_id": [
+        "1965008865923301672"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1965363948934533476",
+    "created_at": "2025-09-09T10:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T11:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965363948934533476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RnXOYjVGJ6",
+          "end": 52,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1965008865923301672/photo/1",
+          "media_key": "3_1965008844347842560",
+          "start": 29,
+          "url": "https://t.co/RnXOYjVGJ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965363948934533476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965008865923301672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 加蛋还是太奢侈了 https://t.co/RnXOYjVGJ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 794,
+        "media_key": "3_1965008844347842560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0UdIgPaoAAjaPh.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965008844347842560"
+          ],
+          "media_source_tweet_id": [
+            "1965008865923301672"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1965363948934533476",
+        "created_at": "2025-09-09T10:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T11:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965363948934533476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RnXOYjVGJ6",
+              "end": 52,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1965008865923301672/photo/1",
+              "media_key": "3_1965008844347842560",
+              "start": 29,
+              "url": "https://t.co/RnXOYjVGJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965363948934533476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965008865923301672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 加蛋还是太奢侈了 https://t.co/RnXOYjVGJ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965008844347842560"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1965008865923301672",
+        "created_at": "2025-09-08T11:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T12:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965008865923301672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RnXOYjVGJ6",
+              "end": 32,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1965008865923301672/photo/1",
+              "media_key": "3_1965008844347842560",
+              "start": 9,
+              "url": "https://t.co/RnXOYjVGJ6"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0151348954a4147f"
+        },
+        "id": "1965008865923301672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 20228,
+          "like_count": 425,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "加蛋还是太奢侈了 https://t.co/RnXOYjVGJ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 148,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 671
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6840,
+          "following_count": 6241,
+          "like_count": 22262,
+          "listed_count": 16,
+          "media_count": 4419,
+          "tweet_count": 31719
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

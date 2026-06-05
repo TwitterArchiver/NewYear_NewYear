@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053676590815662080"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2053676685497909438",
+    "created_at": "2026-05-11T03:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053676685497909438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lmFEFP5q4p",
+          "end": 41,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2053676685497909438/video/1",
+          "media_key": "13_2053676590815662080",
+          "start": 18,
+          "url": "https://t.co/lmFEFP5q4p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053676685497909438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我看着这种会有一些害怕，一种窒息感 https://t.co/lmFEFP5q4p"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8433,
+        "height": 1516,
+        "media_key": "13_2053676590815662080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053676590815662080/img/m10hUn8TNTc7l90z.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053676590815662080/vid/avc1/288x270/m41P-UslGCj5LQ8p.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053676590815662080/vid/avc1/386x360/4An7gV5J9JnK96Jy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053676590815662080/vid/avc1/772x720/AC6hkLN4-QoFPbbD.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053676590815662080/pl/RniPYmtXVVhaGdT8.m3u8?tag=14"
+          }
+        ],
+        "width": 1626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053676590815662080"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2053676685497909438",
+        "created_at": "2026-05-11T03:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053676685497909438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lmFEFP5q4p",
+              "end": 41,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2053676685497909438/video/1",
+              "media_key": "13_2053676590815662080",
+              "start": 18,
+              "url": "https://t.co/lmFEFP5q4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053676685497909438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看着这种会有一些害怕，一种窒息感 https://t.co/lmFEFP5q4p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 309,
+          "like_count": 5266,
+          "listed_count": 1,
+          "media_count": 742,
+          "tweet_count": 3954
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

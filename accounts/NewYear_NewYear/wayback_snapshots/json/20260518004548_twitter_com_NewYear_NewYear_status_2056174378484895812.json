@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2056044203256500260",
+    "created_at": "2026-05-18T00:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T01:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056174378484895812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808883154083852288",
+          "start": 0,
+          "username": "lipuxizi7071638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056174378484895812",
+    "in_reply_to_user_id": "1808883154083852288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056044203256500260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lipuxizi7071638 用一些别扭和束手束脚的姿势（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2056044203256500260",
+        "created_at": "2026-05-18T00:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056174378484895812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1808883154083852288",
+              "start": 0,
+              "username": "lipuxizi7071638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056174378484895812",
+        "in_reply_to_user_id": "1808883154083852288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056044203256500260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lipuxizi7071638 用一些别扭和束手束脚的姿势（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808883154083852288",
+        "conversation_id": "2056044203256500260",
+        "created_at": "2026-05-17T16:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056044203256500260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056044203256500260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 541,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何在床帘里拍照片呢🤔离开镜子就很难拍照片了呜。现在舍友每天都在宿舍，去镜子前面也不好意思的）去开一间不错的酒店花费也有点小贵。\n求建议😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 394,
+          "like_count": 7048,
+          "listed_count": 1,
+          "media_count": 792,
+          "tweet_count": 4621
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T15:18:59.000Z",
+        "description": "关山难越，谁悲失路之人。",
+        "id": "1808883154083852288",
+        "location": "垃圾堆",
+        "name": "小鱼块",
+        "pinned_tweet_id": "2048748852610781291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025581018888220672/9xIb5uA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7102,
+          "following_count": 574,
+          "like_count": 11072,
+          "listed_count": 31,
+          "media_count": 16,
+          "tweet_count": 3146
+        },
+        "username": "lipuxizi7071638",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1963755554419151035",
+    "created_at": "2025-09-06T06:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T07:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964207183677304846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688591906216009728",
+          "start": 0,
+          "username": "Leslie__Xu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964207183677304846",
+    "in_reply_to_user_id": "1688591906216009728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963755554419151035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leslie__Xu 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1963755554419151035",
+        "created_at": "2025-09-06T06:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T07:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964207183677304846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688591906216009728",
+              "start": 0,
+              "username": "Leslie__Xu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964207183677304846",
+        "in_reply_to_user_id": "1688591906216009728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963755554419151035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leslie__Xu 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688591906216009728",
+        "conversation_id": "1963755554419151035",
+        "created_at": "2025-09-05T00:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T01:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963755554419151035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963755554419151035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就想当废物怎么办，我不想再跟别人比了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福",
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 149,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 572
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T16:44:25.000Z",
+        "description": "04年/（福）建省人/双子座/普通男性/INFP/多重人格/文艺苦手/台风爱好者/雨瘾症患者/gal重度依赖/天下一等一的蠢才\n我希望每个人都开心",
+        "id": "1688591906216009728",
+        "location": "妈妈省",
+        "name": "水無月sora",
+        "pinned_tweet_id": "1874037441491062811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947019514715021313/YpuZWxhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 142,
+          "like_count": 2986,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 3611
+        },
+        "username": "Leslie__Xu",
+        "verified": false
+      }
+    ]
+  }
+}

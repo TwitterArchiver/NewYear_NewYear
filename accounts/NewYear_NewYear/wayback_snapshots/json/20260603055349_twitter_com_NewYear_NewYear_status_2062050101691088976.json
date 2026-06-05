@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2062007611739054457",
+    "created_at": "2026-06-03T05:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062050101691088976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980396569363935232",
+          "start": 0,
+          "username": "Disturbeuphoric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062050101691088976",
+    "in_reply_to_user_id": "1980396569363935232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062025455012618562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Disturbeuphoric 摸摸你"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062025455012618562].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062025455012618562",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062025455012618562"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2062007611739054457",
+        "created_at": "2026-06-03T05:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062050101691088976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980396569363935232",
+              "start": 0,
+              "username": "Disturbeuphoric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062050101691088976",
+        "in_reply_to_user_id": "1980396569363935232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062025455012618562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Disturbeuphoric 摸摸你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 447,
+          "like_count": 9762,
+          "listed_count": 1,
+          "media_count": 900,
+          "tweet_count": 5804
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T22:13:55.000Z",
+        "description": "非典型。不稳定。宅男。我既不是天使也不是恶魔。经常有人告诉我，我是纯洁的。我温柔又善良。AuDHD, autistic, ptsd, aroace, 感官过度敏感。我与你分享我的情绪状态。\n\n👉我的头像反映了我当前的心情👈",
+        "id": "1980396569363935232",
+        "name": "欢乐精神 (轻视😭)",
+        "pinned_tweet_id": "2061590942927196235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061780823720730624/on-QC2Kf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 146,
+          "like_count": 16002,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 4465
+        },
+        "username": "Disturbeuphoric",
+        "verified": false
+      }
+    ]
+  }
+}

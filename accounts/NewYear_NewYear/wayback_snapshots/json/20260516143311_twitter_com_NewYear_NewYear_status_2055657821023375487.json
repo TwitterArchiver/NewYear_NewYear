@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055657667998474240",
+        "3_2055657667998466048",
+        "3_2055657667969134592",
+        "3_2055657668019355648"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2055657821023375487",
+    "created_at": "2026-05-16T14:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055657821023375487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZJ28VGUFEK",
+          "end": 37,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2055657821023375487/photo/1",
+          "media_key": "3_2055657667998474240",
+          "start": 14,
+          "url": "https://t.co/ZJ28VGUFEK"
+        },
+        {
+          "display_url": "pic.x.com/ZJ28VGUFEK",
+          "end": 37,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2055657821023375487/photo/1",
+          "media_key": "3_2055657667998466048",
+          "start": 14,
+          "url": "https://t.co/ZJ28VGUFEK"
+        },
+        {
+          "display_url": "pic.x.com/ZJ28VGUFEK",
+          "end": 37,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2055657821023375487/photo/1",
+          "media_key": "3_2055657667969134592",
+          "start": 14,
+          "url": "https://t.co/ZJ28VGUFEK"
+        },
+        {
+          "display_url": "pic.x.com/ZJ28VGUFEK",
+          "end": 37,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2055657821023375487/photo/1",
+          "media_key": "3_2055657668019355648",
+          "start": 14,
+          "url": "https://t.co/ZJ28VGUFEK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055657821023375487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "青呱\n蓝莓象\n苹果鸡\n香蛆 https://t.co/ZJ28VGUFEK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_2055657667998474240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcpwfjbYAAVFIj.jpg",
+        "width": 1010
+      },
+      {
+        "height": 975,
+        "media_key": "3_2055657667998466048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcpwfjbQAAETia.jpg",
+        "width": 1049
+      },
+      {
+        "height": 1008,
+        "media_key": "3_2055657667969134592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcpwfcbsAAv6r8.jpg",
+        "width": 934
+      },
+      {
+        "height": 932,
+        "media_key": "3_2055657668019355648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcpwfoaAAA45AE.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055657667998474240",
+            "3_2055657667998466048",
+            "3_2055657667969134592",
+            "3_2055657668019355648"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055657821023375487",
+        "created_at": "2026-05-16T14:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055657821023375487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZJ28VGUFEK",
+              "end": 37,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2055657821023375487/photo/1",
+              "media_key": "3_2055657667998474240",
+              "start": 14,
+              "url": "https://t.co/ZJ28VGUFEK"
+            },
+            {
+              "display_url": "pic.x.com/ZJ28VGUFEK",
+              "end": 37,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2055657821023375487/photo/1",
+              "media_key": "3_2055657667998466048",
+              "start": 14,
+              "url": "https://t.co/ZJ28VGUFEK"
+            },
+            {
+              "display_url": "pic.x.com/ZJ28VGUFEK",
+              "end": 37,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2055657821023375487/photo/1",
+              "media_key": "3_2055657667969134592",
+              "start": 14,
+              "url": "https://t.co/ZJ28VGUFEK"
+            },
+            {
+              "display_url": "pic.x.com/ZJ28VGUFEK",
+              "end": 37,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2055657821023375487/photo/1",
+              "media_key": "3_2055657668019355648",
+              "start": 14,
+              "url": "https://t.co/ZJ28VGUFEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055657821023375487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青呱\n蓝莓象\n苹果鸡\n香蛆 https://t.co/ZJ28VGUFEK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 380,
+          "like_count": 6721,
+          "listed_count": 1,
+          "media_count": 778,
+          "tweet_count": 4480
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

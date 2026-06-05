@@ -1,0 +1,277 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Apr 30 14:22:04 +0000 2021",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1249318790434680835,
+        "id_str": "1249318790434680835",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "ＳＵＰＥＲ​ＪＵＮ​ 🥇",
+        "screen_name": "KOALAJUNKYU10"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1388136575805005831,
+  "id_str": "1388136575805005831",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "th",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 30 12:05:08 +0000 2021",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/zMvh1ZlrV3",
+          "expanded_url": "https://twitter.com/KOALAJUNKYU10/status/1388102115415904263/video/1",
+          "id": 1388102077176369157,
+          "id_str": "1388102077176369157",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1388102077176369157/pu/img/8nllogBgW8yaHxHl.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1388102077176369157/pu/img/8nllogBgW8yaHxHl.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 576
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 576
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zMvh1ZlrV3"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/zMvh1ZlrV3",
+          "expanded_url": "https://twitter.com/KOALAJUNKYU10/status/1388102115415904263/video/1",
+          "id": 1388102077176369157,
+          "id_str": "1388102077176369157",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1388102077176369157/pu/img/8nllogBgW8yaHxHl.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1388102077176369157/pu/img/8nllogBgW8yaHxHl.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 576
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 576
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/zMvh1ZlrV3",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 13768,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1388102077176369157/pu/pl/DxKeAc2vvMWeD-Zn.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1388102077176369157/pu/vid/576x1024/QHk2osy5EQ6adZ34.mp4?tag=12"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1388102077176369157/pu/vid/480x852/slz_QIuNBxziRgEQ.mp4?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1388102077176369157/pu/vid/320x568/z20_Wvji72AZL6fC.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 29,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1388102115415904263,
+    "id_str": "1388102115415904263",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "th",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 70,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "ขำบ่ลง​ 5555555555555555555 555555555555555555555555555555555555555555555555555555555555555555555555555 https://t.co/zMvh1ZlrV3",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Apr 12 12:50:07 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "รักวัวให้ผูก  รักลูกให้แกง 👌  #JUNKYU \n จักรวาล​น้องสมบัติ​ #TREASURE​ @treasuremembers​",
+      "favourites_count": 6887,
+      "follow_request_sent": null,
+      "followers_count": 3562,
+      "following": null,
+      "friends_count": 330,
+      "geo_enabled": true,
+      "id": 1249318790434680835,
+      "id_str": "1249318790434680835",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1,
+      "location": null,
+      "name": "ＳＵＰＥＲ​ＪＵＮ​ 🥇",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249318790434680835/1603587833",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1385438856124633088/BH89QIs1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385438856124633088/BH89QIs1_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KOALAJUNKYU10",
+      "statuses_count": 15968,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @KOALAJUNKYU10: ขำบ่ลง​ 5555555555555555555 555555555555555555555555555555555555555555555555555555555555555555555555555 https://t.co/zMv…",
+  "timestamp_ms": "1619792524659",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี",
+    "favourites_count": 5794,
+    "follow_request_sent": null,
+    "followers_count": 80,
+    "following": null,
+    "friends_count": 81,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "แฮปปี้นิวเยียร์แห่งจักรวาล",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1380544259074387968/KXR8EBop_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380544259074387968/KXR8EBop_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 7706,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2058856861038674170",
+    "created_at": "2026-05-25T10:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058864900420804886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878441068649426944",
+          "start": 0,
+          "username": "xian_zi17640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058864900420804886",
+    "in_reply_to_user_id": "1878441068649426944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058856861038674170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xian_zi17640 地狱绘图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2058856849563176960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKHZXmX0AAFB6d.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2058856861038674170",
+        "created_at": "2026-05-25T10:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058864900420804886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878441068649426944",
+              "start": 0,
+              "username": "xian_zi17640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058864900420804886",
+        "in_reply_to_user_id": "1878441068649426944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058856861038674170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xian_zi17640 地狱绘图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058856849563176960"
+          ]
+        },
+        "author_id": "1878441068649426944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058856861038674170",
+        "created_at": "2026-05-25T10:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058856861038674170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3JzwWiJW3",
+              "end": 32,
+              "expanded_url": "https://x.com/xian_zi17640/status/2058856861038674170/photo/1",
+              "media_key": "3_2058856849563176960",
+              "start": 9,
+              "url": "https://t.co/g3JzwWiJW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058856861038674170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不整理桌面的后果 https://t.co/g3JzwWiJW3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 398,
+          "like_count": 7198,
+          "listed_count": 1,
+          "media_count": 809,
+          "tweet_count": 4736
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T13:57:19.000Z",
+        "description": "生日:1209 年龄:15 性格:随机  初二 玻璃心 大胃袋 小短腿 免费树洞欢迎来找我聊天\nhttps://t.co/Qntfz9TM3m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huizxlk",
+                "end": 71,
+                "expanded_url": "https://ngl.link/huizxlk",
+                "start": 48,
+                "url": "https://t.co/Qntfz9TM3m"
+              }
+            ]
+          }
+        },
+        "id": "1878441068649426944",
+        "name": "huizxlkファイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 324,
+          "like_count": 1750,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 1670
+        },
+        "username": "xian_zi17640",
+        "verified": false
+      }
+    ]
+  }
+}

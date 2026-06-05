@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1964909596595945613",
+    "created_at": "2025-09-08T08:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T09:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964971639449498095"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1964971639449498095",
+    "in_reply_to_user_id": "1850587533924876288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964909596595945613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没有开原声因为我没有接音箱，原声不好听🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12496,
+        "height": 720,
+        "media_key": "7_1964909402328317952",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1964909402328317952/pu/img/8MX4-FU_ado8w_vt.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964909402328317952/pu/vid/avc1/480x270/LgMdTbKjOqKbg5-Y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964909402328317952/pu/vid/avc1/640x360/1tDfTx0WJ18PSIJZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964909402328317952/pu/vid/avc1/1280x720/Ldcc-9nvAgHn3h6p.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1964909402328317952/pu/pl/e9Bj-6va-2FBE8QB.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1964909596595945613",
+        "created_at": "2025-09-08T08:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T09:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964971639449498095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964971639449498095",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964909596595945613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没有开原声因为我没有接音箱，原声不好听🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1964909402328317952"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1964909596595945613",
+        "created_at": "2025-09-08T04:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T05:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964909596595945613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xfXOXdX0b5",
+              "end": 48,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1964909596595945613/video/1",
+              "media_key": "7_1964909402328317952",
+              "start": 25,
+              "url": "https://t.co/xfXOXdX0b5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964909596595945613",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "PDD一块钱的甲片😝\n我是真的想做黑色系的指甲🥺 https://t.co/xfXOXdX0b5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福",
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 147,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 633
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1901909461276762360",
+    "created_at": "2025-03-18T08:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T09:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901910403816607929"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1901910403816607929",
+    "in_reply_to_user_id": "1850587533924876288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901909461276762360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后是幻觉，是心理抗争，他在原谅自己。他成功了，他向自己或者是向曾经的自己质问，但是已经太迟了，任何事情都已经变得无所谓了\n最后“Any way the wind blows ”和前面说的或许一样，对他不再重要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1901909461276762360",
+        "created_at": "2025-03-18T08:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T09:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901910403816607929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901910403816607929",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901909461276762360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后是幻觉，是心理抗争，他在原谅自己。他成功了，他向自己或者是向曾经的自己质问，但是已经太迟了，任何事情都已经变得无所谓了\n最后“Any way the wind blows ”和前面说的或许一样，对他不再重要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1901909461276762360",
+        "created_at": "2025-03-18T08:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T09:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901909461276762360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901909461276762360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢波西米亚狂想曲\n每一句歌词，每一个音符都很喜欢\n喜欢整首歌的浑然天成，所有直白或者是隐晦的意象\n像是在神志不清的时候写下的一本忏悔录\n开始的混乱和对自己的悲伤，后面呼唤妈妈，向妈妈赎罪，这一段一阵阵的鸡皮疙瘩。但是太迟了，他向我们再见，他将要离去了，他希望从未来过世界。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福",
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850587758617890816/1iNTpnM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 124,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 52
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

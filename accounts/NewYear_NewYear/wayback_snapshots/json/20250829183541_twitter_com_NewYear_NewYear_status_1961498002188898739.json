@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1961498002188898739",
+    "created_at": "2025-08-29T18:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T19:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961498002188898739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/1961382025321132252",
+          "start": 4,
+          "url": "https://t.co/RZaUb0erm7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961498002188898739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961382025321132252",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "零收获 https://t.co/RZaUb0erm7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1961498002188898739",
+        "created_at": "2025-08-29T18:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T19:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961498002188898739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/1961382025321132252",
+              "start": 4,
+              "url": "https://t.co/RZaUb0erm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961498002188898739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961382025321132252",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "零收获 https://t.co/RZaUb0erm7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1961382025321132252",
+        "created_at": "2025-08-29T10:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T11:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961382025321132252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961382025321132252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上我要去跑刀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1961105952050217208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 142,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 497
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Apr 15 12:51:29 +0000 2021",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          94,
+          107
+        ],
+        "text": "PARKJEONGWOO"
+      },
+      {
+        "indices": [
+          109,
+          120
+        ],
+        "text": "SOJUNGHWAN"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1257222373788409857,
+        "id_str": "1257222373788409857",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Rest —𝒃𝒂𝒃𝒚𝒋𝒆𝒐𝒏𝒈𝒘𝒐𝒐 🧚🏻‍♂️",
+        "screen_name": "jeongwoo_oum"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1382677961778733061,
+  "id_str": "1382677961778733061",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "th",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 15 04:15:11 +0000 2021",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            76,
+            89
+          ],
+          "text": "PARKJEONGWOO"
+        },
+        {
+          "indices": [
+            91,
+            102
+          ],
+          "text": "SOJUNGHWAN"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/upxULXTdXQ",
+          "expanded_url": "https://twitter.com/jeongwoo_oum/status/1382548029564014593/photo/1",
+          "id": 1382548019204132865,
+          "id_str": "1382548019204132865",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ey_MGTGVEAEGIRX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ey_MGTGVEAEGIRX.jpg",
+          "sizes": {
+            "large": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "medium": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/upxULXTdXQ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/upxULXTdXQ",
+          "expanded_url": "https://twitter.com/jeongwoo_oum/status/1382548029564014593/photo/1",
+          "id": 1382548019204132865,
+          "id_str": "1382548019204132865",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ey_MGTGVEAEGIRX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ey_MGTGVEAEGIRX.jpg",
+          "sizes": {
+            "large": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "medium": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/upxULXTdXQ"
+        },
+        {
+          "display_url": "pic.twitter.com/upxULXTdXQ",
+          "expanded_url": "https://twitter.com/jeongwoo_oum/status/1382548029564014593/photo/1",
+          "id": 1382548019208286209,
+          "id_str": "1382548019208286209",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ey_MGTHUcAEvAV5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ey_MGTHUcAEvAV5.jpg",
+          "sizes": {
+            "large": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "medium": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/upxULXTdXQ"
+        },
+        {
+          "display_url": "pic.twitter.com/upxULXTdXQ",
+          "expanded_url": "https://twitter.com/jeongwoo_oum/status/1382548029564014593/photo/1",
+          "id": 1382548019208282115,
+          "id_str": "1382548019208282115",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ey_MGTHUYAML5Du.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ey_MGTHUYAML5Du.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1474
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 864
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 489
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/upxULXTdXQ"
+        },
+        {
+          "display_url": "pic.twitter.com/upxULXTdXQ",
+          "expanded_url": "https://twitter.com/jeongwoo_oum/status/1382548029564014593/photo/1",
+          "id": 1382548019283783680,
+          "id_str": "1382548019283783680",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ey_MGTZUcAAAuMn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ey_MGTZUcAAAuMn.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1488
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 872
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 494
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/upxULXTdXQ"
+        }
+      ]
+    },
+    "favorite_count": 150,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1382548029564014593,
+    "id_str": "1382548029564014593",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "th",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 184,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "ดูแลสุขภาพด้วยนะคนดีของมามี๊ ขอให้กินอิ่มนอนหลับสบายนะ รักพวกหนูมากนะจุ้บๆ💕 #PARKJEONGWOO  #SOJUNGHWAN https://t.co/upxULXTdXQ",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 04 08:16:02 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "‧⁺◟ 🤲🏻𝙈𝙤𝙢𝙢𝙮 𝙣𝙤𝙣𝙜 𝙅𝙚𝙤𝙣𝙜𝙬𝙤𝙤 𝟭𝟬𝟬𝟬% 🍼🐺 🧺 ♡⃕ 𝗥𝘂𝗝𝗲𝗼𝗻𝗴𝘄𝗼𝗼/ แจจองอูฮวาน ꊞ 🐮🦁 ✳︎🚎◝∘ #blink˚↱@treasuremembers⌇#Reviewเบบี๊จองอู",
+      "favourites_count": 3421,
+      "follow_request_sent": null,
+      "followers_count": 608,
+      "following": null,
+      "friends_count": 215,
+      "geo_enabled": false,
+      "id": 1257222373788409857,
+      "id_str": "1257222373788409857",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1,
+      "location": "Iksan ((น้องจองอูหล่อมาก))",
+      "name": "Rest —𝒃𝒂𝒃𝒚𝒋𝒆𝒐𝒏𝒈𝒘𝒐𝒐 🧚🏻‍♂️",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257222373788409857/1617386587",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1382347673081028617/DqAjUzl0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1382347673081028617/DqAjUzl0_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "jeongwoo_oum",
+      "statuses_count": 16012,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://twitter.com/jeongwoo_oum/status/1371716419239305217?s=21",
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @jeongwoo_oum: ดูแลสุขภาพด้วยนะคนดีของมามี๊ ขอให้กินอิ่มนอนหลับสบายนะ รักพวกหนูมากนะจุ้บๆ💕 #PARKJEONGWOO  #SOJUNGHWAN https://t.co/upxUL…",
+  "timestamp_ms": "1618491089659",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี",
+    "favourites_count": 4307,
+    "follow_request_sent": null,
+    "followers_count": 70,
+    "following": null,
+    "friends_count": 75,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "New Year",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1380544259074387968/KXR8EBop_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380544259074387968/KXR8EBop_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 5804,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

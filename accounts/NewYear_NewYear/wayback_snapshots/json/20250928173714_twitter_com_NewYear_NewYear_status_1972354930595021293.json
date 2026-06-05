@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972354928212680704"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1972354930595021293",
+    "created_at": "2025-09-28T17:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T18:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972354930595021293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1428974742392950785",
+          "start": 5,
+          "username": "sexy_jojo22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nGVs4p40ov",
+          "end": 41,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1972354930595021293/photo/1",
+          "media_key": "3_1972354928212680704",
+          "start": 18,
+          "url": "https://t.co/nGVs4p40ov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972354930595021293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就这样聊天@sexy_jojo22 https://t.co/nGVs4p40ov"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 505,
+        "media_key": "3_1972354928212680704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G182W3MboAA_6os.jpg",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972354928212680704"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1972354930595021293",
+        "created_at": "2025-09-28T17:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T18:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972354930595021293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1428974742392950785",
+              "start": 5,
+              "username": "sexy_jojo22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGVs4p40ov",
+              "end": 41,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1972354930595021293/photo/1",
+              "media_key": "3_1972354928212680704",
+              "start": 18,
+              "url": "https://t.co/nGVs4p40ov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972354930595021293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这样聊天@sexy_jojo22 https://t.co/nGVs4p40ov"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 154,
+          "like_count": 414,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1159
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-21T06:59:21.000Z",
+        "description": "想做爱想做爱想做爱想做爱想做爱想做爱想做爱/大号 @Joint39178461 /精分肉便器/\n🈶200/520🚪槛私信拿vx号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "Joint39178461"
+              }
+            ]
+          }
+        },
+        "id": "1428974742392950785",
+        "location": "109.km",
+        "name": "爆浆墩墩桃",
+        "pinned_tweet_id": "1930981651871608914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1428975854860718088/XWEpbDzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11944,
+          "following_count": 283,
+          "like_count": 421,
+          "listed_count": 36,
+          "media_count": 197,
+          "tweet_count": 1314
+        },
+        "username": "sexy_jojo22",
+        "verified": false
+      }
+    ]
+  }
+}

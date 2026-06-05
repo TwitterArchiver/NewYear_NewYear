@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2059969652391068100",
+    "created_at": "2026-05-28T12:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059969652391068100"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059969652391068100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好累，我的平板不知道为什么没有那个注视感知了，我只能一次次手动给它点亮屏，我真的很急躁然后又把火气压下去\n小米的东西真的太坏了，各种小细节做的的太烂，lg做的都比它好\n\n我以后换手机我就整苹果，唉，我之前用过se1当过一段时间的主力机，除了续航短无缺点啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2059969652391068100",
+        "created_at": "2026-05-28T12:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059969652391068100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059969652391068100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好累，我的平板不知道为什么没有那个注视感知了，我只能一次次手动给它点亮屏，我真的很急躁然后又把火气压下去\n小米的东西真的太坏了，各种小细节做的的太烂，lg做的都比它好\n\n我以后换手机我就整苹果，唉，我之前用过se1当过一段时间的主力机，除了续航短无缺点啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 439,
+          "like_count": 8266,
+          "listed_count": 1,
+          "media_count": 843,
+          "tweet_count": 5239
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

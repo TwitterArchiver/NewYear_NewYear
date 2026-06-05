@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1968355750516072922",
+    "created_at": "2025-09-18T15:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T16:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968701887466606666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1809274316900691969",
+          "start": 0,
+          "username": "killkillovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968701887466606666",
+    "in_reply_to_user_id": "1809274316900691969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968670896001888477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@killkillovo 谢谢你 ˃̶͈ ꇴ ˂̶͈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1968355750516072922",
+        "created_at": "2025-09-18T15:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T16:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968701887466606666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1809274316900691969",
+              "start": 0,
+              "username": "killkillovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968701887466606666",
+        "in_reply_to_user_id": "1809274316900691969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968670896001888477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@killkillovo 谢谢你 ˃̶͈ ꇴ ˂̶͈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809274316900691969",
+        "conversation_id": "1968355750516072922",
+        "created_at": "2025-09-18T13:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T14:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968670896001888477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968670896001888477",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968355750516072922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 生日快乐哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 155,
+          "like_count": 285,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 997
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T17:13:15.000Z",
+        "description": "连死亡也是种错误",
+        "id": "1809274316900691969",
+        "name": "・ω・",
+        "pinned_tweet_id": "1958286834792075653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942631803699052544/EOOaOPbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2512,
+          "following_count": 130,
+          "like_count": 948,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 310
+        },
+        "username": "killkillovo",
+        "verified": false
+      }
+    ]
+  }
+}

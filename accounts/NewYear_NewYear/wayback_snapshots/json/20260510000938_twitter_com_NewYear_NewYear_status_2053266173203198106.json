@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2053171998109651275",
+    "created_at": "2026-05-10T00:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T01:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053266173203198106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2052922316745809920",
+          "start": 0,
+          "username": "takahashiAya57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053266173203198106",
+    "in_reply_to_user_id": "2052922316745809920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053223057943326903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takahashiAya57 可以呀可以呀 ˃̶͈ ꇴ ˂̶͈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2053171998109651275",
+        "created_at": "2026-05-10T00:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053266173203198106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2052922316745809920",
+              "start": 0,
+              "username": "takahashiAya57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053266173203198106",
+        "in_reply_to_user_id": "2052922316745809920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053223057943326903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takahashiAya57 可以呀可以呀 ˃̶͈ ꇴ ˂̶͈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052922316745809920",
+        "conversation_id": "2053171998109651275",
+        "created_at": "2026-05-09T21:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T22:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053223057943326903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053223057943326903",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053171998109651275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 萌萌呀可以互fo吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 302,
+          "like_count": 4895,
+          "listed_count": 1,
+          "media_count": 733,
+          "tweet_count": 3847
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T01:25:43.000Z",
+        "description": "かわりにこの終点に、夏を教えてくれ。",
+        "id": "2052922316745809920",
+        "location": "东京都",
+        "name": "盛夏将我灼伤",
+        "pinned_tweet_id": "2053220880017490021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052930389438767104/b5GTTuDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 17,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "takahashiAya57",
+        "verified": false
+      }
+    ]
+  }
+}

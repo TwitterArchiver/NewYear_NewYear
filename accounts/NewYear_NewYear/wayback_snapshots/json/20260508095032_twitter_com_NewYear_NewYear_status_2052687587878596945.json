@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2052649809140674726",
+    "created_at": "2026-05-08T09:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T10:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052687587878596945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1463824064653377538",
+          "start": 0,
+          "username": "Azkawayi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052687587878596945",
+    "in_reply_to_user_id": "1463824064653377538",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052687357493850605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azkawayi (♡&gt;𖥦&lt;)/♥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2052687354876637184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHycRg5bsAA0eBG.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2052649809140674726",
+        "created_at": "2026-05-08T09:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052687587878596945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1463824064653377538",
+              "start": 0,
+              "username": "Azkawayi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052687587878596945",
+        "in_reply_to_user_id": "1463824064653377538",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052687357493850605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azkawayi (♡&gt;𖥦&lt;)/♥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052687354876637184"
+          ]
+        },
+        "author_id": "1463824064653377538",
+        "conversation_id": "2052649809140674726",
+        "created_at": "2026-05-08T09:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052687357493850605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/riPM15Spxo",
+              "end": 47,
+              "expanded_url": "https://x.com/Azkawayi/status/2052687357493850605/photo/1",
+              "media_key": "3_2052687354876637184",
+              "start": 24,
+              "url": "https://t.co/riPM15Spxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052687357493850605",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052686799122948100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 謝謝喜歡❤️ https://t.co/riPM15Spxo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 278,
+          "like_count": 4628,
+          "listed_count": 1,
+          "media_count": 731,
+          "tweet_count": 3737
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T10:57:29.000Z",
+        "description": "別罵我我只是一只企鵝 \n喜歡海洋和星空\n也喜歡甜食、國際象棋、音樂和小裙子\n想要每天都開開心心的，喜歡你們",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/7706705",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/7706705",
+                "start": 0,
+                "url": "https://t.co/6mP30UiKNw"
+              }
+            ]
+          }
+        },
+        "id": "1463824064653377538",
+        "location": "Moon, Mare Serenitatis",
+        "name": "黑暗高松燈🐧🌷",
+        "pinned_tweet_id": "1991862051632013346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039351778408574976/Q3Er_vD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 616,
+          "like_count": 48545,
+          "listed_count": 4,
+          "media_count": 1090,
+          "tweet_count": 3814
+        },
+        "url": "https://t.co/6mP30UiKNw",
+        "username": "Azkawayi",
+        "verified": false
+      }
+    ]
+  }
+}

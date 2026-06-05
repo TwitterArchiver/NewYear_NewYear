@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1930671373741142268",
+    "created_at": "2025-09-07T17:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T18:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964749728274669632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1451550271121682439",
+          "start": 0,
+          "username": "hantongxue_03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964749728274669632",
+    "in_reply_to_user_id": "1451550271121682439",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930689331402043456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hantongxue_03 🥹🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1930671373741142268",
+        "created_at": "2025-09-07T17:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T18:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964749728274669632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1451550271121682439",
+              "start": 0,
+              "username": "hantongxue_03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964749728274669632",
+        "in_reply_to_user_id": "1451550271121682439",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930689331402043456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hantongxue_03 🥹🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451550271121682439",
+        "conversation_id": "1930671373741142268",
+        "created_at": "2025-06-05T18:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T19:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930689331402043456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930689331402043456",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930671373741142268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 好啊好啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福",
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 144,
+          "like_count": 76,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 617
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T14:05:46.000Z",
+        "description": "Player Be free The only easy day was yesterday",
+        "id": "1451550271121682439",
+        "name": "LengHan_0e",
+        "pinned_tweet_id": "1603678097777238018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451550740120420358/FIFe87Wi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 180,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 403
+        },
+        "username": "hantongxue_03",
+        "verified": false
+      }
+    ]
+  }
+}

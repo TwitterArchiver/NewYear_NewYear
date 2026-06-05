@@ -1,0 +1,402 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Apr 27 06:59:33 +0000 2021",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/6ZwCJcDfhY",
+        "expanded_url": "https://twitter.com/4D_ASAHI/status/1368099361356275713/video/1",
+        "id": 1368098702171115520,
+        "id_str": "1368098702171115520",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1368098702171115520/pu/img/uJqrlepuTJVyrZpi.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1368098702171115520/pu/img/uJqrlepuTJVyrZpi.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1368099361356275713,
+        "source_status_id_str": "1368099361356275713",
+        "source_user_id": 1257507335229988868,
+        "source_user_id_str": "1257507335229988868",
+        "type": "photo",
+        "url": "https://t.co/6ZwCJcDfhY"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1245928795044868096,
+        "id_str": "1245928795044868096",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "ROBOT ASAHI🤖",
+        "screen_name": "HamadaKantanat"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/6ZwCJcDfhY",
+        "expanded_url": "https://twitter.com/4D_ASAHI/status/1368099361356275713/video/1",
+        "id": 1368098702171115520,
+        "id_str": "1368098702171115520",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1368098702171115520/pu/img/uJqrlepuTJVyrZpi.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1368098702171115520/pu/img/uJqrlepuTJVyrZpi.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1368099361356275713,
+        "source_status_id_str": "1368099361356275713",
+        "source_user_id": 1257507335229988868,
+        "source_user_id_str": "1257507335229988868",
+        "type": "video",
+        "url": "https://t.co/6ZwCJcDfhY",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 81600,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1368098702171115520/pu/pl/dYDxvsffZxkgCGQq.m3u8?tag=12"
+            },
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1368098702171115520/pu/vid/320x320/THFeCDX5RkquTzJR.mp4?tag=12"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1368098702171115520/pu/vid/720x720/UAxI8zzzpQ0MHWrU.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1368098702171115520/pu/vid/540x540/Nn2FEiLQ8HTY9ePN.mp4?tag=12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1386938049267785728,
+  "id_str": "1386938049267785728",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "th",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 27 05:09:24 +0000 2021",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/6ZwCJcDfhY",
+          "expanded_url": "https://twitter.com/4D_ASAHI/status/1368099361356275713/video/1",
+          "id": 1368098702171115520,
+          "id_str": "1368098702171115520",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1368098702171115520/pu/img/uJqrlepuTJVyrZpi.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1368098702171115520/pu/img/uJqrlepuTJVyrZpi.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1368099361356275713,
+          "source_status_id_str": "1368099361356275713",
+          "source_user_id": 1257507335229988868,
+          "source_user_id_str": "1257507335229988868",
+          "type": "photo",
+          "url": "https://t.co/6ZwCJcDfhY"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/6ZwCJcDfhY",
+          "expanded_url": "https://twitter.com/4D_ASAHI/status/1368099361356275713/video/1",
+          "id": 1368098702171115520,
+          "id_str": "1368098702171115520",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1368098702171115520/pu/img/uJqrlepuTJVyrZpi.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1368098702171115520/pu/img/uJqrlepuTJVyrZpi.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1368099361356275713,
+          "source_status_id_str": "1368099361356275713",
+          "source_user_id": 1257507335229988868,
+          "source_user_id_str": "1257507335229988868",
+          "type": "video",
+          "url": "https://t.co/6ZwCJcDfhY",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 81600,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1368098702171115520/pu/pl/dYDxvsffZxkgCGQq.m3u8?tag=12"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1368098702171115520/pu/vid/320x320/THFeCDX5RkquTzJR.mp4?tag=12"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1368098702171115520/pu/vid/720x720/UAxI8zzzpQ0MHWrU.mp4?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1368098702171115520/pu/vid/540x540/Nn2FEiLQ8HTY9ePN.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 82,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1386910326470234112,
+    "id_str": "1386910326470234112",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "th",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 154,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "ซีรี่ส์ต้องเข้าสักเรื่องแล้วมั้ยลุคชุดนักเรียนปังขนาดนี้ https://t.co/6ZwCJcDfhY",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Apr 03 04:19:59 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "ASAHI'S PAPA🌻\nคลั่งรักอาซาฮิ 💛🤖🤍(🐯)\n#ASAHI #TREASURE\nASAHI'S SUPPORTER💛\nเราจะซัพพอร์ทเจ้าหุ่นยนต์ไปให้ถึงที่สุด!\nWELCOME TO ASAHI'S WORLD🌞🌏",
+      "favourites_count": 5724,
+      "follow_request_sent": null,
+      "followers_count": 6413,
+      "following": null,
+      "friends_count": 247,
+      "geo_enabled": false,
+      "id": 1245928795044868096,
+      "id_str": "1245928795044868096",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 13,
+      "location": "OSAKA, JAPAN🇯🇵",
+      "name": "ROBOT ASAHI🤖",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1245928795044868096/1617194116",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1384369916719947776/hRF4tevj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1384369916719947776/hRF4tevj_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "HamadaKantanat",
+      "statuses_count": 17727,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @HamadaKantanat: ซีรี่ส์ต้องเข้าสักเรื่องแล้วมั้ยลุคชุดนักเรียนปังขนาดนี้ https://t.co/6ZwCJcDfhY",
+  "timestamp_ms": "1619506773665",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี",
+    "favourites_count": 5533,
+    "follow_request_sent": null,
+    "followers_count": 74,
+    "following": null,
+    "friends_count": 76,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "New Year",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1380544259074387968/KXR8EBop_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380544259074387968/KXR8EBop_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 7177,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

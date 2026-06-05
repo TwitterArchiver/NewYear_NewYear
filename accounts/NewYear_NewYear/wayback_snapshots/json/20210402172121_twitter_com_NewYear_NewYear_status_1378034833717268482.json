@@ -1,0 +1,238 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Apr 02 17:21:21 +0000 2021",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          67,
+          71
+        ],
+        "text": "NCT"
+      },
+      {
+        "indices": [
+          72,
+          79
+        ],
+        "text": "NCT127"
+      },
+      {
+        "indices": [
+          80,
+          96
+        ],
+        "text": "ChillingMukping"
+      },
+      {
+        "indices": [
+          97,
+          102
+        ],
+        "text": "칠링먹핑"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "youtu.be/LE-mm23n-8c",
+        "expanded_url": "https://youtu.be/LE-mm23n-8c",
+        "indices": [
+          42,
+          65
+        ],
+        "url": "https://t.co/eWkuqGzfOp"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 4811011050,
+        "id_str": "4811011050",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "NCT",
+        "screen_name": "NCTsmtown"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1378034833717268482,
+  "id_str": "1378034833717268482",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "ko",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 02 11:00:54 +0000 2021",
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            52,
+            56
+          ],
+          "text": "NCT"
+        },
+        {
+          "indices": [
+            57,
+            64
+          ],
+          "text": "NCT127"
+        },
+        {
+          "indices": [
+            65,
+            81
+          ],
+          "text": "ChillingMukping"
+        },
+        {
+          "indices": [
+            82,
+            87
+          ],
+          "text": "칠링먹핑"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "youtu.be/LE-mm23n-8c",
+          "expanded_url": "https://youtu.be/LE-mm23n-8c",
+          "indices": [
+            27,
+            50
+          ],
+          "url": "https://t.co/eWkuqGzfOp"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 82020,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1377939088834064385,
+    "id_str": "1377939088834064385",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "ko",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 3363,
+    "reply_count": 1656,
+    "retweet_count": 28327,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "캠핑 말고 먹핑｜Chilling Mukping\n\nhttps://t.co/eWkuqGzfOp\n\n#NCT #NCT127\n#ChillingMukping\n#칠링먹핑",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 25 06:43:53 +0000 2016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "NCT - The 2nd Album RESONANCE Pt.2 http://nct2020.com",
+      "favourites_count": 15,
+      "follow_request_sent": null,
+      "followers_count": 6132104,
+      "following": null,
+      "friends_count": 5,
+      "geo_enabled": false,
+      "id": 4811011050,
+      "id_str": "4811011050",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 16748,
+      "location": null,
+      "name": "NCT",
+      "notifications": null,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4811011050/1606143604",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1325453048114601985/Kc8aXHM9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1325453048114601985/Kc8aXHM9_normal.jpg",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "NCTsmtown",
+      "statuses_count": 4435,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://nct2020.lnk.to/resonanceTB",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @NCTsmtown: 캠핑 말고 먹핑｜Chilling Mukping\n\nhttps://t.co/eWkuqGzfOp\n\n#NCT #NCT127\n#ChillingMukping\n#칠링먹핑",
+  "timestamp_ms": "1617384081664",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี",
+    "favourites_count": 3068,
+    "follow_request_sent": null,
+    "followers_count": 65,
+    "following": null,
+    "friends_count": 71,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "New Year",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1376159416521662471/YziwbT5o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376159416521662471/YziwbT5o_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 4513,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

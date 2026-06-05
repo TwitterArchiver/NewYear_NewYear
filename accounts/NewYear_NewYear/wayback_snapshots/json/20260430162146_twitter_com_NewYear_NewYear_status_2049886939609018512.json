@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2049886939609018512",
+    "created_at": "2026-04-30T16:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049886939609018512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/2049886492605243597",
+          "start": 12,
+          "url": "https://t.co/uAjY2X9KNF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049886939609018512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049886492605243597",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又好了🤓\n红米是这样的 https://t.co/uAjY2X9KNF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2049886939609018512",
+        "created_at": "2026-04-30T16:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049886939609018512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/2049886492605243597",
+              "start": 12,
+              "url": "https://t.co/uAjY2X9KNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049886939609018512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049886492605243597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又好了🤓\n红米是这样的 https://t.co/uAjY2X9KNF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2049886492605243597",
+        "created_at": "2026-04-30T16:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049886492605243597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049886492605243597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不能回到桌面了，不开玩笑，红米的home键失效了。。。\n我只能按返回键，然后返回键也出问题了，只能返回到上一个使用的应用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 232,
+          "like_count": 3497,
+          "listed_count": 1,
+          "media_count": 689,
+          "tweet_count": 3279
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

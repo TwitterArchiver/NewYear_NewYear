@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2058748823191888121",
+    "created_at": "2026-05-28T10:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059941130259882092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2052179302490558464",
+          "start": 0,
+          "username": "Zylas0019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059941130259882092",
+    "in_reply_to_user_id": "2052179302490558464",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059539832771379353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zylas0019 😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2058748823191888121",
+        "created_at": "2026-05-28T10:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059941130259882092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2052179302490558464",
+              "start": 0,
+              "username": "Zylas0019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059941130259882092",
+        "in_reply_to_user_id": "2052179302490558464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059539832771379353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zylas0019 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052179302490558464",
+        "conversation_id": "2058748823191888121",
+        "created_at": "2026-05-27T07:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059539832771379353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059539832771379353",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058748823191888121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 博士!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 438,
+          "like_count": 8255,
+          "listed_count": 1,
+          "media_count": 843,
+          "tweet_count": 5230
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T00:12:05.000Z",
+        "description": "一只丑陋的哥布林罢了",
+        "id": "2052179302490558464",
+        "name": "纪颂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057360047215353856/4SYNSxVe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 47,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 56
+        },
+        "username": "Zylas0019",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2051565966346138034",
+    "created_at": "2026-05-05T10:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051606143483752452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1108737084301307904",
+          "start": 0,
+          "username": "EntropyF73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051606143483752452",
+    "in_reply_to_user_id": "1108737084301307904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051565966346138034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EntropyF73 我不在意别人对我的评价是因为我把所有人都想的很坏（）\n有一个最坏的预期"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2051565966346138034",
+        "created_at": "2026-05-05T10:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051606143483752452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1108737084301307904",
+              "start": 0,
+              "username": "EntropyF73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051606143483752452",
+        "in_reply_to_user_id": "1108737084301307904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051565966346138034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EntropyF73 我不在意别人对我的评价是因为我把所有人都想的很坏（）\n有一个最坏的预期"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1108737084301307904",
+        "conversation_id": "2051565966346138034",
+        "created_at": "2026-05-05T07:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T08:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051565966346138034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051565966346138034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好奇一件事，完全不在意别人对自己的评价，这种心态真的很少见吗？\n这里指的不是当面骂不在意那种，当面骂我我是相当玻璃心的，会拉黑送走一条龙而且不擅长吵架所以不会骂回去（帮我反驳的人我会很爱你们\n我是那种，不可知论，就是只要没有把对我的不喜欢舞到我面前，我都默认你对我没有意见，我不会去臆想你讨厌我或者喜欢我之类的\n这算nd的一种表征吗，但是我好喜欢这种特质，每当我看到nt朋友纠结于他人的评价的时候，我都难以共情，也不知道怎么安慰，一般就是说那你疏远ta好了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇一件事，完全不在意别人对自己的评价，这种心态真的很少见吗？\n这里指的不是当面骂不在意那种，当面骂我我是相当玻璃心的，会拉黑送走一条龙而且不擅长吵架所以不会骂回去（帮我反驳的人我会很爱你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 265,
+          "like_count": 3953,
+          "listed_count": 1,
+          "media_count": 714,
+          "tweet_count": 3538
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-21T14:28:15.000Z",
+        "description": "🏳️‍🌈+🖤🩶🤍💜 Indie VTuber 个人势 | enby INFJ-A 中文 & EN｜Weibo & Bilibili: 熵x殇Entropy (GB based) cptsd自救 | Support Me⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/entropyf73",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/entropyf73",
+                "start": 0,
+                "url": "https://t.co/aSj9f0QHM2"
+              }
+            ]
+          }
+        },
+        "id": "1108737084301307904",
+        "location": "East, England",
+        "name": "Entropy 📎💙",
+        "pinned_tweet_id": "1548475185132552193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546099766416871426/3J0rGG_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 1044,
+          "like_count": 20998,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1550
+        },
+        "url": "https://t.co/aSj9f0QHM2",
+        "username": "EntropyF73",
+        "verified": true
+      }
+    ]
+  }
+}

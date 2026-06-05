@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2045564592672387553",
+    "created_at": "2026-04-20T02:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T03:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046048623893569836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1798389435157147648",
+          "start": 0,
+          "username": "yanliang234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046048623893569836",
+    "in_reply_to_user_id": "1798389435157147648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045564592672387553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanliang234 该死的宇宙！😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2045564592672387553",
+        "created_at": "2026-04-20T02:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046048623893569836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1798389435157147648",
+              "start": 0,
+              "username": "yanliang234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046048623893569836",
+        "in_reply_to_user_id": "1798389435157147648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045564592672387553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanliang234 该死的宇宙！😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798389435157147648",
+        "conversation_id": "2045564592672387553",
+        "created_at": "2026-04-18T18:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T19:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045564592672387553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045564592672387553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈咯马斯克请把这个帖子推流，我需要每个看到的人都来帮我咒骂一句这个该死的宇宙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 207,
+          "like_count": 2797,
+          "listed_count": 1,
+          "media_count": 638,
+          "tweet_count": 2841
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T16:20:37.000Z",
+        "description": "I'll be your 1up boy Ι海面：@yanliang456（只过互关）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "yanliang456"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.79754901",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.79754901",
+                "start": 0,
+                "url": "https://t.co/mTJqkgUz2A"
+              }
+            ]
+          }
+        },
+        "id": "1798389435157147648",
+        "location": "于是猪小水开始期待（匿名↓）",
+        "name": "水",
+        "pinned_tweet_id": "1960951455797665975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929538124985901056/yqGmoBZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 204,
+          "like_count": 8087,
+          "listed_count": 1,
+          "media_count": 429,
+          "tweet_count": 4944
+        },
+        "url": "https://t.co/mTJqkgUz2A",
+        "username": "yanliang234",
+        "verified": false
+      }
+    ]
+  }
+}

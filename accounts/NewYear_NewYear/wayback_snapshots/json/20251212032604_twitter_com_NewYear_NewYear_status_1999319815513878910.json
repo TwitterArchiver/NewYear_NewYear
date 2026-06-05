@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998957629054558208",
+        "3_1998957629058723840",
+        "3_1998957629096472580"
+      ],
+      "media_source_tweet_id": [
+        "1998957636117738064",
+        "1998957636117738064",
+        "1998957636117738064"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1999319815513878910",
+    "created_at": "2025-12-12T03:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T04:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999319815513878910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1035355960728932352",
+          "start": 3,
+          "username": "pingmyping"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LG2kWYaIkU",
+          "end": 42,
+          "expanded_url": "https://x.com/pingmyping/status/1998957636117738064/photo/1",
+          "media_key": "3_1998957629054558208",
+          "start": 19,
+          "url": "https://t.co/LG2kWYaIkU"
+        },
+        {
+          "display_url": "pic.x.com/LG2kWYaIkU",
+          "end": 42,
+          "expanded_url": "https://x.com/pingmyping/status/1998957636117738064/photo/1",
+          "media_key": "3_1998957629058723840",
+          "start": 19,
+          "url": "https://t.co/LG2kWYaIkU"
+        },
+        {
+          "display_url": "pic.x.com/LG2kWYaIkU",
+          "end": 42,
+          "expanded_url": "https://x.com/pingmyping/status/1998957636117738064/photo/1",
+          "media_key": "3_1998957629096472580",
+          "start": 19,
+          "url": "https://t.co/LG2kWYaIkU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999319815513878910",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8412
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998957636117738064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pingmyping: 🐧📦 https://t.co/LG2kWYaIkU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998957629054558208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G725X2jaoAAqalj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1998957629058723840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G725X2kaMAAXEun.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1998957629096472580",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G725X2taMAQq4PD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998957629054558208",
+            "3_1998957629058723840",
+            "3_1998957629096472580"
+          ],
+          "media_source_tweet_id": [
+            "1998957636117738064",
+            "1998957636117738064",
+            "1998957636117738064"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1999319815513878910",
+        "created_at": "2025-12-12T03:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T04:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999319815513878910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1035355960728932352",
+              "start": 3,
+              "username": "pingmyping"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LG2kWYaIkU",
+              "end": 42,
+              "expanded_url": "https://x.com/pingmyping/status/1998957636117738064/photo/1",
+              "media_key": "3_1998957629054558208",
+              "start": 19,
+              "url": "https://t.co/LG2kWYaIkU"
+            },
+            {
+              "display_url": "pic.x.com/LG2kWYaIkU",
+              "end": 42,
+              "expanded_url": "https://x.com/pingmyping/status/1998957636117738064/photo/1",
+              "media_key": "3_1998957629058723840",
+              "start": 19,
+              "url": "https://t.co/LG2kWYaIkU"
+            },
+            {
+              "display_url": "pic.x.com/LG2kWYaIkU",
+              "end": 42,
+              "expanded_url": "https://x.com/pingmyping/status/1998957636117738064/photo/1",
+              "media_key": "3_1998957629096472580",
+              "start": 19,
+              "url": "https://t.co/LG2kWYaIkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999319815513878910",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8412
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998957636117738064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pingmyping: 🐧📦 https://t.co/LG2kWYaIkU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998957629054558208",
+            "3_1998957629058723840",
+            "3_1998957629096472580"
+          ]
+        },
+        "author_id": "1035355960728932352",
+        "conversation_id": "1998957636117738064",
+        "created_at": "2025-12-11T03:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T04:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998957636117738064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LG2kWYaIkU",
+              "end": 26,
+              "expanded_url": "https://x.com/pingmyping/status/1998957636117738064/photo/1",
+              "media_key": "3_1998957629054558208",
+              "start": 3,
+              "url": "https://t.co/LG2kWYaIkU"
+            },
+            {
+              "display_url": "pic.x.com/LG2kWYaIkU",
+              "end": 26,
+              "expanded_url": "https://x.com/pingmyping/status/1998957636117738064/photo/1",
+              "media_key": "3_1998957629058723840",
+              "start": 3,
+              "url": "https://t.co/LG2kWYaIkU"
+            },
+            {
+              "display_url": "pic.x.com/LG2kWYaIkU",
+              "end": 26,
+              "expanded_url": "https://x.com/pingmyping/status/1998957636117738064/photo/1",
+              "media_key": "3_1998957629096472580",
+              "start": 3,
+              "url": "https://t.co/LG2kWYaIkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998957636117738064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2411,
+          "impression_count": 1355275,
+          "like_count": 42290,
+          "quote_count": 384,
+          "reply_count": 81,
+          "retweet_count": 8412
+        },
+        "reply_settings": "everyone",
+        "text": "🐧📦 https://t.co/LG2kWYaIkU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 166,
+          "like_count": 1145,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 1745
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-31T02:37:51.000Z",
+        "description": "Pingu's life.👉ぴんぐ🐧デカさん🐧鳥ちゃん🐦パタ🦜ぴんが🐧👉Ping🐧Mr.Big🐧Bird🐦Pata🦜Pinga🐧🇯🇵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pingmyping/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/pingmyping/",
+                "start": 0,
+                "url": "https://t.co/eg7TZ5LqM6"
+              }
+            ]
+          }
+        },
+        "id": "1035355960728932352",
+        "name": "pingmyping",
+        "pinned_tweet_id": "1884227453939552410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647123250353442818/m6YDiJzc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77067,
+          "following_count": 123,
+          "like_count": 4953,
+          "listed_count": 214,
+          "media_count": 771,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/eg7TZ5LqM6",
+        "username": "pingmyping",
+        "verified": false
+      }
+    ]
+  }
+}

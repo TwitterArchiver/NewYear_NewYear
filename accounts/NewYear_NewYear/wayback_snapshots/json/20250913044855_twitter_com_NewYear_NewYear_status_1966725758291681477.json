@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1966725034770379088",
+    "created_at": "2025-09-13T04:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T05:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966725758291681477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966725758291681477",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966725034770379088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 揉揉你🥺\n以后肯定还会有的，嗯🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1966725034770379088",
+        "created_at": "2025-09-13T04:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T05:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966725758291681477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966725758291681477",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966725034770379088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 揉揉你🥺\n以后肯定还会有的，嗯🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1966725034770379088",
+        "created_at": "2025-09-13T04:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T05:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966725034770379088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966725034770379088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "怎么说呢，这两三个月内，我初中玩到大学的……闺蜜？\n两个团体每个都是两个朋友\n都被我解除关系了\n而且都是反目成仇的样子吧\n🥲嗯，我承认我确实问题很多\n嘛算了，人生的过客罢了\n我有想挽回的想法过，最后还是算了\n她们就像是列车一样，在我面前短暂的停留以后就开走了。\n曾经认识你很高兴，\n如果你在看我推特"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么说呢，这两三个月内，我初中玩到大学的……闺蜜？\n两个团体每个都是两个朋友\n都被我解除关系了\n而且都是反目成仇的样子吧\n🥲嗯，我承认我确实问题很多\n嘛算了，人生的过客罢了\n我有想挽回的想法过，最后还是算了\n她们就像是列车一样，在我面前短暂的停留以后就开走了。\n曾经认识你很高兴，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号",
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 150,
+          "like_count": 165,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 834
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "是碎碎念推和猫猫推丨游戏目前第五人格和一些单机丨基本都会回复或者点赞大家的评论x有可能系统抽风我这边看不到实在抱歉丨嘤鹉：@SENDOH214丨梯子https://t.co/ual3P7s30o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dash.lineasia.top/#/register?cod…",
+                "end": 97,
+                "expanded_url": "https://dash.lineasia.top/#/register?code=U8x8snvo",
+                "start": 74,
+                "url": "https://t.co/ual3P7s30o"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1965345418428252548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40441,
+          "following_count": 1079,
+          "like_count": 23716,
+          "listed_count": 49,
+          "media_count": 2656,
+          "tweet_count": 30222
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

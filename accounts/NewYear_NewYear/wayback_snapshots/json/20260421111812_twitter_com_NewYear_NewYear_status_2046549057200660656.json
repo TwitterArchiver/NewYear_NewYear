@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2046240673003917576",
+    "created_at": "2026-04-21T11:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T12:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046549057200660656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1551716556857810944",
+          "start": 0,
+          "username": "PalomoLim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046549057200660656",
+    "in_reply_to_user_id": "1551716556857810944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046240673003917576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PalomoLim 就连这条推文也好几个机器人🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2046240670264999936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGW1DFQaQAAtrQv.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2046240673003917576",
+        "created_at": "2026-04-21T11:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046549057200660656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1551716556857810944",
+              "start": 0,
+              "username": "PalomoLim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046549057200660656",
+        "in_reply_to_user_id": "1551716556857810944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046240673003917576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PalomoLim 就连这条推文也好几个机器人🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046240670264999936"
+          ]
+        },
+        "author_id": "1551716556857810944",
+        "conversation_id": "2046240673003917576",
+        "created_at": "2026-04-20T14:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046240673003917576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pjwdc21X0T",
+              "end": 58,
+              "expanded_url": "https://x.com/PalomoLim/status/2046240673003917576/photo/1",
+              "media_key": "3_2046240670264999936",
+              "start": 35,
+              "url": "https://t.co/pjwdc21X0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046240673003917576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "机器人一直骚扰我好烦真的好烦，我看小铃铛数字超过5以为我要当大明星了 https://t.co/pjwdc21X0T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2046548745811382505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 217,
+          "like_count": 3044,
+          "listed_count": 1,
+          "media_count": 653,
+          "tweet_count": 2968
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T23:50:42.000Z",
+        "description": "亡灵坐在树底下叹息，想要与亡灵相处的话不妨与我通灵 ｜ 一个人精通一切而不认识祢，是不幸的，相反，不知道一切而能认识祢是有福的 ｜天才大猫小猫咪@119calling_ 😼 @nekodoby_ | 公台，今日之事如何呀 @chengong777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "119calling_"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "nekodoby_"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "chengong777"
+              }
+            ]
+          }
+        },
+        "id": "1551716556857810944",
+        "location": "Je pense,donc je suis",
+        "name": "鸽探哈密瓜",
+        "pinned_tweet_id": "2029951239061131710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987172366062133250/vBjhRPey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 476,
+          "like_count": 47135,
+          "listed_count": 7,
+          "media_count": 944,
+          "tweet_count": 8118
+        },
+        "username": "PalomoLim",
+        "verified": false
+      }
+    ]
+  }
+}

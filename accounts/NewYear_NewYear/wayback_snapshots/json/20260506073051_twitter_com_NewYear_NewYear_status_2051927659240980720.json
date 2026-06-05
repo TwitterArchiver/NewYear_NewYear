@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2051927659240980720",
+    "created_at": "2026-05-06T07:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T08:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051927659240980720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/2051926244879683934",
+          "start": 22,
+          "url": "https://t.co/wLnbOxLqih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051927659240980720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051926244879683934",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃呃，我最后买了一瓶阿萨姆奶茶，茉莉奶绿味 https://t.co/wLnbOxLqih"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2051927659240980720",
+        "created_at": "2026-05-06T07:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051927659240980720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/2051926244879683934",
+              "start": 22,
+              "url": "https://t.co/wLnbOxLqih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051927659240980720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051926244879683934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃呃，我最后买了一瓶阿萨姆奶茶，茉莉奶绿味 https://t.co/wLnbOxLqih"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2051926244879683934",
+        "created_at": "2026-05-06T07:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051926244879683934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051926244879683934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊好想和可乐，但是这段时间一直在喝可乐不能喝了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 272,
+          "like_count": 4219,
+          "listed_count": 1,
+          "media_count": 718,
+          "tweet_count": 3609
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jun 18 18:06:58 +0000 2021",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/pU6nzGe4FA",
+        "expanded_url": "https://twitter.com/yoshloops/status/1405726233321562114/video/1",
+        "id": 1405726214401130496,
+        "id_str": "1405726214401130496",
+        "indices": [
+          81,
+          104
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1405726214401130496/pu/img/mlw26nmS4P2uMuDh.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1405726214401130496/pu/img/mlw26nmS4P2uMuDh.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1405726233321562114,
+        "source_status_id_str": "1405726233321562114",
+        "source_user_id": 1292010529184129024,
+        "source_user_id_str": "1292010529184129024",
+        "type": "photo",
+        "url": "https://t.co/pU6nzGe4FA"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1296795503695237120,
+        "id_str": "1296795503695237120",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "⚡️𝘤𝘳𝘢𝘻𝘺 𝘭𝘰𝘷𝘦 𝘺𝘰𝘴𝘩𝘪 •ヨシ• 요시🐯👑✨",
+        "screen_name": "Haruhiyo__"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/pU6nzGe4FA",
+        "expanded_url": "https://twitter.com/yoshloops/status/1405726233321562114/video/1",
+        "id": 1405726214401130496,
+        "id_str": "1405726214401130496",
+        "indices": [
+          81,
+          104
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1405726214401130496/pu/img/mlw26nmS4P2uMuDh.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1405726214401130496/pu/img/mlw26nmS4P2uMuDh.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1405726233321562114,
+        "source_status_id_str": "1405726233321562114",
+        "source_user_id": 1292010529184129024,
+        "source_user_id_str": "1292010529184129024",
+        "type": "video",
+        "url": "https://t.co/pU6nzGe4FA",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 1602,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1405726214401130496/pu/vid/540x540/ZENPTHhyuo8z73i0.mp4?tag=12"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1405726214401130496/pu/vid/720x720/Mqg92-biIGz3C9OH.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1405726214401130496/pu/pl/oqnxxgdp0GsQd9kZ.m3u8?tag=12&container=fmp4"
+            },
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1405726214401130496/pu/vid/320x320/i7IWqDSJ3dXDi2jP.mp4?tag=12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1405950179174281220,
+  "id_str": "1405950179174281220",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "th",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 18 16:15:18 +0000 2021",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/pU6nzGe4FA",
+          "expanded_url": "https://twitter.com/yoshloops/status/1405726233321562114/video/1",
+          "id": 1405726214401130496,
+          "id_str": "1405726214401130496",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1405726214401130496/pu/img/mlw26nmS4P2uMuDh.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1405726214401130496/pu/img/mlw26nmS4P2uMuDh.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1405726233321562114,
+          "source_status_id_str": "1405726233321562114",
+          "source_user_id": 1292010529184129024,
+          "source_user_id_str": "1292010529184129024",
+          "type": "photo",
+          "url": "https://t.co/pU6nzGe4FA"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/pU6nzGe4FA",
+          "expanded_url": "https://twitter.com/yoshloops/status/1405726233321562114/video/1",
+          "id": 1405726214401130496,
+          "id_str": "1405726214401130496",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1405726214401130496/pu/img/mlw26nmS4P2uMuDh.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1405726214401130496/pu/img/mlw26nmS4P2uMuDh.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1405726233321562114,
+          "source_status_id_str": "1405726233321562114",
+          "source_user_id": 1292010529184129024,
+          "source_user_id_str": "1292010529184129024",
+          "type": "video",
+          "url": "https://t.co/pU6nzGe4FA",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 1602,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1405726214401130496/pu/vid/540x540/ZENPTHhyuo8z73i0.mp4?tag=12"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1405726214401130496/pu/vid/720x720/Mqg92-biIGz3C9OH.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1405726214401130496/pu/pl/oqnxxgdp0GsQd9kZ.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1405726214401130496/pu/vid/320x320/i7IWqDSJ3dXDi2jP.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 85,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1405922075693314049,
+    "id_str": "1405922075693314049",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "th",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 172,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "อย่าดุผมเยอะ เกร็งไม่ไหวแล้ว 5555555555555555 โยชิโพลุง อร่อยนะ  https://t.co/pU6nzGe4FA",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Aug 21 13:05:29 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Yoѕнι ; Please fall in love with me all the time ♡ โปรดคลั่งรักอย่างระมัดระวัง เจ้าชายโยชิโนริ ‘ #요시 🌈 #요시짱 🎸#요시어흥 🛹 #욧집 🍕🥓 #왜_요시를_좋아해 ❤️",
+      "favourites_count": 11838,
+      "follow_request_sent": null,
+      "followers_count": 3980,
+      "following": null,
+      "friends_count": 277,
+      "geo_enabled": false,
+      "id": 1296795503695237120,
+      "id_str": "1296795503695237120",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5,
+      "location": "𝑌𝑜𝑠𝘩𝑖𝑠𝑎𝘩𝑖𝑙𝑎𝑛𝑑 ✨",
+      "name": "⚡️𝘤𝘳𝘢𝘻𝘺 𝘭𝘰𝘷𝘦 𝘺𝘰𝘴𝘩𝘪 •ヨシ• 요시🐯👑✨",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1296795503695237120/1620566465",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1405808759079727113/Nlk9oq0l_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405808759079727113/Nlk9oq0l_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Haruhiyo__",
+      "statuses_count": 32380,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://twitter.com/Haruhiyo__/status/1344699781621288960?s=20",
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @Haruhiyo__: อย่าดุผมเยอะ เกร็งไม่ไหวแล้ว 5555555555555555 โยชิโพลุง อร่อยนะ  https://t.co/pU6nzGe4FA",
+  "timestamp_ms": "1624039618663",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี น้องเจคของอุนแม่",
+    "favourites_count": 10415,
+    "follow_request_sent": null,
+    "followers_count": 115,
+    "following": null,
+    "friends_count": 133,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "Ny",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1399063501109272581/xYvzN7do_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399063501109272581/xYvzN7do_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 15899,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

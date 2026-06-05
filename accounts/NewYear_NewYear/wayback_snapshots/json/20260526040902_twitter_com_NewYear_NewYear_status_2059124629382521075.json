@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2059112798450491594",
+    "created_at": "2026-05-26T04:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059124629382521075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1242408384336252929",
+          "start": 0,
+          "username": "A0LUxySUrldn9w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059124629382521075",
+    "in_reply_to_user_id": "1242408384336252929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059119189890084956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A0LUxySUrldn9w0 是的，所以我之前花了一年多的时间去学习各种知识🥺🥺🥺\n我是很投资保守的那种人，不过风险承担能力还行🥰\n不过还是谢谢提醒！🥰\n我上次确实飘飘然了，没有好好分析各种情况，第二天会看就发现其实不是很有概率涨，只是我定的止损是跌百分之十（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 501,
+        "media_key": "3_2059119181920940032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJN1_HyXMAAODX2.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2059112798450491594",
+        "created_at": "2026-05-26T04:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059124629382521075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1242408384336252929",
+              "start": 0,
+              "username": "A0LUxySUrldn9w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059124629382521075",
+        "in_reply_to_user_id": "1242408384336252929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059119189890084956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A0LUxySUrldn9w0 是的，所以我之前花了一年多的时间去学习各种知识🥺🥺🥺\n我是很投资保守的那种人，不过风险承担能力还行🥰\n不过还是谢谢提醒！🥰\n我上次确实飘飘然了，没有好好分析各种情况，第二天会看就发现其实不是很有概率涨，只是我定的止损是跌百分之十（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059119181920940032"
+          ]
+        },
+        "author_id": "1242408384336252929",
+        "conversation_id": "2059112798450491594",
+        "created_at": "2026-05-26T03:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059119189890084956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y9cgHW1Cfs",
+              "end": 49,
+              "expanded_url": "https://x.com/A0LUxySUrldn9w0/status/2059119189890084956/photo/1",
+              "media_key": "3_2059119181920940032",
+              "start": 26,
+              "url": "https://t.co/y9cgHW1Cfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059119189890084956",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059112798450491594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 一点风险提醒👉👈 https://t.co/y9cgHW1Cfs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 408,
+          "like_count": 7488,
+          "listed_count": 1,
+          "media_count": 814,
+          "tweet_count": 4860
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-24T11:10:26.000Z",
+        "description": "Hamilton faces an endless uphill climb",
+        "id": "1242408384336252929",
+        "location": "小马利亚",
+        "name": "花散里翎音",
+        "pinned_tweet_id": "2055581176719704119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055277906759417856/3R3p2LX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 441,
+          "like_count": 5339,
+          "listed_count": 1,
+          "media_count": 447,
+          "tweet_count": 3017
+        },
+        "username": "A0LUxySUrldn9w0",
+        "verified": false
+      }
+    ]
+  }
+}

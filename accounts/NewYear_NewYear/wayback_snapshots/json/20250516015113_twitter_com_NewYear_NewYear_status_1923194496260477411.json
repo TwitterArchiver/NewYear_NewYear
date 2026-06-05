@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1923078715937878312",
+    "created_at": "2025-05-16T01:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T02:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923194496260477411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923194496260477411",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923078715937878312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 特别好用！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1923078715937878312",
+        "created_at": "2025-05-16T01:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T02:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923194496260477411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923194496260477411",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923078715937878312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 特别好用！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1923078715937878312",
+        "created_at": "2025-05-15T18:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T19:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923078715937878312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Bigjpg - 使用人工智能深度卷積神經網絡（CNN）智能無損免費放大圖片，可放大4K級超高清分辨率（4000x4000）圖片，最大32倍放大,效果秒殺PhotoZoom放大。",
+              "display_url": "bigjpg.com/tw",
+              "end": 48,
+              "expanded_url": "http://bigjpg.com/tw",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/1923078632538271744/5nhg8Fxu?format=png&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1923078632538271744/5nhg8Fxu?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "Bigjpg - AI人工智能圖片無損放大 - 使用人工智能深度卷積神經網絡(CNN)無損放大圖片",
+              "unwound_url": "https://bigjpg.com/tw",
+              "url": "https://t.co/TbxcjzAq07"
+            },
+            {
+              "description": "电子包浆 图片绿化器 - 电子包浆生成器、图片虚拟做旧工具、图片绿化器、包浆生成、赛博做旧 - 神奇海螺实验室",
+              "display_url": "magiconch.com/patina/",
+              "end": 97,
+              "expanded_url": "http://magiconch.com/patina/",
+              "start": 74,
+              "status": 200,
+              "title": "电子包浆 图片做旧工具 赛博包浆虚拟器 - 神奇海螺实验室",
+              "unwound_url": "https://magiconch.com/patina/",
+              "url": "https://t.co/Gvs2yPpj8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923078715937878312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 377,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记录一下，都是【免费】\n\n可以放大图片降噪的网站\nhttps://t.co/TbxcjzAq07         \n\n可以把图片压缩画纸变糊的网站\nhttps://t.co/Gvs2yPpj8D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1923052462178435261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 139,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 215
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🪆我是爱礼请关注我哇/是碎碎念推和画画推/非常喜欢猫咪的人丨🦜嘤鹉：@SENDOH214丨 自用梯子：https://t.co/yyQ5wxPP3A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 74,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 51,
+                "url": "https://t.co/yyQ5wxPP3A"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1915444559724896676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41287,
+          "following_count": 1054,
+          "like_count": 23153,
+          "listed_count": 46,
+          "media_count": 2254,
+          "tweet_count": 27400
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

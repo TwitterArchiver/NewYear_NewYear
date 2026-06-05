@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1966657680086368766",
+    "created_at": "2025-09-14T08:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T09:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967147978600444094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1813550631879389184",
+          "start": 0,
+          "username": "bw7rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967147978600444094",
+    "in_reply_to_user_id": "1813550631879389184",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967147156307145113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bw7rei 😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1966657680086368766",
+        "created_at": "2025-09-14T08:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T09:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967147978600444094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1813550631879389184",
+              "start": 0,
+              "username": "bw7rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967147978600444094",
+        "in_reply_to_user_id": "1813550631879389184",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967147156307145113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bw7rei 😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813550631879389184",
+        "conversation_id": "1966657680086368766",
+        "created_at": "2025-09-14T08:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T09:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967147156307145113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967147156307145113",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966900450286072146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 我不中了，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号",
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 152,
+          "like_count": 204,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 876
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T12:25:53.000Z",
+        "description": "我要你看穿我，不是杀了我",
+        "id": "1813550631879389184",
+        "name": "Internet医学奇迹&萋晞",
+        "pinned_tweet_id": "1867173417952157864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867130640342077441/mBjiBjtg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 48,
+          "like_count": 1263,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 775
+        },
+        "username": "bw7rei",
+        "verified": false
+      }
+    ]
+  }
+}

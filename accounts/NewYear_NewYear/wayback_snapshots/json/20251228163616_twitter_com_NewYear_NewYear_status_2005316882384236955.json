@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2005315532485251344",
+    "created_at": "2025-12-28T16:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T17:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005316882384236955"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005316882384236955",
+    "in_reply_to_user_id": "1850587533924876288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005316332791931278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我强调说她不是基础不好，相反她基础不错，只是会和会用不一样，很多题我点一下关键点她就自己能做出来了\n但是她妈妈选择性的听到了“不会做题”，然后又开始说她不努力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2005315532485251344",
+        "created_at": "2025-12-28T16:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T17:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005316882384236955"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005316882384236955",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005316332791931278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我强调说她不是基础不好，相反她基础不错，只是会和会用不一样，很多题我点一下关键点她就自己能做出来了\n但是她妈妈选择性的听到了“不会做题”，然后又开始说她不努力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2005315532485251344",
+        "created_at": "2025-12-28T16:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T17:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005316332791931278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005316332791931278",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005315532485251344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有每周给她布置一些题目，我选的题目都是中档题以上有代表性的，每周多的时候三科一起能有四五十道，她作为一个高三生，在完成学校作业后还要做我布置的作业，本来就很辛苦很努力了\n并且考试结果也还是挺不错的，数学考的挺不错的，物理化学虽然没怎么进步，但是就平时的作业来看懂的确实比之前多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 174,
+          "like_count": 1247,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 1822
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

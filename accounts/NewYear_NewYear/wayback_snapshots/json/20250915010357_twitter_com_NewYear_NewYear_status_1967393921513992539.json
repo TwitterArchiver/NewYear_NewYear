@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1967181567039533056"
+      ],
+      "media_source_tweet_id": [
+        "1967181613856330205"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1967393921513992539",
+    "created_at": "2025-09-15T01:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T02:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967393921513992539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1408480800438374406",
+          "start": 3,
+          "username": "contextdogs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AREAmgreFo",
+          "end": 40,
+          "expanded_url": "https://x.com/contextdogs/status/1967181613856330205/video/1",
+          "media_key": "7_1967181567039533056",
+          "start": 17,
+          "url": "https://t.co/AREAmgreFo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967393921513992539",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8234
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967181613856330205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @contextdogs: https://t.co/AREAmgreFo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30004,
+        "height": 1280,
+        "media_key": "7_1967181567039533056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1967181567039533056/pu/img/8Xwpt1uF6EMV7N3_.jpg",
+        "public_metrics": {
+          "view_count": 2201714
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967181567039533056/pu/vid/avc1/320x568/CE8k3VLHRqJOSXGL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967181567039533056/pu/vid/avc1/480x852/Fa6lUTgwn8RBEWnG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967181567039533056/pu/vid/avc1/720x1280/tSFlSoWUjb1sJ58C.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1967181567039533056/pu/pl/FzYe92Bwv1rch5ZS.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1967181567039533056"
+          ],
+          "media_source_tweet_id": [
+            "1967181613856330205"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1967393921513992539",
+        "created_at": "2025-09-15T01:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T02:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967393921513992539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1408480800438374406",
+              "start": 3,
+              "username": "contextdogs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AREAmgreFo",
+              "end": 40,
+              "expanded_url": "https://x.com/contextdogs/status/1967181613856330205/video/1",
+              "media_key": "7_1967181567039533056",
+              "start": 17,
+              "url": "https://t.co/AREAmgreFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967393921513992539",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8234
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967181613856330205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @contextdogs: https://t.co/AREAmgreFo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1967181567039533056"
+          ]
+        },
+        "author_id": "1408480800438374406",
+        "conversation_id": "1967181613856330205",
+        "created_at": "2025-09-14T11:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967181613856330205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AREAmgreFo",
+              "end": 23,
+              "expanded_url": "https://x.com/contextdogs/status/1967181613856330205/video/1",
+              "media_key": "7_1967181567039533056",
+              "start": 0,
+              "url": "https://t.co/AREAmgreFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967181613856330205",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11689,
+          "impression_count": 3112840,
+          "like_count": 123597,
+          "quote_count": 348,
+          "reply_count": 199,
+          "retweet_count": 8234
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AREAmgreFo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 153,
+          "like_count": 223,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 901
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-25T17:42:52.000Z",
+        "description": "follow us for daily dog Content 🐶| Dm for credit and removals | @gifpuppies",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "gifpuppies"
+              }
+            ]
+          }
+        },
+        "id": "1408480800438374406",
+        "location": "Turn on notifs 🔔",
+        "name": "out of context dogs",
+        "pinned_tweet_id": "1967151399180857826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866066885680214016/4a-c7mJy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008070,
+          "following_count": 918,
+          "like_count": 12110,
+          "listed_count": 3463,
+          "media_count": 18565,
+          "tweet_count": 19004
+        },
+        "username": "contextdogs",
+        "verified": true
+      }
+    ]
+  }
+}

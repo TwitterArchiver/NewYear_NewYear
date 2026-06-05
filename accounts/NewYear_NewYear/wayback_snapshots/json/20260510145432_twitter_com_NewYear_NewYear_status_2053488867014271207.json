@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2053487133235859676",
+    "created_at": "2026-05-10T14:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053488867014271207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1989965282799226880",
+          "start": 0,
+          "username": "DQadopt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053488867014271207",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053487133235859676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DQadopt 好幸福"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053487079661977600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9znn4bQAA8oMa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053487079645192192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9znn0bIAABdsT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053487079661899776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9znn4aEAAqlug.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2053487133235859676",
+        "created_at": "2026-05-10T14:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053488867014271207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053488867014271207",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053487133235859676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 好幸福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053487079661977600",
+            "3_2053487079645192192",
+            "3_2053487079661899776"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2053487133235859676",
+        "created_at": "2026-05-10T14:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053487133235859676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NurFlVxg9k",
+              "end": 132,
+              "expanded_url": "https://x.com/DQadopt/status/2053487133235859676/photo/1",
+              "media_key": "3_2053487079661977600",
+              "start": 109,
+              "url": "https://t.co/NurFlVxg9k"
+            },
+            {
+              "display_url": "pic.x.com/NurFlVxg9k",
+              "end": 132,
+              "expanded_url": "https://x.com/DQadopt/status/2053487133235859676/photo/1",
+              "media_key": "3_2053487079645192192",
+              "start": 109,
+              "url": "https://t.co/NurFlVxg9k"
+            },
+            {
+              "display_url": "pic.x.com/NurFlVxg9k",
+              "end": 132,
+              "expanded_url": "https://x.com/DQadopt/status/2053487133235859676/photo/1",
+              "media_key": "3_2053487079661899776",
+              "start": 109,
+              "url": "https://t.co/NurFlVxg9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053487133235859676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啦啦啦女朋友送的生日礼物啦啦啦\n好多漂亮东西还有电子书！不过最近一直和小鸟黏在一起都没心思看书了！\n小鸟找不到的剪刀被我不小心带回乐山了））））\n鸟知道我想纹身穿孔，给我送了花臂冰袖，还有亚比穿孔咸鱼挂件，不愧是小鸟 https://t.co/NurFlVxg9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 302,
+          "like_count": 5054,
+          "listed_count": 1,
+          "media_count": 738,
+          "tweet_count": 3912
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269,
+          "following_count": 339,
+          "like_count": 3378,
+          "listed_count": 1,
+          "media_count": 364,
+          "tweet_count": 3978
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

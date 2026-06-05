@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054389128805117952",
+        "3_2054389129446834176"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054389259407433840",
+    "created_at": "2026-05-13T02:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T03:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054389259407433840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QKqAKy4g2c",
+          "end": 52,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2054389259407433840/photo/1",
+          "media_key": "3_2054389128805117952",
+          "start": 29,
+          "url": "https://t.co/QKqAKy4g2c"
+        },
+        {
+          "display_url": "pic.x.com/QKqAKy4g2c",
+          "end": 52,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2054389259407433840/photo/1",
+          "media_key": "3_2054389129446834176",
+          "start": 29,
+          "url": "https://t.co/QKqAKy4g2c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054389259407433840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我昨天设置的条件单，刚刚通知我卖掉了\n一看正好是最高点😋 https://t.co/QKqAKy4g2c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1039,
+        "media_key": "3_2054389128805117952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKoByzacAA5jdI.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054389129446834176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKoB1MaQAAom5e.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054389128805117952",
+            "3_2054389129446834176"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054389259407433840",
+        "created_at": "2026-05-13T02:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054389259407433840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QKqAKy4g2c",
+              "end": 52,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2054389259407433840/photo/1",
+              "media_key": "3_2054389128805117952",
+              "start": 29,
+              "url": "https://t.co/QKqAKy4g2c"
+            },
+            {
+              "display_url": "pic.x.com/QKqAKy4g2c",
+              "end": 52,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2054389259407433840/photo/1",
+              "media_key": "3_2054389129446834176",
+              "start": 29,
+              "url": "https://t.co/QKqAKy4g2c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054389259407433840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我昨天设置的条件单，刚刚通知我卖掉了\n一看正好是最高点😋 https://t.co/QKqAKy4g2c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 340,
+          "like_count": 5813,
+          "listed_count": 1,
+          "media_count": 749,
+          "tweet_count": 4097
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

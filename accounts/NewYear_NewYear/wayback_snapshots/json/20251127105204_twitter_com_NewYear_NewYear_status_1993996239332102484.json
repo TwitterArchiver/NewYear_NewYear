@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1993776190767702016"
+      ],
+      "media_source_tweet_id": [
+        "1993824591299690561"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1993996239332102484",
+    "created_at": "2025-11-27T10:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T11:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993996239332102484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1842611263098028032",
+          "start": 3,
+          "username": "CuteAdorableCat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9FfboLNIDU",
+          "end": 44,
+          "expanded_url": "https://x.com/CuteAdorableCat/status/1993824591299690561/video/1",
+          "media_key": "13_1993776190767702016",
+          "start": 21,
+          "url": "https://t.co/9FfboLNIDU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993996239332102484",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 917
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993824591299690561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteAdorableCat: https://t.co/9FfboLNIDU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9102,
+        "height": 1280,
+        "media_key": "13_1993776190767702016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993776190767702016/img/AkeucJAWgerQ6QSR.jpg",
+        "public_metrics": {
+          "view_count": 28362
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993776190767702016/vid/avc1/320x568/xIXabq8qbW0fZbfg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993776190767702016/vid/avc1/480x852/v2WXCPHMlobgwdwh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993776190767702016/vid/avc1/720x1280/zKxTlDhpZOO9w9le.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993776190767702016/pl/YXInsujsBZ978fT3.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993776190767702016"
+          ],
+          "media_source_tweet_id": [
+            "1993824591299690561"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993996239332102484",
+        "created_at": "2025-11-27T10:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T11:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993996239332102484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1842611263098028032",
+              "start": 3,
+              "username": "CuteAdorableCat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9FfboLNIDU",
+              "end": 44,
+              "expanded_url": "https://x.com/CuteAdorableCat/status/1993824591299690561/video/1",
+              "media_key": "13_1993776190767702016",
+              "start": 21,
+              "url": "https://t.co/9FfboLNIDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993996239332102484",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 917
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993824591299690561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CuteAdorableCat: https://t.co/9FfboLNIDU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993776190767702016"
+          ]
+        },
+        "author_id": "1842611263098028032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993824591299690561",
+        "created_at": "2025-11-26T23:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T00:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993824591299690561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9FfboLNIDU",
+              "end": 23,
+              "expanded_url": "https://x.com/CuteAdorableCat/status/1993824591299690561/video/1",
+              "media_key": "13_1993776190767702016",
+              "start": 0,
+              "url": "https://t.co/9FfboLNIDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993824591299690561",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 333,
+          "impression_count": 96987,
+          "like_count": 5334,
+          "quote_count": 37,
+          "reply_count": 7,
+          "retweet_count": 917
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9FfboLNIDU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 164,
+          "like_count": 983,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 1639
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T17:02:59.000Z",
+        "description": "Follow for daily Cute and Adorable cats 😍😍",
+        "id": "1842611263098028032",
+        "location": "DM for credit or removal",
+        "name": "Cats That Make You Go Awww",
+        "pinned_tweet_id": "1981005119656493235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843711142985662464/U8MZHcte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53863,
+          "following_count": 3202,
+          "like_count": 8311,
+          "listed_count": 137,
+          "media_count": 6422,
+          "tweet_count": 12278
+        },
+        "username": "CuteAdorableCat",
+        "verified": true
+      }
+    ]
+  }
+}

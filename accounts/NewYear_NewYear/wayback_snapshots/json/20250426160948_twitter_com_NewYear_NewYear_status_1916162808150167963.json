@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1916162808150167963",
+    "created_at": "2025-04-26T16:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T17:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916162808150167963"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1916162808150167963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在专门发图片的小号开了一个抽奖\n一共设立了四个奖项，然后只有四个人参与，感觉也就那样了，没有流量就没有流量吧，就随便发一发图片就好啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1916162808150167963",
+        "created_at": "2025-04-26T16:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T17:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916162808150167963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916162808150167963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在专门发图片的小号开了一个抽奖\n一共设立了四个奖项，然后只有四个人参与，感觉也就那样了，没有流量就没有流量吧，就随便发一发图片就好啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850587758617890816/1iNTpnM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 131,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 108
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

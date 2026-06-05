@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009266578307915777"
+      ],
+      "media_source_tweet_id": [
+        "2009266584833900754"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2009503555632406741",
+    "created_at": "2026-01-09T05:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T06:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009503555632406741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1258032566801555458",
+          "start": 3,
+          "username": "minima_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4mryLCgqv1",
+          "end": 38,
+          "expanded_url": "https://x.com/minima_ai/status/2009266584833900754/photo/1",
+          "media_key": "3_2009266578307915777",
+          "start": 15,
+          "url": "https://t.co/4mryLCgqv1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009503555632406741",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1453
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009266584833900754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minima_ai: https://t.co/4mryLCgqv1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2009266578307915777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JZTrMboAExiTG.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009266578307915777"
+          ],
+          "media_source_tweet_id": [
+            "2009266584833900754"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2009503555632406741",
+        "created_at": "2026-01-09T05:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009503555632406741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1258032566801555458",
+              "start": 3,
+              "username": "minima_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mryLCgqv1",
+              "end": 38,
+              "expanded_url": "https://x.com/minima_ai/status/2009266584833900754/photo/1",
+              "media_key": "3_2009266578307915777",
+              "start": 15,
+              "url": "https://t.co/4mryLCgqv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009503555632406741",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1453
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009266584833900754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minima_ai: https://t.co/4mryLCgqv1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009266578307915777"
+          ]
+        },
+        "author_id": "1258032566801555458",
+        "conversation_id": "2009266584833900754",
+        "created_at": "2026-01-08T14:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009266584833900754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mryLCgqv1",
+              "end": 23,
+              "expanded_url": "https://x.com/minima_ai/status/2009266584833900754/photo/1",
+              "media_key": "3_2009266578307915777",
+              "start": 0,
+              "url": "https://t.co/4mryLCgqv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009266584833900754",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1816,
+          "impression_count": 148982,
+          "like_count": 22717,
+          "quote_count": 11,
+          "reply_count": 10,
+          "retweet_count": 1453
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4mryLCgqv1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 177,
+          "like_count": 1332,
+          "listed_count": 1,
+          "media_count": 448,
+          "tweet_count": 1884
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-06T13:55:20.000Z",
+        "description": "noise composer (1i) | AI画像+音楽 #SunRraiz Portfolio : https://t.co/cyyvEQuIex",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 30,
+                "tag": "SunRraiz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "minimas.notion.site/MINIMA-Portfol…",
+                "end": 75,
+                "expanded_url": "https://minimas.notion.site/MINIMA-Portfolio-2a4a94aab829802997b5efc9eec83531",
+                "start": 52,
+                "url": "https://t.co/cyyvEQuIex"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minimas.notion.site/MINIMA-Portfol…",
+                "end": 23,
+                "expanded_url": "https://minimas.notion.site/MINIMA-Portfolio-2a4a94aab829802997b5efc9eec83531",
+                "start": 0,
+                "url": "https://t.co/cyyvEQuIex"
+              }
+            ]
+          }
+        },
+        "id": "1258032566801555458",
+        "location": "高知県",
+        "name": "MINIMA",
+        "pinned_tweet_id": "2001572173945909697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963906184802693120/xqXllyV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7250,
+          "following_count": 734,
+          "like_count": 22743,
+          "listed_count": 78,
+          "media_count": 2831,
+          "tweet_count": 4426
+        },
+        "url": "https://t.co/cyyvEQuIex",
+        "username": "minima_ai",
+        "verified": true
+      }
+    ]
+  }
+}

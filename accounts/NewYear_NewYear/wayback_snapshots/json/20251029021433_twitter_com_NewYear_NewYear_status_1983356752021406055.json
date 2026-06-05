@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1983118644499624371",
+    "created_at": "2025-10-29T02:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T03:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983356752021406055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877920276316585984",
+          "start": 0,
+          "username": "CelestialSayuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983356752021406055",
+    "in_reply_to_user_id": "1877920276316585984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983118644499624371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CelestialSayuki 为什么要赔钱🥺🥺🥺\n你的手机坏了应该是他赔你钱才对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983118636215873541",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Vz5IMasAUKcSs.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1983118644499624371",
+        "created_at": "2025-10-29T02:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T03:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983356752021406055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877920276316585984",
+              "start": 0,
+              "username": "CelestialSayuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983356752021406055",
+        "in_reply_to_user_id": "1877920276316585984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983118644499624371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CelestialSayuki 为什么要赔钱🥺🥺🥺\n你的手机坏了应该是他赔你钱才对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983118636215873541"
+          ]
+        },
+        "author_id": "1877920276316585984",
+        "conversation_id": "1983118644499624371",
+        "created_at": "2025-10-28T10:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983118644499624371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5vU5Mb7NE",
+              "end": 104,
+              "expanded_url": "https://x.com/CelestialSayuki/status/1983118644499624371/photo/1",
+              "media_key": "3_1983118636215873541",
+              "start": 81,
+              "url": "https://t.co/O5vU5Mb7NE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983118644499624371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被电动车撞了\n大致就是，从学校西二门出来，因为只有过街天桥，没法过到对面，非机动车道逆行，然后电动车从机动车道变道进来给我撞了\n唉，还得赔钱，手机也碎了，腿还疼 https://t.co/O5vU5Mb7NE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 161,
+          "like_count": 741,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 1437
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T03:27:49.000Z",
+        "description": "19岁 | 神人 | 🏳️‍⚧️, 不含🍥 (永不翻车) | 喜欢可爱的一切🥰 | 想找对象😭 | 想和大家做朋友 | 随机回fo | 笨蛋xyn @ecwang1145 | https://t.co/VMTivG8tuz 牛马维护者 | 简介不定期更新",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "ecwang1145"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "infodrop.cn",
+                "end": 111,
+                "expanded_url": "http://infodrop.cn",
+                "start": 88,
+                "url": "https://t.co/VMTivG8tuz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "infodrop.cn",
+                "end": 23,
+                "expanded_url": "http://infodrop.cn/",
+                "start": 0,
+                "url": "https://t.co/H6wcSAz5IC"
+              }
+            ]
+          }
+        },
+        "id": "1877920276316585984",
+        "location": " Celestial Ethereal Labs",
+        "name": "Celestial紗雪",
+        "pinned_tweet_id": "1973418421938532376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879836377480900608/zKNfkNH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 81,
+          "like_count": 1024,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1809
+        },
+        "url": "https://t.co/H6wcSAz5IC",
+        "username": "CelestialSayuki",
+        "verified": false
+      }
+    ]
+  }
+}

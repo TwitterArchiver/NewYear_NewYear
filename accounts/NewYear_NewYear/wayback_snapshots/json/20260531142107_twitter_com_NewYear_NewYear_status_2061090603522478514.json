@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2060805953302266207",
+    "created_at": "2026-05-31T14:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061090603522478514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1944989354239385600",
+          "start": 0,
+          "username": "123mp27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061090603522478514",
+    "in_reply_to_user_id": "1944989354239385600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060805953302266207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123mp27 我抓过屎\n我妹妹特别小的时候可能是尿不湿没包好有一小坨掉在地板上\n我特别好奇的抓起来就是细细端详然后放到鼻子下面闻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2060805953302266207",
+        "created_at": "2026-05-31T14:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061090603522478514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1944989354239385600",
+              "start": 0,
+              "username": "123mp27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061090603522478514",
+        "in_reply_to_user_id": "1944989354239385600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060805953302266207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123mp27 我抓过屎\n我妹妹特别小的时候可能是尿不湿没包好有一小坨掉在地板上\n我特别好奇的抓起来就是细细端详然后放到鼻子下面闻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944989354239385600",
+        "conversation_id": "2060805953302266207",
+        "created_at": "2026-05-30T19:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060805953302266207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060805953302266207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 732,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "讲讲你的黑历史吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 441,
+          "like_count": 8974,
+          "listed_count": 1,
+          "media_count": 873,
+          "tweet_count": 5545
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T05:16:48.000Z",
+        "description": "11年落地组装在河北承德，现居辽宁朝阳(intp)\n/欢迎私信，接受宣泄和游戏，不会泄露\n/实名王艳阳\n/我是低龄大傻逼\n/温和好猫！\n/匿名消息https://t.co/bvZlqGL5P2\n咪~\n我是臭傻逼操你妈",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/123mp27",
+                "end": 96,
+                "expanded_url": "https://ngl.link/123mp27",
+                "start": 73,
+                "url": "https://t.co/bvZlqGL5P2"
+              }
+            ]
+          }
+        },
+        "id": "1944989354239385600",
+        "location": "互fo需要查成分",
+        "name": "Rana (诈尸",
+        "pinned_tweet_id": "2052972523311042954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022327136024252416/SQnOL9qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 557,
+          "like_count": 7860,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 3983
+        },
+        "username": "123mp27",
+        "verified": false
+      }
+    ]
+  }
+}

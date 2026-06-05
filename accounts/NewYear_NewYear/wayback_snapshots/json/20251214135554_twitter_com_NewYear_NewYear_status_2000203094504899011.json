@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2000203094504899011",
+    "created_at": "2025-12-14T13:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T14:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000203094504899011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/2000201560828387343",
+          "start": 32,
+          "url": "https://t.co/gIjYW3IaWK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000203094504899011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000201560828387343",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想吃炸鸡所以特别快的走过去了，只花了七分钟\n我已经拿到炸鸡了 https://t.co/gIjYW3IaWK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2000203094504899011",
+        "created_at": "2025-12-14T13:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T14:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000203094504899011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/2000201560828387343",
+              "start": 32,
+              "url": "https://t.co/gIjYW3IaWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000203094504899011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000201560828387343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想吃炸鸡所以特别快的走过去了，只花了七分钟\n我已经拿到炸鸡了 https://t.co/gIjYW3IaWK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2000201560828387343",
+        "created_at": "2025-12-14T13:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T14:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000201560828387343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000201560828387343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的外卖到了，但是我刚刚忙完，从这里走过去要十多分钟\n\n不过还好，最起码事情做完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 169,
+          "like_count": 1174,
+          "listed_count": 1,
+          "media_count": 412,
+          "tweet_count": 1770
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

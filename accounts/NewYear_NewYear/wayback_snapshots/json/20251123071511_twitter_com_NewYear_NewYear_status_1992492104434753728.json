@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1992492048386293760"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1992492104434753728",
+    "created_at": "2025-11-23T07:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T08:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992492104434753728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8t6EVJHeO1",
+          "end": 30,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1992492104434753728/video/1",
+          "media_key": "7_1992492048386293760",
+          "start": 7,
+          "url": "https://t.co/8t6EVJHeO1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992492104434753728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "麻薯，弹弹的 https://t.co/8t6EVJHeO1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1965,
+        "height": 1280,
+        "media_key": "7_1992492048386293760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1992492048386293760/pu/img/-fTt4JfznniFITp7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992492048386293760/pu/vid/avc1/320x568/0pxzqVgaljvIIva7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992492048386293760/pu/vid/avc1/480x852/ESj-jeXNlGN91Azq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992492048386293760/pu/vid/avc1/720x1280/vtIKY8wjE-OohsTM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1992492048386293760/pu/pl/WVKyHy5zG0qZL0H0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1992492048386293760"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1992492104434753728",
+        "created_at": "2025-11-23T07:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992492104434753728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8t6EVJHeO1",
+              "end": 30,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1992492104434753728/video/1",
+              "media_key": "7_1992492048386293760",
+              "start": 7,
+              "url": "https://t.co/8t6EVJHeO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992492104434753728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麻薯，弹弹的 https://t.co/8t6EVJHeO1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 164,
+          "like_count": 959,
+          "listed_count": 1,
+          "media_count": 371,
+          "tweet_count": 1618
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

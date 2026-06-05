@@ -1,0 +1,402 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue May 18 05:21:55 +0000 2021",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/0P3rAfbWl7",
+        "expanded_url": "https://twitter.com/stocksthatcanbe/status/1394513523359633410/video/1",
+        "id": 1394513484608536584,
+        "id_str": "1394513484608536584",
+        "indices": [
+          46,
+          69
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1394513484608536584/pu/img/jlUvb7RAw3EZimjg.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1394513484608536584/pu/img/jlUvb7RAw3EZimjg.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1394513523359633410,
+        "source_status_id_str": "1394513523359633410",
+        "source_user_id": 1284476644233629698,
+        "source_user_id_str": "1284476644233629698",
+        "type": "photo",
+        "url": "https://t.co/0P3rAfbWl7"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1329368373906399238,
+        "id_str": "1329368373906399238",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "⋆",
+        "screen_name": "daily_jakehoon"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/0P3rAfbWl7",
+        "expanded_url": "https://twitter.com/stocksthatcanbe/status/1394513523359633410/video/1",
+        "id": 1394513484608536584,
+        "id_str": "1394513484608536584",
+        "indices": [
+          46,
+          69
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1394513484608536584/pu/img/jlUvb7RAw3EZimjg.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1394513484608536584/pu/img/jlUvb7RAw3EZimjg.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1394513523359633410,
+        "source_status_id_str": "1394513523359633410",
+        "source_user_id": 1284476644233629698,
+        "source_user_id_str": "1284476644233629698",
+        "type": "video",
+        "url": "https://t.co/0P3rAfbWl7",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 3100,
+          "variants": [
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1394513484608536584/pu/vid/320x320/Zj8PfkIeCdinl1dE.mp4?tag=12"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1394513484608536584/pu/vid/720x720/rZGSQxO445oySpZG.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1394513484608536584/pu/pl/MnZ8GFTZqsf32xQ8.m3u8?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1394513484608536584/pu/vid/540x540/SnW03KCQQfTRpUZn.mp4?tag=12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1394523624191627264,
+  "id_str": "1394523624191627264",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "fi",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 18 04:46:28 +0000 2021",
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/0P3rAfbWl7",
+          "expanded_url": "https://twitter.com/stocksthatcanbe/status/1394513523359633410/video/1",
+          "id": 1394513484608536584,
+          "id_str": "1394513484608536584",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1394513484608536584/pu/img/jlUvb7RAw3EZimjg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1394513484608536584/pu/img/jlUvb7RAw3EZimjg.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1394513523359633410,
+          "source_status_id_str": "1394513523359633410",
+          "source_user_id": 1284476644233629698,
+          "source_user_id_str": "1284476644233629698",
+          "type": "photo",
+          "url": "https://t.co/0P3rAfbWl7"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/0P3rAfbWl7",
+          "expanded_url": "https://twitter.com/stocksthatcanbe/status/1394513523359633410/video/1",
+          "id": 1394513484608536584,
+          "id_str": "1394513484608536584",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1394513484608536584/pu/img/jlUvb7RAw3EZimjg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1394513484608536584/pu/img/jlUvb7RAw3EZimjg.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1394513523359633410,
+          "source_status_id_str": "1394513523359633410",
+          "source_user_id": 1284476644233629698,
+          "source_user_id_str": "1284476644233629698",
+          "type": "video",
+          "url": "https://t.co/0P3rAfbWl7",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 3100,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1394513484608536584/pu/vid/320x320/Zj8PfkIeCdinl1dE.mp4?tag=12"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1394513484608536584/pu/vid/720x720/rZGSQxO445oySpZG.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1394513484608536584/pu/pl/MnZ8GFTZqsf32xQ8.m3u8?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1394513484608536584/pu/vid/540x540/SnW03KCQQfTRpUZn.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 521,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1394514701459984391,
+    "id_str": "1394514701459984391",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fi",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 3,
+    "reply_count": 0,
+    "retweet_count": 205,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "jakehoon marvel fans wbk  https://t.co/0P3rAfbWl7",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Nov 19 10:18:30 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "— for #제이크 & #박성훈: support system.\n\n\n\n\n @1508FOLDER",
+      "favourites_count": 2352,
+      "follow_request_sent": null,
+      "followers_count": 5932,
+      "following": null,
+      "friends_count": 126,
+      "geo_enabled": false,
+      "id": 1329368373906399238,
+      "id_str": "1329368373906399238",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 132,
+      "location": "201223 ♡",
+      "name": "⋆",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1329368373906399238/1616326194",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1379086224674095104/yx-UG8sI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379086224674095104/yx-UG8sI_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "daily_jakehoon",
+      "statuses_count": 4240,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://soulmates.xn--jhfz3g/",
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @daily_jakehoon: jakehoon marvel fans wbk  https://t.co/0P3rAfbWl7",
+  "timestamp_ms": "1621315315660",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี น้องเจคของอุนแม่",
+    "favourites_count": 7846,
+    "follow_request_sent": null,
+    "followers_count": 111,
+    "following": null,
+    "friends_count": 121,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "แฮปปี้นิวเยียร์แห่งจักรวาล",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1393288207068893185/M3fkxnJi_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393288207068893185/M3fkxnJi_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 11908,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

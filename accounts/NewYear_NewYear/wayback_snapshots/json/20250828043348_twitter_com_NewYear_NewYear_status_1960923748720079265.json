@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1960871213380853856",
+    "created_at": "2025-08-28T04:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T05:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960923748720079265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1550497389743521792",
+          "start": 0,
+          "username": "shangli02234875"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960923748720079265",
+    "in_reply_to_user_id": "1550497389743521792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960871213380853856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shangli02234875 我也想这样……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1960871213380853856",
+        "created_at": "2025-08-28T04:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T05:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960923748720079265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1550497389743521792",
+              "start": 0,
+              "username": "shangli02234875"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960923748720079265",
+        "in_reply_to_user_id": "1550497389743521792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960871213380853856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shangli02234875 我也想这样……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550497389743521792",
+        "conversation_id": "1960871213380853856",
+        "created_at": "2025-08-28T01:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T02:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960871213380853856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960871213380853856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的好想有人陪我玩陪我od陪我割手但是我没有 为什么我不能健全一点不割手不od了好好上学 刚刚我把我qq微信抖音什么社交平台都注销了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 142,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 473
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T15:06:08.000Z",
+        "description": "可以叫我百合/4u 随意称呼～谢谢你的注意",
+        "id": "1550497389743521792",
+        "name": "uuuux4u",
+        "pinned_tweet_id": "1958247813281988641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956637214508781568/hs0d8FSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 20,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 46
+        },
+        "username": "shangli02234875",
+        "verified": false
+      }
+    ]
+  }
+}

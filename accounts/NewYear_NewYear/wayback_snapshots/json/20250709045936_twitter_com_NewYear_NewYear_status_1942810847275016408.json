@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1942810738843869186"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1942810847275016408",
+    "created_at": "2025-07-09T04:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T05:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942810847275016408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3ACkFZ9wd0",
+          "end": 33,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1942810847275016408/video/1",
+          "media_key": "7_1942810738843869186",
+          "start": 10,
+          "url": "https://t.co/3ACkFZ9wd0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942810847275016408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好像没有发过这个 https://t.co/3ACkFZ9wd0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5046,
+        "height": 720,
+        "media_key": "7_1942810738843869186",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1942810738843869186/pu/img/sUAxmygq2P4VzEkp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942810738843869186/pu/vid/avc1/480x270/Em-SSbDQW2b83UZA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942810738843869186/pu/vid/avc1/640x360/FtXJomtxCA5_udGC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942810738843869186/pu/vid/avc1/1280x720/g5TSFl2wpPNKsF3-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1942810738843869186/pu/pl/ZwOTxMlzr1SrVYk6.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1942810738843869186"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1942810847275016408",
+        "created_at": "2025-07-09T04:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T05:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942810847275016408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ACkFZ9wd0",
+              "end": 33,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1942810847275016408/video/1",
+              "media_key": "7_1942810738843869186",
+              "start": 10,
+              "url": "https://t.co/3ACkFZ9wd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942810847275016408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像没有发过这个 https://t.co/3ACkFZ9wd0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 141,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 396
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

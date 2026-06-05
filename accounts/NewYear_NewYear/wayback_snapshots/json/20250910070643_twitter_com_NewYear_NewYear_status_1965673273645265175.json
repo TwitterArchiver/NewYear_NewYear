@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1965657381750382964",
+    "created_at": "2025-09-10T07:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T08:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965673273645265175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1846188581905485828",
+          "start": 0,
+          "username": "aaaa____dry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965673273645265175",
+    "in_reply_to_user_id": "1846188581905485828",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965672682185482717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaa____dry 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1965657381750382964",
+        "created_at": "2025-09-10T07:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T08:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965673273645265175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1846188581905485828",
+              "start": 0,
+              "username": "aaaa____dry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965673273645265175",
+        "in_reply_to_user_id": "1846188581905485828",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965672682185482717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaa____dry 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846188581905485828",
+        "conversation_id": "1965657381750382964",
+        "created_at": "2025-09-10T07:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T08:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965672682185482717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965672682185482717",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965657854528160158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 🥰Thanks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 150,
+          "like_count": 123,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 736
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T13:57:35.000Z",
+        "description": "┆🩵🐇Illustrator┆BOOTH https://t.co/YNJbLvRfvL ❤︎ 𝐡_ @9_Un_ya__ ❤︎.*･ﾟᑕIᖇᑕᒪᗴ バックチャームにみつめられて。_fa🏷️＃妄想展示会┆Տᑌᗷ@mosohk_sub",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "妄想展示会"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "9_Un_ya__"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "mosohk_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "aaaadrug.booth.pm",
+                "end": 44,
+                "expanded_url": "http://aaaadrug.booth.pm",
+                "start": 21,
+                "url": "https://t.co/YNJbLvRfvL"
+              }
+            ]
+          }
+        },
+        "id": "1846188581905485828",
+        "name": "妄想癖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928593953114435584/vsRqgJsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 85,
+          "like_count": 6415,
+          "listed_count": 14,
+          "media_count": 666,
+          "tweet_count": 1614
+        },
+        "username": "aaaa____dry",
+        "verified": true
+      }
+    ]
+  }
+}

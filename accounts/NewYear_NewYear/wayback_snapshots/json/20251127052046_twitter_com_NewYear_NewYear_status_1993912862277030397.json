@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1993903305005904174",
+    "created_at": "2025-11-27T05:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T06:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993912862277030397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1897597646162079744",
+          "start": 0,
+          "username": "foooxwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993912862277030397",
+    "in_reply_to_user_id": "1897597646162079744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993903305005904174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foooxwww 傻逼mtf，重点在傻逼（摊手）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1221,
+        "media_key": "3_1993903302267097088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vEfUAb0AAGNHN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1993903305005904174",
+        "created_at": "2025-11-27T05:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T06:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993912862277030397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897597646162079744",
+              "start": 0,
+              "username": "foooxwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993912862277030397",
+        "in_reply_to_user_id": "1897597646162079744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993903305005904174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foooxwww 傻逼mtf，重点在傻逼（摊手）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993903302267097088"
+          ]
+        },
+        "author_id": "1897597646162079744",
+        "conversation_id": "1993903305005904174",
+        "created_at": "2025-11-27T04:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T05:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993903305005904174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DsdZOA4C0c",
+              "end": 114,
+              "expanded_url": "https://x.com/foooxwww/status/1993903305005904174/photo/1",
+              "media_key": "3_1993903302267097088",
+              "start": 91,
+              "url": "https://t.co/DsdZOA4C0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993903305005904174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眼瞎吗，看不到我资料写的啥嘛，让你们鲨臂mtf滚一边去，还来跳脸恶心我，一开口才两句话，浓浓的低龄味就溢出屏幕了，也不看看有多少mtf和我互fo了？看到我发的急了的也不缺你这一个😸 https://t.co/DsdZOA4C0c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 164,
+          "like_count": 979,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 1635
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T10:38:38.000Z",
+        "description": "🚪10块钱，成都，欢迎面基一起玩，接纯绿线下陪玩😋。接伤口定制😋私聊不了就在我置顶下评论。想要互fo请私聊我哦。反跨，特别是鲨臂mtf别TM来恶心我，死一边去",
+        "id": "1897597646162079744",
+        "location": "布吉岛",
+        "name": "🧀小狐狸🦊🎃🎃🎃",
+        "pinned_tweet_id": "1987946289343176855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897914261416116224/2Vvi2Ate_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 129,
+          "like_count": 1966,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 788
+        },
+        "username": "foooxwww",
+        "verified": false
+      }
+    ]
+  }
+}

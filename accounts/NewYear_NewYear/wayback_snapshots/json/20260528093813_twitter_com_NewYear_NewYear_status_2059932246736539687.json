@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2059836564025569703",
+    "created_at": "2026-05-28T09:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059932246736539687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1769427490467160064",
+          "start": 0,
+          "username": "ailtbomh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059932246736539687",
+    "in_reply_to_user_id": "1769427490467160064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059928519090885104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ailtbomh 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2059836564025569703",
+        "created_at": "2026-05-28T09:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059932246736539687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1769427490467160064",
+              "start": 0,
+              "username": "ailtbomh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059932246736539687",
+        "in_reply_to_user_id": "1769427490467160064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059928519090885104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ailtbomh 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769427490467160064",
+        "conversation_id": "2059836564025569703",
+        "created_at": "2026-05-28T09:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059928519090885104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059928519090885104",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059836564025569703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 难绷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 436,
+          "like_count": 8231,
+          "listed_count": 1,
+          "media_count": 843,
+          "tweet_count": 5218
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T18:16:16.000Z",
+        "description": "想找一些可以一起玩三角洲、cs2、联盟什么游戏都行的人，我是男的我是男的我是男的！！",
+        "id": "1769427490467160064",
+        "name": "Jason",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058935880006684672/2x3lEj4n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 178,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 121
+        },
+        "username": "ailtbomh",
+        "verified": false
+      }
+    ]
+  }
+}

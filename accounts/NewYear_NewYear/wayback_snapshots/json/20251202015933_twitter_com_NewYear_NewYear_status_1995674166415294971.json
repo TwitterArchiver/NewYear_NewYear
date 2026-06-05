@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1995674166415294971",
+    "created_at": "2025-12-02T01:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T02:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995674166415294971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huyugumo_rurub…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/huyugumo_rurubu/status/1995382336209477672",
+          "start": 5,
+          "url": "https://t.co/3edDJyV5EY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995674166415294971",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995382336209477672",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神一般的 https://t.co/3edDJyV5EY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995382334015832064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EFqSoagAAdFUz.jpg",
+        "width": 1623
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1995674166415294971",
+        "created_at": "2025-12-02T01:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T02:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995674166415294971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huyugumo_rurub…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/huyugumo_rurubu/status/1995382336209477672",
+              "start": 5,
+              "url": "https://t.co/3edDJyV5EY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995674166415294971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995382336209477672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神一般的 https://t.co/3edDJyV5EY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995382334015832064"
+          ]
+        },
+        "author_id": "1542272753398878208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995382336209477672",
+        "created_at": "2025-12-01T06:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T07:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995382336209477672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j07BOu4IWm",
+              "end": 148,
+              "expanded_url": "https://x.com/huyugumo_rurubu/status/1995382336209477672/photo/1",
+              "media_key": "3_1995382334015832064",
+              "start": 125,
+              "url": "https://t.co/j07BOu4IWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995382336209477672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1405,
+          "impression_count": 177586,
+          "like_count": 20308,
+          "quote_count": 12,
+          "reply_count": 6,
+          "retweet_count": 2339
+        },
+        "reply_settings": "everyone",
+        "text": "･ ｡\n ☆∴｡　*\n　･ﾟ*｡★･\n　　･ *ﾟ｡　　 *\n　 ･ ﾟ*｡･ﾟ★｡\n　　　☆ﾟ･｡°*. ﾟ\n*　　ﾟ｡·*･｡ ﾟ*\n　　　ﾟ *.｡☆｡★　･\n　　* ☆ ｡･ﾟ*.｡\n　　　 *　★ ﾟ･｡ *  ｡\n　　　　･　　ﾟ☆ ｡ https://t.co/j07BOu4IWm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 165,
+          "like_count": 1035,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 1660
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T22:24:26.000Z",
+        "description": "綺麗な星と花/h:友人作/https://t.co/07WmOoF5IW　(OCのみ)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@huyugumo_ruru…",
+                "end": 36,
+                "expanded_url": "https://skeb.jp/@huyugumo_rurubu",
+                "start": 13,
+                "url": "https://t.co/07WmOoF5IW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/fg22n3hlwvb08u…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/fg22n3hlwvb08uk?t=L0U4UB&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/9iHpo2YvxN"
+              }
+            ]
+          }
+        },
+        "id": "1542272753398878208",
+        "location": "アヴァロン",
+        "name": "るるぶ",
+        "pinned_tweet_id": "1931724415857016843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922499954586632192/rZKn43ks_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9878,
+          "following_count": 9,
+          "like_count": 974,
+          "listed_count": 57,
+          "media_count": 93,
+          "tweet_count": 280
+        },
+        "url": "https://t.co/9iHpo2YvxN",
+        "username": "huyugumo_rurubu",
+        "verified": false
+      }
+    ]
+  }
+}

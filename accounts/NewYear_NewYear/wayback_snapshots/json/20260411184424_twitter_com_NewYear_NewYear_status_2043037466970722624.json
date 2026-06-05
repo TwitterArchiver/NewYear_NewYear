@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2043037466970722624",
+    "created_at": "2026-04-11T18:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T19:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043037466970722624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 124,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/2043037084731215906",
+          "start": 101,
+          "url": "https://t.co/2LXCyJ6khU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043037466970722624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043037084731215906",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是说好的QQ机器人和量化分析那些都没搞，我自己的模型倒是训练出来了，我的网站也基本上搭建好了，等域名备案好就马上上线。做事情的速度完全跟不上我想做事情的速度\n\n天哪，我怎么一直没有学习我的专业课程！ https://t.co/2LXCyJ6khU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2043037466970722624",
+        "created_at": "2026-04-11T18:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043037466970722624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/2043037084731215906",
+              "start": 101,
+              "url": "https://t.co/2LXCyJ6khU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043037466970722624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043037084731215906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是说好的QQ机器人和量化分析那些都没搞，我自己的模型倒是训练出来了，我的网站也基本上搭建好了，等域名备案好就马上上线。做事情的速度完全跟不上我想做事情的速度\n\n天哪，我怎么一直没有学习我的专业课程！ https://t.co/2LXCyJ6khU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2043037084731215906",
+        "created_at": "2026-04-11T18:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043037084731215906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043037084731215906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有点想搞一个机械臂……\n我小学就有这种想法了，我小学的构想是放在一个方方正正的文具盒里面，折叠的\n然后需要的时候就展开\n虽然不知道有什么用，但是好帅……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 201,
+          "like_count": 2513,
+          "listed_count": 1,
+          "media_count": 610,
+          "tweet_count": 2698
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039315805222166528"
+      ],
+      "media_source_tweet_id": [
+        "2039315821105754173"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2039325426292850746",
+    "created_at": "2026-04-01T12:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T13:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039325426292850746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1562910548630867969",
+          "start": 3,
+          "username": "lovesickdoe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FYr1eRoXDn",
+          "end": 40,
+          "expanded_url": "https://x.com/lovesickdoe/status/2039315821105754173/photo/1",
+          "media_key": "3_2039315805222166528",
+          "start": 17,
+          "url": "https://t.co/FYr1eRoXDn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039325426292850746",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039315821105754173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovesickdoe: https://t.co/FYr1eRoXDn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2039315805222166528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0a64sbYAAJ_kc.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039315805222166528"
+          ],
+          "media_source_tweet_id": [
+            "2039315821105754173"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039325426292850746",
+        "created_at": "2026-04-01T12:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039325426292850746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1562910548630867969",
+              "start": 3,
+              "username": "lovesickdoe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FYr1eRoXDn",
+              "end": 40,
+              "expanded_url": "https://x.com/lovesickdoe/status/2039315821105754173/photo/1",
+              "media_key": "3_2039315805222166528",
+              "start": 17,
+              "url": "https://t.co/FYr1eRoXDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039325426292850746",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039315821105754173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovesickdoe: https://t.co/FYr1eRoXDn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039315805222166528"
+          ]
+        },
+        "author_id": "1562910548630867969",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039315821105754173",
+        "created_at": "2026-04-01T12:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039315821105754173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FYr1eRoXDn",
+              "end": 23,
+              "expanded_url": "https://x.com/lovesickdoe/status/2039315821105754173/photo/1",
+              "media_key": "3_2039315805222166528",
+              "start": 0,
+              "url": "https://t.co/FYr1eRoXDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039315821105754173",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1788,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FYr1eRoXDn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 198,
+          "like_count": 2147,
+          "listed_count": 1,
+          "media_count": 554,
+          "tweet_count": 2449
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T21:12:23.000Z",
+        "description": "love everything pretty & cute • 💌 for promo! \nno ai, not a bot, ran by a real person",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lovesickdoe.carrd.co",
+                "end": 23,
+                "expanded_url": "https://lovesickdoe.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/VsrfaGjItr"
+              }
+            ]
+          }
+        },
+        "id": "1562910548630867969",
+        "location": "more info .ᐟ.ᐟ",
+        "name": "/ᐠ - ˕ -マ",
+        "pinned_tweet_id": "2039315821105754173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013284523719450624/9pRCiPKg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176790,
+          "following_count": 195,
+          "like_count": 81983,
+          "listed_count": 722,
+          "media_count": 20114,
+          "tweet_count": 55501
+        },
+        "url": "https://t.co/VsrfaGjItr",
+        "username": "lovesickdoe",
+        "verified": true
+      }
+    ]
+  }
+}

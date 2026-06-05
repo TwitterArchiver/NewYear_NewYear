@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2039512419102494720"
+      ],
+      "media_source_tweet_id": [
+        "2039512507363262480"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039595174679257136",
+    "created_at": "2026-04-02T06:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T07:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039595174679257136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1671447420750929920",
+          "start": 3,
+          "username": "sakito333_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DY95piA5pA",
+          "end": 44,
+          "expanded_url": "https://x.com/sakito333_/status/2039512507363262480/video/1",
+          "media_key": "13_2039512419102494720",
+          "start": 21,
+          "url": "https://t.co/DY95piA5pA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039595174679257136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039512507363262480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakito333_: もちもち https://t.co/DY95piA5pA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15069,
+        "height": 1112,
+        "media_key": "13_2039512419102494720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039512419102494720/img/wOzhyvyCDhjxLO5T.jpg",
+        "public_metrics": {
+          "view_count": 2025
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039512419102494720/vid/avc1/320x426/N3z9uKXNq0We-1nz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039512419102494720/vid/avc1/480x640/XyBMyse5g-QYrRVQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039512419102494720/vid/avc1/720x958/NIWOglzwOcjrVSgf.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039512419102494720/pl/ltqsKHD6wTletr1F.m3u8?tag=14"
+          }
+        ],
+        "width": 834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039512419102494720"
+          ],
+          "media_source_tweet_id": [
+            "2039512507363262480"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039595174679257136",
+        "created_at": "2026-04-02T06:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T07:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039595174679257136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1671447420750929920",
+              "start": 3,
+              "username": "sakito333_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DY95piA5pA",
+              "end": 44,
+              "expanded_url": "https://x.com/sakito333_/status/2039512507363262480/video/1",
+              "media_key": "13_2039512419102494720",
+              "start": 21,
+              "url": "https://t.co/DY95piA5pA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039595174679257136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039512507363262480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakito333_: もちもち https://t.co/DY95piA5pA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039512419102494720"
+          ]
+        },
+        "author_id": "1671447420750929920",
+        "conversation_id": "2039512507363262480",
+        "created_at": "2026-04-02T01:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T02:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039512507363262480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DY95piA5pA",
+              "end": 28,
+              "expanded_url": "https://x.com/sakito333_/status/2039512507363262480/video/1",
+              "media_key": "13_2039512419102494720",
+              "start": 5,
+              "url": "https://t.co/DY95piA5pA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039512507363262480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 4911,
+          "like_count": 194,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "もちもち https://t.co/DY95piA5pA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "EVERYWHERE",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 202,
+          "like_count": 2181,
+          "listed_count": 1,
+          "media_count": 560,
+          "tweet_count": 2472
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-21T09:18:38.000Z",
+        "description": "アニメ好き　ずんだもん好き　筋トレ好き\n中文 English 日本語 is ok\nAI illustrations and videos",
+        "id": "1671447420750929920",
+        "name": "三三Sakito",
+        "pinned_tweet_id": "2002232097306722401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961844158349643776/4aY6ZDIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4912,
+          "following_count": 153,
+          "like_count": 7852,
+          "listed_count": 19,
+          "media_count": 152,
+          "tweet_count": 422
+        },
+        "username": "sakito333_",
+        "verified": false
+      }
+    ]
+  }
+}

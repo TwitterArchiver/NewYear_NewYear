@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1965770143994462228",
+    "created_at": "2025-09-10T13:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T14:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965771176728531307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797220728674369537",
+          "start": 0,
+          "username": "zhimao45854"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965771176728531307",
+    "in_reply_to_user_id": "1797220728674369537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965770143994462228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhimao45854 注意消毒捏🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1965770143994462228",
+        "created_at": "2025-09-10T13:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T14:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965771176728531307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797220728674369537",
+              "start": 0,
+              "username": "zhimao45854"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965771176728531307",
+        "in_reply_to_user_id": "1797220728674369537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965770143994462228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhimao45854 注意消毒捏🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797220728674369537",
+        "conversation_id": "1965770143994462228",
+        "created_at": "2025-09-10T13:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T14:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965770143994462228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965770143994462228",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "磕磕磕割割割"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 149,
+          "like_count": 129,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 760
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T10:56:39.000Z",
+        "description": "ㅇㅅㅇ 可以叫我萱萱 都来和我互fo吧 我很需要朋友",
+        "id": "1797220728674369537",
+        "name": "别再让我孤苦伶仃",
+        "pinned_tweet_id": "1963542994667102332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962894977803173888/yREPIdkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 40,
+          "like_count": 2461,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 63
+        },
+        "username": "zhimao45854",
+        "verified": false
+      }
+    ]
+  }
+}

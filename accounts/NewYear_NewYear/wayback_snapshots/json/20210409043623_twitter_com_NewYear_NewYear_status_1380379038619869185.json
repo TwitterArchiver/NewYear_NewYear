@@ -1,0 +1,295 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Apr 09 04:36:23 +0000 2021",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          116,
+          128
+        ],
+        "text": "CHOIHYUNSUK"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1226584712962985985,
+        "id_str": "1226584712962985985",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "HYUNSUK C. ⚡️",
+        "screen_name": "CHOIPINKKK"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1380379038619869185,
+  "id_str": "1380379038619869185",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "th",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 08 19:41:04 +0000 2021",
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            100,
+            112
+          ],
+          "text": "CHOIHYUNSUK"
+        }
+      ],
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/T3nKm8Pvwx",
+          "expanded_url": "https://twitter.com/skiesforsuk/status/1375311318471823366/video/1",
+          "id": 1375310793286254595,
+          "id_str": "1375310793286254595",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1375310793286254595/pu/img/7F_wNIU9KT3AhphE.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1375310793286254595/pu/img/7F_wNIU9KT3AhphE.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1375311318471823366,
+          "source_status_id_str": "1375311318471823366",
+          "source_user_id": 1332606121056591874,
+          "source_user_id_str": "1332606121056591874",
+          "type": "photo",
+          "url": "https://t.co/T3nKm8Pvwx"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/T3nKm8Pvwx",
+          "expanded_url": "https://twitter.com/skiesforsuk/status/1375311318471823366/video/1",
+          "id": 1375310793286254595,
+          "id_str": "1375310793286254595",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1375310793286254595/pu/img/7F_wNIU9KT3AhphE.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1375310793286254595/pu/img/7F_wNIU9KT3AhphE.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1375311318471823366,
+          "source_status_id_str": "1375311318471823366",
+          "source_user_id": 1332606121056591874,
+          "source_user_id_str": "1332606121056591874",
+          "type": "video",
+          "url": "https://t.co/T3nKm8Pvwx",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 39567,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1375310793286254595/pu/vid/320x320/Ak8Au343ocPmhKsv.mp4?tag=12"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1375310793286254595/pu/vid/720x720/gg1GHNAd965aoGrs.mp4?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1375310793286254595/pu/vid/540x540/5qSuVMHSM2zyKAfn.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1375310793286254595/pu/pl/2tV4no0rM9cRmDiS.m3u8?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 35,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1380244319156625411,
+    "id_str": "1380244319156625411",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "th",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 61,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "อยู่ด้วยกันแล้วน่ารักคูณสิบล้านเท่าเลย ซอกเองก็บ่นคิดถึงน้องฮาจุนใหญ่ อยากให้มาเล่นด้วยกันอีก T_T \n\n#CHOIHYUNSUK \n\nhttps://t.co/T3nKm8Pvwx",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Feb 09 19:12:50 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "♡ @ZsnpYd ´ˎ˗ #CHOIHYUNSUK #TREASURE",
+      "favourites_count": 13233,
+      "follow_request_sent": null,
+      "followers_count": 4823,
+      "following": null,
+      "friends_count": 222,
+      "geo_enabled": false,
+      "id": 1226584712962985985,
+      "id_str": "1226584712962985985",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2,
+      "location": "7chill",
+      "name": "HYUNSUK C. ⚡️",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226584712962985985/1612594398",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1371427418322309121/iHSF7ZoW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1371427418322309121/iHSF7ZoW_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "CHOIPINKKK",
+      "statuses_count": 22620,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @CHOIPINKKK: อยู่ด้วยกันแล้วน่ารักคูณสิบล้านเท่าเลย ซอกเองก็บ่นคิดถึงน้องฮาจุนใหญ่ อยากให้มาเล่นด้วยกันอีก T_T \n\n#CHOIHYUNSUK \n\nhttps://…",
+  "timestamp_ms": "1617942983666",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี",
+    "favourites_count": 3582,
+    "follow_request_sent": null,
+    "followers_count": 67,
+    "following": null,
+    "friends_count": 72,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "New Year",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1376159416521662471/YziwbT5o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376159416521662471/YziwbT5o_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 5051,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2039683931629649920"
+      ],
+      "media_source_tweet_id": [
+        "2039684006875451897"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2039995054107070578",
+    "created_at": "2026-04-03T09:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T10:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039995054107070578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2351408209",
+          "start": 3,
+          "username": "cutest_animal1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oxd2gtS7X5",
+          "end": 50,
+          "expanded_url": "https://x.com/cutest_animal1/status/2039684006875451897/video/1",
+          "media_key": "13_2039683931629649920",
+          "start": 27,
+          "url": "https://t.co/oxd2gtS7X5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039995054107070578",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1199
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039684006875451897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cutest_animal1: カオスすぎる https://t.co/oxd2gtS7X5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28233,
+        "height": 718,
+        "media_key": "13_2039683931629649920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039683931629649920/img/N7eyqTglWWdmfTG0.jpg",
+        "public_metrics": {
+          "view_count": 263694
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039683931629649920/vid/avc1/426x270/R1LD6qGUY03NCE2B.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039683931629649920/vid/avc1/570x360/r9bjIFtrb1Vkv1fD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039683931629649920/vid/avc1/1138x718/fS5QmJZkAWJeWFHJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039683931629649920/pl/_qXkE8nWlVuqCjZ_.m3u8?v=cfc"
+          }
+        ],
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039683931629649920"
+          ],
+          "media_source_tweet_id": [
+            "2039684006875451897"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2039995054107070578",
+        "created_at": "2026-04-03T09:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039995054107070578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2351408209",
+              "start": 3,
+              "username": "cutest_animal1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxd2gtS7X5",
+              "end": 50,
+              "expanded_url": "https://x.com/cutest_animal1/status/2039684006875451897/video/1",
+              "media_key": "13_2039683931629649920",
+              "start": 27,
+              "url": "https://t.co/oxd2gtS7X5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039995054107070578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1199
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039684006875451897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cutest_animal1: カオスすぎる https://t.co/oxd2gtS7X5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039683931629649920"
+          ]
+        },
+        "author_id": "2351408209",
+        "conversation_id": "2039684006875451897",
+        "created_at": "2026-04-02T12:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039684006875451897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxd2gtS7X5",
+              "end": 30,
+              "expanded_url": "https://x.com/cutest_animal1/status/2039684006875451897/video/1",
+              "media_key": "13_2039683931629649920",
+              "start": 7,
+              "url": "https://t.co/oxd2gtS7X5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039684006875451897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1447,
+          "impression_count": 750088,
+          "like_count": 8410,
+          "quote_count": 608,
+          "reply_count": 237,
+          "retweet_count": 1199
+        },
+        "reply_settings": "everyone",
+        "text": "カオスすぎる https://t.co/oxd2gtS7X5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "EVERYWHERE",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 203,
+          "like_count": 2228,
+          "listed_count": 1,
+          "media_count": 570,
+          "tweet_count": 2512
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-19T09:14:51.000Z",
+        "description": "癒される動物の画像・動画を紹介していきます。癒されたらRT",
+        "id": "2351408209",
+        "name": "癒される動物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/443909295256530944/8T92sYY4_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659309,
+          "following_count": 12478,
+          "like_count": 905,
+          "listed_count": 2262,
+          "media_count": 29198,
+          "tweet_count": 47499
+        },
+        "username": "cutest_animal1",
+        "verified": true
+      }
+    ]
+  }
+}

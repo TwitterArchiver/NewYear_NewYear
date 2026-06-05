@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1981937592401789002",
+    "created_at": "2025-10-25T05:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T06:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981961702574018679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "971003340602486784",
+          "start": 0,
+          "username": "prism_ix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981961702574018679",
+    "in_reply_to_user_id": "971003340602486784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981937592401789002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@prism_ix 好便宜😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981937584130416640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4FBu2UW4AA5Htr.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1981937592401789002",
+        "created_at": "2025-10-25T05:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T06:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981961702574018679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "971003340602486784",
+              "start": 0,
+              "username": "prism_ix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981961702574018679",
+        "in_reply_to_user_id": "971003340602486784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981937592401789002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@prism_ix 好便宜😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981937584130416640"
+          ]
+        },
+        "author_id": "971003340602486784",
+        "conversation_id": "1981937592401789002",
+        "created_at": "2025-10-25T04:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T05:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981937592401789002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvKkUkcWlp",
+              "end": 37,
+              "expanded_url": "https://x.com/prism_ix/status/1981937592401789002/photo/1",
+              "media_key": "3_1981937584130416640",
+              "start": 14,
+              "url": "https://t.co/bvKkUkcWlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981937592401789002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猛猛找房子，过几天去挨个看 https://t.co/bvKkUkcWlp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 159,
+          "like_count": 719,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 1417
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-06T12:43:31.000Z",
+        "description": "某个人?的倒影 ｜00后中登 ｜当树洞发",
+        "id": "971003340602486784",
+        "location": "月球,雨海南部",
+        "name": "镜子涟🪞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977070934424227841/JOG_2P-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 102,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 429
+        },
+        "username": "prism_ix",
+        "verified": false
+      }
+    ]
+  }
+}

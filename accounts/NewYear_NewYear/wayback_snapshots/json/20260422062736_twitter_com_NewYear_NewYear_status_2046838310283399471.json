@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2046838310283399471",
+    "created_at": "2026-04-22T06:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T07:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046838310283399471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2021505488337416192",
+          "start": 3,
+          "username": "CyberRazuberii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046838310283399471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046799223409279012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberRazuberii: 跟抑郁症交朋友就能在他死之前获得他的所有存款"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2046838310283399471",
+        "created_at": "2026-04-22T06:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046838310283399471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2021505488337416192",
+              "start": 3,
+              "username": "CyberRazuberii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046838310283399471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046799223409279012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberRazuberii: 跟抑郁症交朋友就能在他死之前获得他的所有存款"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021505488337416192",
+        "conversation_id": "2046799223409279012",
+        "created_at": "2026-04-22T03:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046799223409279012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046799223409279012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "跟抑郁症交朋友就能在他死之前获得他的所有存款"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2046548745811382505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 219,
+          "like_count": 3157,
+          "listed_count": 1,
+          "media_count": 660,
+          "tweet_count": 3042
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "20 男的｜大一｜游戏主播｜另一个我@CyberKanjousen 建設中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "CyberKanjousen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "c-acy.com",
+                "end": 23,
+                "expanded_url": "http://c-acy.com",
+                "start": 0,
+                "url": "https://t.co/hlQ5om0JY5"
+              }
+            ]
+          }
+        },
+        "id": "2021505488337416192",
+        "location": "汉化组",
+        "name": "微醺木莓",
+        "pinned_tweet_id": "2046605577921712215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046273928566538240/s3pCUyFk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 573,
+          "like_count": 2564,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/hlQ5om0JY5",
+        "username": "CyberRazuberii",
+        "verified": true
+      }
+    ]
+  }
+}

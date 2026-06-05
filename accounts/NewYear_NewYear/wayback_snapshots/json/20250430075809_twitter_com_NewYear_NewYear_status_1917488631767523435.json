@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917214412261232641"
+      ],
+      "media_source_tweet_id": [
+        "1917214743091200356"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1917488631767523435",
+    "created_at": "2025-04-30T07:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T08:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917488631767523435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "998531610537537537",
+          "start": 3,
+          "username": "Denis_Istomin_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W8Y1N1aiQq",
+          "end": 54,
+          "expanded_url": "https://x.com/Denis_Istomin_/status/1917214743091200356/photo/1",
+          "media_key": "3_1917214412261232641",
+          "start": 31,
+          "url": "https://t.co/W8Y1N1aiQq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917488631767523435",
+    "lang": "cy",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2270
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917214743091200356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Denis_Istomin_: Evangelion https://t.co/W8Y1N1aiQq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1917214412261232641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GptQWaEXEAEwmXw.jpg",
+        "width": 701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917214412261232641"
+          ],
+          "media_source_tweet_id": [
+            "1917214743091200356"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1917488631767523435",
+        "created_at": "2025-04-30T07:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T08:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917488631767523435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "998531610537537537",
+              "start": 3,
+              "username": "Denis_Istomin_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W8Y1N1aiQq",
+              "end": 54,
+              "expanded_url": "https://x.com/Denis_Istomin_/status/1917214743091200356/photo/1",
+              "media_key": "3_1917214412261232641",
+              "start": 31,
+              "url": "https://t.co/W8Y1N1aiQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917488631767523435",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2270
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917214743091200356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Denis_Istomin_: Evangelion https://t.co/W8Y1N1aiQq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917214412261232641"
+          ]
+        },
+        "author_id": "998531610537537537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1917214743091200356",
+        "created_at": "2025-04-29T13:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T14:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917214743091200356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W8Y1N1aiQq",
+              "end": 34,
+              "expanded_url": "https://x.com/Denis_Istomin_/status/1917214743091200356/photo/1",
+              "media_key": "3_1917214412261232641",
+              "start": 11,
+              "url": "https://t.co/W8Y1N1aiQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917214743091200356",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1772,
+          "impression_count": 219850,
+          "like_count": 23182,
+          "quote_count": 17,
+          "reply_count": 11,
+          "retweet_count": 2270
+        },
+        "reply_settings": "everyone",
+        "text": "Evangelion https://t.co/W8Y1N1aiQq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850587758617890816/1iNTpnM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 135,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 154
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-21T11:51:02.000Z",
+        "description": "∘ inquiries Gydwin.cg@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Denis_Istomin",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/Denis_Istomin",
+                "start": 0,
+                "url": "https://t.co/QVXXYwGHTv"
+              }
+            ]
+          }
+        },
+        "id": "998531610537537537",
+        "name": "Denis Istomin (Commission Open)",
+        "pinned_tweet_id": "1641878461068333076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1016336577281363969/fRCnJfPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21363,
+          "following_count": 725,
+          "like_count": 18411,
+          "listed_count": 231,
+          "media_count": 186,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/QVXXYwGHTv",
+        "username": "Denis_Istomin_",
+        "verified": false
+      }
+    ]
+  }
+}

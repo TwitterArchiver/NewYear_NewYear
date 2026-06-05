@@ -1,0 +1,406 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Apr 22 15:12:29 +0000 2021",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/LYrwmtl01g",
+        "expanded_url": "https://twitter.com/just_tripleJ/status/1384920518227337222/photo/1",
+        "id": 1384920477060247552,
+        "id_str": "1384920477060247552",
+        "indices": [
+          43,
+          66
+        ],
+        "media_url": "http://pbs.twimg.com/media/Ezg51hVXMAAG6dE.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Ezg51hVXMAAG6dE.jpg",
+        "sizes": {
+          "large": {
+            "h": 1536,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 900,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1384920518227337222,
+        "source_status_id_str": "1384920518227337222",
+        "source_user_id": 802752777432612864,
+        "source_user_id_str": "802752777432612864",
+        "type": "photo",
+        "url": "https://t.co/LYrwmtl01g"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 802752777432612864,
+        "id_str": "802752777432612864",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "ฮารุโตะบอย🦋",
+        "screen_name": "just_tripleJ"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/LYrwmtl01g",
+        "expanded_url": "https://twitter.com/just_tripleJ/status/1384920518227337222/photo/1",
+        "id": 1384920477060247552,
+        "id_str": "1384920477060247552",
+        "indices": [
+          43,
+          66
+        ],
+        "media_url": "http://pbs.twimg.com/media/Ezg51hVXMAAG6dE.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Ezg51hVXMAAG6dE.jpg",
+        "sizes": {
+          "large": {
+            "h": 1536,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 900,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1384920518227337222,
+        "source_status_id_str": "1384920518227337222",
+        "source_user_id": 802752777432612864,
+        "source_user_id_str": "802752777432612864",
+        "type": "photo",
+        "url": "https://t.co/LYrwmtl01g"
+      },
+      {
+        "display_url": "pic.twitter.com/LYrwmtl01g",
+        "expanded_url": "https://twitter.com/just_tripleJ/status/1384920518227337222/photo/1",
+        "id": 1384920477081161730,
+        "id_str": "1384920477081161730",
+        "indices": [
+          43,
+          66
+        ],
+        "media_url": "http://pbs.twimg.com/media/Ezg51haWUAIa-_Y.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Ezg51haWUAIa-_Y.jpg",
+        "sizes": {
+          "large": {
+            "h": 1536,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 900,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1384920518227337222,
+        "source_status_id_str": "1384920518227337222",
+        "source_user_id": 802752777432612864,
+        "source_user_id_str": "802752777432612864",
+        "type": "photo",
+        "url": "https://t.co/LYrwmtl01g"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1385250160666550272,
+  "id_str": "1385250160666550272",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "th",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 21 17:22:36 +0000 2021",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/LYrwmtl01g",
+          "expanded_url": "https://twitter.com/just_tripleJ/status/1384920518227337222/photo/1",
+          "id": 1384920477060247552,
+          "id_str": "1384920477060247552",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ezg51hVXMAAG6dE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ezg51hVXMAAG6dE.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/LYrwmtl01g"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/LYrwmtl01g",
+          "expanded_url": "https://twitter.com/just_tripleJ/status/1384920518227337222/photo/1",
+          "id": 1384920477060247552,
+          "id_str": "1384920477060247552",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ezg51hVXMAAG6dE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ezg51hVXMAAG6dE.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/LYrwmtl01g"
+        },
+        {
+          "display_url": "pic.twitter.com/LYrwmtl01g",
+          "expanded_url": "https://twitter.com/just_tripleJ/status/1384920518227337222/photo/1",
+          "id": 1384920477081161730,
+          "id_str": "1384920477081161730",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ezg51haWUAIa-_Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ezg51haWUAIa-_Y.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/LYrwmtl01g"
+        }
+      ]
+    },
+    "favorite_count": 63,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1384920518227337222,
+    "id_str": "1384920518227337222",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "th",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 68,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "ชอบอ่ะ มันแบบเฮ้อ น่ารัก https://t.co/LYrwmtl01g",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Nov 27 05:55:51 +0000 2016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "มาเอาไรแถวนี้ ที่นี่ไม่มีอะไรเลยนอกจากคู่ชิป",
+      "favourites_count": 106,
+      "follow_request_sent": null,
+      "followers_count": 3346,
+      "following": null,
+      "friends_count": 238,
+      "geo_enabled": true,
+      "id": 802752777432612864,
+      "id_str": "802752777432612864",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3,
+      "location": "ฮารุกยู จองจุนกยู ฮุนซอก ⌯’ㅅ’⌯",
+      "name": "ฮารุโตะบอย🦋",
+      "notifications": null,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/802752777432612864/1617562671",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1381983967155429380/wW_WD0FD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381983967155429380/wW_WD0FD_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "just_tripleJ",
+      "statuses_count": 100383,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://xn--fukuokatocheongju-xj09prtt.kr",
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @just_tripleJ: ชอบอ่ะ มันแบบเฮ้อ น่ารัก https://t.co/LYrwmtl01g",
+  "timestamp_ms": "1619104349663",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี",
+    "favourites_count": 5131,
+    "follow_request_sent": null,
+    "followers_count": 73,
+    "following": null,
+    "friends_count": 75,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "New Year",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1380544259074387968/KXR8EBop_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380544259074387968/KXR8EBop_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 6670,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

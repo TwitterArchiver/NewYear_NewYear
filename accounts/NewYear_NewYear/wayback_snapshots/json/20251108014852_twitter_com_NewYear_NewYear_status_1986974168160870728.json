@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1986826649896362292",
+    "created_at": "2025-11-08T01:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T02:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986974168160870728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877920276316585984",
+          "start": 0,
+          "username": "CelestialSayuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986974168160870728",
+    "in_reply_to_user_id": "1877920276316585984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986826649896362292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CelestialSayuki 是这样的\n吃东西可以扩大身体表面积，同一个压力下感受到的压强就会变小…所以吃东西是有物理意义的🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1986826649896362292",
+        "created_at": "2025-11-08T01:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T02:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986974168160870728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877920276316585984",
+              "start": 0,
+              "username": "CelestialSayuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986974168160870728",
+        "in_reply_to_user_id": "1877920276316585984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986826649896362292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CelestialSayuki 是这样的\n吃东西可以扩大身体表面积，同一个压力下感受到的压强就会变小…所以吃东西是有物理意义的🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877920276316585984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1986826649896362292",
+        "created_at": "2025-11-07T16:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T17:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986826649896362292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986826649896362292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一伤心就开始暴饮暴食了……\n\n不过感觉比割手和od还是健康些\no食物也是od😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 162,
+          "like_count": 839,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 1546
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T03:27:49.000Z",
+        "description": "19岁 | 神人 | 🏳️‍⚧️, 不含🍥 (永不翻车) | 喜欢可爱的一切🥰 | 想找对象😭 | 想和大家做朋友 | 随机回fo | 笨蛋xyn @ecwang1145 | https://t.co/VMTivG8tuz 牛马维护者 | 简介不定期更新",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "ecwang1145"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "infodrop.cn",
+                "end": 111,
+                "expanded_url": "http://infodrop.cn",
+                "start": 88,
+                "url": "https://t.co/VMTivG8tuz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "infodrop.cn",
+                "end": 23,
+                "expanded_url": "http://infodrop.cn/",
+                "start": 0,
+                "url": "https://t.co/H6wcSAz5IC"
+              }
+            ]
+          }
+        },
+        "id": "1877920276316585984",
+        "location": " Celestial Ethereal Labs",
+        "name": "Celestial紗雪",
+        "pinned_tweet_id": "1973418421938532376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879836377480900608/zKNfkNH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 83,
+          "like_count": 1132,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 1924
+        },
+        "url": "https://t.co/H6wcSAz5IC",
+        "username": "CelestialSayuki",
+        "verified": false
+      }
+    ]
+  }
+}

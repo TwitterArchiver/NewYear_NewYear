@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2053896561009303552"
+      ],
+      "media_source_tweet_id": [
+        "2053896622925545584"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054903847798345906",
+    "created_at": "2026-05-14T12:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054903847798345906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1492348591834157057",
+          "start": 3,
+          "username": "ninomaeminus1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uiUuVQ3zH9",
+          "end": 50,
+          "expanded_url": "https://x.com/Gurokawazai/status/2053896622925545584/video/1",
+          "media_key": "7_2053896561009303552",
+          "start": 27,
+          "url": "https://t.co/uiUuVQ3zH9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054903847798345906",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1526
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054634224892965162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ninomaeminus1: きっしょい動画 https://t.co/uiUuVQ3zH9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21780,
+        "height": 720,
+        "media_key": "7_2053896561009303552",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053896561009303552/pu/img/yO2rDf0XZSR1x_T6.jpg",
+        "public_metrics": {
+          "view_count": 486032
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053896561009303552/pu/vid/avc1/320x320/XMXhpsBAEpXYEq2G.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053896561009303552/pu/vid/avc1/540x540/svz-R-ku6vuctplt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053896561009303552/pu/vid/avc1/720x720/E5-B6HAU4D3aownE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053896561009303552/pu/pl/1uKf_IZjPvG82tQy.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053896561009303552"
+          ],
+          "media_source_tweet_id": [
+            "2053896622925545584"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054903847798345906",
+        "created_at": "2026-05-14T12:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054903847798345906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1492348591834157057",
+              "start": 3,
+              "username": "ninomaeminus1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uiUuVQ3zH9",
+              "end": 50,
+              "expanded_url": "https://x.com/Gurokawazai/status/2053896622925545584/video/1",
+              "media_key": "7_2053896561009303552",
+              "start": 27,
+              "url": "https://t.co/uiUuVQ3zH9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054903847798345906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1526
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054634224892965162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ninomaeminus1: きっしょい動画 https://t.co/uiUuVQ3zH9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053896561009303552"
+          ],
+          "media_source_tweet_id": [
+            "2053896622925545584"
+          ]
+        },
+        "author_id": "1492348591834157057",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054634224892965162",
+        "created_at": "2026-05-13T18:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T19:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054634224892965162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uiUuVQ3zH9",
+              "end": 31,
+              "expanded_url": "https://x.com/Gurokawazai/status/2053896622925545584/video/1",
+              "media_key": "7_2053896561009303552",
+              "start": 8,
+              "url": "https://t.co/uiUuVQ3zH9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054634224892965162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4350,
+          "impression_count": 869976,
+          "like_count": 16605,
+          "quote_count": 167,
+          "reply_count": 100,
+          "retweet_count": 1526
+        },
+        "reply_settings": "everyone",
+        "text": "きっしょい動画 https://t.co/uiUuVQ3zH9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 341,
+          "like_count": 6140,
+          "listed_count": 1,
+          "media_count": 759,
+          "tweet_count": 4188
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T04:03:32.000Z",
+        "description": "RATS",
+        "id": "1492348591834157057",
+        "name": "サメジマ",
+        "pinned_tweet_id": "2054153388062097495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054400973138022400/QZSgUE2Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7302,
+          "following_count": 0,
+          "like_count": 137,
+          "listed_count": 9,
+          "media_count": 54,
+          "tweet_count": 157
+        },
+        "username": "ninomaeminus1",
+        "verified": false
+      }
+    ]
+  }
+}

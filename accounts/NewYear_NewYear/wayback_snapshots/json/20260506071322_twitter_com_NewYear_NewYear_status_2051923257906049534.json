@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2051883147516907845",
+    "created_at": "2026-05-06T07:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T08:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051923257906049534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1816508247651860480",
+          "start": 0,
+          "username": "DIC_EWE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051923257906049534",
+    "in_reply_to_user_id": "1816508247651860480",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051883147516907845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DIC_EWE 67"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2051883147516907845",
+        "created_at": "2026-05-06T07:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051923257906049534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816508247651860480",
+              "start": 0,
+              "username": "DIC_EWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051923257906049534",
+        "in_reply_to_user_id": "1816508247651860480",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051883147516907845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DIC_EWE 67"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816508247651860480",
+        "conversation_id": "2051883147516907845",
+        "created_at": "2026-05-06T04:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051883147516907845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051883147516907845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有人觉得🚪67很好玩吗喵。？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 272,
+          "like_count": 4201,
+          "listed_count": 1,
+          "media_count": 718,
+          "tweet_count": 3606
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T16:18:17.000Z",
+        "description": "出厂年份2010        期待很多东西\n                                \n杀杀杀杀杀杀杀    🚪67/167/6767无区别纯绿 176/60kg/15岁 @123mp27 温良的喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "123mp27"
+              }
+            ]
+          }
+        },
+        "id": "1816508247651860480",
+        "location": "家",
+        "name": "大骰目",
+        "pinned_tweet_id": "2051300515569688952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033310866901463040/p5F5E2Ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 298,
+          "like_count": 10058,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 2398
+        },
+        "username": "DIC_EWE",
+        "verified": false
+      }
+    ]
+  }
+}

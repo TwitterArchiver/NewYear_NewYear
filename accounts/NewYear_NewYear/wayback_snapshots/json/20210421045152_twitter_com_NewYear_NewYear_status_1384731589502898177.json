@@ -1,0 +1,231 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Apr 21 04:51:52 +0000 2021",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          41,
+          51
+        ],
+        "text": "BANGYEDAM"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1093843490696384512,
+        "id_str": "1093843490696384512",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "TREASURE THAILAND🇹🇭 (SLOW)",
+        "screen_name": "TREASUREth_"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1384731589502898177,
+  "id_str": "1384731589502898177",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "th",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 20 17:10:57 +0000 2021",
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            24,
+            34
+          ],
+          "text": "BANGYEDAM"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1384555195808436228",
+          "indices": [
+            116,
+            139
+          ],
+          "url": "https://t.co/Pai8w5W9Xj"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        178
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              24,
+              34
+            ],
+            "text": "BANGYEDAM"
+          },
+          {
+            "indices": [
+              147,
+              156
+            ],
+            "text": "TREASURE"
+          },
+          {
+            "indices": [
+              157,
+              161
+            ],
+            "text": "트레저"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 1240627844868268033,
+            "id_str": "1240627844868268033",
+            "indices": [
+              162,
+              178
+            ],
+            "name": "TREASURE",
+            "screen_name": "treasuremembers"
+          }
+        ]
+      },
+      "full_text": "[210420 Weverse Moment]\n#BANGYEDAM🦊: คิดถึงจังเลยครับ ㅠㅠ ช่วยแนะนำเพลงที่แค่ฟังก็ทำให้รู้สึกสดชื่นในคืนฤดูร้อนให้หน่อยครับ!\n(+รูปเซลฟั่หน้ากระจก)\n\n#TREASURE #트레저 @treasuremembers"
+    },
+    "favorite_count": 120,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1384555195808436228,
+    "id_str": "1384555195808436228",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "th",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 95,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "[210420 Weverse Moment]\n#BANGYEDAM🦊: คิดถึงจังเลยครับ ㅠㅠ ช่วยแนะนำเพลงที่แค่ฟังก็ทำให้รู้สึกสดชื่นในคืนฤดูร้อนให้ห… https://t.co/Pai8w5W9Xj",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 08 12:06:25 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Update and Trans about @treasuremembers & @ygtreasuremaker | Contact : DM / yg.treasurethai@gmail.com | Howto & Updates in likes♡ (own @YGTreasureBoxTH)",
+      "favourites_count": 199,
+      "follow_request_sent": null,
+      "followers_count": 75778,
+      "following": null,
+      "friends_count": 6,
+      "geo_enabled": false,
+      "id": 1093843490696384512,
+      "id_str": "1093843490696384512",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 160,
+      "location": null,
+      "name": "TREASURE THAILAND🇹🇭 (SLOW)",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1280791856951910402/1TzjkBVP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280791856951910402/1TzjkBVP_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TREASUREth_",
+      "statuses_count": 7820,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @TREASUREth_: [210420 Weverse Moment]\n#BANGYEDAM🦊: คิดถึงจังเลยครับ ㅠㅠ ช่วยแนะนำเพลงที่แค่ฟังก็ทำให้รู้สึกสดชื่นในคืนฤดูร้อนให้หน่อยครับ…",
+  "timestamp_ms": "1618980712663",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี",
+    "favourites_count": 4881,
+    "follow_request_sent": null,
+    "followers_count": 72,
+    "following": null,
+    "friends_count": 75,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "New Year",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1380544259074387968/KXR8EBop_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380544259074387968/KXR8EBop_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 6400,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

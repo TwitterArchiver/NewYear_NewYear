@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977036565697511427",
+        "3_1977036565697445888"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1977017366069625118",
+    "created_at": "2025-10-11T15:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T16:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977036604905840972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668037836996771840",
+          "start": 0,
+          "username": "cha_li_jin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EoiXLCia7r",
+          "end": 41,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1977036604905840972/photo/1",
+          "media_key": "3_1977036565697511427",
+          "start": 18,
+          "url": "https://t.co/EoiXLCia7r"
+        },
+        {
+          "display_url": "pic.x.com/EoiXLCia7r",
+          "end": 41,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1977036604905840972/photo/1",
+          "media_key": "3_1977036565697445888",
+          "start": 18,
+          "url": "https://t.co/EoiXLCia7r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977036604905840972",
+    "in_reply_to_user_id": "1668037836996771840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977017366069625118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cha_li_jin 来吃我的😋 https://t.co/EoiXLCia7r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1977036565697511427",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_YSB5bwAMe4-2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1977036565697445888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_YSB5awAAIB18.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1542,
+        "media_key": "3_1977017362999312384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_G0SRagAAqERm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977036565697511427",
+            "3_1977036565697445888"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1977017366069625118",
+        "created_at": "2025-10-11T15:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T16:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977036604905840972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668037836996771840",
+              "start": 0,
+              "username": "cha_li_jin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EoiXLCia7r",
+              "end": 41,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1977036604905840972/photo/1",
+              "media_key": "3_1977036565697511427",
+              "start": 18,
+              "url": "https://t.co/EoiXLCia7r"
+            },
+            {
+              "display_url": "pic.x.com/EoiXLCia7r",
+              "end": 41,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1977036604905840972/photo/1",
+              "media_key": "3_1977036565697445888",
+              "start": 18,
+              "url": "https://t.co/EoiXLCia7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977036604905840972",
+        "in_reply_to_user_id": "1668037836996771840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977017366069625118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cha_li_jin 来吃我的😋 https://t.co/EoiXLCia7r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977017362999312384"
+          ]
+        },
+        "author_id": "1668037836996771840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1977017366069625118",
+        "created_at": "2025-10-11T14:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T15:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977017366069625118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGNpsocxjc",
+              "end": 51,
+              "expanded_url": "https://x.com/cha_li_jin/status/1977017366069625118/photo/1",
+              "media_key": "3_1977017362999312384",
+              "start": 28,
+              "url": "https://t.co/FGNpsocxjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977017366069625118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 449,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝你可以来我家吃手作芝士汉堡\n虽然卖相很差补要嫌弃😭 https://t.co/FGNpsocxjc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 159,
+          "like_count": 578,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 1314
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "阴湿阳光回避性压抑理工舞萌安卓型含糖长发男，低能量人群，一切与敏感色图相关的会逐步移植到 @tashigan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "tashigan_"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "0x7d9cd745",
+        "name": "天才少女察里津",
+        "pinned_tweet_id": "1940983556492435942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972464380152573952/DrbfLE7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5519,
+          "following_count": 806,
+          "like_count": 9890,
+          "listed_count": 18,
+          "media_count": 241,
+          "tweet_count": 1891
+        },
+        "username": "cha_li_jin",
+        "verified": false
+      }
+    ]
+  }
+}

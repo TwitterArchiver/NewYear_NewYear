@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1998926232902340608"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1998926298710946134",
+    "created_at": "2025-12-11T01:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T02:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998926298710946134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DKj92CQveZ",
+          "end": 34,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1998926298710946134/video/1",
+          "media_key": "7_1998926232902340608",
+          "start": 11,
+          "url": "https://t.co/DKj92CQveZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998926298710946134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就这样拍低脂小视频 https://t.co/DKj92CQveZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4422,
+        "height": 1280,
+        "media_key": "7_1998926232902340608",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1998926232902340608/pu/img/LX1cj5YXwSW39IKb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998926232902340608/pu/vid/avc1/320x568/yV-HuGXdkZKgsSlZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998926232902340608/pu/vid/avc1/480x852/wwaeEkliyb33f2WP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998926232902340608/pu/vid/avc1/720x1280/rMfJFC72gdR7FQJX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1998926232902340608/pu/pl/93ZJr_6Fe_q4BQYs.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1998926232902340608"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1998926298710946134",
+        "created_at": "2025-12-11T01:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T02:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998926298710946134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKj92CQveZ",
+              "end": 34,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1998926298710946134/video/1",
+              "media_key": "7_1998926232902340608",
+              "start": 11,
+              "url": "https://t.co/DKj92CQveZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998926298710946134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样拍低脂小视频 https://t.co/DKj92CQveZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 169,
+          "like_count": 1132,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 1735
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

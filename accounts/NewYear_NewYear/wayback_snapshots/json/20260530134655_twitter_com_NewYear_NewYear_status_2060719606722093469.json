@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2060715569587036245",
+    "created_at": "2026-05-30T13:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060719606722093469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980396569363935232",
+          "start": 0,
+          "username": "Disturbeuphoric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060719606722093469",
+    "in_reply_to_user_id": "1980396569363935232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060716833720684987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Disturbeuphoric 叫蝙蝠衣，你可以搜一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2060715569587036245",
+        "created_at": "2026-05-30T13:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060719606722093469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980396569363935232",
+              "start": 0,
+              "username": "Disturbeuphoric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060719606722093469",
+        "in_reply_to_user_id": "1980396569363935232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060716833720684987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Disturbeuphoric 叫蝙蝠衣，你可以搜一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980396569363935232",
+        "conversation_id": "2060715569587036245",
+        "created_at": "2026-05-30T13:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060716833720684987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060716833720684987",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060715569587036245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 哦，壮丽，我也想要一样🤩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 442,
+          "like_count": 8664,
+          "listed_count": 1,
+          "media_count": 861,
+          "tweet_count": 5449
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T22:13:55.000Z",
+        "description": "非典型。不稳定。宅男。不得人心。我既不是天使也不是恶魔。经常有人告诉我，我是纯洁的。我温柔又善良。autistic, ptsd, aroace, 感官过度敏感。",
+        "id": "1980396569363935232",
+        "name": "欢乐精神 (黑化中)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060452237885763586/StcBI3Kl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 144,
+          "like_count": 15757,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 4376
+        },
+        "username": "Disturbeuphoric",
+        "verified": false
+      }
+    ]
+  }
+}

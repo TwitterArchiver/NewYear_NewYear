@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1922596502146265311",
+    "created_at": "2025-05-15T07:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T08:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922921371484512390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1388511722663780356",
+          "start": 0,
+          "username": "__yrk4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922921371484512390",
+    "in_reply_to_user_id": "1388511722663780356",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922596502146265311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__yrk4 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1922596502146265311",
+        "created_at": "2025-05-15T07:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T08:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922921371484512390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1388511722663780356",
+              "start": 0,
+              "username": "__yrk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922921371484512390",
+        "in_reply_to_user_id": "1388511722663780356",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922596502146265311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__yrk4 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388511722663780356",
+        "conversation_id": "1922596502146265311",
+        "created_at": "2025-05-14T10:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T11:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922596502146265311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922596502146265311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 332,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸昨晚突然给我打一百块钱让我去好好吃饭要我好好去学校一定要记住他说的话，还给我打了个视频看着很虚弱声音很低"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1920522768241598785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 139,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 210
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-01T15:13:24.000Z",
+        "description": "晚安。貓眼螺",
+        "id": "1388511722663780356",
+        "name": "幸せや死んちゃうね",
+        "pinned_tweet_id": "1914679016919064960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899757537672798208/D1YO9RSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4631,
+          "following_count": 306,
+          "like_count": 29640,
+          "listed_count": 5,
+          "media_count": 246,
+          "tweet_count": 13530
+        },
+        "username": "__yrk4",
+        "verified": false
+      }
+    ]
+  }
+}

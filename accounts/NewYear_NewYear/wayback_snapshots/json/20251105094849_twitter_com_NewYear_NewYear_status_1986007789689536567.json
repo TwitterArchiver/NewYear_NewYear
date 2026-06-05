@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1985993239535743145",
+    "created_at": "2025-11-05T09:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T10:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986007789689536567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1665936089410830336",
+          "start": 0,
+          "username": "tsingchar53110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986007789689536567",
+    "in_reply_to_user_id": "1665936089410830336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986004485630747011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsingchar53110 我就是有这种感觉w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1985993239535743145",
+        "created_at": "2025-11-05T09:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T10:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986007789689536567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1665936089410830336",
+              "start": 0,
+              "username": "tsingchar53110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986007789689536567",
+        "in_reply_to_user_id": "1665936089410830336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986004485630747011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsingchar53110 我就是有这种感觉w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665936089410830336",
+        "conversation_id": "1985993239535743145",
+        "created_at": "2025-11-05T09:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T10:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986004485630747011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986004485630747011",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985993239535743145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 正常长得像吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 161,
+          "like_count": 821,
+          "listed_count": 1,
+          "media_count": 344,
+          "tweet_count": 1523
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T04:18:29.000Z",
+        "description": "If youth is a footprint, then dreams are distant places",
+        "id": "1665936089410830336",
+        "location": "Leshan Sicuan China",
+        "name": "鴒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925805509107499008/w0SMVD3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 277,
+          "like_count": 853,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 617
+        },
+        "username": "tsingchar53110",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1967206642476605871",
+    "created_at": "2025-09-14T13:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T14:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967224169336393922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "755194012340854784",
+          "start": 0,
+          "username": "Zheng1Keith"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967224169336393922",
+    "in_reply_to_user_id": "755194012340854784",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967214675160162811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zheng1Keith awa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1967206642476605871",
+        "created_at": "2025-09-14T13:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967224169336393922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "755194012340854784",
+              "start": 0,
+              "username": "Zheng1Keith"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967224169336393922",
+        "in_reply_to_user_id": "755194012340854784",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967214675160162811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zheng1Keith awa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "755194012340854784",
+        "conversation_id": "1967206642476605871",
+        "created_at": "2025-09-14T13:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967214675160162811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967214675160162811",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967206642476605871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 好家伙，我直呼好家伙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号",
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 153,
+          "like_count": 215,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 894
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-19T00:14:18.000Z",
+        "description": "🌃坐标上海/友跨大叔/不键政/情绪稳定/独居且有点洁癖/双性恋/csgo C+鱼苗/欢迎骚扰/垃圾私信太多，所以关了，想要交流的伙伴可以留言",
+        "id": "755194012340854784",
+        "name": "万寿斋白金会员",
+        "pinned_tweet_id": "1865005509897785663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889304938477707265/QyV7ezs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 3331,
+          "like_count": 39149,
+          "listed_count": 6,
+          "media_count": 53,
+          "tweet_count": 2583
+        },
+        "username": "Zheng1Keith",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2021810793973764097",
+    "created_at": "2026-02-12T04:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T05:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021810793973764097"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021810793973764097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想有一个人，会找到我，控制我然后伤害我。然后依赖我并让我依赖。我想要一个双方同时是主人与小狗的关系，想要被囚禁然后断开所有关系只有对方，然后我逃离，被抓回去，我们互相以死相逼，互相殴打互相相爱，我们去旅行，我们宅在家，我们有落地窗前的诗情画意和地下室里的阴暗潮湿\n扭曲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2021810793973764097",
+        "created_at": "2026-02-12T04:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T05:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021810793973764097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021810793973764097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想有一个人，会找到我，控制我然后伤害我。然后依赖我并让我依赖。我想要一个双方同时是主人与小狗的关系，想要被囚禁然后断开所有关系只有对方，然后我逃离，被抓回去，我们互相以死相逼，互相殴打互相相爱，我们去旅行，我们宅在家，我们有落地窗前的诗情画意和地下室里的阴暗潮湿\n扭曲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 183,
+          "like_count": 1533,
+          "listed_count": 1,
+          "media_count": 497,
+          "tweet_count": 2073
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

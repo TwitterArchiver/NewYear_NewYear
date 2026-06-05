@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1963980386452828453",
+    "created_at": "2025-09-05T14:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T15:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963980386452828453"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1963980386452828453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实每次有人愿意看我的推文我都会很开心\n然后就像一个第一次带朋友到房间里面的小孩一样，会把自己能拿出来的都拿出来分享🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1963980386452828453",
+        "created_at": "2025-09-05T14:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T15:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963980386452828453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963980386452828453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实每次有人愿意看我的推文我都会很开心\n然后就像一个第一次带朋友到房间里面的小孩一样，会把自己能拿出来的都拿出来分享🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福",
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 146,
+          "like_count": 62,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 550
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

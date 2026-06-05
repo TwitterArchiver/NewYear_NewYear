@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2055330537414525309",
+    "created_at": "2026-05-15T17:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T18:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055334905048076484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2035025566018281472",
+          "start": 0,
+          "username": "wyy7711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055334905048076484",
+    "in_reply_to_user_id": "2035025566018281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055330537414525309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyy7711 好高级"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2055330531026534400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYAOnXaAAAwaGU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2055330537414525309",
+        "created_at": "2026-05-15T17:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055334905048076484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2035025566018281472",
+              "start": 0,
+              "username": "wyy7711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055334905048076484",
+        "in_reply_to_user_id": "2035025566018281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055330537414525309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyy7711 好高级"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055330531026534400"
+          ]
+        },
+        "author_id": "2035025566018281472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055330537414525309",
+        "created_at": "2026-05-15T16:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055330537414525309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NTb5xt9l5X",
+              "end": 60,
+              "expanded_url": "https://x.com/wyy7711/status/2055330537414525309/photo/1",
+              "media_key": "3_2055330531026534400",
+              "start": 37,
+              "url": "https://t.co/NTb5xt9l5X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055330537414525309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操\n可愛小學生誤入高端局喝了。發現有點辣然後剛剛肺感覺好燙然後胃也好燙 https://t.co/NTb5xt9l5X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 359,
+          "like_count": 6448,
+          "listed_count": 1,
+          "media_count": 771,
+          "tweet_count": 4342
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T16:09:41.000Z",
+        "description": "咕噜咕噜^\n26年小嬰兒😭/小女男孩小男女孩/15天一任的神情咕嚕/平等的喜厭大家/喜歡你耶我是真的餓\n從wx換到這裡發廢話好爽\n此人說話不會經過腦子\n哦哦哦哦哦哦哦！我要發瘋！",
+        "id": "2035025566018281472",
+        "name": "wsisjso",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051326649359323136/qkjT6Ne7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 18,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 244
+        },
+        "username": "wyy7711",
+        "verified": false
+      }
+    ]
+  }
+}

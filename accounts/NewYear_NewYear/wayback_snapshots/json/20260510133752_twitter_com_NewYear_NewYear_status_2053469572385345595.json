@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2053469572385345595",
+    "created_at": "2026-05-10T13:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T14:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053469572385345595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/2047680701336826078",
+          "start": 78,
+          "url": "https://t.co/PUSHkmwgNu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053469572385345595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047680701336826078",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刚刚突然想到\n我对前任相当信任，就是那种只要和她在一起，我都敢穿短袖出门\n不知道你们能不能懂这种信任度🥲\n所以现在感到疲惫，就是很难和别人建立起这种信任了 https://t.co/PUSHkmwgNu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2053469572385345595",
+        "created_at": "2026-05-10T13:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053469572385345595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/2047680701336826078",
+              "start": 78,
+              "url": "https://t.co/PUSHkmwgNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053469572385345595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047680701336826078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚刚突然想到\n我对前任相当信任，就是那种只要和她在一起，我都敢穿短袖出门\n不知道你们能不能懂这种信任度🥲\n所以现在感到疲惫，就是很难和别人建立起这种信任了 https://t.co/PUSHkmwgNu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2047680701336826078",
+        "created_at": "2026-04-24T14:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047680701336826078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047680701336826078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有点难受\n分手快一年了我没有任何谈恋爱的想法，我只能到暧昧因为接近本身就沉重而疲惫\n可能我在上一段恋情里过的太好了，导致我对恋爱没有兴趣\n还有一个原因是我如今越来越封闭了，越来越难以给别人说我的过去\n这样孤僻封闭逃避拒绝主动接近别人的我，好长一段时间都不会再有感情了吧\n\n哪天能缓过来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 300,
+          "like_count": 5022,
+          "listed_count": 1,
+          "media_count": 737,
+          "tweet_count": 3897
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

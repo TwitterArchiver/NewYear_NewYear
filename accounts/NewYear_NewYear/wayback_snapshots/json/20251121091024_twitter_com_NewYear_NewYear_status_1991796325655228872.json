@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991726711621533696"
+      ],
+      "media_source_tweet_id": [
+        "1991726728209965372"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1991796325655228872",
+    "created_at": "2025-11-21T09:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T10:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991796325655228872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1731113472157532160",
+          "start": 3,
+          "username": "wnnw486486"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zW1So0VC6f",
+          "end": 44,
+          "expanded_url": "https://x.com/wnnw486486/status/1991726728209965372/photo/1",
+          "media_key": "3_1991726711621533696",
+          "start": 21,
+          "url": "https://t.co/zW1So0VC6f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991796325655228872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991726728209965372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wnnw486486: 是这样的 https://t.co/zW1So0VC6f"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991796325655228872].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991796325655228872",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991796325655228872"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 699,
+        "media_key": "3_1991726711621533696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6QI5D_bwAApG9q.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991726711621533696"
+          ]
+        },
+        "author_id": "1731113472157532160",
+        "conversation_id": "1991726728209965372",
+        "created_at": "2025-11-21T04:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T05:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991726728209965372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zW1So0VC6f",
+              "end": 28,
+              "expanded_url": "https://x.com/wnnw486486/status/1991726728209965372/photo/1",
+              "media_key": "3_1991726711621533696",
+              "start": 5,
+              "url": "https://t.co/zW1So0VC6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991726728209965372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是这样的 https://t.co/zW1So0VC6f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 165,
+          "like_count": 945,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 1613
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T00:50:07.000Z",
+        "description": "🚪52，120，178，288 增加线下可能 520，霜🐔，求别再有智障找我，也有爸爸活的，请爰我\n求过🚪💰💰💰，\n，，《求私》，， ，《胜哥系列完事》欢迎投搞各种事情，梦想520，1314，520 鉴牛20，想谈恋爱\n，，，，等 2222fo",
+        "id": "1731113472157532160",
+        "location": "吉林省长春市",
+        "name": "不懂发抽象的小春",
+        "pinned_tweet_id": "1948593227025842656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985715510181576707/TUZp73zP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 123,
+          "like_count": 3443,
+          "listed_count": 4,
+          "media_count": 2553,
+          "tweet_count": 6554
+        },
+        "username": "wnnw486486",
+        "verified": false
+      }
+    ]
+  }
+}

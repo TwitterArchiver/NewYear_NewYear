@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976322236706648064"
+      ],
+      "media_source_tweet_id": [
+        "1976322242704482404"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1976937930582376825",
+    "created_at": "2025-10-11T09:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T10:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976937930582376825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "877529938613514240",
+          "start": 3,
+          "username": "insi5dunametuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4oxjgtb2Wq",
+          "end": 44,
+          "expanded_url": "https://x.com/insi5dunametuki/status/1976322242704482404/photo/1",
+          "media_key": "3_1976322236706648064",
+          "start": 21,
+          "url": "https://t.co/4oxjgtb2Wq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976937930582376825",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3381
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976322242704482404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @insi5dunametuki: https://t.co/4oxjgtb2Wq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1976322236706648064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G21OmnCa8AAgfZ2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976322236706648064"
+          ],
+          "media_source_tweet_id": [
+            "1976322242704482404"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1976937930582376825",
+        "created_at": "2025-10-11T09:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T10:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976937930582376825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "877529938613514240",
+              "start": 3,
+              "username": "insi5dunametuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4oxjgtb2Wq",
+              "end": 44,
+              "expanded_url": "https://x.com/insi5dunametuki/status/1976322242704482404/photo/1",
+              "media_key": "3_1976322236706648064",
+              "start": 21,
+              "url": "https://t.co/4oxjgtb2Wq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976937930582376825",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3381
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976322242704482404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @insi5dunametuki: https://t.co/4oxjgtb2Wq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976322236706648064"
+          ]
+        },
+        "author_id": "877529938613514240",
+        "conversation_id": "1976322242704482404",
+        "created_at": "2025-10-09T16:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T17:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976322242704482404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4oxjgtb2Wq",
+              "end": 23,
+              "expanded_url": "https://x.com/insi5dunametuki/status/1976322242704482404/photo/1",
+              "media_key": "3_1976322236706648064",
+              "start": 0,
+              "url": "https://t.co/4oxjgtb2Wq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976322242704482404",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3458,
+          "impression_count": 409221,
+          "like_count": 38491,
+          "quote_count": 39,
+          "reply_count": 0,
+          "retweet_count": 3381
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/4oxjgtb2Wq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 159,
+          "like_count": 570,
+          "listed_count": 1,
+          "media_count": 288,
+          "tweet_count": 1307
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-21T14:13:35.000Z",
+        "description": "はだか屋さん ⚠︎センシティブ表現 https://t.co/fL36GN8nDs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/insi5dunametuki",
+                "end": 41,
+                "expanded_url": "https://note.com/insi5dunametuki",
+                "start": 18,
+                "url": "https://t.co/fL36GN8nDs"
+              }
+            ]
+          }
+        },
+        "id": "877529938613514240",
+        "name": "陰湿な目つき",
+        "pinned_tweet_id": "1955750679861190955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976194018532003840/MqSn90Tw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6001,
+          "following_count": 298,
+          "like_count": 139324,
+          "listed_count": 70,
+          "media_count": 841,
+          "tweet_count": 14596
+        },
+        "username": "insi5dunametuki",
+        "verified": false
+      }
+    ]
+  }
+}

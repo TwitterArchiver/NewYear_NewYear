@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2039318615628099696",
+    "created_at": "2026-04-01T12:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T13:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039318615628099696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aNo2mass/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/aNo2mass/status/2039315295903564217",
+          "start": 7,
+          "url": "https://t.co/g9qMoQEtts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039318615628099696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039315295903564217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ano好美萌 https://t.co/g9qMoQEtts"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039315289943445506",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0ac5IaEAIDj-0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039315289964425216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0ac5NaMAAvku_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039315289951875073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0ac5KasAE0YR8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1611,
+        "media_key": "3_2039315289951875072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0ac5KasAArUEc.jpg",
+        "width": 1836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2039318615628099696",
+        "created_at": "2026-04-01T12:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039318615628099696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aNo2mass/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/aNo2mass/status/2039315295903564217",
+              "start": 7,
+              "url": "https://t.co/g9qMoQEtts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039318615628099696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039315295903564217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ano好美萌 https://t.co/g9qMoQEtts"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039315289943445506",
+            "3_2039315289964425216",
+            "3_2039315289951875073",
+            "3_2039315289951875072"
+          ]
+        },
+        "author_id": "1685124498",
+        "conversation_id": "2039315295903564217",
+        "created_at": "2026-04-01T12:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039315295903564217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zh4ybCs2O5",
+              "end": 23,
+              "expanded_url": "https://x.com/aNo2mass/status/2039315295903564217/photo/1",
+              "media_key": "3_2039315289943445506",
+              "start": 0,
+              "url": "https://t.co/zh4ybCs2O5"
+            },
+            {
+              "display_url": "pic.x.com/zh4ybCs2O5",
+              "end": 23,
+              "expanded_url": "https://x.com/aNo2mass/status/2039315295903564217/photo/1",
+              "media_key": "3_2039315289964425216",
+              "start": 0,
+              "url": "https://t.co/zh4ybCs2O5"
+            },
+            {
+              "display_url": "pic.x.com/zh4ybCs2O5",
+              "end": 23,
+              "expanded_url": "https://x.com/aNo2mass/status/2039315295903564217/photo/1",
+              "media_key": "3_2039315289951875073",
+              "start": 0,
+              "url": "https://t.co/zh4ybCs2O5"
+            },
+            {
+              "display_url": "pic.x.com/zh4ybCs2O5",
+              "end": 23,
+              "expanded_url": "https://x.com/aNo2mass/status/2039315295903564217/photo/1",
+              "media_key": "3_2039315289951875072",
+              "start": 0,
+              "url": "https://t.co/zh4ybCs2O5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039315295903564217",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 15817,
+          "like_count": 2267,
+          "quote_count": 27,
+          "reply_count": 78,
+          "retweet_count": 265
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zh4ybCs2O5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 198,
+          "like_count": 2143,
+          "listed_count": 1,
+          "media_count": 553,
+          "tweet_count": 2446
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-20T07:40:12.000Z",
+        "description": "あのです。本物。https://t.co/makH5KeR3O ✟ https://t.co/7Yq6aam8wJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hell-blau.com",
+                "end": 31,
+                "expanded_url": "https://hell-blau.com",
+                "start": 8,
+                "url": "https://t.co/makH5KeR3O"
+              },
+              {
+                "display_url": "ano-official.com",
+                "end": 57,
+                "expanded_url": "https://ano-official.com",
+                "start": 34,
+                "url": "https://t.co/7Yq6aam8wJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/a_n_o2mass/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/a_n_o2mass/",
+                "start": 0,
+                "url": "https://t.co/L9ro8hNmEF"
+              }
+            ]
+          }
+        },
+        "id": "1685124498",
+        "location": "必然　",
+        "name": "あの",
+        "pinned_tweet_id": "1696504578605482008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757773313215279104/2_qsCT2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289368,
+          "following_count": 327,
+          "like_count": 17535,
+          "listed_count": 4099,
+          "media_count": 2378,
+          "tweet_count": 6627
+        },
+        "url": "https://t.co/L9ro8hNmEF",
+        "username": "aNo2mass",
+        "verified": true
+      }
+    ]
+  }
+}

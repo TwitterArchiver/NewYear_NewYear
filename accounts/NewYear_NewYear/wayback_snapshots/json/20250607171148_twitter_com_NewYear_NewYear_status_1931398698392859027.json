@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930592581953662976"
+      ],
+      "media_source_tweet_id": [
+        "1930592584650686726"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1931398698392859027",
+    "created_at": "2025-06-07T17:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T18:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931398698392859027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1758479697879482368",
+          "start": 3,
+          "username": "maichongsheng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2oAHI70Vgx",
+          "end": 51,
+          "expanded_url": "https://x.com/maichongsheng/status/1930592584650686726/photo/1",
+          "media_key": "3_1930592581953662976",
+          "start": 28,
+          "url": "https://t.co/2oAHI70Vgx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931398698392859027",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 285
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930592584650686726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maichongsheng: ( ´・∧・｀) https://t.co/2oAHI70Vgx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1930592581953662976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsrXuX1aMAAiYiu.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930592581953662976"
+          ],
+          "media_source_tweet_id": [
+            "1930592584650686726"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1931398698392859027",
+        "created_at": "2025-06-07T17:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T18:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931398698392859027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1758479697879482368",
+              "start": 3,
+              "username": "maichongsheng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2oAHI70Vgx",
+              "end": 51,
+              "expanded_url": "https://x.com/maichongsheng/status/1930592584650686726/photo/1",
+              "media_key": "3_1930592581953662976",
+              "start": 28,
+              "url": "https://t.co/2oAHI70Vgx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931398698392859027",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 285
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930592584650686726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maichongsheng: ( ´・∧・｀) https://t.co/2oAHI70Vgx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930592581953662976"
+          ]
+        },
+        "author_id": "1758479697879482368",
+        "conversation_id": "1930592584650686726",
+        "created_at": "2025-06-05T11:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T12:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930592584650686726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2oAHI70Vgx",
+              "end": 32,
+              "expanded_url": "https://x.com/maichongsheng/status/1930592584650686726/photo/1",
+              "media_key": "3_1930592581953662976",
+              "start": 9,
+              "url": "https://t.co/2oAHI70Vgx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930592584650686726",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 29389,
+          "like_count": 3056,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 285
+        },
+        "reply_settings": "everyone",
+        "text": "( ´・∧・｀) https://t.co/2oAHI70Vgx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 142,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 317
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T13:13:35.000Z",
+        "description": "Скоро с тобой буду я рядом.۩\n｜Do not use all the images I have posted without permission.",
+        "id": "1758479697879482368",
+        "location": "Спокойная ночь",
+        "name": "Туман",
+        "pinned_tweet_id": "1852908423362629866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913232792651194368/lTUrcM9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9188,
+          "following_count": 116,
+          "like_count": 2461,
+          "listed_count": 11,
+          "media_count": 28,
+          "tweet_count": 111
+        },
+        "username": "maichongsheng",
+        "verified": false
+      }
+    ]
+  }
+}

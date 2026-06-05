@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044570238239600641",
+        "3_2044570238235381760"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2044570294208393421",
+    "created_at": "2026-04-16T00:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T01:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044570294208393421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8WhP8UdLCh",
+          "end": 36,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2044570294208393421/photo/1",
+          "media_key": "3_2044570238239600641",
+          "start": 13,
+          "url": "https://t.co/8WhP8UdLCh"
+        },
+        {
+          "display_url": "pic.x.com/8WhP8UdLCh",
+          "end": 36,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2044570294208393421/photo/1",
+          "media_key": "3_2044570238235381760",
+          "start": 13,
+          "url": "https://t.co/8WhP8UdLCh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044570294208393421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真不行了，谁懂我的崩溃 https://t.co/8WhP8UdLCh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2044570238239600641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_FzJCbcAE5_Mv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044570238235381760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_FzJBbEAA3sBt.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044570238239600641",
+            "3_2044570238235381760"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044570294208393421",
+        "created_at": "2026-04-16T00:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T01:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044570294208393421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8WhP8UdLCh",
+              "end": 36,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2044570294208393421/photo/1",
+              "media_key": "3_2044570238239600641",
+              "start": 13,
+              "url": "https://t.co/8WhP8UdLCh"
+            },
+            {
+              "display_url": "pic.x.com/8WhP8UdLCh",
+              "end": 36,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2044570294208393421/photo/1",
+              "media_key": "3_2044570238235381760",
+              "start": 13,
+              "url": "https://t.co/8WhP8UdLCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044570294208393421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真不行了，谁懂我的崩溃 https://t.co/8WhP8UdLCh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 203,
+          "like_count": 2595,
+          "listed_count": 1,
+          "media_count": 624,
+          "tweet_count": 2753
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

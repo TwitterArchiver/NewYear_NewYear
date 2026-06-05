@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2009277588737294587",
+    "created_at": "2026-01-10T14:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T15:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009992750574514375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1604466769938198528",
+          "start": 0,
+          "username": "eniwwwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009992750574514375",
+    "in_reply_to_user_id": "1604466769938198528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009277588737294587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eniwwwww 兴趣爱好是超级无敌主观的东西\n就算分优劣也是自己分，别人指指点点说明别人很自大（太坏了！）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 246,
+        "media_key": "3_2009277585474351104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JjUYFacAAG8Xy.jpg",
+        "width": 452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2009277588737294587",
+        "created_at": "2026-01-10T14:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T15:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009992750574514375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1604466769938198528",
+              "start": 0,
+              "username": "eniwwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009992750574514375",
+        "in_reply_to_user_id": "1604466769938198528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009277588737294587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eniwwwww 兴趣爱好是超级无敌主观的东西\n就算分优劣也是自己分，别人指指点点说明别人很自大（太坏了！）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009277585474351104"
+          ]
+        },
+        "author_id": "1604466769938198528",
+        "conversation_id": "2009277588737294587",
+        "created_at": "2026-01-08T14:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009277588737294587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nua6j9kKVd",
+              "end": 130,
+              "expanded_url": "https://x.com/eniwwwww/status/2009277588737294587/photo/1",
+              "media_key": "3_2009277585474351104",
+              "start": 107,
+              "url": "https://t.co/Nua6j9kKVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009277588737294587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兴趣爱好是否分优劣呢\n我始终认为人活着就是为了寻找意义\n但是趋势价值观总把爱好分为369等\n到底什么样的爱好才是有价值的，或是能长久给人带来精神支柱的，真正能够持久的呢。创造性爱好，研究性爱好，或者是社交性爱好？ https://t.co/Nua6j9kKVd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 182,
+          "like_count": 1347,
+          "listed_count": 1,
+          "media_count": 450,
+          "tweet_count": 1908
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-18T13:21:18.000Z",
+        "description": "生活不需要那么多的意义和目的\n开心就好\n刷屏警告:\n大部分时间是附有表情包的流水账\n偶尔会有一些生活上的负面碎碎念\n正努力试图对抗虚无主义\n依然爱这个世界和所有人\nhttps://t.co/La30KhSRQg如果你想听听我的一些看法",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sr98889",
+                "end": 105,
+                "expanded_url": "https://ngl.link/sr98889",
+                "start": 82,
+                "url": "https://t.co/La30KhSRQg"
+              }
+            ]
+          }
+        },
+        "id": "1604466769938198528",
+        "location": "互联网蛀虫",
+        "name": "eniw",
+        "pinned_tweet_id": "1605148260556869633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629869064456908807/q_9mUOyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 376,
+          "like_count": 3126,
+          "listed_count": 0,
+          "media_count": 840,
+          "tweet_count": 1212
+        },
+        "username": "eniwwwww",
+        "verified": false
+      }
+    ]
+  }
+}

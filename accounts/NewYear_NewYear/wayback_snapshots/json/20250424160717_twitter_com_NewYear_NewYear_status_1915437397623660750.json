@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1915412266692055049",
+    "created_at": "2025-04-24T16:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T17:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915437397623660750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1677530479782768641",
+          "start": 0,
+          "username": "bai57248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915437397623660750",
+    "in_reply_to_user_id": "1677530479782768641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915412266692055049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai57248 萌！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915412256827072512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpTpTJ6bYAAnyVY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1915412266692055049",
+        "created_at": "2025-04-24T16:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T17:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915437397623660750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1677530479782768641",
+              "start": 0,
+              "username": "bai57248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915437397623660750",
+        "in_reply_to_user_id": "1677530479782768641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915412266692055049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai57248 萌！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915412256827072512"
+          ]
+        },
+        "author_id": "1677530479782768641",
+        "conversation_id": "1915412266692055049",
+        "created_at": "2025-04-24T14:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T15:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915412266692055049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UJN62smGOJ",
+              "end": 34,
+              "expanded_url": "https://x.com/bai57248/status/1915412266692055049/photo/1",
+              "media_key": "3_1915412256827072512",
+              "start": 11,
+              "url": "https://t.co/UJN62smGOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915412266692055049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 333,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路过的人能夸我一句吗 https://t.co/UJN62smGOJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850587758617890816/1iNTpnM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 129,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 105
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T04:10:14.000Z",
+        "description": "泉//类日记，包含无意义喊话//恋人：@YunxMu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "YunxMu"
+              }
+            ]
+          }
+        },
+        "id": "1677530479782768641",
+        "name": "OverQuan Wiki",
+        "pinned_tweet_id": "1914713326560616476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842627624369106944/PT5HoBhP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6099,
+          "following_count": 754,
+          "like_count": 35141,
+          "listed_count": 8,
+          "media_count": 1515,
+          "tweet_count": 9097
+        },
+        "username": "bai57248",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2059305311765434692",
+    "created_at": "2026-05-28T04:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059853302939181353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2058591198772936704",
+          "start": 0,
+          "username": "MasamoriEquinox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059853302939181353",
+    "in_reply_to_user_id": "2058591198772936704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059590852964729300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MasamoriEquinox 我当然愿意，我就英语很烂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2059305311765434692",
+        "created_at": "2026-05-28T04:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059853302939181353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2058591198772936704",
+              "start": 0,
+              "username": "MasamoriEquinox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059853302939181353",
+        "in_reply_to_user_id": "2058591198772936704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059590852964729300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MasamoriEquinox 我当然愿意，我就英语很烂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058591198772936704",
+        "conversation_id": "2059305311765434692",
+        "created_at": "2026-05-27T11:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059590852964729300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059590852964729300",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059305311765434692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 依稀记得前几年听过要把物理化学取代英语的主课位置，那样的话你还愿意吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 434,
+          "like_count": 8200,
+          "listed_count": 1,
+          "media_count": 843,
+          "tweet_count": 5195
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T16:52:27.000Z",
+        "description": "",
+        "id": "2058591198772936704",
+        "name": "浅影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058592417385955328/2XZqTuUX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "MasamoriEquinox",
+        "verified": false
+      }
+    ]
+  }
+}

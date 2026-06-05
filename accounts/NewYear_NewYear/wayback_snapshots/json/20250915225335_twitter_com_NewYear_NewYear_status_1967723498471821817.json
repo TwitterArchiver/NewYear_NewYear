@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967723487054925825"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1967723498471821817",
+    "created_at": "2025-09-15T22:53:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T23:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967723498471821817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fj9Rvp95hT",
+          "end": 48,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1967723498471821817/photo/1",
+          "media_key": "3_1967723487054925825",
+          "start": 25,
+          "url": "https://t.co/fj9Rvp95hT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967723498471821817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "外面的雷声超级超级大\n在双流这一块的肯定懂😭😭😭 https://t.co/fj9Rvp95hT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967723487054925825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G07CFgYaEAEAqHR.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967723487054925825"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967723498471821817",
+        "created_at": "2025-09-15T22:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T23:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967723498471821817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fj9Rvp95hT",
+              "end": 48,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1967723498471821817/photo/1",
+              "media_key": "3_1967723487054925825",
+              "start": 25,
+              "url": "https://t.co/fj9Rvp95hT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967723498471821817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "外面的雷声超级超级大\n在双流这一块的肯定懂😭😭😭 https://t.co/fj9Rvp95hT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 153,
+          "like_count": 238,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 918
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2059308973770322032",
+    "created_at": "2026-05-26T16:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T17:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059308973770322032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/2058936178620174620",
+          "start": 29,
+          "url": "https://t.co/OkJmtUHLZb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059308973770322032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058936178620174620",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上吊好爽（这是可以说的吗）\n那种意识慢慢涣散的感觉很酥糊 https://t.co/OkJmtUHLZb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2059308973770322032",
+        "created_at": "2026-05-26T16:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059308973770322032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/2058936178620174620",
+              "start": 29,
+              "url": "https://t.co/OkJmtUHLZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059308973770322032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058936178620174620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上吊好爽（这是可以说的吗）\n那种意识慢慢涣散的感觉很酥糊 https://t.co/OkJmtUHLZb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2058936178620174620",
+        "created_at": "2026-05-25T15:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058936178620174620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058936178620174620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 622,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚试了试低位上吊，一开始的时候呼吸很困难，然后过了一会耳边的声音慢慢的都消失了，最后只剩下心跳声，同时眼睛也变得慢慢发黑还是冒金星，身体极度的想呼吸当时几乎不能，这种感觉是最难受的\n大家不要担心我捏，我只是突然好奇所以试了一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 415,
+          "like_count": 7720,
+          "listed_count": 1,
+          "media_count": 823,
+          "tweet_count": 4944
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

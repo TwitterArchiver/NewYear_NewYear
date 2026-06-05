@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2053402982268764229",
+    "created_at": "2026-05-11T08:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053755319344664769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1729436345913995265",
+          "start": 0,
+          "username": "p1NRed1_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053755319344664769",
+    "in_reply_to_user_id": "1729436345913995265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053402982268764229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@p1NRed1_A 他怎么这样说！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2053402982268764229",
+        "created_at": "2026-05-11T08:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053755319344664769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053755319344664769",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053402982268764229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 他怎么这样说！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2053402982268764229",
+        "created_at": "2026-05-10T09:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053402982268764229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053402982268764229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 414,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别伤心我对象说没有那么喜欢我了我伤心的感觉心脏刺刺的痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 317,
+          "like_count": 5352,
+          "listed_count": 1,
+          "media_count": 745,
+          "tweet_count": 3990
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 560,
+          "like_count": 1651,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 6141
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

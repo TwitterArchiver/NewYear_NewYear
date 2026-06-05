@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1926711406574862646",
+    "created_at": "2025-05-26T16:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T17:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927036047529009216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1583317300152651776",
+          "start": 0,
+          "username": "Tsuki_NekoY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927036047529009216",
+    "in_reply_to_user_id": "1583317300152651776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926711406574862646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsuki_NekoY 之前什么都不想干，不想站着也不想躺着，不想拿刀也不想拿手机，不想活着也不想死着，到头来发现只是不想感受痛苦，但是怎么能不去感受痛苦，它自己撞过过来的😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1926711406574862646",
+        "created_at": "2025-05-26T16:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T17:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927036047529009216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1583317300152651776",
+              "start": 0,
+              "username": "Tsuki_NekoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927036047529009216",
+        "in_reply_to_user_id": "1583317300152651776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926711406574862646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsuki_NekoY 之前什么都不想干，不想站着也不想躺着，不想拿刀也不想拿手机，不想活着也不想死着，到头来发现只是不想感受痛苦，但是怎么能不去感受痛苦，它自己撞过过来的😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583317300152651776",
+        "conversation_id": "1926711406574862646",
+        "created_at": "2025-05-25T18:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T19:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926711406574862646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926711406574862646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 222,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想上学也没力气爬起来拆刀片 不想od\n不想喝酒 不想催吐 什么都不想做 只是这样反胃头痛耳鸣 身体上的苦痛永远不会好 因为只是躯体化只是幻觉只是幻觉幻觉永远不会好这是惩罚这样我痛苦下去总有一天会上天堂的会好的会好的会好的放过我吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1926315041835381104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 136,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 255
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T04:40:54.000Z",
+        "description": "転載禁止/陰キャ/⚓️/🎀🐾/精神障害/無性別/Sakuraの猫猫/日本語/裏@SakuraNekosama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 39,
+                "username": "SakuraNekosama"
+              }
+            ]
+          }
+        },
+        "id": "1583317300152651776",
+        "location": "東京  🚪150/520 私信只回口令红包",
+        "name": "Rikanaちゃん",
+        "pinned_tweet_id": "1846531641117941988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884997428484665344/BV3jpnF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3794,
+          "following_count": 59,
+          "like_count": 1977,
+          "listed_count": 8,
+          "media_count": 351,
+          "tweet_count": 2242
+        },
+        "username": "Tsuki_NekoY",
+        "verified": false
+      }
+    ]
+  }
+}

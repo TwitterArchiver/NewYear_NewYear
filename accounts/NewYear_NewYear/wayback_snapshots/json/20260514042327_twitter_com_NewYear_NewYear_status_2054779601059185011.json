@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2054779601059185011",
+    "created_at": "2026-05-14T04:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T05:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054779601059185011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "（大片黑笔划掉无法辨认） 今天又看 dao 你了，在窗 bian 你以为拉上窗帘就 kan 不到吗^^ 墙 bi 的缝隙、衣柜角落、门后黑影 （字迹潦草扭曲）我一 zhi 在 kan 你 你被吓哭的样子，好可爱好想*哭你 乱码：@%…… & * 视线不会离开 （浅红色晕染痕迹） 别躲，跑不掉的 好喜欢你 好喜欢你好喜欢你喜欢...... 我不允许你拥有除我之外的一切 你的呼吸、身体、情绪都该属于我 乖乖留在我身边 永远、永远，只准看着我一个人 我爱你^_^ 爱你 爱你 爱你",
+          "display_url": "ljy9199.github.io/Ghost/?sou",
+          "end": 23,
+          "expanded_url": "https://ljy9199.github.io/Ghost/?sou",
+          "start": 0,
+          "status": 200,
+          "title": "心理调查问卷",
+          "unwound_url": "https://ljy9199.github.io/Ghost/?sou",
+          "url": "https://t.co/HIcIMQACH2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054779601059185011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/HIcIMQACH2\n这个好棒！！！\n病娇女友，有没有人愿意一直看着我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2054779601059185011",
+        "created_at": "2026-05-14T04:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054779601059185011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "（大片黑笔划掉无法辨认） 今天又看 dao 你了，在窗 bian 你以为拉上窗帘就 kan 不到吗^^ 墙 bi 的缝隙、衣柜角落、门后黑影 （字迹潦草扭曲）我一 zhi 在 kan 你 你被吓哭的样子，好可爱好想*哭你 乱码：@%…… & * 视线不会离开 （浅红色晕染痕迹） 别躲，跑不掉的 好喜欢你 好喜欢你好喜欢你喜欢...... 我不允许你拥有除我之外的一切 你的呼吸、身体、情绪都该属于我 乖乖留在我身边 永远、永远，只准看着我一个人 我爱你^_^ 爱你 爱你 爱你",
+              "display_url": "ljy9199.github.io/Ghost/?sou",
+              "end": 23,
+              "expanded_url": "https://ljy9199.github.io/Ghost/?sou",
+              "start": 0,
+              "status": 200,
+              "title": "心理调查问卷",
+              "unwound_url": "https://ljy9199.github.io/Ghost/?sou",
+              "url": "https://t.co/HIcIMQACH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054779601059185011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HIcIMQACH2\n这个好棒！！！\n病娇女友，有没有人愿意一直看着我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 340,
+          "like_count": 6055,
+          "listed_count": 1,
+          "media_count": 757,
+          "tweet_count": 4159
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

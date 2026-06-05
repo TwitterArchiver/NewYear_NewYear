@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2040397947402354688"
+      ],
+      "media_source_tweet_id": [
+        "2040398885789786425"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040655064570925215",
+    "created_at": "2026-04-05T04:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T05:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040655064570925215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "988410371567321089",
+          "start": 3,
+          "username": "yuumagurenooto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x095xtH1zG",
+          "end": 55,
+          "expanded_url": "https://x.com/yuumagurenooto/status/2040398885789786425/video/1",
+          "media_key": "13_2040397947402354688",
+          "start": 32,
+          "url": "https://t.co/x095xtH1zG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040655064570925215",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 508
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040398885789786425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuumagurenooto: 夏の終わり(2025) https://t.co/x095xtH1zG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 117451,
+        "height": 1080,
+        "media_key": "13_2040397947402354688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040397947402354688/img/feVPTKXss7zpczvT.jpg",
+        "public_metrics": {
+          "view_count": 42062
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040397947402354688/vid/avc1/360x270/Q-K9G1NIP3ZPLHyS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040397947402354688/vid/avc1/480x360/NX-03QEbDZ9IfqaJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040397947402354688/vid/avc1/960x720/JPmr8pIzJ859amU5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040397947402354688/pl/N3T3iCWXs4BnXlg_.m3u8?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040397947402354688"
+          ],
+          "media_source_tweet_id": [
+            "2040398885789786425"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040655064570925215",
+        "created_at": "2026-04-05T04:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T05:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040655064570925215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "988410371567321089",
+              "start": 3,
+              "username": "yuumagurenooto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x095xtH1zG",
+              "end": 55,
+              "expanded_url": "https://x.com/yuumagurenooto/status/2040398885789786425/video/1",
+              "media_key": "13_2040397947402354688",
+              "start": 32,
+              "url": "https://t.co/x095xtH1zG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040655064570925215",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 508
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040398885789786425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuumagurenooto: 夏の終わり(2025) https://t.co/x095xtH1zG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040397947402354688"
+          ]
+        },
+        "author_id": "988410371567321089",
+        "conversation_id": "2040398885789786425",
+        "created_at": "2026-04-04T11:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040398885789786425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x095xtH1zG",
+              "end": 35,
+              "expanded_url": "https://x.com/yuumagurenooto/status/2040398885789786425/video/1",
+              "media_key": "13_2040397947402354688",
+              "start": 12,
+              "url": "https://t.co/x095xtH1zG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040398885789786425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 986,
+          "impression_count": 106554,
+          "like_count": 3314,
+          "quote_count": 40,
+          "reply_count": 4,
+          "retweet_count": 508
+        },
+        "reply_settings": "everyone",
+        "text": "夏の終わり(2025) https://t.co/x095xtH1zG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "EVERYWHERE",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 205,
+          "like_count": 2310,
+          "listed_count": 1,
+          "media_count": 578,
+          "tweet_count": 2566
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-23T13:32:51.000Z",
+        "description": "ゆかりさんが相棒のボカロP。 LUCY LOVE records所属。 作品の感想やファンアートは #暑中見舞異 まで。代表作品➤「夏の終わり」｢夏中十八界｣｢続・異夏の手帳｣｢ラジオ体操第九次元｣｢祭の残火｣｢参り｣｢轟音、それは青空のように。｣「days re days」",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "暑中見舞異"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Natsuno-Owari",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Natsuno-Owari",
+                "start": 0,
+                "url": "https://t.co/hbiusqkApO"
+              }
+            ]
+          }
+        },
+        "id": "988410371567321089",
+        "location": "歪ミキツタ夏",
+        "name": "螟上?邨ゅｏ繧",
+        "pinned_tweet_id": "1962093004446974256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1426861339486552064/VVKW-lk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9906,
+          "following_count": 6737,
+          "like_count": 21318,
+          "listed_count": 109,
+          "media_count": 1586,
+          "tweet_count": 32363
+        },
+        "url": "https://t.co/hbiusqkApO",
+        "username": "yuumagurenooto",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2033203365220663751",
+    "created_at": "2026-03-15T15:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033203365220663751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1652985793290604545",
+          "start": 3,
+          "username": "TuTri77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033203365220663751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032927253353611714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TuTri77: 我已经分不清我现在到底需要一个拥抱、喝十瓶啤酒、看心理医生、睡六个月、还是被车撞死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2033203365220663751",
+        "created_at": "2026-03-15T15:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033203365220663751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1652985793290604545",
+              "start": 3,
+              "username": "TuTri77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033203365220663751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032927253353611714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TuTri77: 我已经分不清我现在到底需要一个拥抱、喝十瓶啤酒、看心理医生、睡六个月、还是被车撞死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652985793290604545",
+        "conversation_id": "2032927253353611714",
+        "created_at": "2026-03-14T21:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T22:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032927253353611714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032927253353611714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2808,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "我已经分不清我现在到底需要一个拥抱、喝十瓶啤酒、看心理医生、睡六个月、还是被车撞死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 188,
+          "like_count": 1859,
+          "listed_count": 1,
+          "media_count": 526,
+          "tweet_count": 2265
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T10:38:28.000Z",
+        "description": "盗图死全家/我是高p/推广自辨/不要忘记我/vpn：https://t.co/VUGgYPMbud",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.dongtutu.com/#/register?cod",
+                "end": 49,
+                "expanded_url": "http://wwwwwl.dongtutu.com/#/register?cod",
+                "start": 26,
+                "url": "https://t.co/VUGgYPMbud"
+              }
+            ]
+          }
+        },
+        "id": "1652985793290604545",
+        "location": "🚪88",
+        "name": "nini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999300458825809923/WgRgyNCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12130,
+          "following_count": 258,
+          "like_count": 3225,
+          "listed_count": 24,
+          "media_count": 512,
+          "tweet_count": 2035
+        },
+        "username": "TuTri77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889749757242789888"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1889749772283568206",
+    "created_at": "2025-02-12T18:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T19:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889749772283568206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rCmdzkZc6X",
+          "end": 26,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1889749772283568206/photo/1",
+          "media_key": "3_1889749757242789888",
+          "start": 3,
+          "url": "https://t.co/rCmdzkZc6X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889749772283568206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "汉堡 https://t.co/rCmdzkZc6X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1889749757242789888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjm9ZFLWUAAoaJN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889749757242789888"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1889749772283568206",
+        "created_at": "2025-02-12T18:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T19:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889749772283568206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCmdzkZc6X",
+              "end": 26,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1889749772283568206/photo/1",
+              "media_key": "3_1889749757242789888",
+              "start": 3,
+              "url": "https://t.co/rCmdzkZc6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889749772283568206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汉堡 https://t.co/rCmdzkZc6X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "我会利用这些文字和图片，记录我非现实生活的一面",
+        "id": "1850587533924876288",
+        "name": "New&Year",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850587758617890816/1iNTpnM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 63,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 16
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

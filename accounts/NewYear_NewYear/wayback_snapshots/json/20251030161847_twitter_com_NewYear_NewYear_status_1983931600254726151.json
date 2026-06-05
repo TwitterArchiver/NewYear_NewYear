@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1983931600254726151",
+    "created_at": "2025-10-30T16:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T17:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983931600254726151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1341766476609462274",
+          "start": 3,
+          "username": "mentallychels"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983931600254726151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983912549096599821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mentallychels: 好日子像尿一樣流走了，留下來的騷味熏了我一輩子。我的尿是如此的騷，我的生活是如此的糟。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1983931600254726151",
+        "created_at": "2025-10-30T16:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T17:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983931600254726151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1341766476609462274",
+              "start": 3,
+              "username": "mentallychels"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983931600254726151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983912549096599821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mentallychels: 好日子像尿一樣流走了，留下來的騷味熏了我一輩子。我的尿是如此的騷，我的生活是如此的糟。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1341766476609462274",
+        "conversation_id": "1983912549096599821",
+        "created_at": "2025-10-30T15:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983912549096599821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983912549096599821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 395,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "好日子像尿一樣流走了，留下來的騷味熏了我一輩子。我的尿是如此的騷，我的生活是如此的糟。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 161,
+          "like_count": 773,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 1469
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-23T15:24:07.000Z",
+        "description": "我是壑｜shtwt｜双性恋｜双相I型｜天秤infp-t｜重度酥皮枕p｜素晴日全角色全肯定bot｜三無少女全肯定bot｜舞萌dx學習中｜我就這樣等著誰和我一起建設*卓希*｜很久沒有更新就應該是死掉了｜咔我先咔 @scutigera_8964 🚪299",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 104,
+                "username": "scutigera_8964"
+              }
+            ]
+          }
+        },
+        "id": "1341766476609462274",
+        "location": "北校C栋天台",
+        "name": "mentallychels",
+        "pinned_tweet_id": "1465787319303159808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341766993821671426/K8xmFlJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13660,
+          "following_count": 224,
+          "like_count": 1711,
+          "listed_count": 23,
+          "media_count": 303,
+          "tweet_count": 1255
+        },
+        "username": "mentallychels",
+        "verified": false
+      }
+    ]
+  }
+}

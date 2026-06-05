@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995461012850655232"
+      ],
+      "media_source_tweet_id": [
+        "1995461018365964693"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1995859156998521042",
+    "created_at": "2025-12-02T14:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T15:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995859156998521042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1495647343",
+          "start": 3,
+          "username": "4ugaii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PMdqY4C0Gu",
+          "end": 35,
+          "expanded_url": "https://x.com/4ugaii/status/1995461018365964693/photo/1",
+          "media_key": "3_1995461012850655232",
+          "start": 12,
+          "url": "https://t.co/PMdqY4C0Gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995859156998521042",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9155
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995461018365964693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4ugaii: https://t.co/PMdqY4C0Gu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1995461012850655232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FNOAIawAAV7UA.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995461012850655232"
+          ],
+          "media_source_tweet_id": [
+            "1995461018365964693"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1995859156998521042",
+        "created_at": "2025-12-02T14:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995859156998521042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1495647343",
+              "start": 3,
+              "username": "4ugaii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMdqY4C0Gu",
+              "end": 35,
+              "expanded_url": "https://x.com/4ugaii/status/1995461018365964693/photo/1",
+              "media_key": "3_1995461012850655232",
+              "start": 12,
+              "url": "https://t.co/PMdqY4C0Gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995859156998521042",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9155
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995461018365964693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4ugaii: https://t.co/PMdqY4C0Gu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995461012850655232"
+          ]
+        },
+        "author_id": "1495647343",
+        "conversation_id": "1995461018365964693",
+        "created_at": "2025-12-01T11:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T12:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995461018365964693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMdqY4C0Gu",
+              "end": 23,
+              "expanded_url": "https://x.com/4ugaii/status/1995461018365964693/photo/1",
+              "media_key": "3_1995461012850655232",
+              "start": 0,
+              "url": "https://t.co/PMdqY4C0Gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995461018365964693",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5823,
+          "impression_count": 1059545,
+          "like_count": 102898,
+          "quote_count": 320,
+          "reply_count": 74,
+          "retweet_count": 9155
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PMdqY4C0Gu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 166,
+          "like_count": 1039,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 1666
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-09T13:37:15.000Z",
+        "description": "××",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/10608735",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/10608735",
+                "start": 0,
+                "url": "https://t.co/MCbDQEyucM"
+              }
+            ]
+          }
+        },
+        "id": "1495647343",
+        "location": "JPN",
+        "name": "SUGAI",
+        "pinned_tweet_id": "1684447474671579138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909524821891055616/6SUqSSF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74475,
+          "following_count": 96,
+          "like_count": 1472,
+          "listed_count": 704,
+          "media_count": 58,
+          "tweet_count": 114
+        },
+        "url": "https://t.co/MCbDQEyucM",
+        "username": "4ugaii",
+        "verified": false
+      }
+    ]
+  }
+}

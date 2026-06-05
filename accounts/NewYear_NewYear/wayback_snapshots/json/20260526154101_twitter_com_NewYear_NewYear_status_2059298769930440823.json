@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2058748771144695855",
+    "created_at": "2026-05-26T15:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059298769930440823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2042998332352557056",
+          "start": 0,
+          "username": "ssy051212mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059298769930440823",
+    "in_reply_to_user_id": "2042998332352557056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059296387997815271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssy051212mi 这种一个人独居我觉得还是还挺不错的w\n便宜然后小小的很有安全感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2058748771144695855",
+        "created_at": "2026-05-26T15:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059298769930440823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2042998332352557056",
+              "start": 0,
+              "username": "ssy051212mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059298769930440823",
+        "in_reply_to_user_id": "2042998332352557056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059296387997815271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssy051212mi 这种一个人独居我觉得还是还挺不错的w\n便宜然后小小的很有安全感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042998332352557056",
+        "conversation_id": "2058748771144695855",
+        "created_at": "2026-05-26T15:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059296387997815271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059296387997815271",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059085649303806015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 比小区一居室便宜百分之70，北京小区4k在同地段公寓2.4k左右，别的地方应该就700+左右，好点的1500在商圈地铁站附近，但隔音一般，隔壁做爱还是能听见的，和酒店隔音一样，而且楼道走路啥的有时候也能听见，一层十几个房间，冰箱洗衣机抽油烟机卫生间沙发办公桌都有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 415,
+          "like_count": 7696,
+          "listed_count": 1,
+          "media_count": 822,
+          "tweet_count": 4928
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T16:09:26.000Z",
+        "description": "咪",
+        "id": "2042998332352557056",
+        "location": "Hong Kong",
+        "name": "屎屎大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058222492322570240/mwCMFr8N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 84,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 82
+        },
+        "username": "ssy051212mi",
+        "verified": false
+      }
+    ]
+  }
+}

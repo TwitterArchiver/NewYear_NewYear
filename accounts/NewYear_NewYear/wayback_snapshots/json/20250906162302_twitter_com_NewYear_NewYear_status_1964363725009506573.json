@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1964362256684347428",
+    "created_at": "2025-09-06T16:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T17:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964363725009506573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754795826713686016",
+          "start": 0,
+          "username": "xxxxinTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964363725009506573",
+    "in_reply_to_user_id": "1754795826713686016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964362256684347428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxxinTvT 我在这种时候暴饮暴食，就开始焦虑体重了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1964362256684347428",
+        "created_at": "2025-09-06T16:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T17:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964363725009506573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754795826713686016",
+              "start": 0,
+              "username": "xxxxinTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964363725009506573",
+        "in_reply_to_user_id": "1754795826713686016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964362256684347428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxxinTvT 我在这种时候暴饮暴食，就开始焦虑体重了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754795826713686016",
+        "conversation_id": "1964362256684347428",
+        "created_at": "2025-09-06T16:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T17:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964362256684347428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964362256684347428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好焦虑 压力好大 每次这个时候都暴饮暴食 报复性消费把自己所有钱花完 更崩溃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福",
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 150,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 595
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T09:15:12.000Z",
+        "description": "乞丐",
+        "id": "1754795826713686016",
+        "location": "🚪50",
+        "name": "xxxxin",
+        "pinned_tweet_id": "1754800304498024517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840479748897849344/7GMzuxFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4293,
+          "following_count": 561,
+          "like_count": 22082,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 8297
+        },
+        "username": "xxxxinTvT",
+        "verified": false
+      }
+    ]
+  }
+}

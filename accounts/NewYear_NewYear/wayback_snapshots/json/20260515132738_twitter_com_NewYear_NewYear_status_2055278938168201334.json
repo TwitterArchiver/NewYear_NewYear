@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2055234212337475668",
+    "created_at": "2026-05-15T13:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055278938168201334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705117000861978624",
+          "start": 0,
+          "username": "Chloe0v0263925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055278938168201334",
+    "in_reply_to_user_id": "1705117000861978624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055277952623902722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloe0v0263925 一些各种生殖器相互拔拔插插就延续了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2055234212337475668",
+        "created_at": "2026-05-15T13:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055278938168201334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705117000861978624",
+              "start": 0,
+              "username": "Chloe0v0263925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055278938168201334",
+        "in_reply_to_user_id": "1705117000861978624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055277952623902722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloe0v0263925 一些各种生殖器相互拔拔插插就延续了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705117000861978624",
+        "conversation_id": "2055234212337475668",
+        "created_at": "2026-05-15T13:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055277952623902722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055277952623902722",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055234212337475668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 有时候我不禁怀疑人类文明到底是如何延续的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 353,
+          "like_count": 6366,
+          "listed_count": 1,
+          "media_count": 767,
+          "tweet_count": 4283
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T07:09:17.000Z",
+        "description": "超级骷髅兵 172/55 15/4 直\n请不要站在制高点抨击我的道德和人格，因为这两者我都没有😋",
+        "id": "1705117000861978624",
+        "location": "宁波",
+        "name": "芝士风暴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924205664986898432/Jm_-OWGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 15,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 157
+        },
+        "username": "Chloe0v0263925",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036742907064209408"
+      ],
+      "media_source_tweet_id": [
+        "2036742914718745077"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2037059649535664406",
+    "created_at": "2026-03-26T06:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T07:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037059649535664406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967755187633926145",
+          "start": 3,
+          "username": "junaida900"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/262P30vsAH",
+          "end": 45,
+          "expanded_url": "https://x.com/junaida900/status/2036742914718745077/photo/1",
+          "media_key": "3_2036742907064209408",
+          "start": 22,
+          "url": "https://t.co/262P30vsAH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037059649535664406",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 648
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036742914718745077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @junaida900: 負け犬思考 https://t.co/262P30vsAH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_2036742907064209408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEP24gJb0AAafFl.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036742907064209408"
+          ],
+          "media_source_tweet_id": [
+            "2036742914718745077"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2037059649535664406",
+        "created_at": "2026-03-26T06:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T07:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037059649535664406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967755187633926145",
+              "start": 3,
+              "username": "junaida900"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/262P30vsAH",
+              "end": 45,
+              "expanded_url": "https://x.com/junaida900/status/2036742914718745077/photo/1",
+              "media_key": "3_2036742907064209408",
+              "start": 22,
+              "url": "https://t.co/262P30vsAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037059649535664406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 648
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036742914718745077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @junaida900: 負け犬思考 https://t.co/262P30vsAH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036742907064209408"
+          ]
+        },
+        "author_id": "1967755187633926145",
+        "conversation_id": "2036742914718745077",
+        "created_at": "2026-03-25T09:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T10:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036742914718745077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/262P30vsAH",
+              "end": 29,
+              "expanded_url": "https://x.com/junaida900/status/2036742914718745077/photo/1",
+              "media_key": "3_2036742907064209408",
+              "start": 6,
+              "url": "https://t.co/262P30vsAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036742914718745077",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 765,
+          "impression_count": 64365,
+          "like_count": 7875,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 648
+        },
+        "reply_settings": "everyone",
+        "text": "負け犬思考 https://t.co/262P30vsAH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 191,
+          "like_count": 2032,
+          "listed_count": 1,
+          "media_count": 539,
+          "tweet_count": 2357
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T01:00:10.000Z",
+        "description": "MADサブ垢。暗い海の底で生きてる。引きこもっているだけなので期待には応えられません。転載コピーNG。AI + retouch + hand-drawn mixed style 本垢 @madox900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "madox900"
+              }
+            ]
+          }
+        },
+        "id": "1967755187633926145",
+        "name": "mad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021848492868820992/e2I3VPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4458,
+          "following_count": 105,
+          "like_count": 1033,
+          "listed_count": 17,
+          "media_count": 46,
+          "tweet_count": 658
+        },
+        "username": "junaida900",
+        "verified": false
+      }
+    ]
+  }
+}

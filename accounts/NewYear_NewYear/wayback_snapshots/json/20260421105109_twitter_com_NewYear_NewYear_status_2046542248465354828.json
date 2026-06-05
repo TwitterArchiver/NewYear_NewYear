@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2046245171671847401",
+    "created_at": "2026-04-21T10:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046542248465354828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1839085606573637632",
+          "start": 0,
+          "username": "qii1969243"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046542248465354828",
+    "in_reply_to_user_id": "1839085606573637632",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046245171671847401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qii1969243 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2046245171671847401",
+        "created_at": "2026-04-21T10:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046542248465354828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "qii1969243"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046542248465354828",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046245171671847401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qii1969243 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2046245171671847401",
+        "created_at": "2026-04-20T15:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046245171671847401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046245171671847401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1128,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过几个月会不会有好多人都走了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 213,
+          "like_count": 3006,
+          "listed_count": 1,
+          "media_count": 652,
+          "tweet_count": 2947
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2044769767119270351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039490693140549632/hYgO0Ks5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 283,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1134
+        },
+        "username": "qii1969243",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020407975324921856"
+      ],
+      "media_source_tweet_id": [
+        "2020407981494636910"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2021379678993576109",
+    "created_at": "2026-02-11T00:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T01:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021379678993576109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1460985906782150656",
+          "start": 3,
+          "username": "4yan1de"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fQDK6HzQr8",
+          "end": 46,
+          "expanded_url": "https://x.com/4yan1de/status/2020407981494636910/photo/1",
+          "media_key": "3_2020407975324921856",
+          "start": 23,
+          "url": "https://t.co/fQDK6HzQr8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021379678993576109",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2760
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020407981494636910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4yan1de: 雪で沙耶ふもつくた https://t.co/fQDK6HzQr8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1966,
+        "media_key": "3_2020407975324921856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnuWVabsAAH29h.jpg",
+        "width": 1567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020407975324921856"
+          ],
+          "media_source_tweet_id": [
+            "2020407981494636910"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2021379678993576109",
+        "created_at": "2026-02-11T00:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T01:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021379678993576109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1460985906782150656",
+              "start": 3,
+              "username": "4yan1de"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fQDK6HzQr8",
+              "end": 46,
+              "expanded_url": "https://x.com/4yan1de/status/2020407981494636910/photo/1",
+              "media_key": "3_2020407975324921856",
+              "start": 23,
+              "url": "https://t.co/fQDK6HzQr8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021379678993576109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2760
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020407981494636910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4yan1de: 雪で沙耶ふもつくた https://t.co/fQDK6HzQr8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020407975324921856"
+          ]
+        },
+        "author_id": "1460985906782150656",
+        "conversation_id": "2020407981494636910",
+        "created_at": "2026-02-08T08:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T09:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020407981494636910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fQDK6HzQr8",
+              "end": 33,
+              "expanded_url": "https://x.com/4yan1de/status/2020407981494636910/photo/1",
+              "media_key": "3_2020407975324921856",
+              "start": 10,
+              "url": "https://t.co/fQDK6HzQr8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020407981494636910",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1347,
+          "impression_count": 266581,
+          "like_count": 22722,
+          "quote_count": 32,
+          "reply_count": 34,
+          "retweet_count": 2760
+        },
+        "reply_settings": "everyone",
+        "text": "雪で沙耶ふもつくた https://t.co/fQDK6HzQr8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 182,
+          "like_count": 1525,
+          "listed_count": 1,
+          "media_count": 496,
+          "tweet_count": 2063
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-17T14:59:28.000Z",
+        "description": "contact ࿓ 4yuk1mk4@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/4yuk1mk4",
+                "end": 23,
+                "expanded_url": "https://lit.link/4yuk1mk4",
+                "start": 0,
+                "url": "https://t.co/cDGB6uChyE"
+              }
+            ]
+          }
+        },
+        "id": "1460985906782150656",
+        "location": "cms closed. dont repost",
+        "name": "シユキ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865939927051198464/VBSUSLgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57267,
+          "following_count": 130,
+          "like_count": 9803,
+          "listed_count": 304,
+          "media_count": 171,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/cDGB6uChyE",
+        "username": "4yan1de",
+        "verified": false
+      }
+    ]
+  }
+}

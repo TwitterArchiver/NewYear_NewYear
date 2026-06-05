@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2050032998796710245",
+    "created_at": "2026-05-01T14:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T15:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050223598087094689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1825878217183633408",
+          "start": 0,
+          "username": "QLing61007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050223598087094689",
+    "in_reply_to_user_id": "1825878217183633408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050032998796710245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QLing61007 wow竟然是同款鞋，虾滑大人萌萌！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050032996091351040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHMuJf3a0AAmH5g.jpg",
+        "width": 1296
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050032995147583488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHMuJcWaEAAFSvl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050032995718045696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHMuJeeaoAAFojO.jpg",
+        "width": 1774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2050032998796710245",
+        "created_at": "2026-05-01T14:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050223598087094689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1825878217183633408",
+              "start": 0,
+              "username": "QLing61007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050223598087094689",
+        "in_reply_to_user_id": "1825878217183633408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050032998796710245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QLing61007 wow竟然是同款鞋，虾滑大人萌萌！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050032996091351040",
+            "3_2050032995147583488",
+            "3_2050032995718045696"
+          ]
+        },
+        "author_id": "1825878217183633408",
+        "conversation_id": "2050032998796710245",
+        "created_at": "2026-05-01T02:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T03:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050032998796710245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5VLeIENAMI",
+              "end": 41,
+              "expanded_url": "https://x.com/QLing61007/status/2050032998796710245/photo/1",
+              "media_key": "3_2050032996091351040",
+              "start": 18,
+              "url": "https://t.co/5VLeIENAMI"
+            },
+            {
+              "display_url": "pic.x.com/5VLeIENAMI",
+              "end": 41,
+              "expanded_url": "https://x.com/QLing61007/status/2050032998796710245/photo/1",
+              "media_key": "3_2050032995147583488",
+              "start": 18,
+              "url": "https://t.co/5VLeIENAMI"
+            },
+            {
+              "display_url": "pic.x.com/5VLeIENAMI",
+              "end": 41,
+              "expanded_url": "https://x.com/QLing61007/status/2050032998796710245/photo/1",
+              "media_key": "3_2050032995718045696",
+              "start": 18,
+              "url": "https://t.co/5VLeIENAMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050032998796710245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1431,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "该用户发了一组又土又典的对镜自拍。 https://t.co/5VLeIENAMI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 233,
+          "like_count": 3525,
+          "listed_count": 1,
+          "media_count": 694,
+          "tweet_count": 3301
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T12:51:26.000Z",
+        "description": "第二个我：@qing_323 （负面预警                                           倒背如流淌的理想 彼此间破灭的欣赏\n                                      \n 爱吃爱发呆喜欢碎碎念 丨 台女博爱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "qing_323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/7ing31705",
+                "end": 23,
+                "expanded_url": "https://ngl.link/7ing31705",
+                "start": 0,
+                "url": "https://t.co/B45eV1ZmhV"
+              }
+            ]
+          }
+        },
+        "id": "1825878217183633408",
+        "location": "沙发海",
+        "name": "青虾滑",
+        "pinned_tweet_id": "2026495009969893775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015112550174916608/E5z8q6mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 548,
+          "like_count": 11159,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 2950
+        },
+        "url": "https://t.co/B45eV1ZmhV",
+        "username": "QLing61007",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2051955381367189647",
+    "created_at": "2026-05-06T11:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051982326666842427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1273623965265571840",
+          "start": 0,
+          "username": "BigMac4U_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051982326666842427",
+    "in_reply_to_user_id": "1273623965265571840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051955381367189647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigMac4U_ 整容…✍🏻可以变成两瓣…✍🏻还可以去掉骨头…✍🏻✍🏻✍🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051955365059719168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoCiGVXcAACCjF.jpg",
+        "width": 1618
+      },
+      {
+        "height": 1605,
+        "media_key": "3_2051955364275335170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoCiDaWsAILzoT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2051955381367189647",
+        "created_at": "2026-05-06T11:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051982326666842427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1273623965265571840",
+              "start": 0,
+              "username": "BigMac4U_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051982326666842427",
+        "in_reply_to_user_id": "1273623965265571840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051955381367189647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigMac4U_ 整容…✍🏻可以变成两瓣…✍🏻还可以去掉骨头…✍🏻✍🏻✍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051955365059719168",
+            "3_2051955364275335170"
+          ]
+        },
+        "author_id": "1273623965265571840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2051955381367189647",
+        "created_at": "2026-05-06T09:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051955381367189647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/85i73Y3YII",
+              "end": 35,
+              "expanded_url": "https://x.com/BigMac4U_/status/2051955381367189647/photo/1",
+              "media_key": "3_2051955365059719168",
+              "start": 12,
+              "url": "https://t.co/85i73Y3YII"
+            },
+            {
+              "display_url": "pic.x.com/85i73Y3YII",
+              "end": 35,
+              "expanded_url": "https://x.com/BigMac4U_/status/2051955381367189647/photo/1",
+              "media_key": "3_2051955364275335170",
+              "start": 12,
+              "url": "https://t.co/85i73Y3YII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051955381367189647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 442,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⬅️整容前 整容后➡️ https://t.co/85i73Y3YII"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 273,
+          "like_count": 4283,
+          "listed_count": 1,
+          "media_count": 722,
+          "tweet_count": 3638
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-18T14:29:58.000Z",
+        "description": "Military shits/Whisky /Wine /Photography /Flight Sims /Symphonies｜Speak Mandarin & English 🇨🇳🇲🇴🇦🇺🇭🇰🇯🇵",
+        "id": "1273623965265571840",
+        "location": "Australia",
+        "name": "🐦",
+        "pinned_tweet_id": "1634850242431709187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169964066013184/Twc-nnIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3514,
+          "following_count": 666,
+          "like_count": 34712,
+          "listed_count": 11,
+          "media_count": 1143,
+          "tweet_count": 8139
+        },
+        "username": "BigMac4U_",
+        "verified": false
+      }
+    ]
+  }
+}

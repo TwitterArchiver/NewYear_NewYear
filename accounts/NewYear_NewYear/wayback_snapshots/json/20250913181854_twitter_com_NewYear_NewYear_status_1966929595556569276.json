@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1966929595556569276",
+    "created_at": "2025-09-13T18:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T19:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966929595556569276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1660276482030342145",
+          "start": 3,
+          "username": "i1314151241475i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966929595556569276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966883671698534608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i1314151241475i: 你的阴道对我打了烊，精液在我鸡里上了膛，请你告诉我今后怎么办，不给我操，还笑着原谅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1966929595556569276",
+        "created_at": "2025-09-13T18:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T19:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966929595556569276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1660276482030342145",
+              "start": 3,
+              "username": "i1314151241475i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966929595556569276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966883671698534608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i1314151241475i: 你的阴道对我打了烊，精液在我鸡里上了膛，请你告诉我今后怎么办，不给我操，还笑着原谅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660276482030342145",
+        "conversation_id": "1966883671698534608",
+        "created_at": "2025-09-13T15:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T16:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966883671698534608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966883671698534608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3554,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你的阴道对我打了烊，精液在我鸡里上了膛，请你告诉我今后怎么办，不给我操，还笑着原谅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号",
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 150,
+          "like_count": 178,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 853
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T13:29:11.000Z",
+        "description": "喜欢可爱的人 推广关评自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=RxOjXpbL",
+                "start": 0,
+                "url": "https://t.co/TMNyyogDFX"
+              }
+            ]
+          }
+        },
+        "id": "1660276482030342145",
+        "name": "煎饺神",
+        "pinned_tweet_id": "1964247055507042534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946535798632828928/NfPbY4-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11154,
+          "following_count": 225,
+          "like_count": 8141,
+          "listed_count": 16,
+          "media_count": 162,
+          "tweet_count": 3649
+        },
+        "url": "https://t.co/TMNyyogDFX",
+        "username": "i1314151241475i",
+        "verified": false
+      }
+    ]
+  }
+}

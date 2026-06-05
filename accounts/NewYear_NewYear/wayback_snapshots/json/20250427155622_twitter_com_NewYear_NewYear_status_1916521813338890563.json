@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916521810302234624"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1912470547352670562",
+    "created_at": "2025-04-27T15:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T16:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916521813338890563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1896224159568715776",
+          "start": 0,
+          "username": "ginn258"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5A27fbETdh",
+          "end": 60,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1916521813338890563/photo/1",
+          "media_key": "3_1916521810302234624",
+          "start": 37,
+          "url": "https://t.co/5A27fbETdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916521813338890563",
+    "in_reply_to_user_id": "1896224159568715776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912470547352670562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ginn258 好用但是伤口比较难结痂……之前有一个花了三个星期才结痂 https://t.co/5A27fbETdh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916521810302234624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpjabqtacAANQbM.jpg",
+        "width": 923
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1912470537147727874",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gop10iIXQAId9eX.jpg",
+        "width": 845
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1912470537575575553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gop10juXsAEjKD4.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916521810302234624"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1912470547352670562",
+        "created_at": "2025-04-27T15:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T16:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916521813338890563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896224159568715776",
+              "start": 0,
+              "username": "ginn258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5A27fbETdh",
+              "end": 60,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1916521813338890563/photo/1",
+              "media_key": "3_1916521810302234624",
+              "start": 37,
+              "url": "https://t.co/5A27fbETdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916521813338890563",
+        "in_reply_to_user_id": "1896224159568715776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912470547352670562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ginn258 好用但是伤口比较难结痂……之前有一个花了三个星期才结痂 https://t.co/5A27fbETdh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912470537147727874",
+            "3_1912470537575575553"
+          ]
+        },
+        "author_id": "1896224159568715776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1912470547352670562",
+        "created_at": "2025-04-16T11:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T12:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912470547352670562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/siUdLduVvz",
+              "end": 76,
+              "expanded_url": "https://x.com/ginn258/status/1912470547352670562/photo/1",
+              "media_key": "3_1912470537147727874",
+              "start": 53,
+              "url": "https://t.co/siUdLduVvz"
+            },
+            {
+              "display_url": "pic.x.com/siUdLduVvz",
+              "end": 76,
+              "expanded_url": "https://x.com/ginn258/status/1912470547352670562/photo/1",
+              "media_key": "3_1912470537575575553",
+              "start": 53,
+              "url": "https://t.co/siUdLduVvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912470547352670562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 988,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推荐改花刀的妹子们一个好物\n无菌敷贴 直接去pxx上搜\n特别好用 伤口不会到处摩擦之类的 出汗也不会刺激 https://t.co/siUdLduVvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850587758617890816/1iNTpnM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 132,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 117
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T15:41:12.000Z",
+        "description": "infp/09/一个喜欢分享日常的小女高\n有精神病 脾气时好时坏 主页什么都发 \n过🚪可以私信",
+        "id": "1896224159568715776",
+        "name": "ginaie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906295546371080192/FV4AGWjr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 54,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 127
+        },
+        "username": "ginn258",
+        "verified": false
+      }
+    ]
+  }
+}

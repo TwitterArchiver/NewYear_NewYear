@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2047240625528111275",
+    "created_at": "2026-04-23T09:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T10:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047242028397084989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1212683181029068800",
+          "start": 0,
+          "username": "Cigamipcy1124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047242028397084989",
+    "in_reply_to_user_id": "1212683181029068800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047240625528111275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cigamipcy1124 吃掉昨天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2047240625528111275",
+        "created_at": "2026-04-23T09:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047242028397084989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1212683181029068800",
+              "start": 0,
+              "username": "Cigamipcy1124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047242028397084989",
+        "in_reply_to_user_id": "1212683181029068800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047240625528111275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cigamipcy1124 吃掉昨天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1212683181029068800",
+        "conversation_id": "2047240625528111275",
+        "created_at": "2026-04-23T09:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047240625528111275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047240625528111275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天吃啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2046548745811382505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 221,
+          "like_count": 3246,
+          "listed_count": 1,
+          "media_count": 666,
+          "tweet_count": 3111
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-02T10:33:02.000Z",
+        "description": "v9爱丽/碎碎念清水做饭吐槽推/爱香水爱做甜点爱做饭/阿米和跑三粉请绕道^ 本人是男孩子且是不知名恋姐癖。找我玩：https://t.co/gcaMsyq9bG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinxin_offcial",
+                "end": 80,
+                "expanded_url": "https://ngl.link/xinxin_offcial",
+                "start": 57,
+                "url": "https://t.co/gcaMsyq9bG"
+              }
+            ]
+          }
+        },
+        "id": "1212683181029068800",
+        "location": "找姐姐。我姐姐呢？",
+        "name": "呆萌小鹿鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974806175150465024/SHMNB3U4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 196,
+          "like_count": 14979,
+          "listed_count": 1,
+          "media_count": 820,
+          "tweet_count": 8468
+        },
+        "username": "Cigamipcy1124",
+        "verified": false
+      }
+    ]
+  }
+}

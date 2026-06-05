@@ -1,0 +1,360 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon May 24 08:21:23 +0000 2021",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "youtu.be/YBtNS4Q421M",
+        "expanded_url": "https://youtu.be/YBtNS4Q421M",
+        "indices": [
+          77,
+          100
+        ],
+        "url": "https://t.co/hqO3oC5Cby"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 113259902,
+        "id_str": "113259902",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "SBS",
+        "screen_name": "SBSNOW"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1396743115659218946,
+  "id_str": "1396743115659218946",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "ko",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 24 01:56:58 +0000 2021",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "youtu.be/YBtNS4Q421M",
+          "expanded_url": "https://youtu.be/YBtNS4Q421M",
+          "indices": [
+            65,
+            88
+          ],
+          "url": "https://t.co/hqO3oC5Cby"
+        },
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1396646375014633477",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/J42lOUlY79"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        180
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              123,
+              128
+            ],
+            "text": "인기가요"
+          },
+          {
+            "indices": [
+              129,
+              138
+            ],
+            "text": "Inkigayo"
+          },
+          {
+            "indices": [
+              139,
+              147
+            ],
+            "text": "인가학교MC반"
+          },
+          {
+            "indices": [
+              148,
+              152
+            ],
+            "text": "엠씨컷"
+          },
+          {
+            "indices": [
+              153,
+              157
+            ],
+            "text": "정성찬"
+          },
+          {
+            "indices": [
+              158,
+              162
+            ],
+            "text": "안유진"
+          },
+          {
+            "indices": [
+              163,
+              167
+            ],
+            "text": "박지훈"
+          },
+          {
+            "indices": [
+              168,
+              174
+            ],
+            "text": "MC니니니"
+          },
+          {
+            "indices": [
+              175,
+              180
+            ],
+            "text": "니니니즈"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/rtsnxbY7w9",
+            "expanded_url": "https://twitter.com/SBSNOW/status/1396646375014633477/photo/1",
+            "id": 1396638643561791488,
+            "id_str": "1396638643561791488",
+            "indices": [
+              181,
+              204
+            ],
+            "media_url": "http://pbs.twimg.com/media/E2HbclUVgAAXYXk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E2HbclUVgAAXYXk.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rtsnxbY7w9"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/YBtNS4Q421M",
+            "expanded_url": "https://youtu.be/YBtNS4Q421M",
+            "indices": [
+              65,
+              88
+            ],
+            "url": "https://t.co/hqO3oC5Cby"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/rtsnxbY7w9",
+            "expanded_url": "https://twitter.com/SBSNOW/status/1396646375014633477/photo/1",
+            "id": 1396638643561791488,
+            "id_str": "1396638643561791488",
+            "indices": [
+              181,
+              204
+            ],
+            "media_url": "http://pbs.twimg.com/media/E2HbclUVgAAXYXk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E2HbclUVgAAXYXk.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/rtsnxbY7w9"
+          }
+        ]
+      },
+      "full_text": "바쁘디 바쁜 현대사회🏃🏃‍♀️\n인가 plane✈️ 휴가 즐기러\n니니니 섬을 향해 이륙합니다🏝️\n\nMC컷 보러가기\n☞ https://t.co/hqO3oC5Cby\n\nSBS 인기가요\n☞ 매주 일요일 오후 3시 50분 본방송\n\n#인기가요 #Inkigayo #인가학교MC반 #엠씨컷\n#정성찬 #안유진 #박지훈 #MC니니니 #니니니즈 https://t.co/rtsnxbY7w9"
+    },
+    "favorite_count": 3890,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1396646375014633477,
+    "id_str": "1396646375014633477",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "ko",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 23,
+    "reply_count": 27,
+    "retweet_count": 1697,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "text": "바쁘디 바쁜 현대사회🏃🏃‍♀️\n인가 plane✈️ 휴가 즐기러\n니니니 섬을 향해 이륙합니다🏝️\n\nMC컷 보러가기\n☞ https://t.co/hqO3oC5Cby\n\nSBS 인기가요\n☞ 매주 일요일 오후 3시 5… https://t.co/J42lOUlY79",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 11 06:04:28 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "SBS 공식트위터 '습스나우'",
+      "favourites_count": 1244,
+      "follow_request_sent": null,
+      "followers_count": 1721998,
+      "following": null,
+      "friends_count": 101,
+      "geo_enabled": true,
+      "id": 113259902,
+      "id_str": "113259902",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2991,
+      "location": null,
+      "name": "SBS",
+      "notifications": null,
+      "profile_background_color": "FAFAFA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1615438008",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1345885958269411329/9tKqp2eF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345885958269411329/9tKqp2eF_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SBSNOW",
+      "statuses_count": 48466,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @SBSNOW: 바쁘디 바쁜 현대사회🏃🏃‍♀️\n인가 plane✈️ 휴가 즐기러\n니니니 섬을 향해 이륙합니다🏝️\n\nMC컷 보러가기\n☞ https://t.co/hqO3oC5Cby\n\nSBS 인기가요\n☞ 매주 일요일 오후 3시 50분 본방송\n\n#인기가…",
+  "timestamp_ms": "1621844483662",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี น้องเจคของอุนแม่",
+    "favourites_count": 8344,
+    "follow_request_sent": null,
+    "followers_count": 111,
+    "following": null,
+    "friends_count": 126,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "แฮปปี้นิวเยียร์แห่งจักรวาล",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1393288207068893185/M3fkxnJi_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393288207068893185/M3fkxnJi_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 12793,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

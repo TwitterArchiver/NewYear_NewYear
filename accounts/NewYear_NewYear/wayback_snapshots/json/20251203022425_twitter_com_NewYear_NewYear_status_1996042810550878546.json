@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1995841666171756544"
+      ],
+      "media_source_tweet_id": [
+        "1995841740239241318"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1996042810550878546",
+    "created_at": "2025-12-03T02:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T03:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996042810550878546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "805055951321501696",
+          "start": 3,
+          "username": "NoCatsNoLife_m"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1aUACSx0ID",
+          "end": 43,
+          "expanded_url": "https://x.com/NoCatsNoLife_m/status/1995841740239241318/video/1",
+          "media_key": "13_1995841666171756544",
+          "start": 20,
+          "url": "https://t.co/1aUACSx0ID"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996042810550878546",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6010
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995841740239241318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NoCatsNoLife_m: https://t.co/1aUACSx0ID"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7866,
+        "height": 1280,
+        "media_key": "13_1995841666171756544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1995841666171756544/img/QmnTHVI6_XQK2CFB.jpg",
+        "public_metrics": {
+          "view_count": 176854
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995841666171756544/vid/avc1/320x568/GrDirtnHYyCMvUHW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995841666171756544/vid/avc1/480x852/nLLlK4RO3DnXBQYq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995841666171756544/vid/avc1/720x1280/FJtSYncrlRhgeTE6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1995841666171756544/pl/oncI-fw-YsHDlt4V.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995841666171756544"
+          ],
+          "media_source_tweet_id": [
+            "1995841740239241318"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1996042810550878546",
+        "created_at": "2025-12-03T02:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T03:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996042810550878546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "805055951321501696",
+              "start": 3,
+              "username": "NoCatsNoLife_m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1aUACSx0ID",
+              "end": 43,
+              "expanded_url": "https://x.com/NoCatsNoLife_m/status/1995841740239241318/video/1",
+              "media_key": "13_1995841666171756544",
+              "start": 20,
+              "url": "https://t.co/1aUACSx0ID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996042810550878546",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6010
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995841740239241318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NoCatsNoLife_m: https://t.co/1aUACSx0ID"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995841666171756544"
+          ]
+        },
+        "author_id": "805055951321501696",
+        "conversation_id": "1995841740239241318",
+        "created_at": "2025-12-02T13:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T14:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995841740239241318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1aUACSx0ID",
+              "end": 23,
+              "expanded_url": "https://x.com/NoCatsNoLife_m/status/1995841740239241318/video/1",
+              "media_key": "13_1995841666171756544",
+              "start": 0,
+              "url": "https://t.co/1aUACSx0ID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995841740239241318",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2306,
+          "impression_count": 553854,
+          "like_count": 36681,
+          "quote_count": 188,
+          "reply_count": 85,
+          "retweet_count": 6010
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1aUACSx0ID"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 166,
+          "like_count": 1051,
+          "listed_count": 1,
+          "media_count": 388,
+          "tweet_count": 1671
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-03T14:27:50.000Z",
+        "description": "Living with a cat makes every day a little more special 🐱🌹🧡✉️ DM for credits or removal 🐈‍⬛",
+        "id": "805055951321501696",
+        "name": "No Cats No Life",
+        "pinned_tweet_id": "1995841740239241318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712627646407073793/mUGzK37B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424192,
+          "following_count": 254,
+          "like_count": 35154,
+          "listed_count": 1371,
+          "media_count": 20932,
+          "tweet_count": 28134
+        },
+        "username": "NoCatsNoLife_m",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2046052586621669386",
+    "created_at": "2026-04-20T02:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T03:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046052586621669386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/one_snowball/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/one_snowball/status/2045721299910045934",
+          "start": 20,
+          "url": "https://t.co/lU78Ni9pXo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046052586621669386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045721299910045934",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草我是什么很老的人吗，怎么一条没中🥲 https://t.co/lU78Ni9pXo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2046052586621669386",
+        "created_at": "2026-04-20T02:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046052586621669386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/one_snowball/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/one_snowball/status/2045721299910045934",
+              "start": 20,
+              "url": "https://t.co/lU78Ni9pXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046052586621669386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045721299910045934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草我是什么很老的人吗，怎么一条没中🥲 https://t.co/lU78Ni9pXo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1539901494530809856",
+        "conversation_id": "2045721299910045934",
+        "created_at": "2026-04-19T04:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045721299910045934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045721299910045934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "00后小孩的基本时代特征：\n1、喜欢开各种各样的银行卡，包括且不限于借记卡，贷记卡等类型的港卡，万事达，Visa，运通，JCB等\n2、喜欢轨道交通和火车站，民航客机，机场\n3、喜欢万象城，恒隆，太古里，大悦城等中外资商场购物中心\n4、喜欢Apple，山姆，宜家，Costco等零售店\n5、喜欢出国旅行，基本常年活跃于免签国或者低难度签证国家\n6、喜欢追求各种各样的新潮类咖啡\n7、喜欢电车\n8、喜欢吃日料，海鲜，外国快餐，包括但不限于麦当劳，快乐蜂等\n9、喜欢去港澳旅行\n10、喜欢坐飞机写飞行日记，与机组成员合影留念等，喜欢收集科技类数码公司的周边\n12、喜欢看演唱会\n13、很少做饭，基本叫外卖或者堂食，偶尔心情好做家务饭菜并且会拍个Vlog\n14、喜欢用各种移动设备记录生活Vlog.15。喜欢尝试各种甜品，网红店等\n16、日常感觉自己还小，明明自己已经20多岁了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 318,
+          "impression_count": 189305,
+          "like_count": 762,
+          "quote_count": 10,
+          "reply_count": 134,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "00后小孩的基本时代特征：\n1、喜欢开各种各样的银行卡，包括且不限于借记卡，贷记卡等类型的港卡，万事达，Visa，运通，JCB等\n2、喜欢轨道交通和火车站，民航客机，机场\n3、喜欢万象城，恒隆，太古里，大悦城等中外资商场购物中心\n4、喜欢Apple，山姆，宜家，Costco等零售店"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 207,
+          "like_count": 2800,
+          "listed_count": 1,
+          "media_count": 638,
+          "tweet_count": 2842
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-23T09:21:53.000Z",
+        "description": "专注投资分享 #AI #Web3 领域，#binance 创作者 近3亿用户的共同选择，出入金安全，启程Web3，就在币安： https://t.co/hdzvveS35G",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 7,
+                "tag": "AI"
+              },
+              {
+                "end": 16,
+                "start": 11,
+                "tag": "Web3"
+              },
+              {
+                "end": 28,
+                "start": 20,
+                "tag": "binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/join?ref=BXLNU…",
+                "end": 86,
+                "expanded_url": "https://www.binance.com/join?ref=BXLNU2N5",
+                "start": 63,
+                "url": "https://t.co/hdzvveS35G"
+              }
+            ]
+          }
+        },
+        "id": "1539901494530809856",
+        "name": "Snowball（抓住金狗版）🔶 BNB ETHGas ⛽️ 🤖ボッ🦅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032374369792770053/qMO4Iwmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74124,
+          "following_count": 5614,
+          "like_count": 30956,
+          "listed_count": 637,
+          "media_count": 3359,
+          "tweet_count": 35704
+        },
+        "username": "one_snowball",
+        "verified": true
+      }
+    ]
+  }
+}

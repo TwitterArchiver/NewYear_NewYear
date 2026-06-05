@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1964727057897955572",
+    "created_at": "2025-09-07T16:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T17:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964727057897955572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NoCatsNoLife_m…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/NoCatsNoLife_m/status/1964333009911546187",
+          "start": 5,
+          "url": "https://t.co/nCX2KCAYgD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964727057897955572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964333009911546187",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好搞笑😆 https://t.co/nCX2KCAYgD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1227,
+        "media_key": "3_1964333004467425280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0K2dcfbUAAsPFt.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1964727057897955572",
+        "created_at": "2025-09-07T16:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T17:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964727057897955572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NoCatsNoLife_m…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/NoCatsNoLife_m/status/1964333009911546187",
+              "start": 5,
+              "url": "https://t.co/nCX2KCAYgD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964727057897955572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964333009911546187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好搞笑😆 https://t.co/nCX2KCAYgD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964333004467425280"
+          ]
+        },
+        "author_id": "805055951321501696",
+        "conversation_id": "1964333009911546187",
+        "created_at": "2025-09-06T14:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964333009911546187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xdUd5Xvvhr",
+              "end": 23,
+              "expanded_url": "https://x.com/NoCatsNoLife_m/status/1964333009911546187/photo/1",
+              "media_key": "3_1964333004467425280",
+              "start": 0,
+              "url": "https://t.co/xdUd5Xvvhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964333009911546187",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 896,
+          "impression_count": 381108,
+          "like_count": 33184,
+          "quote_count": 49,
+          "reply_count": 23,
+          "retweet_count": 2708
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xdUd5Xvvhr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福",
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 145,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 612
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-03T14:27:50.000Z",
+        "description": "Living with a cat makes every day a little more special 🐱🌹🧡✉️ DM for credits or removal 🐈‍⬛my backup account @mari_catslover",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 109,
+                "username": "mari_catslover"
+              }
+            ]
+          }
+        },
+        "id": "805055951321501696",
+        "name": "No Cats No Life",
+        "pinned_tweet_id": "1964674654146298034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712627646407073793/mUGzK37B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412361,
+          "following_count": 242,
+          "like_count": 32525,
+          "listed_count": 1349,
+          "media_count": 18985,
+          "tweet_count": 25953
+        },
+        "username": "NoCatsNoLife_m",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983359624389767168"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1983359626658881798",
+    "created_at": "2025-10-29T02:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T03:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983359626658881798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TMwd1rnG9j",
+          "end": 118,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1983359626658881798/photo/1",
+          "media_key": "3_1983359624389767168",
+          "start": 95,
+          "url": "https://t.co/TMwd1rnG9j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983359626658881798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天晚上放课回寝，在我们学校看到一个地雷穿搭的女孩子，然后觉得好好看\n第一次在现实看到蕾系穿搭w\n我就觉得很好看，自己穿的话肩宽和骨架什么的，就虎背熊腰的😭\n\n衣服就像下面这种一样，特别萌 https://t.co/TMwd1rnG9j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1983359624389767168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ZPEfGasAAWyEq.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983359624389767168"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1983359626658881798",
+        "created_at": "2025-10-29T02:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T03:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983359626658881798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMwd1rnG9j",
+              "end": 118,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1983359626658881798/photo/1",
+              "media_key": "3_1983359624389767168",
+              "start": 95,
+              "url": "https://t.co/TMwd1rnG9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983359626658881798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上放课回寝，在我们学校看到一个地雷穿搭的女孩子，然后觉得好好看\n第一次在现实看到蕾系穿搭w\n我就觉得很好看，自己穿的话肩宽和骨架什么的，就虎背熊腰的😭\n\n衣服就像下面这种一样，特别萌 https://t.co/TMwd1rnG9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 161,
+          "like_count": 745,
+          "listed_count": 1,
+          "media_count": 327,
+          "tweet_count": 1439
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

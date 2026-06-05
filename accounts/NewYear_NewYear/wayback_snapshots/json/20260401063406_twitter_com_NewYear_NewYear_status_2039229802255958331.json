@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2039229802255958331",
+    "created_at": "2026-04-01T06:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039229802255958331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pidatow/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/pidatow/status/2039095083367309771",
+          "start": 4,
+          "url": "https://t.co/1Z6ok7Gvx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039229802255958331",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039095083367309771",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "凑屁猫 https://t.co/1Z6ok7Gvx0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9999,
+        "height": 1024,
+        "media_key": "7_2039095064144887808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2039095064144887808/pu/img/4R55rY3o9oIj6khO.jpg",
+        "public_metrics": {
+          "view_count": 3449
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039095064144887808/pu/vid/avc1/320x568/n062Mww4TGWg6A-8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039095064144887808/pu/vid/avc1/480x852/RAm2QxVk9EmO6U8S.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039095064144887808/pu/vid/avc1/576x1024/Mytxfj8itb23A5O-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2039095064144887808/pu/pl/Z0-sEBsOQSZUTLxu.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2039229802255958331",
+        "created_at": "2026-04-01T06:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039229802255958331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pidatow/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/pidatow/status/2039095083367309771",
+              "start": 4,
+              "url": "https://t.co/1Z6ok7Gvx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039229802255958331",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039095083367309771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "凑屁猫 https://t.co/1Z6ok7Gvx0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039095064144887808"
+          ]
+        },
+        "author_id": "349642628",
+        "conversation_id": "2039095083367309771",
+        "created_at": "2026-03-31T21:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T22:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039095083367309771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7uQIIpg5GV",
+              "end": 39,
+              "expanded_url": "https://x.com/pidatow/status/2039095083367309771/video/1",
+              "media_key": "7_2039095064144887808",
+              "start": 16,
+              "url": "https://t.co/7uQIIpg5GV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039095083367309771",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 12966,
+          "like_count": 378,
+          "quote_count": 8,
+          "reply_count": 210,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "I can smell it😭 https://t.co/7uQIIpg5GV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 198,
+          "like_count": 2135,
+          "listed_count": 1,
+          "media_count": 553,
+          "tweet_count": 2443
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-06T12:58:04.000Z",
+        "description": "ngantukan person",
+        "id": "349642628",
+        "name": "lea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029974807920750592/dtnTipVd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 1195,
+          "like_count": 6401,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 218
+        },
+        "username": "pidatow",
+        "verified": true
+      }
+    ]
+  }
+}

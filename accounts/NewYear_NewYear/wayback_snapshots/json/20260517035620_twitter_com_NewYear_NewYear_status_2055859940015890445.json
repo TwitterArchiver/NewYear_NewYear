@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2055847910894620765",
+    "created_at": "2026-05-17T03:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T04:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055859940015890445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980572743230795776",
+          "start": 0,
+          "username": "zake96279450728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055859940015890445",
+    "in_reply_to_user_id": "1980572743230795776",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055859479212900398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zake96279450728 🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2055847910894620765",
+        "created_at": "2026-05-17T03:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055859940015890445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980572743230795776",
+              "start": 0,
+              "username": "zake96279450728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055859940015890445",
+        "in_reply_to_user_id": "1980572743230795776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055859479212900398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zake96279450728 🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980572743230795776",
+        "conversation_id": "2055847910894620765",
+        "created_at": "2026-05-17T03:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055859479212900398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055859479212900398",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055858798812934265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 呦吼吼吼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 385,
+          "like_count": 6785,
+          "listed_count": 1,
+          "media_count": 780,
+          "tweet_count": 4509
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T09:52:09.000Z",
+        "description": "不聊骚哈小美女，不好意思，我是一个有家庭有恋人孩子的人，我平时发发帖子已经是最大的尺度了，希望你理解，但转账我能接受，多大都能。\n𖦹无性别𖦹泛性恋𖦹不约𖦹可礼貌扩列𖦹发私信前点关注𖦹所有人来和我聊天我好不好🥺𖦹",
+        "id": "1980572743230795776",
+        "location": "-2.1km",
+        "name": "吵闹的绅士猫猫𝖓𝖔𝖎𝖘𝖊𖦹（互fo）",
+        "pinned_tweet_id": "2054117675366805531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055839447988797440/V5Cdl4lq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 121,
+          "like_count": 1052,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 153
+        },
+        "username": "zake96279450728",
+        "verified": false
+      }
+    ]
+  }
+}

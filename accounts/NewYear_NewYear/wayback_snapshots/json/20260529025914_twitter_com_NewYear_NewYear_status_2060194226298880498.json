@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2059981787716260128",
+    "created_at": "2026-05-29T02:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060194226298880498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982342965029900289",
+          "start": 0,
+          "username": "Yuikawujinxia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060194226298880498",
+    "in_reply_to_user_id": "1982342965029900289",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060044258233741644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuikawujinxia awa？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2059981787716260128",
+        "created_at": "2026-05-29T02:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060194226298880498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1982342965029900289",
+              "start": 0,
+              "username": "Yuikawujinxia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060194226298880498",
+        "in_reply_to_user_id": "1982342965029900289",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060044258233741644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuikawujinxia awa？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982342965029900289",
+        "conversation_id": "2059981787716260128",
+        "created_at": "2026-05-28T17:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060044258233741644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060044258233741644",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060031923943305237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 让我想到了一个小说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 439,
+          "like_count": 8356,
+          "listed_count": 1,
+          "media_count": 848,
+          "tweet_count": 5315
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T07:06:30.000Z",
+        "description": "4i，老婆是@yuanbaoyuanyuan\n时间塑造我成为勇敢的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "yuanbaoyuanyuan"
+              }
+            ]
+          }
+        },
+        "id": "1982342965029900289",
+        "name": "那就茉莉乌龙吧",
+        "pinned_tweet_id": "2050826586308727112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042883735654404099/S8e7cfEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 63,
+          "like_count": 1257,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 437
+        },
+        "username": "Yuikawujinxia",
+        "verified": false
+      }
+    ]
+  }
+}

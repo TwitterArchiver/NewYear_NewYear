@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2051206118563786996",
+    "created_at": "2026-05-04T15:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T16:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051322746014171634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799337134605930496",
+          "start": 0,
+          "username": "Sogg6716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051322746014171634",
+    "in_reply_to_user_id": "1799337134605930496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051206118563786996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sogg6716 有一种猛然发现自己独自一人的悲凉🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2051206118563786996",
+        "created_at": "2026-05-04T15:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051322746014171634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799337134605930496",
+              "start": 0,
+              "username": "Sogg6716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051322746014171634",
+        "in_reply_to_user_id": "1799337134605930496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051206118563786996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sogg6716 有一种猛然发现自己独自一人的悲凉🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799337134605930496",
+        "conversation_id": "2051206118563786996",
+        "created_at": "2026-05-04T07:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T08:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051206118563786996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051206118563786996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现自己已经没有任何一个可以说得上话的发小了😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 261,
+          "like_count": 3862,
+          "listed_count": 1,
+          "media_count": 714,
+          "tweet_count": 3482
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T07:06:24.000Z",
+        "description": "混乱中立丨祝关注我的骂我的拉黑我的所有人通通幸福喵🥰",
+        "id": "1799337134605930496",
+        "location": "Santa Barbara, USA",
+        "name": "笙鹤",
+        "pinned_tweet_id": "1974372503515771046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039382057647054848/kk9JDHXT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 383,
+          "like_count": 35549,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 4473
+        },
+        "username": "Sogg6716",
+        "verified": false
+      }
+    ]
+  }
+}

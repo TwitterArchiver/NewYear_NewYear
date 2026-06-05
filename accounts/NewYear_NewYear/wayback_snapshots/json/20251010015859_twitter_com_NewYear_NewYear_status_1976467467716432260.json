@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1976316112439824427",
+    "created_at": "2025-10-10T01:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T02:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976467467716432260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668037836996771840",
+          "start": 0,
+          "username": "cha_li_jin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976467467716432260",
+    "in_reply_to_user_id": "1668037836996771840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976316112439824427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cha_li_jin 是的…我也觉得是这样的😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1976316112439824427",
+        "created_at": "2025-10-10T01:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T02:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976467467716432260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668037836996771840",
+              "start": 0,
+              "username": "cha_li_jin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976467467716432260",
+        "in_reply_to_user_id": "1668037836996771840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976316112439824427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cha_li_jin 是的…我也觉得是这样的😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668037836996771840",
+        "conversation_id": "1976316112439824427",
+        "created_at": "2025-10-09T15:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T16:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976316112439824427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976316112439824427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 496,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得自己最有活力最有创造力的时候是在大学以前\n在高考和成年之后，一半的察里津就已经死在了那个夏天，现在活着的只是一个只有一半的人\n就像蝉会在会在地下闷十七年，鸣叫两个月然后死掉一样\n转瞬即逝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 159,
+          "like_count": 535,
+          "listed_count": 1,
+          "media_count": 283,
+          "tweet_count": 1285
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "阴湿阳光回避性压抑理工舞萌安卓型含糖长发男，低能量人群，一切与敏感色图相关的会逐步移植到 @tashigan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "tashigan_"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "0x7d9cd745",
+        "name": "天才少女察里津",
+        "pinned_tweet_id": "1940983556492435942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972464380152573952/DrbfLE7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5519,
+          "following_count": 806,
+          "like_count": 9873,
+          "listed_count": 17,
+          "media_count": 240,
+          "tweet_count": 1884
+        },
+        "username": "cha_li_jin",
+        "verified": false
+      }
+    ]
+  }
+}

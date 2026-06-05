@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981742790410141696"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1981704272829112810",
+    "created_at": "2025-10-24T15:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T16:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981742824149418309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1224577240324657152",
+          "start": 0,
+          "username": "quasoawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4VA67h8sF5",
+          "end": 38,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1981742824149418309/photo/1",
+          "media_key": "3_1981742790410141696",
+          "start": 15,
+          "url": "https://t.co/4VA67h8sF5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981742824149418309",
+    "in_reply_to_user_id": "1224577240324657152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981742694931353653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasoawa 炸鸡好吃 https://t.co/4VA67h8sF5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1981742790410141696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4CQkXKWgAAMb72.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981742790410141696"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1981704272829112810",
+        "created_at": "2025-10-24T15:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T16:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981742824149418309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1224577240324657152",
+              "start": 0,
+              "username": "quasoawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4VA67h8sF5",
+              "end": 38,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1981742824149418309/photo/1",
+              "media_key": "3_1981742790410141696",
+              "start": 15,
+              "url": "https://t.co/4VA67h8sF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981742824149418309",
+        "in_reply_to_user_id": "1224577240324657152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981742694931353653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasoawa 炸鸡好吃 https://t.co/4VA67h8sF5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224577240324657152",
+        "conversation_id": "1981704272829112810",
+        "created_at": "2025-10-24T15:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T16:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981742694931353653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981742694931353653",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981704272829112810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 好惨\n但我晚上也吃炸鸡好巧（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 159,
+          "like_count": 714,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 1414
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-04T06:15:51.000Z",
+        "description": "中国人，友好交流，有事欢迎私信，你关注我一般我都会回关！如果没有可能是我没看到消息被老马顶了，可以私信我回！背景是@bai57248绘画的我和@Newyear_Newyear老师捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "bai57248"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "username": "Newyear_Newyear"
+              }
+            ]
+          }
+        },
+        "id": "1224577240324657152",
+        "location": "Одесa",
+        "name": "Quaso（速冻版）",
+        "pinned_tweet_id": "1981230138890350777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973836390980055040/31wnByxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 540,
+          "like_count": 15358,
+          "listed_count": 1,
+          "media_count": 798,
+          "tweet_count": 4927
+        },
+        "username": "quasoawa",
+        "verified": false
+      }
+    ]
+  }
+}

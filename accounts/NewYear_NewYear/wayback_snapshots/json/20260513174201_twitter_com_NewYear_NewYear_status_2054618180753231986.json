@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2054617000257978581",
+    "created_at": "2026-05-13T17:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054618180753231986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1417446435700625414",
+          "start": 0,
+          "username": "Aasuka_kkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054618180753231986",
+    "in_reply_to_user_id": "1417446435700625414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054617690795540514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aasuka_kkk 对的对的，明明圈和环是近义词\n小孩子怎么分的清嘛！！\n父母还不给我讲清楚只是说不能这么说w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2054617000257978581",
+        "created_at": "2026-05-13T17:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054618180753231986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1417446435700625414",
+              "start": 0,
+              "username": "Aasuka_kkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054618180753231986",
+        "in_reply_to_user_id": "1417446435700625414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054617690795540514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aasuka_kkk 对的对的，明明圈和环是近义词\n小孩子怎么分的清嘛！！\n父母还不给我讲清楚只是说不能这么说w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417446435700625414",
+        "conversation_id": "2054617000257978581",
+        "created_at": "2026-05-13T17:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054617690795540514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054617690795540514",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054617000257978581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 好地狱，突然想起小小的我也有一段时间是分不清花圈花环的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 339,
+          "like_count": 6009,
+          "listed_count": 1,
+          "media_count": 755,
+          "tweet_count": 4146
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-20T11:29:09.000Z",
+        "description": "🍥🍥互fo",
+        "id": "1417446435700625414",
+        "location": "2km",
+        "name": "AASuKa🍥",
+        "pinned_tweet_id": "2047544704691265555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046155420281294848/f6F_l__H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 35,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 88
+        },
+        "username": "Aasuka_kkk",
+        "verified": true
+      }
+    ]
+  }
+}

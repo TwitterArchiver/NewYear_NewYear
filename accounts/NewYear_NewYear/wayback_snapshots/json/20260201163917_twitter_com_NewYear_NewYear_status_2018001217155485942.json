@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2017610985977360416",
+    "created_at": "2026-02-01T16:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T17:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018001217155485942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018001217155485942",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017610985977360416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 哦天呐…🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3945,
+        "height": 1280,
+        "media_key": "7_2017610947419136000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2017610947419136000/pu/img/yRItyGyKP3BDOLqV.jpg",
+        "public_metrics": {
+          "view_count": 173
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017610947419136000/pu/vid/avc1/320x568/RifwVrZU2I5KvlV_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017610947419136000/pu/vid/avc1/480x852/5RtNZcCG42tK_70D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017610947419136000/pu/vid/avc1/720x1280/I0FYZ9zGGmHcaOa3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2017610947419136000/pu/pl/koZgrP6OCuFHA_f1.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 5502,
+        "height": 1280,
+        "media_key": "7_2017610955040165888",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2017610955040165888/pu/img/haa8fCW22NYu85w0.jpg",
+        "public_metrics": {
+          "view_count": 30
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017610955040165888/pu/vid/avc1/320x568/WGN6tSJDDd-lEWSV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017610955040165888/pu/vid/avc1/480x852/TXQtsXmV4b2BQylc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017610955040165888/pu/vid/avc1/720x1280/zlmpdjL4EDrWvfsv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2017610955040165888/pu/pl/fD3DqM_oeIq3y8cI.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2017610985977360416",
+        "created_at": "2026-02-01T16:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T17:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018001217155485942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018001217155485942",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017610985977360416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 哦天呐…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2017610947419136000",
+            "7_2017610955040165888"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2017610985977360416",
+        "created_at": "2026-01-31T14:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017610985977360416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WoaFjiL9iI",
+              "end": 59,
+              "expanded_url": "https://x.com/KBDYD555/status/2017610985977360416/video/1",
+              "media_key": "7_2017610947419136000",
+              "start": 36,
+              "url": "https://t.co/WoaFjiL9iI"
+            },
+            {
+              "display_url": "pic.x.com/WoaFjiL9iI",
+              "end": 59,
+              "expanded_url": "https://x.com/KBDYD555/status/2017610985977360416/video/1",
+              "media_key": "7_2017610955040165888",
+              "start": 36,
+              "url": "https://t.co/WoaFjiL9iI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017610985977360416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 498,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小豆状态不太好...就这样喘喘的一直趴着软软的一摊，我心疼死了.... https://t.co/WoaFjiL9iI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 179,
+          "like_count": 1465,
+          "listed_count": 1,
+          "media_count": 489,
+          "tweet_count": 2024
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3403,
+          "following_count": 390,
+          "like_count": 3197,
+          "listed_count": 9,
+          "media_count": 823,
+          "tweet_count": 2917
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

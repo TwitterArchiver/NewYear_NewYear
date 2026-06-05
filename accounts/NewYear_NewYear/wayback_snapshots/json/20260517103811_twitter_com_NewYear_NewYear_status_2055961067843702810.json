@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2055871790640189467",
+    "created_at": "2026-05-17T10:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055961067843702810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1714510407006851072",
+          "start": 0,
+          "username": "hhhhhhhhhh68887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055961067843702810",
+    "in_reply_to_user_id": "1714510407006851072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055871790640189467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhhhhhhhhh68887 对的对的我现在也是TAT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2055871790640189467",
+        "created_at": "2026-05-17T10:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055961067843702810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1714510407006851072",
+              "start": 0,
+              "username": "hhhhhhhhhh68887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055961067843702810",
+        "in_reply_to_user_id": "1714510407006851072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055871790640189467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhhhhhhhh68887 对的对的我现在也是TAT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714510407006851072",
+        "conversation_id": "2055871790640189467",
+        "created_at": "2026-05-17T04:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055871790640189467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055871790640189467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1210,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西柚汁，一闻到味道便反射性的想吐，着实难以入口。喝了也教人难以下咽。\n我永远不会原谅世界上最难喝的果汁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 386,
+          "like_count": 6892,
+          "listed_count": 1,
+          "media_count": 787,
+          "tweet_count": 4564
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T05:15:24.000Z",
+        "description": "希腊裔法国人、未来主义者、超现实主义诗人、残酷戏剧创造者、法兰西护国主与极速弥赛亚。\n\n放弃和弥漫的虚无作斗争吧...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/sharedfiles/fi…",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2587855526",
+                "start": 0,
+                "url": "https://t.co/M2EioLD2t1"
+              }
+            ]
+          }
+        },
+        "id": "1714510407006851072",
+        "location": "“太阳”",
+        "name": "⚡️安托南•阿尔托Antonin Artaud🇫🇷",
+        "pinned_tweet_id": "1821412705938629078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053222646314401792/TEFjqA7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 810,
+          "like_count": 22061,
+          "listed_count": 2,
+          "media_count": 1002,
+          "tweet_count": 9420
+        },
+        "url": "https://t.co/M2EioLD2t1",
+        "username": "hhhhhhhhhh68887",
+        "verified": false
+      }
+    ]
+  }
+}

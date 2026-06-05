@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2052606540839063791",
+    "created_at": "2026-05-08T04:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T05:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052607723133661388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "littlehuang.icu/pool.html",
+          "end": 29,
+          "expanded_url": "https://littlehuang.icu/pool.html",
+          "start": 6,
+          "status": 200,
+          "title": "Pool Rooms",
+          "unwound_url": "https://littlehuang.icu/pool.html",
+          "url": "https://t.co/d6SjFz96PJ"
+        },
+        {
+          "description": "Contribute to NewYear-NewYear/huang development by creating an account on GitHub.",
+          "display_url": "github.com/NewYear-NewYea…",
+          "end": 95,
+          "expanded_url": "https://github.com/NewYear-NewYear/huang/blob/0f4e783c0d84f81f32298904967925da0bf26906/pool.html",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2052607728171028480/6H_gOVda?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2052607728171028480/6H_gOVda?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 72,
+          "status": 200,
+          "title": "huang/pool.html at 0f4e783c0d84f81f32298904967925da0bf26906 · NewYear-NewYear/huang",
+          "unwound_url": "https://github.com/NewYear-NewYear/huang/blob/0f4e783c0d84f81f32298904967925da0bf26906/pool.html",
+          "url": "https://t.co/uYgatJH79B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052607723133661388",
+    "in_reply_to_user_id": "1850587533924876288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052606540839063791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "网页链接：\nhttps://t.co/d6SjFz96PJ\n也可以访问我的个人网站，通过浏览我的产出然后直接转跳ww\n\nGitHub仓库代码：\nhttps://t.co/uYgatJH79B\n大家可以改一改然后自己玩一玩捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_2052606011073286144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxSSrna0AAdmGP.jpg",
+        "width": 2329
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2052606540839063791",
+        "created_at": "2026-05-08T04:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T05:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052607723133661388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "littlehuang.icu/pool.html",
+              "end": 29,
+              "expanded_url": "https://littlehuang.icu/pool.html",
+              "start": 6,
+              "status": 200,
+              "title": "Pool Rooms",
+              "unwound_url": "https://littlehuang.icu/pool.html",
+              "url": "https://t.co/d6SjFz96PJ"
+            },
+            {
+              "description": "Contribute to NewYear-NewYear/huang development by creating an account on GitHub.",
+              "display_url": "github.com/NewYear-NewYea…",
+              "end": 95,
+              "expanded_url": "https://github.com/NewYear-NewYear/huang/blob/0f4e783c0d84f81f32298904967925da0bf26906/pool.html",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2052607728171028480/6H_gOVda?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052607728171028480/6H_gOVda?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "huang/pool.html at 0f4e783c0d84f81f32298904967925da0bf26906 · NewYear-NewYear/huang",
+              "unwound_url": "https://github.com/NewYear-NewYear/huang/blob/0f4e783c0d84f81f32298904967925da0bf26906/pool.html",
+              "url": "https://t.co/uYgatJH79B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052607723133661388",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052606540839063791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "网页链接：\nhttps://t.co/d6SjFz96PJ\n也可以访问我的个人网站，通过浏览我的产出然后直接转跳ww\n\nGitHub仓库代码：\nhttps://t.co/uYgatJH79B\n大家可以改一改然后自己玩一玩捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052606011073286144"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2052606540839063791",
+        "created_at": "2026-05-08T04:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T05:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052606540839063791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "2.移动",
+              "end": 50,
+              "expanded_url": "http://2.xn--6frz82g",
+              "start": 27,
+              "unwound_url": "http://2.xn--6frz82g",
+              "url": "https://t.co/GkJW7M3exW"
+            },
+            {
+              "display_url": "pic.x.com/z0vVVum9bq",
+              "end": 113,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2052606540839063791/photo/1",
+              "media_key": "3_2052606011073286144",
+              "start": 90,
+              "url": "https://t.co/z0vVVum9bq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052606540839063791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "更新了这个网站，基本完成了\n1.把洞变得更深更吓人了\nhttps://t.co/GkJW7M3exW端可以调用陀螺仪调整视角\n3.修复了若干bug\n4.吃了两个包子，油滴到手上了 https://t.co/z0vVVum9bq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 277,
+          "like_count": 4546,
+          "listed_count": 1,
+          "media_count": 730,
+          "tweet_count": 3714
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

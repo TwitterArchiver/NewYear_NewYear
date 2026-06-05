@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1965366848406642982",
+    "created_at": "2025-09-09T10:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T11:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965366848406642982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1734598399327088640",
+          "start": 3,
+          "username": "ln2umerical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965366848406642982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965120154393870405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ln2umerical: 爱欲是比性欲更难熬的东西，性欲尚可自我排解，但爱欲是幽灵，它会在某个夜晚降临在我身上，让我彻夜难眠，蜷缩成一团眼泪，想要拥抱你，想要亲吻你，这样的欲望，我是无能为力的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1965366848406642982",
+        "created_at": "2025-09-09T10:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T11:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965366848406642982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1734598399327088640",
+              "start": 3,
+              "username": "ln2umerical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965366848406642982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965120154393870405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ln2umerical: 爱欲是比性欲更难熬的东西，性欲尚可自我排解，但爱欲是幽灵，它会在某个夜晚降临在我身上，让我彻夜难眠，蜷缩成一团眼泪，想要拥抱你，想要亲吻你，这样的欲望，我是无能为力的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734598399327088640",
+        "conversation_id": "1965120154393870405",
+        "created_at": "2025-09-08T18:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T19:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965120154393870405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965120154393870405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 28032,
+          "like_count": 541,
+          "quote_count": 7,
+          "reply_count": 33,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "爱欲是比性欲更难熬的东西，性欲尚可自我排解，但爱欲是幽灵，它会在某个夜晚降临在我身上，让我彻夜难眠，蜷缩成一团眼泪，想要拥抱你，想要亲吻你，这样的欲望，我是无能为力的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 148,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 673
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T15:37:47.000Z",
+        "description": "04/养胃男/想到啥发啥/互关请来加我😽 /恩师lii @Lillcuainil /纯净版@ln2umerical1\n\n年卡12r自用VPN\nhttps://t.co/kZHn0UTG3C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "Lillcuainil"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "ln2umerical1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "性价比机场.com/#/register?cod…",
+                "end": 94,
+                "expanded_url": "https://xn--6nq44r2uh9rhj7f.com/#/register?code=gsLtgWTi",
+                "start": 71,
+                "url": "https://t.co/kZHn0UTG3C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/being88129",
+                "end": 23,
+                "expanded_url": "https://ngl.link/being88129",
+                "start": 0,
+                "url": "https://t.co/mZpOgIfYSD"
+              }
+            ]
+          }
+        },
+        "id": "1734598399327088640",
+        "name": "北（恩师lii）",
+        "pinned_tweet_id": "1964616072151314861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734598546262003712/kRkc1y0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8478,
+          "following_count": 311,
+          "like_count": 35296,
+          "listed_count": 11,
+          "media_count": 587,
+          "tweet_count": 23068
+        },
+        "url": "https://t.co/mZpOgIfYSD",
+        "username": "ln2umerical",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Apr 21 20:33:36 +0000 2021",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/Gqt0JQB8iS",
+        "expanded_url": "https://twitter.com/lppzkty/status/1384775480511922180/video/1",
+        "id": 1384775413163986946,
+        "id_str": "1384775413163986946",
+        "indices": [
+          114,
+          137
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1384775413163986946/pu/img/f4rXaMbcm7sC-n_k.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1384775413163986946/pu/img/f4rXaMbcm7sC-n_k.jpg",
+        "sizes": {
+          "large": {
+            "h": 644,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 604,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 342,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1384775480511922180,
+        "source_status_id_str": "1384775480511922180",
+        "source_user_id": 1143500984930275332,
+        "source_user_id_str": "1143500984930275332",
+        "type": "photo",
+        "url": "https://t.co/Gqt0JQB8iS"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1143500984930275332,
+        "id_str": "1143500984930275332",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "❥ ᴸᴾᴾᴰᴺᴵᴺᵞ",
+        "screen_name": "lppzkty"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/Gqt0JQB8iS",
+        "expanded_url": "https://twitter.com/lppzkty/status/1384775480511922180/video/1",
+        "id": 1384775413163986946,
+        "id_str": "1384775413163986946",
+        "indices": [
+          114,
+          137
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1384775413163986946/pu/img/f4rXaMbcm7sC-n_k.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1384775413163986946/pu/img/f4rXaMbcm7sC-n_k.jpg",
+        "sizes": {
+          "large": {
+            "h": 644,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 604,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 342,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1384775480511922180,
+        "source_status_id_str": "1384775480511922180",
+        "source_user_id": 1143500984930275332,
+        "source_user_id_str": "1143500984930275332",
+        "type": "video",
+        "url": "https://t.co/Gqt0JQB8iS",
+        "video_info": {
+          "aspect_ratio": [
+            320,
+            161
+          ],
+          "duration_millis": 27697,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1384775413163986946/pu/vid/1280x644/LCVVoU19_Qun13nI.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1384775413163986946/pu/pl/s33H-wk6rzE-wRYG.m3u8?tag=12"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1384775413163986946/pu/vid/536x270/joyIIth6rAwf4q-h.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1384775413163986946/pu/vid/714x360/npxaRCw00A00ObIA.mp4?tag=12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1384968584447860736,
+  "id_str": "1384968584447860736",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "th",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 21 07:46:17 +0000 2021",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/Gqt0JQB8iS",
+          "expanded_url": "https://twitter.com/lppzkty/status/1384775480511922180/video/1",
+          "id": 1384775413163986946,
+          "id_str": "1384775413163986946",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1384775413163986946/pu/img/f4rXaMbcm7sC-n_k.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1384775413163986946/pu/img/f4rXaMbcm7sC-n_k.jpg",
+          "sizes": {
+            "large": {
+              "h": 644,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 604,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 342,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Gqt0JQB8iS"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/Gqt0JQB8iS",
+          "expanded_url": "https://twitter.com/lppzkty/status/1384775480511922180/video/1",
+          "id": 1384775413163986946,
+          "id_str": "1384775413163986946",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1384775413163986946/pu/img/f4rXaMbcm7sC-n_k.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1384775413163986946/pu/img/f4rXaMbcm7sC-n_k.jpg",
+          "sizes": {
+            "large": {
+              "h": 644,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 604,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 342,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/Gqt0JQB8iS",
+          "video_info": {
+            "aspect_ratio": [
+              320,
+              161
+            ],
+            "duration_millis": 27697,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1384775413163986946/pu/vid/1280x644/LCVVoU19_Qun13nI.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1384775413163986946/pu/pl/s33H-wk6rzE-wRYG.m3u8?tag=12"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1384775413163986946/pu/vid/536x270/joyIIth6rAwf4q-h.mp4?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1384775413163986946/pu/vid/714x360/npxaRCw00A00ObIA.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 75,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1384775480511922180,
+    "id_str": "1384775480511922180",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "th",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 196,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "น้องจองฮวานทำลูกโป่งหลุดมือแล้วเสียงดัง พี่ๆตกใจกันหมด พี่แจกับพี่โยรีบเข้าชาร์จไปปลอบขวัญน้องเลย 🥲😂 https://t.co/Gqt0JQB8iS",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 25 12:47:34 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "╰(*´︶`*)╯♡ 𝘛𝘙𝘌𝘈𝘚𝘜𝘙𝘌 ‘ ‘ 🐰🐮 𝗗𝗼𝘆𝗼𝘂𝗻𝗴 ☆彡 | #รีวิวlppzd ‘ ‘ แอคซอฟหวาน หวานตัดขา! #นดยฟดขลป",
+      "favourites_count": 3531,
+      "follow_request_sent": null,
+      "followers_count": 2873,
+      "following": null,
+      "friends_count": 151,
+      "geo_enabled": false,
+      "id": 1143500984930275332,
+      "id_str": "1143500984930275332",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4,
+      "location": null,
+      "name": "❥ ᴸᴾᴾᴰᴺᴵᴺᵞ",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1143500984930275332/1614247357",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1344841066575347712/YWxFwx_v_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344841066575347712/YWxFwx_v_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "lppzkty",
+      "statuses_count": 25583,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @lppzkty: น้องจองฮวานทำลูกโป่งหลุดมือแล้วเสียงดัง พี่ๆตกใจกันหมด พี่แจกับพี่โยรีบเข้าชาร์จไปปลอบขวัญน้องเลย 🥲😂 https://t.co/Gqt0JQB8iS",
+  "timestamp_ms": "1619037216661",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี",
+    "favourites_count": 5068,
+    "follow_request_sent": null,
+    "followers_count": 73,
+    "following": null,
+    "friends_count": 75,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "New Year",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1380544259074387968/KXR8EBop_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380544259074387968/KXR8EBop_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 6603,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

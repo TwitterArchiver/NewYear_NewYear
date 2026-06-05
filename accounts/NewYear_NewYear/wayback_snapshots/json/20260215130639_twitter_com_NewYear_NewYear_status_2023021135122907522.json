@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2023021135122907522",
+    "created_at": "2026-02-15T13:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T14:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023021135122907522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/2023020480840790052",
+          "start": 18,
+          "url": "https://t.co/19532pAQd7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023021135122907522",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023020480840790052",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那一天，番茄牛腩和八珍豆腐都喝醉了 https://t.co/19532pAQd7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2023020469457395713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBM2ZgdaIAEQegK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023020475937603585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBM2Z4maQAEgWWj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2023021135122907522",
+        "created_at": "2026-02-15T13:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023021135122907522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/2023020480840790052",
+              "start": 18,
+              "url": "https://t.co/19532pAQd7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023021135122907522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023020480840790052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那一天，番茄牛腩和八珍豆腐都喝醉了 https://t.co/19532pAQd7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023020469457395713",
+            "3_2023020475937603585"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023020480840790052",
+        "created_at": "2026-02-15T13:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023020480840790052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3XUTpP5E9",
+              "end": 39,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2023020480840790052/photo/1",
+              "media_key": "3_2023020469457395713",
+              "start": 16,
+              "url": "https://t.co/r3XUTpP5E9"
+            },
+            {
+              "display_url": "pic.x.com/r3XUTpP5E9",
+              "end": 39,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2023020480840790052/photo/1",
+              "media_key": "3_2023020475937603585",
+              "start": 16,
+              "url": "https://t.co/r3XUTpP5E9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023020480840790052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天做菜的边角料，此人吃商极高 https://t.co/r3XUTpP5E9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 182,
+          "like_count": 1554,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 2087
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

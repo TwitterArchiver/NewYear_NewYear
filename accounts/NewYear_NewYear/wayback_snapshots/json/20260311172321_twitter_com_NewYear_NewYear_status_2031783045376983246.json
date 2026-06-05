@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2031782387932422174",
+    "created_at": "2026-03-11T17:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T18:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031783045376983246"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031783045376983246",
+    "in_reply_to_user_id": "1850587533924876288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031782387932422174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不想当一个装货一直装的自己没事没关系，别人有什么忙都不拒绝搞得自己好博爱一样我其实自私到爆炸像我对这个世界的态度一样爆炸，我不想一直在装但是我做不到，我不装的话没人喜欢我没人依赖我，我的锚点没有了我会死掉的，我说再多我不害怕死亡但是我还是很害怕，死了就不能活着了好恐怖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2031782387932422174",
+        "created_at": "2026-03-11T17:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031783045376983246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031783045376983246",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031782387932422174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不想当一个装货一直装的自己没事没关系，别人有什么忙都不拒绝搞得自己好博爱一样我其实自私到爆炸像我对这个世界的态度一样爆炸，我不想一直在装但是我做不到，我不装的话没人喜欢我没人依赖我，我的锚点没有了我会死掉的，我说再多我不害怕死亡但是我还是很害怕，死了就不能活着了好恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2031782387932422174",
+        "created_at": "2026-03-11T17:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031782387932422174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031782387932422174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了我好焦虑我好想发疯摔东西毁灭一切我现在表面在面无表情的打字实际上我的脑海里已经把舍友都敲死了把手机摔了吧所有人都删掉我的压力太大了我释放不出来好难受\n我只会每天无时无刻装自己很正经很温柔很善良实际上我一直在反社会，我不想社交不想聊天不想玩手机不想睡觉不想上学不想活着不想爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 187,
+          "like_count": 1813,
+          "listed_count": 1,
+          "media_count": 518,
+          "tweet_count": 2225
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

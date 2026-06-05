@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2041568662193369459",
+    "created_at": "2026-04-07T17:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T18:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041568662193369459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moremoreagain/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/moremoreagain/status/2041175287111782904",
+          "start": 22,
+          "url": "https://t.co/90AZLL965n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041568662193369459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041175287111782904",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "终于有人说出来我一直难以表达的东西了🥲🥲🥲 https://t.co/90AZLL965n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2041568662193369459",
+        "created_at": "2026-04-07T17:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041568662193369459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moremoreagain/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/moremoreagain/status/2041175287111782904",
+              "start": 22,
+              "url": "https://t.co/90AZLL965n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041568662193369459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041175287111782904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "终于有人说出来我一直难以表达的东西了🥲🥲🥲 https://t.co/90AZLL965n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933126466666496",
+        "conversation_id": "2041175287111782904",
+        "created_at": "2026-04-06T15:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041175287111782904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041175287111782904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 19568,
+          "like_count": 1034,
+          "quote_count": 15,
+          "reply_count": 25,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "跳楼是一种目标，14岁的时候想着考不上高中就去跳楼，高考的时候想着考不上本科就去跳楼，现在想着一毕业找不到工作就去跳楼，跳楼永远是那个甜蜜的安抚奶嘴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 204,
+          "like_count": 2444,
+          "listed_count": 1,
+          "media_count": 599,
+          "tweet_count": 2648
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "轻薄欢谑｜非自愿圣人",
+        "id": "1862933126466666496",
+        "name": "相公痴",
+        "pinned_tweet_id": "2041380219974787240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936741037256404992/tkBYioIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 1080,
+          "like_count": 72328,
+          "listed_count": 5,
+          "media_count": 1533,
+          "tweet_count": 33735
+        },
+        "username": "moremoreagain",
+        "verified": true
+      }
+    ]
+  }
+}

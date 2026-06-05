@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926962124707766272",
+        "3_1926962124758142976"
+      ],
+      "media_source_tweet_id": [
+        "1926962130995044530",
+        "1926962130995044530"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1927646810048471069",
+    "created_at": "2025-05-28T08:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T09:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927646810048471069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1323168272561287168",
+          "start": 3,
+          "username": "___h___r__k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/39GLuujPzR",
+          "end": 40,
+          "expanded_url": "https://x.com/___h___r__k/status/1926962130995044530/photo/1",
+          "media_key": "3_1926962124707766272",
+          "start": 17,
+          "url": "https://t.co/39GLuujPzR"
+        },
+        {
+          "display_url": "pic.x.com/39GLuujPzR",
+          "end": 40,
+          "expanded_url": "https://x.com/___h___r__k/status/1926962130995044530/photo/1",
+          "media_key": "3_1926962124758142976",
+          "start": 17,
+          "url": "https://t.co/39GLuujPzR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927646810048471069",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30677
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926962130995044530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @___h___r__k: https://t.co/39GLuujPzR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1470,
+        "media_key": "3_1926962124707766272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3x18rWoAA5TKw.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926962124758142976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3x183XUAAiAIa.jpg",
+        "width": 978
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926962124707766272",
+            "3_1926962124758142976"
+          ],
+          "media_source_tweet_id": [
+            "1926962130995044530",
+            "1926962130995044530"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1927646810048471069",
+        "created_at": "2025-05-28T08:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T09:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927646810048471069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1323168272561287168",
+              "start": 3,
+              "username": "___h___r__k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/39GLuujPzR",
+              "end": 40,
+              "expanded_url": "https://x.com/___h___r__k/status/1926962130995044530/photo/1",
+              "media_key": "3_1926962124707766272",
+              "start": 17,
+              "url": "https://t.co/39GLuujPzR"
+            },
+            {
+              "display_url": "pic.x.com/39GLuujPzR",
+              "end": 40,
+              "expanded_url": "https://x.com/___h___r__k/status/1926962130995044530/photo/1",
+              "media_key": "3_1926962124758142976",
+              "start": 17,
+              "url": "https://t.co/39GLuujPzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927646810048471069",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30677
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926962130995044530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @___h___r__k: https://t.co/39GLuujPzR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926962124707766272",
+            "3_1926962124758142976"
+          ]
+        },
+        "author_id": "1323168272561287168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1926962130995044530",
+        "created_at": "2025-05-26T11:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T12:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926962130995044530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/39GLuujPzR",
+              "end": 23,
+              "expanded_url": "https://x.com/___h___r__k/status/1926962130995044530/photo/1",
+              "media_key": "3_1926962124707766272",
+              "start": 0,
+              "url": "https://t.co/39GLuujPzR"
+            },
+            {
+              "display_url": "pic.x.com/39GLuujPzR",
+              "end": 23,
+              "expanded_url": "https://x.com/___h___r__k/status/1926962130995044530/photo/1",
+              "media_key": "3_1926962124758142976",
+              "start": 0,
+              "url": "https://t.co/39GLuujPzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926962130995044530",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58937,
+          "impression_count": 23212966,
+          "like_count": 277060,
+          "quote_count": 728,
+          "reply_count": 0,
+          "retweet_count": 30677
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/39GLuujPzR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1926315041835381104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 137,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 265
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-02T07:41:23.000Z",
+        "description": "服飾勤務。可愛いものを見つけるのが得意です🥚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/happyjamjamhrk…",
+                "end": 23,
+                "expanded_url": "https://x.com/happyjamjamhrk?s=21",
+                "start": 0,
+                "url": "https://t.co/iri4YbGDUf"
+              }
+            ]
+          }
+        },
+        "id": "1323168272561287168",
+        "location": "HAPPY JAM JAM! ✌︎˖",
+        "name": "HRK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927097054129532928/0naaZ31X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112007,
+          "following_count": 73,
+          "like_count": 5912,
+          "listed_count": 485,
+          "media_count": 2276,
+          "tweet_count": 6399
+        },
+        "url": "https://t.co/iri4YbGDUf",
+        "username": "___h___r__k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1966241583483003179",
+    "created_at": "2025-09-12T10:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T11:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966448390482362791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799381491493036032",
+          "start": 0,
+          "username": "Tina_sgz90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966448390482362791",
+    "in_reply_to_user_id": "1799381491493036032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966241583483003179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tina_sgz90 😭😭😭我也好羡慕干净的手臂\n每次看到都好后悔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1966241583483003179",
+        "created_at": "2025-09-12T10:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T11:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966448390482362791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799381491493036032",
+              "start": 0,
+              "username": "Tina_sgz90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966448390482362791",
+        "in_reply_to_user_id": "1799381491493036032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966241583483003179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tina_sgz90 😭😭😭我也好羡慕干净的手臂\n每次看到都好后悔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799381491493036032",
+        "conversation_id": "1966241583483003179",
+        "created_at": "2025-09-11T20:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T21:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966241583483003179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966241583483003179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的羡慕了你们干净的手臂，我现在找到工作我要偷偷摸摸的遮住伤疤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号",
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 149,
+          "like_count": 161,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 818
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T10:02:40.000Z",
+        "description": "@TrngKha275013小号我是Tina  门槛有200 好友位 288图包  399图包➕视频  520   1314 北京",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "TrngKha275013"
+              }
+            ]
+          }
+        },
+        "id": "1799381491493036032",
+        "name": "Tina八方来财",
+        "pinned_tweet_id": "1861013250567262280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864915269027778560/ITL0nC1x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 113,
+          "like_count": 484,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 1206
+        },
+        "username": "Tina_sgz90",
+        "verified": false
+      }
+    ]
+  }
+}

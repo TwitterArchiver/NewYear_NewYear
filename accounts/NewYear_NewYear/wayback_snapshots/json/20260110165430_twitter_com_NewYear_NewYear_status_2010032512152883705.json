@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2009680023410892846",
+    "created_at": "2026-01-10T16:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T17:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010032512152883705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007995602324643840",
+          "start": 0,
+          "username": "Aubergiking78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010032512152883705",
+    "in_reply_to_user_id": "2007995602324643840",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010032189099143559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aubergiking78 🥺🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2009680023410892846",
+        "created_at": "2026-01-10T16:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T17:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010032512152883705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007995602324643840",
+              "start": 0,
+              "username": "Aubergiking78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010032512152883705",
+        "in_reply_to_user_id": "2007995602324643840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010032189099143559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aubergiking78 🥺🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007995602324643840",
+        "conversation_id": "2009680023410892846",
+        "created_at": "2026-01-10T16:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T17:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010032189099143559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010032189099143559",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009680023410892846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 182,
+          "like_count": 1353,
+          "listed_count": 1,
+          "media_count": 451,
+          "tweet_count": 1915
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T02:01:06.000Z",
+        "description": "171cm 74kg 大一新生\n纯当朋友圈，如果看不惯就当我是乐子",
+        "id": "2007995602324643840",
+        "name": "111 Aubergine.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008395042906574848/X9yJArPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 43
+        },
+        "username": "Aubergiking78",
+        "verified": false
+      }
+    ]
+  }
+}

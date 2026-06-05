@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028844430380380160"
+      ],
+      "media_source_tweet_id": [
+        "2028844441373700279"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2028899757956186287",
+    "created_at": "2026-03-03T18:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T19:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028899757956186287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1276946695461277696",
+          "start": 3,
+          "username": "Kaikanaaaaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lWBOp5ugQ2",
+          "end": 46,
+          "expanded_url": "https://x.com/Kaikanaaaaa/status/2028844441373700279/photo/1",
+          "media_key": "3_2028844430380380160",
+          "start": 23,
+          "url": "https://t.co/lWBOp5ugQ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028899757956186287",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028844441373700279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kaikanaaaaa: 潜在的意識 https://t.co/lWBOp5ugQ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2028844430380380160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfnQplaMAAH733.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028844430380380160"
+          ],
+          "media_source_tweet_id": [
+            "2028844441373700279"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2028899757956186287",
+        "created_at": "2026-03-03T18:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T19:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028899757956186287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1276946695461277696",
+              "start": 3,
+              "username": "Kaikanaaaaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lWBOp5ugQ2",
+              "end": 46,
+              "expanded_url": "https://x.com/Kaikanaaaaa/status/2028844441373700279/photo/1",
+              "media_key": "3_2028844430380380160",
+              "start": 23,
+              "url": "https://t.co/lWBOp5ugQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028899757956186287",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028844441373700279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kaikanaaaaa: 潜在的意識 https://t.co/lWBOp5ugQ2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028844430380380160"
+          ]
+        },
+        "author_id": "1276946695461277696",
+        "conversation_id": "2028844441373700279",
+        "created_at": "2026-03-03T14:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028844441373700279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lWBOp5ugQ2",
+              "end": 29,
+              "expanded_url": "https://x.com/Kaikanaaaaa/status/2028844441373700279/photo/1",
+              "media_key": "3_2028844430380380160",
+              "start": 6,
+              "url": "https://t.co/lWBOp5ugQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028844441373700279",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 5298,
+          "like_count": 540,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "潜在的意識 https://t.co/lWBOp5ugQ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 182,
+          "like_count": 1666,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 2158
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-27T18:33:41.000Z",
+        "description": "アナログで描くのが好きです🐼👧￤skeb▶︎ https://t.co/HuGgeZi5lK ￤原画依頼や展示はメールに✉️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Kaikanaaaaa",
+                "end": 46,
+                "expanded_url": "http://skeb.jp/@Kaikanaaaaa",
+                "start": 23,
+                "url": "https://t.co/HuGgeZi5lK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kaikanaaa",
+                "end": 23,
+                "expanded_url": "https://lit.link/kaikanaaa",
+                "start": 0,
+                "url": "https://t.co/FqhDzft7na"
+              }
+            ]
+          }
+        },
+        "id": "1276946695461277696",
+        "location": "(つ🐼 ･ω･) ͜   🐼🥩Σ(･ω･  ﾉ)ﾉ",
+        "name": "ｶｲｶﾅ",
+        "pinned_tweet_id": "1911420902895394858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972930655035289600/hFWVGBkK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13958,
+          "following_count": 339,
+          "like_count": 13538,
+          "listed_count": 141,
+          "media_count": 355,
+          "tweet_count": 1638
+        },
+        "url": "https://t.co/FqhDzft7na",
+        "username": "Kaikanaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

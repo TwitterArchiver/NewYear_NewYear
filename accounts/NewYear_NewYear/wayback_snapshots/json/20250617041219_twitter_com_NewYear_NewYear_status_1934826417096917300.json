@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1934761928892744036",
+    "created_at": "2025-06-17T04:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T05:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934826417096917300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934826417096917300",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934761928892744036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 是的😔\n还有那些重复的苦难，脱离时代的教诲\n似乎他们总是活在过去我还是小孩的时候，可能小时候的我因为他们说的一个笑话而开心，又或者是他们因为我做的某件事骄傲。于是在现在一直一直讲，或许是讲给自己听吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1934761928892744036",
+        "created_at": "2025-06-17T04:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T05:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934826417096917300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934826417096917300",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934761928892744036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 是的😔\n还有那些重复的苦难，脱离时代的教诲\n似乎他们总是活在过去我还是小孩的时候，可能小时候的我因为他们说的一个笑话而开心，又或者是他们因为我做的某件事骄傲。于是在现在一直一直讲，或许是讲给自己听吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1934761928892744036",
+        "created_at": "2025-06-16T23:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T00:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934761928892744036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934761928892744036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎跟我妈聊天，她总是把以前那些旧事翻来覆去的讲好几次，她不是记忆不好，只是觉得那些事很光荣很值得讲，\n\n每次她想听听我的事情的时候\n我讲着讲着就变成她开始讲了，而且越讲越开心，你又不忍心打断，又觉得那些事很无聊。\n（如果是新鲜的事那没没问题，问题是从小到大讲了二十几遍的事情……）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 144,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 345
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🎀我是爱礼/是碎碎念推和猫猫推丨ff14猫区欢迎加我丨嘤鹉：@SENDOH214丨 是自用梯子：https://t.co/yyQ5wxPhe2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 71,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 48,
+                "url": "https://t.co/yyQ5wxPhe2"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "仿生柴郡貓想夢見電子愛麗絲",
+        "pinned_tweet_id": "1934535433264005409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41031,
+          "following_count": 1068,
+          "like_count": 23421,
+          "listed_count": 47,
+          "media_count": 2408,
+          "tweet_count": 28256
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

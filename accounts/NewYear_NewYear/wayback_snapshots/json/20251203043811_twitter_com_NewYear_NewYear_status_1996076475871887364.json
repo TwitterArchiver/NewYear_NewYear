@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996076459056893952"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1996076475871887364",
+    "created_at": "2025-12-03T04:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T05:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996076475871887364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GHc1mxlDuV",
+          "end": 30,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1996076475871887364/photo/1",
+          "media_key": "3_1996076459056893952",
+          "start": 7,
+          "url": "https://t.co/GHc1mxlDuV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996076475871887364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我卖苦就这样 https://t.co/GHc1mxlDuV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1982,
+        "media_key": "3_1996076459056893952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7N89r6bEAAqD4B.jpg",
+        "width": 610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996076459056893952"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1996076475871887364",
+        "created_at": "2025-12-03T04:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T05:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996076475871887364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GHc1mxlDuV",
+              "end": 30,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1996076475871887364/photo/1",
+              "media_key": "3_1996076459056893952",
+              "start": 7,
+              "url": "https://t.co/GHc1mxlDuV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996076475871887364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我卖苦就这样 https://t.co/GHc1mxlDuV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 167,
+          "like_count": 1064,
+          "listed_count": 1,
+          "media_count": 390,
+          "tweet_count": 1680
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

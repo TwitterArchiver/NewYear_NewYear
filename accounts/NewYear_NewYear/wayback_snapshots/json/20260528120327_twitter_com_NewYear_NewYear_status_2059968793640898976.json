@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2059893370634584267",
+    "created_at": "2026-05-28T12:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059968793640898976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040496770602487809",
+          "start": 0,
+          "username": "ragan70814"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059968793640898976",
+    "in_reply_to_user_id": "2040496770602487809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059893370634584267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ragan70814 欸我草别发出来这个是你的api-key，别人拿到可以通过这个………我打字打到这突然发现不对劲😠😠😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2059893370634584267",
+        "created_at": "2026-05-28T12:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059968793640898976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040496770602487809",
+              "start": 0,
+              "username": "ragan70814"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059968793640898976",
+        "in_reply_to_user_id": "2040496770602487809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059893370634584267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ragan70814 欸我草别发出来这个是你的api-key，别人拿到可以通过这个………我打字打到这突然发现不对劲😠😠😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496770602487809",
+        "conversation_id": "2059893370634584267",
+        "created_at": "2026-05-28T07:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059893370634584267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059893370634584267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚开始学怎么用deepseek，网上说要什么api，有没有大佬帮我看看这串代码是什么意思啊😭sk-fkxqsvivo50woyaochishunzhiyuanweiji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 439,
+          "like_count": 8266,
+          "listed_count": 1,
+          "media_count": 843,
+          "tweet_count": 5238
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T18:28:53.000Z",
+        "description": "10年1月3，一个活死人，取向不正常，精神神似变态，男的，居住上海",
+        "id": "2040496770602487809",
+        "name": "念真",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049368082725167104/Sqntw5mQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 88,
+          "like_count": 1650,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 558
+        },
+        "username": "ragan70814",
+        "verified": false
+      }
+    ]
+  }
+}

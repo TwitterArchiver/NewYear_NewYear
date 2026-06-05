@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998662998639116288"
+      ],
+      "media_source_tweet_id": [
+        "1998663018604015815"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1999043315329900703",
+    "created_at": "2025-12-11T09:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T10:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999043315329900703"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Two Worlds",
+          "probability": 0.8906,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 37,
+          "normalized_text": "One Earth",
+          "probability": 0.7551,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1854782961649876992",
+          "start": 3,
+          "username": "Partisan_12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xZ8y50X4Tu",
+          "end": 62,
+          "expanded_url": "https://x.com/Partisan_12/status/1998663018604015815/photo/1",
+          "media_key": "3_1998662998639116288",
+          "start": 39,
+          "url": "https://t.co/xZ8y50X4Tu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999043315329900703",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25659
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998663018604015815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Partisan_12: Two Worlds, One Earth https://t.co/xZ8y50X4Tu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1340,
+        "media_key": "3_1998662998639116288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ytaGuaAAAqs6p.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998662998639116288"
+          ],
+          "media_source_tweet_id": [
+            "1998663018604015815"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1999043315329900703",
+        "created_at": "2025-12-11T09:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999043315329900703"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Two Worlds",
+              "probability": 0.8906,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "One Earth",
+              "probability": 0.7551,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1854782961649876992",
+              "start": 3,
+              "username": "Partisan_12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZ8y50X4Tu",
+              "end": 62,
+              "expanded_url": "https://x.com/Partisan_12/status/1998663018604015815/photo/1",
+              "media_key": "3_1998662998639116288",
+              "start": 39,
+              "url": "https://t.co/xZ8y50X4Tu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999043315329900703",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25659
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998663018604015815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Partisan_12: Two Worlds, One Earth https://t.co/xZ8y50X4Tu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998662998639116288"
+          ]
+        },
+        "author_id": "1854782961649876992",
+        "conversation_id": "1998663018604015815",
+        "created_at": "2025-12-10T07:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T08:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998663018604015815"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Two Worlds",
+              "probability": 0.8301,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 20,
+              "normalized_text": "One Earth",
+              "probability": 0.8053,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZ8y50X4Tu",
+              "end": 45,
+              "expanded_url": "https://x.com/Partisan_12/status/1998663018604015815/photo/1",
+              "media_key": "3_1998662998639116288",
+              "start": 22,
+              "url": "https://t.co/xZ8y50X4Tu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998663018604015815",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2479,
+          "impression_count": 805061,
+          "like_count": 111397,
+          "quote_count": 115,
+          "reply_count": 180,
+          "retweet_count": 25659
+        },
+        "reply_settings": "everyone",
+        "text": "Two Worlds, One Earth https://t.co/xZ8y50X4Tu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 167,
+          "like_count": 1139,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 1740
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T07:08:21.000Z",
+        "description": "Analyst | Geopolitics | History | Breaking News | Independent | International Affairs | Covering Conflicts & Stories from Every Corner of the World",
+        "id": "1854782961649876992",
+        "location": "ME/SA/AUS",
+        "name": "The Resonance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861729010516123648/DHjivdv2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151800,
+          "following_count": 562,
+          "like_count": 4037,
+          "listed_count": 596,
+          "media_count": 4827,
+          "tweet_count": 5096
+        },
+        "username": "Partisan_12",
+        "verified": true
+      }
+    ]
+  }
+}

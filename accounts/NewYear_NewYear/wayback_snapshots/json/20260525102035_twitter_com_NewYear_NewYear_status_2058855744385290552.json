@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2058849837253062828",
+    "created_at": "2026-05-25T10:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058855744385290552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1108737084301307904",
+          "start": 0,
+          "username": "EntropyF73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058855744385290552",
+    "in_reply_to_user_id": "1108737084301307904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058849837253062828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EntropyF73 这个冰淇淋的形状好神秘🥸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058849827895517185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKBAp2WIAE1EMf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058849827899822080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKBAp3X0AA-QGE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058849827891380224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKBAp1XAAAemQz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2058849837253062828",
+        "created_at": "2026-05-25T10:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058855744385290552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1108737084301307904",
+              "start": 0,
+              "username": "EntropyF73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058855744385290552",
+        "in_reply_to_user_id": "1108737084301307904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058849837253062828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EntropyF73 这个冰淇淋的形状好神秘🥸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058849827895517185",
+            "3_2058849827899822080",
+            "3_2058849827891380224"
+          ]
+        },
+        "author_id": "1108737084301307904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058849837253062828",
+        "created_at": "2026-05-25T09:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058849837253062828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nHaLGA7VR",
+              "end": 57,
+              "expanded_url": "https://x.com/EntropyF73/status/2058849837253062828/photo/1",
+              "media_key": "3_2058849827895517185",
+              "start": 34,
+              "url": "https://t.co/4nHaLGA7VR"
+            },
+            {
+              "display_url": "pic.x.com/4nHaLGA7VR",
+              "end": 57,
+              "expanded_url": "https://x.com/EntropyF73/status/2058849837253062828/photo/1",
+              "media_key": "3_2058849827899822080",
+              "start": 34,
+              "url": "https://t.co/4nHaLGA7VR"
+            },
+            {
+              "display_url": "pic.x.com/4nHaLGA7VR",
+              "end": 57,
+              "expanded_url": "https://x.com/EntropyF73/status/2058849837253062828/photo/1",
+              "media_key": "3_2058849827891380224",
+              "start": 34,
+              "url": "https://t.co/4nHaLGA7VR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058849837253062828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高温导致食欲丧失，发点昨天逛吃的杂七杂八吧\n抹茶冰淇淋没有很好吃） https://t.co/4nHaLGA7VR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 398,
+          "like_count": 7172,
+          "listed_count": 1,
+          "media_count": 806,
+          "tweet_count": 4721
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-21T14:28:15.000Z",
+        "description": "🏳️‍🌈+🖤🩶🤍💜 Indie VTuber 个人势 | enby INFJ-A 中文 & EN｜Weibo & Bilibili: 熵x殇Entropy (GB based) cptsd自救 | Support Me⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/entropyf73",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/entropyf73",
+                "start": 0,
+                "url": "https://t.co/aSj9f0QHM2"
+              }
+            ]
+          }
+        },
+        "id": "1108737084301307904",
+        "location": "East, England",
+        "name": "Entropy 📎💙",
+        "pinned_tweet_id": "1548475185132552193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546099766416871426/3J0rGG_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 1170,
+          "like_count": 27121,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 2401
+        },
+        "url": "https://t.co/aSj9f0QHM2",
+        "username": "EntropyF73",
+        "verified": true
+      }
+    ]
+  }
+}

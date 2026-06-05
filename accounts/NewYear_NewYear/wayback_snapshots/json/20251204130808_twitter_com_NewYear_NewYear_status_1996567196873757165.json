@@ -1,0 +1,570 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1996537563868434432"
+      ],
+      "media_source_tweet_id": [
+        "1996537626636202115"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1308899335468244992",
+          "name": "Hamsters"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+          "id": "166",
+          "name": "Stocks"
+        },
+        "entity": {
+          "id": "1308899335468244992",
+          "name": "Hamsters"
+        }
+      }
+    ],
+    "conversation_id": "1996567196873757165",
+    "created_at": "2025-12-04T13:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T14:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996567196873757165"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 32,
+          "tag": "ハムスター"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3165771967",
+          "start": 3,
+          "username": "toro303606"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fIAD4XV9Df",
+          "end": 62,
+          "expanded_url": "https://x.com/toro303606/status/1996537626636202115/video/1",
+          "media_key": "13_1996537563868434432",
+          "start": 39,
+          "url": "https://t.co/fIAD4XV9Df"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996567196873757165",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 369
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996537626636202115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toro303606: 寒いからお布団から出たくない\n\n#ハムスター https://t.co/fIAD4XV9Df"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12700,
+        "height": 1080,
+        "media_key": "13_1996537563868434432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996537563868434432/img/butuI-wvb_kLiUfc.jpg",
+        "public_metrics": {
+          "view_count": 10762
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996537563868434432/vid/avc1/540x540/wYLdBeaOhM7Iw7mn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996537563868434432/pl/sZl_RGC6jKUf6Drb.m3u8"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996537563868434432/vid/avc1/720x720/68LAqBZOoPK4wIFB.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996537563868434432/vid/avc1/1080x1080/cv0cLEx4nZaLnHD-.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996537563868434432/vid/avc1/320x320/JFn_lYTxD4frF8Mn.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996537563868434432"
+          ],
+          "media_source_tweet_id": [
+            "1996537626636202115"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308899335468244992",
+              "name": "Hamsters"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1308899335468244992",
+              "name": "Hamsters"
+            }
+          }
+        ],
+        "conversation_id": "1996567196873757165",
+        "created_at": "2025-12-04T13:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996567196873757165"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "ハムスター"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3165771967",
+              "start": 3,
+              "username": "toro303606"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fIAD4XV9Df",
+              "end": 62,
+              "expanded_url": "https://x.com/toro303606/status/1996537626636202115/video/1",
+              "media_key": "13_1996537563868434432",
+              "start": 39,
+              "url": "https://t.co/fIAD4XV9Df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996567196873757165",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 369
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996537626636202115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toro303606: 寒いからお布団から出たくない\n\n#ハムスター https://t.co/fIAD4XV9Df"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996537563868434432"
+          ]
+        },
+        "author_id": "3165771967",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308899335468244992",
+              "name": "Hamsters"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1308899335468244992",
+              "name": "Hamsters"
+            }
+          }
+        ],
+        "conversation_id": "1996537626636202115",
+        "created_at": "2025-12-04T11:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T12:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996537626636202115"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "ハムスター"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fIAD4XV9Df",
+              "end": 46,
+              "expanded_url": "https://x.com/toro303606/status/1996537626636202115/video/1",
+              "media_key": "13_1996537563868434432",
+              "start": 23,
+              "url": "https://t.co/fIAD4XV9Df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996537626636202115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 30368,
+          "like_count": 2507,
+          "quote_count": 14,
+          "reply_count": 7,
+          "retweet_count": 369
+        },
+        "reply_settings": "everyone",
+        "text": "寒いからお布団から出たくない\n\n#ハムスター https://t.co/fIAD4XV9Df"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 167,
+          "like_count": 1081,
+          "listed_count": 1,
+          "media_count": 391,
+          "tweet_count": 1691
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-20T16:47:44.000Z",
+        "description": "ハムスター🐹リズちゃん2歳1ヶ月で秋分の日にお空に旅立ちました(ハムランドお空)のハムちゃん達も 登場しますTechno.Erectronica.Ambient.音楽全般.映画.ゲーム.スポーツ.大分→ 北海道 ※画像等の無断転載は禁止でお願いします",
+        "id": "3165771967",
+        "name": "トロ",
+        "pinned_tweet_id": "1995458316915339449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/813038731158355970/Xvrz_7DF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24504,
+          "following_count": 536,
+          "like_count": 244107,
+          "listed_count": 351,
+          "media_count": 4605,
+          "tweet_count": 62758
+        },
+        "username": "toro303606",
+        "verified": true
+      }
+    ]
+  }
+}

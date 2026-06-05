@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1974510802846802015",
+    "created_at": "2025-10-05T07:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T08:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974745470795989317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1973301328135987201",
+          "start": 0,
+          "username": "the_red_dawn_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974745470795989317",
+    "in_reply_to_user_id": "1973301328135987201",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974739910922993957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@the_red_dawn_ 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1974510802846802015",
+        "created_at": "2025-10-05T07:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T08:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974745470795989317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1973301328135987201",
+              "start": 0,
+              "username": "the_red_dawn_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974745470795989317",
+        "in_reply_to_user_id": "1973301328135987201",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974739910922993957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@the_red_dawn_ 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973301328135987201",
+        "conversation_id": "1974510802846802015",
+        "created_at": "2025-10-05T07:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T08:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974739910922993957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974739910922993957",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974510802846802015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 我爱你，也希望你能一直好好的 &lt;3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 158,
+          "like_count": 483,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 1230
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T08:19:29.000Z",
+        "description": "♡ 我深深地爱着世间的每一个生命和事物，我唯一想做的就是帮助别人 I deeply love every living being and everything in this world, and all I want is to help others",
+        "id": "1973301328135987201",
+        "name": "the dawn",
+        "pinned_tweet_id": "1974742059975413846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973302849141620737/KX9ccBBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 25,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 65
+        },
+        "username": "the_red_dawn_",
+        "verified": false
+      }
+    ]
+  }
+}

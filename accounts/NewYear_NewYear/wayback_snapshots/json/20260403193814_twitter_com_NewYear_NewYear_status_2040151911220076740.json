@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2040151911220076740",
+    "created_at": "2026-04-03T19:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T20:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040151911220076740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2018742198356131840",
+          "start": 3,
+          "username": "lilidihv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040151911220076740",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040019754308763749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilidihv: 学校你自慰吧 我不想上你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2040151911220076740",
+        "created_at": "2026-04-03T19:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T20:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040151911220076740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2018742198356131840",
+              "start": 3,
+              "username": "lilidihv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040151911220076740",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040019754308763749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilidihv: 学校你自慰吧 我不想上你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018742198356131840",
+        "conversation_id": "2040019754308763749",
+        "created_at": "2026-04-03T10:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T11:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040019754308763749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040019754308763749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 21778,
+          "like_count": 580,
+          "quote_count": 5,
+          "reply_count": 38,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "学校你自慰吧 我不想上你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "EVERYWHERE",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 205,
+          "like_count": 2250,
+          "listed_count": 1,
+          "media_count": 575,
+          "tweet_count": 2524
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T17:45:43.000Z",
+        "description": "tearsvow | 09 宁性恋 \n\n天才桐生战兔@Aloneovo_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Aloneovo_"
+              }
+            ]
+          }
+        },
+        "id": "2018742198356131840",
+        "location": "Amore",
+        "name": "萌狗仆",
+        "pinned_tweet_id": "2033818973553496238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039303926420492288/I-Gbo88S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 126,
+          "like_count": 1504,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 2879
+        },
+        "username": "lilidihv",
+        "verified": false
+      }
+    ]
+  }
+}

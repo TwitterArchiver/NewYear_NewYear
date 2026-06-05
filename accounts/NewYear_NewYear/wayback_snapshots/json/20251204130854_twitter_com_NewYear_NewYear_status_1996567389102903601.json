@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1996566637068353667",
+    "created_at": "2025-12-04T13:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T14:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996567389102903601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1677530479782768641",
+          "start": 0,
+          "username": "bai57248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996567389102903601",
+    "in_reply_to_user_id": "1677530479782768641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996566637068353667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai57248 无能力者娜娜🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 957,
+        "media_key": "3_1996566624804233217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7U6xFnbYAEczJE.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1996566637068353667",
+        "created_at": "2025-12-04T13:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996567389102903601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1677530479782768641",
+              "start": 0,
+              "username": "bai57248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996567389102903601",
+        "in_reply_to_user_id": "1677530479782768641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996566637068353667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai57248 无能力者娜娜🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996566624804233217"
+          ]
+        },
+        "author_id": "1677530479782768641",
+        "conversation_id": "1996566637068353667",
+        "created_at": "2025-12-04T13:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996566637068353667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aiyaAQEFNl",
+              "end": 28,
+              "expanded_url": "https://x.com/bai57248/status/1996566637068353667/photo/1",
+              "media_key": "3_1996566624804233217",
+              "start": 5,
+              "url": "https://t.co/aiyaAQEFNl"
+            },
+            {
+              "display_url": "x.com/Elina_Miyamori…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Elina_Miyamori/status/1996080229681693026",
+              "start": 29,
+              "url": "https://t.co/P4rjVGFPfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996566637068353667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996080229681693026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跟我玩吧 https://t.co/aiyaAQEFNl https://t.co/P4rjVGFPfJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 167,
+          "like_count": 1081,
+          "listed_count": 1,
+          "media_count": 391,
+          "tweet_count": 1692
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T04:10:14.000Z",
+        "description": "泉//类日记//！！包含无意义喊话！！//\n@Melvin2048",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Melvin2048"
+              }
+            ]
+          }
+        },
+        "id": "1677530479782768641",
+        "name": "小水儿",
+        "pinned_tweet_id": "1975060397125423133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965408530112065536/-9vMzJGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5775,
+          "following_count": 809,
+          "like_count": 46953,
+          "listed_count": 10,
+          "media_count": 1864,
+          "tweet_count": 11629
+        },
+        "username": "bai57248",
+        "verified": false
+      }
+    ]
+  }
+}

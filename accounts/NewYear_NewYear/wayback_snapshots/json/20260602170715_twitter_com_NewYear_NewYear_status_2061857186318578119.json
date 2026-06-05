@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061856264037232640"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2061857186318578119",
+    "created_at": "2026-06-02T17:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T18:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061857186318578119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IfpOxbDtIP",
+          "end": 168,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2061857186318578119/photo/1",
+          "media_key": "3_2061856264037232640",
+          "start": 145,
+          "url": "https://t.co/IfpOxbDtIP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061857186318578119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别这样🥺\n大多数人都只会公开他们的比较好的一面，并且尽可能修饰比较差的部分\n\n所以看到的别人肯定是失真的，和一个被稍微夸大的人作对比肯定会带来焦虑\n况且这互联网时代，比较对象是我们能接触到的所有网友，没有人可以赢的🥺\n\n最好就是不要进行比较！！！\n\n对比带来的一般只有焦虑和由此引起的内耗 https://t.co/IfpOxbDtIP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 803,
+        "media_key": "3_2061856264037232640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0vWRPacAAM8bR.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061856264037232640"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2061857186318578119",
+        "created_at": "2026-06-02T17:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061857186318578119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IfpOxbDtIP",
+              "end": 168,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2061857186318578119/photo/1",
+              "media_key": "3_2061856264037232640",
+              "start": 145,
+              "url": "https://t.co/IfpOxbDtIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061857186318578119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别这样🥺\n大多数人都只会公开他们的比较好的一面，并且尽可能修饰比较差的部分\n\n所以看到的别人肯定是失真的，和一个被稍微夸大的人作对比肯定会带来焦虑\n况且这互联网时代，比较对象是我们能接触到的所有网友，没有人可以赢的🥺\n\n最好就是不要进行比较！！！\n\n对比带来的一般只有焦虑和由此引起的内耗 https://t.co/IfpOxbDtIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 448,
+          "like_count": 9692,
+          "listed_count": 1,
+          "media_count": 900,
+          "tweet_count": 5779
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

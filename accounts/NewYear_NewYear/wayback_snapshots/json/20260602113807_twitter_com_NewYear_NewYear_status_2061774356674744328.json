@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2061749447969870195",
+    "created_at": "2026-06-02T11:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061774356674744328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878040030834270209",
+          "start": 0,
+          "username": "shishan634852"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061774356674744328",
+    "in_reply_to_user_id": "1878040030834270209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061769969810231643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shishan634852 上吊和掐自己不一样\n自己给自己不管怎么样都下不了这么重的手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2061749447969870195",
+        "created_at": "2026-06-02T11:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061774356674744328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878040030834270209",
+              "start": 0,
+              "username": "shishan634852"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061774356674744328",
+        "in_reply_to_user_id": "1878040030834270209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061769969810231643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shishan634852 上吊和掐自己不一样\n自己给自己不管怎么样都下不了这么重的手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878040030834270209",
+        "conversation_id": "2061749447969870195",
+        "created_at": "2026-06-02T11:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061769969810231643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061769969810231643",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061749447969870195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 直接掐自己脖子动脉不就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 446,
+          "like_count": 9592,
+          "listed_count": 1,
+          "media_count": 894,
+          "tweet_count": 5748
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T11:23:40.000Z",
+        "description": "拉黑我那就是你对了，骂我那就是我对了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ciallo.cc",
+                "end": 23,
+                "expanded_url": "http://ciallo.cc",
+                "start": 0,
+                "url": "https://t.co/JoKNjDMhmn"
+              }
+            ]
+          }
+        },
+        "id": "1878040030834270209",
+        "location": "你身后",
+        "name": "十三thirteen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009357893708267520/Ss8mx_CX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 1826,
+          "like_count": 61220,
+          "listed_count": 1,
+          "media_count": 655,
+          "tweet_count": 3970
+        },
+        "url": "https://t.co/JoKNjDMhmn",
+        "username": "shishan634852",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1586096050447622144"
+      ],
+      "media_source_tweet_id": [
+        "1586096079774224384"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1994265807447036255",
+    "created_at": "2025-11-28T04:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T05:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994265807447036255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960048085964574720",
+          "start": 3,
+          "username": "pwkwjwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yHBVJAcXPE",
+          "end": 48,
+          "expanded_url": "https://x.com/CATHEAVEN11/status/1586096079774224384/video/1",
+          "media_key": "7_1586096050447622144",
+          "start": 25,
+          "url": "https://t.co/yHBVJAcXPE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994265807447036255",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 263
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993964379071762589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pwkwjwt: 勝手に舌が出ちゃう猫\n https://t.co/yHBVJAcXPE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9612,
+        "height": 720,
+        "media_key": "7_1586096050447622144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1586096050447622144/pu/img/EPaw-pc8qrjYjE2h.jpg",
+        "public_metrics": {
+          "view_count": 8892286
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1586096050447622144/pu/vid/320x320/jfQ8SNARWpquc3vB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1586096050447622144/pu/vid/540x540/dv4yFkFl0-ZICEYi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1586096050447622144/pu/vid/720x720/kolckL0HGRUz3XsO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1586096050447622144/pu/pl/Zz0Cj2auajWXfdGr.m3u8?tag=12&v=ff9"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1586096050447622144"
+          ],
+          "media_source_tweet_id": [
+            "1586096079774224384"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1994265807447036255",
+        "created_at": "2025-11-28T04:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T05:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994265807447036255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960048085964574720",
+              "start": 3,
+              "username": "pwkwjwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHBVJAcXPE",
+              "end": 48,
+              "expanded_url": "https://x.com/CATHEAVEN11/status/1586096079774224384/video/1",
+              "media_key": "7_1586096050447622144",
+              "start": 25,
+              "url": "https://t.co/yHBVJAcXPE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994265807447036255",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993964379071762589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pwkwjwt: 勝手に舌が出ちゃう猫\n https://t.co/yHBVJAcXPE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1586096050447622144"
+          ],
+          "media_source_tweet_id": [
+            "1586096079774224384"
+          ]
+        },
+        "author_id": "1960048085964574720",
+        "conversation_id": "1993964379071762589",
+        "created_at": "2025-11-27T08:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993964379071762589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHBVJAcXPE",
+              "end": 35,
+              "expanded_url": "https://x.com/CATHEAVEN11/status/1586096079774224384/video/1",
+              "media_key": "7_1586096050447622144",
+              "start": 12,
+              "url": "https://t.co/yHBVJAcXPE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993964379071762589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 53247,
+          "like_count": 3659,
+          "quote_count": 13,
+          "reply_count": 7,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "勝手に舌が出ちゃう猫\n https://t.co/yHBVJAcXPE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 164,
+          "like_count": 995,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 1642
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T18:34:24.000Z",
+        "description": "タイムラインを猫で癒すお仕事しております。I post cute cats every day😼",
+        "id": "1960048085964574720",
+        "name": "可愛い猫🐱速報",
+        "pinned_tweet_id": "1975501716411064736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973966889736155136/FikzcprZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2757,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 15,
+          "media_count": 63,
+          "tweet_count": 67
+        },
+        "username": "pwkwjwt",
+        "verified": false
+      }
+    ]
+  }
+}

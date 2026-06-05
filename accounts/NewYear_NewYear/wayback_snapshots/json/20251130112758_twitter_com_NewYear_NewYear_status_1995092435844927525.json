@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1995092435844927525",
+    "created_at": "2025-11-30T11:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T12:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995092435844927525"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/itsme_urstruly…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/itsme_urstruly/status/1994774100032852143",
+          "start": 4,
+          "url": "https://t.co/mloC51MepB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995092435844927525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994774100032852143",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可爱 https://t.co/mloC51MepB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14033,
+        "height": 1280,
+        "media_key": "13_1989837301694746626",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989837301694746626/img/SoO0cZTM1iqTnXhH.jpg",
+        "public_metrics": {
+          "view_count": 1625929
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989837301694746626/vid/avc1/320x568/ouQjWGQaFWy6KJjm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989837301694746626/vid/avc1/480x852/MPB9dZ5dnSqXIwl8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989837301694746626/vid/avc1/720x1280/-GO1PznLgSUJVKoP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989837301694746626/pl/E6NPkmjVkV0C9LyM.m3u8?v=7d8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1995092435844927525",
+        "created_at": "2025-11-30T11:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995092435844927525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itsme_urstruly…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/itsme_urstruly/status/1994774100032852143",
+              "start": 4,
+              "url": "https://t.co/mloC51MepB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995092435844927525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994774100032852143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可爱 https://t.co/mloC51MepB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989837301694746626"
+          ],
+          "media_source_tweet_id": [
+            "1989837333168898299"
+          ]
+        },
+        "author_id": "1648685716237598720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994774100032852143",
+        "created_at": "2025-11-29T14:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994774100032852143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WCUmxaL7IT",
+              "end": 27,
+              "expanded_url": "https://x.com/HumansNoContext/status/1989837333168898299/video/1",
+              "media_key": "13_1989837301694746626",
+              "start": 4,
+              "url": "https://t.co/WCUmxaL7IT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994774100032852143",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 794,
+          "impression_count": 158846,
+          "like_count": 13230,
+          "quote_count": 65,
+          "reply_count": 23,
+          "retweet_count": 2096
+        },
+        "reply_settings": "everyone",
+        "text": "😂😂😂 https://t.co/WCUmxaL7IT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 164,
+          "like_count": 1018,
+          "listed_count": 1,
+          "media_count": 384,
+          "tweet_count": 1654
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T13:51:49.000Z",
+        "description": "Best account to cleanse your timeline with positivity, humour and wholesome content | DM for credit or removal | Turn on notifications 🔔",
+        "id": "1648685716237598720",
+        "name": "Wholesome Side of 𝕏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847211116289527808/4gxkztuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454548,
+          "following_count": 96,
+          "like_count": 20030,
+          "listed_count": 820,
+          "media_count": 32353,
+          "tweet_count": 34721
+        },
+        "username": "itsme_urstruly",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031746512473255937",
+        "3_2031746512473255936"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031746525018362331",
+    "created_at": "2026-03-11T14:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T15:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031746525018362331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gaoGsJLix6",
+          "end": 168,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2031746525018362331/photo/1",
+          "media_key": "3_2031746512473255937",
+          "start": 145,
+          "url": "https://t.co/gaoGsJLix6"
+        },
+        {
+          "display_url": "pic.x.com/gaoGsJLix6",
+          "end": 168,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2031746525018362331/photo/1",
+          "media_key": "3_2031746512473255936",
+          "start": 145,
+          "url": "https://t.co/gaoGsJLix6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031746525018362331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我给我教的学生布置了一个每日任务，每天做一道题，我发题目和前一天的答案给她\n我坚持了几天觉得好麻烦（\n所以做了一个软件，她可以每天进去看题和答案，可以打卡，也有进度条\n结果她们家用的都是苹果🥸\n所以我去阿里云整了个免费试用的服务器，弄成了web版的😋\n（还好一直在用flutter开发…） https://t.co/gaoGsJLix6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2300,
+        "media_key": "3_2031746512473255937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDI2sD2bcAEZ7K1.jpg",
+        "width": 1051
+      },
+      {
+        "height": 1909,
+        "media_key": "3_2031746512473255936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDI2sD2bcAAhxaY.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031746512473255937",
+            "3_2031746512473255936"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031746525018362331",
+        "created_at": "2026-03-11T14:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031746525018362331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gaoGsJLix6",
+              "end": 168,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2031746525018362331/photo/1",
+              "media_key": "3_2031746512473255937",
+              "start": 145,
+              "url": "https://t.co/gaoGsJLix6"
+            },
+            {
+              "display_url": "pic.x.com/gaoGsJLix6",
+              "end": 168,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2031746525018362331/photo/1",
+              "media_key": "3_2031746512473255936",
+              "start": 145,
+              "url": "https://t.co/gaoGsJLix6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031746525018362331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我给我教的学生布置了一个每日任务，每天做一道题，我发题目和前一天的答案给她\n我坚持了几天觉得好麻烦（\n所以做了一个软件，她可以每天进去看题和答案，可以打卡，也有进度条\n结果她们家用的都是苹果🥸\n所以我去阿里云整了个免费试用的服务器，弄成了web版的😋\n（还好一直在用flutter开发…） https://t.co/gaoGsJLix6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 187,
+          "like_count": 1801,
+          "listed_count": 1,
+          "media_count": 518,
+          "tweet_count": 2218
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

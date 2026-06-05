@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1964654593075519831",
+    "created_at": "2025-09-07T18:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T19:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964753632395706734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667779272478687232",
+          "start": 0,
+          "username": "Statius_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964753632395706734",
+    "in_reply_to_user_id": "1667779272478687232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964654593075519831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Statius_ 嚼嚼嚼……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964654586163269632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Pa79qakAAMNnT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1964654593075519831",
+        "created_at": "2025-09-07T18:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T19:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964753632395706734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667779272478687232",
+              "start": 0,
+              "username": "Statius_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964753632395706734",
+        "in_reply_to_user_id": "1667779272478687232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964654593075519831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Statius_ 嚼嚼嚼……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964654586163269632"
+          ]
+        },
+        "author_id": "1667779272478687232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1964654593075519831",
+        "created_at": "2025-09-07T11:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T12:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964654593075519831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HtfrrghCmg",
+              "end": 34,
+              "expanded_url": "https://x.com/Statius_/status/1964654593075519831/photo/1",
+              "media_key": "3_1964654586163269632",
+              "start": 11,
+              "url": "https://t.co/HtfrrghCmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964654593075519831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4269,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来吃一块糖醋排骨吧😋 https://t.co/HtfrrghCmg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福",
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 146,
+          "like_count": 76,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 621
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T06:22:28.000Z",
+        "description": "🦦 我只是一个脆弱敏感好吃懒做的小女孩",
+        "id": "1667779272478687232",
+        "location": "銀河系超級偵探駐地球辦事處",
+        "name": "銀河系超級偵探",
+        "pinned_tweet_id": "1955854558749712858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685264169569042433/mihVUuV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 79,
+          "like_count": 8617,
+          "listed_count": 3,
+          "media_count": 908,
+          "tweet_count": 1921
+        },
+        "username": "Statius_",
+        "verified": false
+      }
+    ]
+  }
+}

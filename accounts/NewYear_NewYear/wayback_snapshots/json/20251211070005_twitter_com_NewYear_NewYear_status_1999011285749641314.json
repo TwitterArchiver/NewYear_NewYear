@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1999005937332318707",
+    "created_at": "2025-12-11T07:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T08:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999011285749641314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1646433542661115904",
+          "start": 0,
+          "username": "Lanyinwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999011285749641314",
+    "in_reply_to_user_id": "1646433542661115904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999005937332318707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lanyinwu 我也是这样的…我还会一边这样想一边对自己感到恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1999005937332318707",
+        "created_at": "2025-12-11T07:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T08:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999011285749641314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1646433542661115904",
+              "start": 0,
+              "username": "Lanyinwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999011285749641314",
+        "in_reply_to_user_id": "1646433542661115904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999005937332318707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lanyinwu 我也是这样的…我还会一边这样想一边对自己感到恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646433542661115904",
+        "conversation_id": "1999005937332318707",
+        "created_at": "2025-12-11T06:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T07:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999005937332318707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999005937332318707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1103,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情一差就感觉一直以来坚持的纯爱毫无意义，想找八个炮友把自己操死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 167,
+          "like_count": 1138,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 1739
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T08:42:08.000Z",
+        "description": "兰因误",
+        "id": "1646433542661115904",
+        "location": "个人日常  私信不开  不提供任何服务",
+        "name": "盛予",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945455357427400704/VCxXs25A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21087,
+          "following_count": 10,
+          "like_count": 2514,
+          "listed_count": 36,
+          "media_count": 156,
+          "tweet_count": 1978
+        },
+        "username": "Lanyinwu",
+        "verified": false
+      }
+    ]
+  }
+}

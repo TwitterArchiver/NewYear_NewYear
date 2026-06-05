@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2059656632200782120",
+    "created_at": "2026-05-27T17:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059682513782706361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829502489227575296",
+          "start": 0,
+          "username": "hajihajimo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059682513782706361",
+    "in_reply_to_user_id": "1829502489227575296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059656632200782120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajihajimo 迈克尔杰克逊的秘密训练方法🥸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2059656632200782120",
+        "created_at": "2026-05-27T17:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059682513782706361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829502489227575296",
+              "start": 0,
+              "username": "hajihajimo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059682513782706361",
+        "in_reply_to_user_id": "1829502489227575296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059656632200782120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajihajimo 迈克尔杰克逊的秘密训练方法🥸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829502489227575296",
+        "conversation_id": "2059656632200782120",
+        "created_at": "2026-05-27T15:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059656632200782120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059656632200782120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗澡水温开最大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 433,
+          "like_count": 8020,
+          "listed_count": 1,
+          "media_count": 839,
+          "tweet_count": 5133
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "阴郁疯小孩|femboy|男|加q/v🚪67/91|不线下|各方面都不健康|烟鬼酒鬼|波奇|骚扰我|请称呼我为陌陌",
+        "id": "1829502489227575296",
+        "location": "日耳曼尼亚",
+        "name": "陌nono🦐 (施工作业)",
+        "pinned_tweet_id": "2043299349002891404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056391741457190913/x039MeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 319,
+          "like_count": 4473,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 2189
+        },
+        "username": "hajihajimo",
+        "verified": false
+      }
+    ]
+  }
+}

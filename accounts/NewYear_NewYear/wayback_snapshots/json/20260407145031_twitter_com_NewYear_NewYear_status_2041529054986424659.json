@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2041525936169029975",
+    "created_at": "2026-04-07T14:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T15:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041529054986424659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948038442790866945",
+          "start": 0,
+          "username": "Janeschan118623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041529054986424659",
+    "in_reply_to_user_id": "1948038442790866945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041527736850960751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Janeschan118623 是吧，超级酷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2041525936169029975",
+        "created_at": "2026-04-07T14:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041529054986424659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948038442790866945",
+              "start": 0,
+              "username": "Janeschan118623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041529054986424659",
+        "in_reply_to_user_id": "1948038442790866945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041527736850960751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Janeschan118623 是吧，超级酷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948038442790866945",
+        "conversation_id": "2041525936169029975",
+        "created_at": "2026-04-07T14:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041527736850960751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041527736850960751",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041525936169029975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 这个效果太赞了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "EVERYWHERE",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 204,
+          "like_count": 2435,
+          "listed_count": 1,
+          "media_count": 599,
+          "tweet_count": 2647
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T15:12:23.000Z",
+        "description": "无需问询，人生漫步任我行⚡  \n|  Pinhead Larry📌@Janeschanshadow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Janeschanshadow"
+              }
+            ]
+          }
+        },
+        "id": "1948038442790866945",
+        "name": "Dirty Dan💀",
+        "pinned_tweet_id": "1994366463092928951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039247618317189120/YNPnXHg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 351,
+          "like_count": 20357,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 2820
+        },
+        "username": "Janeschan118623",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T15:12:23.000Z",
+        "description": "无需问询，人生漫步任我行⚡  \n|  Pinhead Larry📌@Janeschanshadow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Janeschanshadow"
+              }
+            ]
+          }
+        },
+        "id": "1948038442790866945",
+        "name": "Dirty Dan💀",
+        "pinned_tweet_id": "1994366463092928951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039247618317189120/YNPnXHg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 351,
+          "like_count": 20357,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 2820
+        },
+        "url": "",
+        "username": "Janeschan118623",
+        "verified": false
+      }
+    ]
+  }
+}

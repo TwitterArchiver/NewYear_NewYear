@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2041205959914348725",
+    "created_at": "2026-04-06T17:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T18:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041205959914348725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909266536604512256",
+          "start": 3,
+          "username": "xun404214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041205959914348725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041083548069994669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xun404214: 我在推特喜欢一个人的表现：关注她，等她回关我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2041205959914348725",
+        "created_at": "2026-04-06T17:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041205959914348725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909266536604512256",
+              "start": 3,
+              "username": "xun404214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041205959914348725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041083548069994669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xun404214: 我在推特喜欢一个人的表现：关注她，等她回关我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909266536604512256",
+        "conversation_id": "2041083548069994669",
+        "created_at": "2026-04-06T09:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041083548069994669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041083548069994669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7940,
+          "like_count": 178,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "我在推特喜欢一个人的表现：关注她，等她回关我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "EVERYWHERE",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 206,
+          "like_count": 2406,
+          "listed_count": 1,
+          "media_count": 594,
+          "tweet_count": 2625
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T15:26:40.000Z",
+        "description": "🌈|0.5ldom|t0m请联系我。时至今日都怪大猩猩非要站起来走路。                                                                              \n匿名✉️：https://t.co/BwKNjBbg24",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xun40421453166",
+                "end": 142,
+                "expanded_url": "https://ngl.link/xun40421453166",
+                "start": 119,
+                "url": "https://t.co/BwKNjBbg24"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=Aq98OCSn",
+                "start": 0,
+                "url": "https://t.co/gSP4f1P1e2"
+              }
+            ]
+          }
+        },
+        "id": "1909266536604512256",
+        "location": "ip重庆  自用蜂鸟VPN↓",
+        "name": "玄",
+        "pinned_tweet_id": "2009211803260309517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037887047432847360/2Jtyo85O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10573,
+          "following_count": 308,
+          "like_count": 5501,
+          "listed_count": 9,
+          "media_count": 152,
+          "tweet_count": 8968
+        },
+        "url": "https://t.co/gSP4f1P1e2",
+        "username": "xun404214",
+        "verified": false
+      }
+    ]
+  }
+}

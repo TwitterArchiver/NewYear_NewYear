@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1970189302652117331",
+    "created_at": "2025-09-23T09:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T10:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970421446221721828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907640932893339654",
+          "start": 0,
+          "username": "Ran_Mitake37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970421446221721828",
+    "in_reply_to_user_id": "1907640932893339654",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970414817728217521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ran_Mitake37 😝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1970189302652117331",
+        "created_at": "2025-09-23T09:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T10:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970421446221721828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907640932893339654",
+              "start": 0,
+              "username": "Ran_Mitake37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970421446221721828",
+        "in_reply_to_user_id": "1907640932893339654",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970414817728217521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ran_Mitake37 😝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907640932893339654",
+        "conversation_id": "1970189302652117331",
+        "created_at": "2025-09-23T09:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T10:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970414817728217521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970414817728217521",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970400685138288693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 诶嘿嘿\n主要是便宜（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 153,
+          "like_count": 346,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 1102
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T03:47:04.000Z",
+        "description": "简介频繁更新 \\♂️\\ 需要回fo请私信 \\ 同类可扩列 \\ 喜欢傻笑 \\ 不转R18推 \\ 无糖 \\ 永久清水 绝对擦边 \\ 不线下 \\ 不要和我建政 \\ 单身但拒绝恋爱 \\ 希望你一直开心 \\ om4k delta \\ malody ex7",
+        "id": "1907640932893339654",
+        "location": "Hyperbolic Space",
+        "name": "Ran",
+        "pinned_tweet_id": "1968744855187718370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965132236245925891/DWGhNYMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2447,
+          "following_count": 563,
+          "like_count": 235,
+          "listed_count": 5,
+          "media_count": 76,
+          "tweet_count": 1745
+        },
+        "username": "Ran_Mitake37",
+        "verified": false
+      }
+    ]
+  }
+}

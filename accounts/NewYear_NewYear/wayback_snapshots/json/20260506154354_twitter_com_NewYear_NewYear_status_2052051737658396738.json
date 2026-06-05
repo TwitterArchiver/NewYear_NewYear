@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2052032469369811235",
+    "created_at": "2026-05-06T15:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052051737658396738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040203145544880128",
+          "start": 0,
+          "username": "iWwAUfN9Eo50488"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052051737658396738",
+    "in_reply_to_user_id": "2040203145544880128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052050998940864714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iWwAUfN9Eo50488 抱抱你～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2052032469369811235",
+        "created_at": "2026-05-06T15:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052051737658396738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040203145544880128",
+              "start": 0,
+              "username": "iWwAUfN9Eo50488"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052051737658396738",
+        "in_reply_to_user_id": "2040203145544880128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052050998940864714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iWwAUfN9Eo50488 抱抱你～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040203145544880128",
+        "conversation_id": "2052032469369811235",
+        "created_at": "2026-05-06T15:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052050998940864714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052050998940864714",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052047333303693666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 抱抱(ღ˘⌣˘ღ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 275,
+          "like_count": 4373,
+          "listed_count": 1,
+          "media_count": 725,
+          "tweet_count": 3664
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T23:02:47.000Z",
+        "description": "hrt/08 1.18高中牲 /odo的多一点💊/不🔪\n闲聊找我/私信看见会回/爱好咖啡/💊/书法/🚬\n（求你们和我唠嗑吧😭）",
+        "id": "2040203145544880128",
+        "name": "321908🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040341735541477376/sjwX1z81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 98,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 353
+        },
+        "username": "iWwAUfN9Eo50488",
+        "verified": false
+      }
+    ]
+  }
+}

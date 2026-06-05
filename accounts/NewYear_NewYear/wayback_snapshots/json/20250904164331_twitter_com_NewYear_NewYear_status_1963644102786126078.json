@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1963553826817909041",
+    "created_at": "2025-09-04T16:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T17:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963644102786126078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1583317300152651776",
+          "start": 0,
+          "username": "Tsuki_NekoY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963644102786126078",
+    "in_reply_to_user_id": "1583317300152651776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963553826817909041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsuki_NekoY 深表赞同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1963553826817909041",
+        "created_at": "2025-09-04T16:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T17:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963644102786126078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1583317300152651776",
+              "start": 0,
+              "username": "Tsuki_NekoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963644102786126078",
+        "in_reply_to_user_id": "1583317300152651776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963553826817909041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsuki_NekoY 深表赞同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583317300152651776",
+        "conversation_id": "1963553826817909041",
+        "created_at": "2025-09-04T10:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T11:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963553826817909041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963553826817909041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 435,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活着好痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 145,
+          "like_count": 59,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 526
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T04:40:54.000Z",
+        "description": "転載禁止/已绝育/陰キャ/⚓️/🎀🐾/精神障害/無性別/Sakuraの猫猫/日本語/问坐标25r/过门解锁➡️裏@SakuraNekosama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "SakuraNekosama"
+              }
+            ]
+          }
+        },
+        "id": "1583317300152651776",
+        "location": "東京  🚪188/520 私信只回口令红包",
+        "name": "Rikana",
+        "pinned_tweet_id": "1846531641117941988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884997428484665344/BV3jpnF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4642,
+          "following_count": 58,
+          "like_count": 1936,
+          "listed_count": 8,
+          "media_count": 309,
+          "tweet_count": 2279
+        },
+        "username": "Tsuki_NekoY",
+        "verified": false
+      }
+    ]
+  }
+}

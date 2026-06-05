@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2046408814883488226",
+    "created_at": "2026-04-21T10:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046542422763831742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1212683181029068800",
+          "start": 0,
+          "username": "Cigamipcy1124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046542422763831742",
+    "in_reply_to_user_id": "1212683181029068800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046408814883488226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cigamipcy1124 这个杯子好萌好可爱(｡･ω･｡)ﾉ♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2046408808977846273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZN-Cxa0AEul2C.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2046408814883488226",
+        "created_at": "2026-04-21T10:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046542422763831742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1212683181029068800",
+              "start": 0,
+              "username": "Cigamipcy1124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046542422763831742",
+        "in_reply_to_user_id": "1212683181029068800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046408814883488226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cigamipcy1124 这个杯子好萌好可爱(｡･ω･｡)ﾉ♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046408808977846273"
+          ]
+        },
+        "author_id": "1212683181029068800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046408814883488226",
+        "created_at": "2026-04-21T02:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T03:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046408814883488226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0bRNn0LFD",
+              "end": 30,
+              "expanded_url": "https://x.com/Cigamipcy1124/status/2046408814883488226/photo/1",
+              "media_key": "3_2046408808977846273",
+              "start": 7,
+              "url": "https://t.co/M0bRNn0LFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046408814883488226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玫瑰玫瑰😌😌 https://t.co/M0bRNn0LFD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 214,
+          "like_count": 3007,
+          "listed_count": 1,
+          "media_count": 652,
+          "tweet_count": 2948
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-02T10:33:02.000Z",
+        "description": "v9爱丽/碎碎念清水做饭吐槽推/爱香水爱做甜点爱做饭/阿米和跑三粉请绕道^ 本人是男孩子且是不知名恋姐癖。找我玩：https://t.co/gcaMsyq9bG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinxin_offcial",
+                "end": 80,
+                "expanded_url": "https://ngl.link/xinxin_offcial",
+                "start": 57,
+                "url": "https://t.co/gcaMsyq9bG"
+              }
+            ]
+          }
+        },
+        "id": "1212683181029068800",
+        "location": "找姐姐。我姐姐呢？",
+        "name": "呆萌小鹿鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974806175150465024/SHMNB3U4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 207,
+          "like_count": 14896,
+          "listed_count": 1,
+          "media_count": 817,
+          "tweet_count": 8420
+        },
+        "username": "Cigamipcy1124",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964748505869656064",
+        "3_1964748505836052480",
+        "3_1964748505869606912",
+        "3_1964748505861308416"
+      ],
+      "media_source_tweet_id": [
+        "1964748519849500707",
+        "1964748519849500707",
+        "1964748519849500707",
+        "1964748519849500707"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Graphic Design",
+          "id": "1046580793848418305",
+          "name": "Graphic design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Graphic Design",
+          "id": "1046580793848418305",
+          "name": "Graphic design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1965091185560895721",
+    "created_at": "2025-09-08T16:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T17:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965091185560895721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "764598419197493248",
+          "start": 3,
+          "username": "christosdotjpeg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VfE0O48SKe",
+          "end": 82,
+          "expanded_url": "https://x.com/christosdotjpeg/status/1964748519849500707/photo/1",
+          "media_key": "3_1964748505869656064",
+          "start": 59,
+          "url": "https://t.co/VfE0O48SKe"
+        },
+        {
+          "display_url": "pic.x.com/VfE0O48SKe",
+          "end": 82,
+          "expanded_url": "https://x.com/christosdotjpeg/status/1964748519849500707/photo/1",
+          "media_key": "3_1964748505836052480",
+          "start": 59,
+          "url": "https://t.co/VfE0O48SKe"
+        },
+        {
+          "display_url": "pic.x.com/VfE0O48SKe",
+          "end": 82,
+          "expanded_url": "https://x.com/christosdotjpeg/status/1964748519849500707/photo/1",
+          "media_key": "3_1964748505869606912",
+          "start": 59,
+          "url": "https://t.co/VfE0O48SKe"
+        },
+        {
+          "display_url": "pic.x.com/VfE0O48SKe",
+          "end": 82,
+          "expanded_url": "https://x.com/christosdotjpeg/status/1964748519849500707/photo/1",
+          "media_key": "3_1964748505861308416",
+          "start": 59,
+          "url": "https://t.co/VfE0O48SKe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965091185560895721",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1635
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964748519849500707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @christosdotjpeg: graphic design is my coping mechanism https://t.co/VfE0O48SKe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964748505869656064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0QwWz1XIAAzuL3.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964748505836052480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0QwWztWYAA2olC.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964748505869606912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0QwWz1WYAATTtM.jpg",
+        "width": 1639
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964748505861308416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0QwWzzXwAAsbxZ.jpg",
+        "width": 1639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964748505869656064",
+            "3_1964748505836052480",
+            "3_1964748505869606912",
+            "3_1964748505861308416"
+          ],
+          "media_source_tweet_id": [
+            "1964748519849500707",
+            "1964748519849500707",
+            "1964748519849500707",
+            "1964748519849500707"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1965091185560895721",
+        "created_at": "2025-09-08T16:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T17:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965091185560895721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "764598419197493248",
+              "start": 3,
+              "username": "christosdotjpeg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VfE0O48SKe",
+              "end": 82,
+              "expanded_url": "https://x.com/christosdotjpeg/status/1964748519849500707/photo/1",
+              "media_key": "3_1964748505869656064",
+              "start": 59,
+              "url": "https://t.co/VfE0O48SKe"
+            },
+            {
+              "display_url": "pic.x.com/VfE0O48SKe",
+              "end": 82,
+              "expanded_url": "https://x.com/christosdotjpeg/status/1964748519849500707/photo/1",
+              "media_key": "3_1964748505836052480",
+              "start": 59,
+              "url": "https://t.co/VfE0O48SKe"
+            },
+            {
+              "display_url": "pic.x.com/VfE0O48SKe",
+              "end": 82,
+              "expanded_url": "https://x.com/christosdotjpeg/status/1964748519849500707/photo/1",
+              "media_key": "3_1964748505869606912",
+              "start": 59,
+              "url": "https://t.co/VfE0O48SKe"
+            },
+            {
+              "display_url": "pic.x.com/VfE0O48SKe",
+              "end": 82,
+              "expanded_url": "https://x.com/christosdotjpeg/status/1964748519849500707/photo/1",
+              "media_key": "3_1964748505861308416",
+              "start": 59,
+              "url": "https://t.co/VfE0O48SKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965091185560895721",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1635
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964748519849500707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @christosdotjpeg: graphic design is my coping mechanism https://t.co/VfE0O48SKe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964748505869656064",
+            "3_1964748505836052480",
+            "3_1964748505869606912",
+            "3_1964748505861308416"
+          ]
+        },
+        "author_id": "764598419197493248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1964748519849500707",
+        "created_at": "2025-09-07T17:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T18:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964748519849500707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VfE0O48SKe",
+              "end": 61,
+              "expanded_url": "https://x.com/christosdotjpeg/status/1964748519849500707/photo/1",
+              "media_key": "3_1964748505869656064",
+              "start": 38,
+              "url": "https://t.co/VfE0O48SKe"
+            },
+            {
+              "display_url": "pic.x.com/VfE0O48SKe",
+              "end": 61,
+              "expanded_url": "https://x.com/christosdotjpeg/status/1964748519849500707/photo/1",
+              "media_key": "3_1964748505836052480",
+              "start": 38,
+              "url": "https://t.co/VfE0O48SKe"
+            },
+            {
+              "display_url": "pic.x.com/VfE0O48SKe",
+              "end": 61,
+              "expanded_url": "https://x.com/christosdotjpeg/status/1964748519849500707/photo/1",
+              "media_key": "3_1964748505869606912",
+              "start": 38,
+              "url": "https://t.co/VfE0O48SKe"
+            },
+            {
+              "display_url": "pic.x.com/VfE0O48SKe",
+              "end": 61,
+              "expanded_url": "https://x.com/christosdotjpeg/status/1964748519849500707/photo/1",
+              "media_key": "3_1964748505861308416",
+              "start": 38,
+              "url": "https://t.co/VfE0O48SKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964748519849500707",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2167,
+          "impression_count": 174271,
+          "like_count": 13976,
+          "quote_count": 24,
+          "reply_count": 18,
+          "retweet_count": 1635
+        },
+        "reply_settings": "everyone",
+        "text": "graphic design is my coping mechanism https://t.co/VfE0O48SKe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福",
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 148,
+          "like_count": 92,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 644
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-13T23:04:03.000Z",
+        "description": "graphic des-eye-gner",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/christos.jpeg",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/christos.jpeg",
+                "start": 0,
+                "url": "https://t.co/RWKGbKI3qZ"
+              }
+            ]
+          }
+        },
+        "id": "764598419197493248",
+        "name": "christos",
+        "pinned_tweet_id": "1964748519849500707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915375127392301056/X-i1sPVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5235,
+          "following_count": 273,
+          "like_count": 10346,
+          "listed_count": 31,
+          "media_count": 643,
+          "tweet_count": 2483
+        },
+        "url": "https://t.co/RWKGbKI3qZ",
+        "username": "christosdotjpeg",
+        "verified": false
+      }
+    ]
+  }
+}

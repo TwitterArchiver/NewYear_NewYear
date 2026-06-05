@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915830794670772224"
+      ],
+      "media_source_tweet_id": [
+        "1915830803768217739"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1915831142974165011",
+    "created_at": "2025-04-25T18:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T19:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915831142974165011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1898774053378293760",
+          "start": 3,
+          "username": "ChushouGuandao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kVK6mbpFvs",
+          "end": 56,
+          "expanded_url": "https://x.com/ChushouGuandao/status/1915830803768217739/photo/1",
+          "media_key": "3_1915830794670772224",
+          "start": 33,
+          "url": "https://t.co/kVK6mbpFvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915831142974165011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915830803768217739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChushouGuandao: 我就是穿这个得糖尿病的😝 https://t.co/kVK6mbpFvs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1915830794670772224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpZl9Q4bEAArtyM.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915830794670772224"
+          ],
+          "media_source_tweet_id": [
+            "1915830803768217739"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1915831142974165011",
+        "created_at": "2025-04-25T18:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T19:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915831142974165011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1898774053378293760",
+              "start": 3,
+              "username": "ChushouGuandao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kVK6mbpFvs",
+              "end": 56,
+              "expanded_url": "https://x.com/ChushouGuandao/status/1915830803768217739/photo/1",
+              "media_key": "3_1915830794670772224",
+              "start": 33,
+              "url": "https://t.co/kVK6mbpFvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915831142974165011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915830803768217739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChushouGuandao: 我就是穿这个得糖尿病的😝 https://t.co/kVK6mbpFvs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915830794670772224"
+          ]
+        },
+        "author_id": "1898774053378293760",
+        "conversation_id": "1915830803768217739",
+        "created_at": "2025-04-25T18:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T19:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915830803768217739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kVK6mbpFvs",
+              "end": 36,
+              "expanded_url": "https://x.com/ChushouGuandao/status/1915830803768217739/photo/1",
+              "media_key": "3_1915830794670772224",
+              "start": 13,
+              "url": "https://t.co/kVK6mbpFvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915830803768217739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我就是穿这个得糖尿病的😝 https://t.co/kVK6mbpFvs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850587758617890816/1iNTpnM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 129,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 106
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T16:33:24.000Z",
+        "description": "喜欢水色系和蕾服，不接线下，只是发涩涩的图片或者日常\n🚪100过滤用",
+        "id": "1898774053378293760",
+        "location": "小于1km",
+        "name": "触手管道",
+        "pinned_tweet_id": "1915084984941264961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898774555130216449/--j2TlFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 65,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 101
+        },
+        "username": "ChushouGuandao",
+        "verified": false
+      }
+    ]
+  }
+}

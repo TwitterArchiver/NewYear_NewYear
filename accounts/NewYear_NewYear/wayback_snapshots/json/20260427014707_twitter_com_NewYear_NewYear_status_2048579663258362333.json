@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048578933743140864",
+        "3_2048578933726318592",
+        "3_2048578933743075328"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2048579663258362333",
+    "created_at": "2026-04-27T01:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T02:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048579663258362333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "littlehuang.icu",
+          "end": 89,
+          "expanded_url": "http://littlehuang.icu/",
+          "start": 66,
+          "status": 200,
+          "title": "小荒",
+          "unwound_url": "http://littlehuang.icu/",
+          "url": "https://t.co/iOZjMtU4ZA"
+        },
+        {
+          "display_url": "pic.x.com/7zdRSyTa1V",
+          "end": 137,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2048579663258362333/photo/1",
+          "media_key": "3_2048578933743140864",
+          "start": 114,
+          "url": "https://t.co/7zdRSyTa1V"
+        },
+        {
+          "display_url": "pic.x.com/7zdRSyTa1V",
+          "end": 137,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2048579663258362333/photo/1",
+          "media_key": "3_2048578933726318592",
+          "start": 114,
+          "url": "https://t.co/7zdRSyTa1V"
+        },
+        {
+          "display_url": "pic.x.com/7zdRSyTa1V",
+          "end": 137,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2048579663258362333/photo/1",
+          "media_key": "3_2048578933743075328",
+          "start": 114,
+          "url": "https://t.co/7zdRSyTa1V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048579663258362333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自介条\n我是小荒（荒眼见山河）\n无性别/低精力/烹饪/画画/文学/物理\n对我感兴趣想详细了解我可以访问我的个人网站里面的“荒”页面\nhttps://t.co/iOZjMtU4ZA\n（网站在手机端访问有一些问题，电脑上会好一些） https://t.co/7zdRSyTa1V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048578933743140864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4Dr7gbwAAeVRr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2048578933726318592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4Dr7cbEAAUrkF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2048578933743075328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4Dr7gawAADU_r.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048578933743140864",
+            "3_2048578933726318592",
+            "3_2048578933743075328"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2048579663258362333",
+        "created_at": "2026-04-27T01:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048579663258362333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "littlehuang.icu",
+              "end": 89,
+              "expanded_url": "http://littlehuang.icu/",
+              "start": 66,
+              "status": 200,
+              "title": "小荒",
+              "unwound_url": "http://littlehuang.icu/",
+              "url": "https://t.co/iOZjMtU4ZA"
+            },
+            {
+              "display_url": "pic.x.com/7zdRSyTa1V",
+              "end": 137,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2048579663258362333/photo/1",
+              "media_key": "3_2048578933743140864",
+              "start": 114,
+              "url": "https://t.co/7zdRSyTa1V"
+            },
+            {
+              "display_url": "pic.x.com/7zdRSyTa1V",
+              "end": 137,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2048579663258362333/photo/1",
+              "media_key": "3_2048578933726318592",
+              "start": 114,
+              "url": "https://t.co/7zdRSyTa1V"
+            },
+            {
+              "display_url": "pic.x.com/7zdRSyTa1V",
+              "end": 137,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2048579663258362333/photo/1",
+              "media_key": "3_2048578933743075328",
+              "start": 114,
+              "url": "https://t.co/7zdRSyTa1V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048579663258362333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自介条\n我是小荒（荒眼见山河）\n无性别/低精力/烹饪/画画/文学/物理\n对我感兴趣想详细了解我可以访问我的个人网站里面的“荒”页面\nhttps://t.co/iOZjMtU4ZA\n（网站在手机端访问有一些问题，电脑上会好一些） https://t.co/7zdRSyTa1V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2046548745811382505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 223,
+          "like_count": 3417,
+          "listed_count": 1,
+          "media_count": 681,
+          "tweet_count": 3201
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

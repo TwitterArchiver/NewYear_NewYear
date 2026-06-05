@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2051666880822390982",
+    "created_at": "2026-05-05T14:33:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:33:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051671679081001081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667779272478687232",
+          "start": 0,
+          "username": "MilkyWayDet_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051671679081001081",
+    "in_reply_to_user_id": "1667779272478687232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051671041236488594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MilkyWayDet_ *嚼嚼嚼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2051666880822390982",
+        "created_at": "2026-05-05T14:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051671679081001081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667779272478687232",
+              "start": 0,
+              "username": "MilkyWayDet_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051671679081001081",
+        "in_reply_to_user_id": "1667779272478687232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051671041236488594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkyWayDet_ *嚼嚼嚼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667779272478687232",
+        "conversation_id": "2051666880822390982",
+        "created_at": "2026-05-05T14:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051671041236488594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051671041236488594",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051670483150807189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 🤲🏻🥢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 266,
+          "like_count": 4016,
+          "listed_count": 1,
+          "media_count": 716,
+          "tweet_count": 3570
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T06:22:28.000Z",
+        "description": "我最近的梦想是成为史努比\n\n我的猫@mimi240628\n微波炉冥想学派创始人@MicrowaveMed",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "mimi240628"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "MicrowaveMed"
+              }
+            ]
+          }
+        },
+        "id": "1667779272478687232",
+        "location": "宇宙盡頭的餐廳",
+        "name": "銀河系超級偵探",
+        "pinned_tweet_id": "1959831951134839010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685264169569042433/mihVUuV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 169,
+          "like_count": 19097,
+          "listed_count": 20,
+          "media_count": 1257,
+          "tweet_count": 3533
+        },
+        "username": "MilkyWayDet_",
+        "verified": false
+      }
+    ]
+  }
+}

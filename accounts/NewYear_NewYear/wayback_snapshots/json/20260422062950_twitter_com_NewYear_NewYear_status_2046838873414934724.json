@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2046769192125481090",
+    "created_at": "2026-04-22T06:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T07:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046838873414934724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821312171923644416",
+          "start": 0,
+          "username": "jagaimo6681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046838873414934724",
+    "in_reply_to_user_id": "1821312171923644416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046769192125481090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@jagaimo6681 哦不🥺🥺🥺补药讨厌我🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2046769192125481090",
+        "created_at": "2026-04-22T06:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046838873414934724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821312171923644416",
+              "start": 0,
+              "username": "jagaimo6681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046838873414934724",
+        "in_reply_to_user_id": "1821312171923644416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046769192125481090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@jagaimo6681 哦不🥺🥺🥺补药讨厌我🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821312171923644416",
+        "conversation_id": "2046769192125481090",
+        "created_at": "2026-04-22T01:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046769192125481090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046769192125481090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2770,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "other",
+        "text": "我太特么烦学理工科的男的了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2046548745811382505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 219,
+          "like_count": 3157,
+          "listed_count": 1,
+          "media_count": 660,
+          "tweet_count": 3043
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T22:27:26.000Z",
+        "description": "@kaerigumo1585 友情か恋かなんてどうでもよくて、君がいちばん好きだよ！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "kaerigumo1585"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "picawang.com",
+                "end": 23,
+                "expanded_url": "https://picawang.com/",
+                "start": 0,
+                "url": "https://t.co/F3AUMZjoSQ"
+              }
+            ]
+          }
+        },
+        "id": "1821312171923644416",
+        "name": "にゃがいも",
+        "pinned_tweet_id": "2045460083157667945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046594640330235904/WVW60uKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2336,
+          "following_count": 665,
+          "like_count": 43778,
+          "listed_count": 7,
+          "media_count": 751,
+          "tweet_count": 12898
+        },
+        "url": "https://t.co/F3AUMZjoSQ",
+        "username": "jagaimo6681",
+        "verified": true
+      }
+    ]
+  }
+}

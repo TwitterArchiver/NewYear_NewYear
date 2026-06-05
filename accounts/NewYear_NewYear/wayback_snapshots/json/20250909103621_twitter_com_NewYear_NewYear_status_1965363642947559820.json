@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1965363642947559820",
+    "created_at": "2025-09-09T10:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T11:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965363642947559820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/1965363280568082834",
+          "start": 47,
+          "url": "https://t.co/lucMh5bgYp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965363642947559820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965363280568082834",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我很好说话的，只要不和我建政，我可以和你讨论任何东西，不懂得我也会去了解\n我只想有人陪我说话 https://t.co/lucMh5bgYp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1965363642947559820",
+        "created_at": "2025-09-09T10:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T11:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965363642947559820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/1965363280568082834",
+              "start": 47,
+              "url": "https://t.co/lucMh5bgYp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965363642947559820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965363280568082834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很好说话的，只要不和我建政，我可以和你讨论任何东西，不懂得我也会去了解\n我只想有人陪我说话 https://t.co/lucMh5bgYp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1965363280568082834",
+        "created_at": "2025-09-09T10:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T11:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965363280568082834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965363280568082834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人想和我交朋友🥺🥺🥺\n我没有人可以说话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 148,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 670
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

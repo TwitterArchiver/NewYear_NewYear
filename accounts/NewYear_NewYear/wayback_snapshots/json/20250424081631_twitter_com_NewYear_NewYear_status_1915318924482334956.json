@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1915318924482334956",
+    "created_at": "2025-04-24T08:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T09:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915318924482334956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ChushouGuandao…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/ChushouGuandao/status/1915318242727600569",
+          "start": 87,
+          "url": "https://t.co/RKNhtGJZnM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915318924482334956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915318242727600569",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的会这样想，心情不好就很想作践自己……\n但是理智尚存的时候，两种感觉一直就那样拉扯着我\n为什么不能完全失去理智或者完全发疯🥺🥺🥺\n最痛苦的地方就是在天堂与地狱中间的人间 https://t.co/RKNhtGJZnM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1915318924482334956",
+        "created_at": "2025-04-24T08:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T09:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915318924482334956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChushouGuandao…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/ChushouGuandao/status/1915318242727600569",
+              "start": 87,
+              "url": "https://t.co/RKNhtGJZnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915318924482334956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915318242727600569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的会这样想，心情不好就很想作践自己……\n但是理智尚存的时候，两种感觉一直就那样拉扯着我\n为什么不能完全失去理智或者完全发疯🥺🥺🥺\n最痛苦的地方就是在天堂与地狱中间的人间 https://t.co/RKNhtGJZnM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898774053378293760",
+        "conversation_id": "1915318242727600569",
+        "created_at": "2025-04-24T08:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T09:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915318242727600569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915318242727600569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的时候真想大做特做 什么都做 做到得艾滋什么的我就跳楼死掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850587758617890816/1iNTpnM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 129,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 100
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T16:33:24.000Z",
+        "description": "喜欢水色系和蕾服，不接线下，只是发涩涩的图片或者日常\n🚪100过滤用",
+        "id": "1898774053378293760",
+        "location": "小于1km",
+        "name": "触手管道",
+        "pinned_tweet_id": "1915084984941264961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898774555130216449/--j2TlFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 65,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 99
+        },
+        "username": "ChushouGuandao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1995947725980909569"
+      ],
+      "media_source_tweet_id": [
+        "1995947798387392993"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1996044824483692988",
+    "created_at": "2025-12-03T02:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T03:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996044824483692988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1713564760975822848",
+          "start": 3,
+          "username": "offsrambledegg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NJ78Yd9vIb",
+          "end": 55,
+          "expanded_url": "https://x.com/offsrambledegg/status/1995947798387392993/video/1",
+          "media_key": "13_1995947725980909569",
+          "start": 32,
+          "url": "https://t.co/NJ78Yd9vIb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996044824483692988",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3625
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995947798387392993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @offsrambledegg: Recent work https://t.co/NJ78Yd9vIb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11500,
+        "height": 1080,
+        "media_key": "13_1995947725980909569",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1995947725980909569/img/mg875NOwIfMZZwPi.jpg",
+        "public_metrics": {
+          "view_count": 135845
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995947725980909569/vid/avc1/1920x1080/LMKKqAMyIHS1mW7o.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995947725980909569/vid/avc1/480x270/OgWD-pi3V5fxCqOZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995947725980909569/vid/avc1/1280x720/jt0pRY0MxE4mUMuw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995947725980909569/vid/avc1/640x360/VT_JUPZk96ZJiC_i.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1995947725980909569/pl/YMK3CR6Xm42Uu-CR.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995947725980909569"
+          ],
+          "media_source_tweet_id": [
+            "1995947798387392993"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996044824483692988",
+        "created_at": "2025-12-03T02:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T03:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996044824483692988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1713564760975822848",
+              "start": 3,
+              "username": "offsrambledegg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NJ78Yd9vIb",
+              "end": 55,
+              "expanded_url": "https://x.com/offsrambledegg/status/1995947798387392993/video/1",
+              "media_key": "13_1995947725980909569",
+              "start": 32,
+              "url": "https://t.co/NJ78Yd9vIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996044824483692988",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3625
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995947798387392993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @offsrambledegg: Recent work https://t.co/NJ78Yd9vIb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995947725980909569"
+          ]
+        },
+        "author_id": "1713564760975822848",
+        "conversation_id": "1995947798387392993",
+        "created_at": "2025-12-02T20:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T21:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995947798387392993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NJ78Yd9vIb",
+              "end": 35,
+              "expanded_url": "https://x.com/offsrambledegg/status/1995947798387392993/video/1",
+              "media_key": "13_1995947725980909569",
+              "start": 12,
+              "url": "https://t.co/NJ78Yd9vIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995947798387392993",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3363,
+          "impression_count": 271404,
+          "like_count": 37569,
+          "quote_count": 44,
+          "reply_count": 77,
+          "retweet_count": 3625
+        },
+        "reply_settings": "everyone",
+        "text": "Recent work https://t.co/NJ78Yd9vIb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 166,
+          "like_count": 1059,
+          "listed_count": 1,
+          "media_count": 389,
+          "tweet_count": 1675
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T14:37:41.000Z",
+        "description": "UNDERDOG music video is out on YouTube 😼✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/UfTpKaKXbG4?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/UfTpKaKXbG4?si=h32Z1H4r3ZUXqeYY",
+                "start": 0,
+                "url": "https://t.co/9hvXuSVFI1"
+              }
+            ]
+          }
+        },
+        "id": "1713564760975822848",
+        "name": "OFF SCRIPT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981368685487906816/aCloafms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173528,
+          "following_count": 161,
+          "like_count": 541,
+          "listed_count": 224,
+          "media_count": 32,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/9hvXuSVFI1",
+        "username": "offsrambledegg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034664317992538112",
+        "3_2034664357213413376"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2034664368563224728",
+    "created_at": "2026-03-19T16:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T17:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034664368563224728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U2VL47UwLB",
+          "end": 85,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2034664368563224728/photo/1",
+          "media_key": "3_2034664317992538112",
+          "start": 62,
+          "url": "https://t.co/U2VL47UwLB"
+        },
+        {
+          "display_url": "pic.x.com/U2VL47UwLB",
+          "end": 85,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2034664368563224728/photo/1",
+          "media_key": "3_2034664357213413376",
+          "start": 62,
+          "url": "https://t.co/U2VL47UwLB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034664368563224728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "偷外卖的人偷了三样东西\n一个是买外卖的人的钱\n一个是买外卖的人等待这么久花费的时间\n还有一个是这份外卖被购买者所赋予的意义 https://t.co/U2VL47UwLB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 995,
+        "media_key": "3_2034664317992538112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyUascbkAAgiK1.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034664357213413376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyUc-jaoAAaCnX.jpg",
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034664317992538112",
+            "3_2034664357213413376"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2034664368563224728",
+        "created_at": "2026-03-19T16:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034664368563224728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2VL47UwLB",
+              "end": 85,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2034664368563224728/photo/1",
+              "media_key": "3_2034664317992538112",
+              "start": 62,
+              "url": "https://t.co/U2VL47UwLB"
+            },
+            {
+              "display_url": "pic.x.com/U2VL47UwLB",
+              "end": 85,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2034664368563224728/photo/1",
+              "media_key": "3_2034664357213413376",
+              "start": 62,
+              "url": "https://t.co/U2VL47UwLB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034664368563224728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偷外卖的人偷了三样东西\n一个是买外卖的人的钱\n一个是买外卖的人等待这么久花费的时间\n还有一个是这份外卖被购买者所赋予的意义 https://t.co/U2VL47UwLB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 187,
+          "like_count": 1915,
+          "listed_count": 1,
+          "media_count": 534,
+          "tweet_count": 2297
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047377747798867968"
+      ],
+      "media_source_tweet_id": [
+        "2047377838387397041"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2047612376225361981",
+    "created_at": "2026-04-24T09:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047612376225361981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883936277919125504",
+          "start": 3,
+          "username": "i78i9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V9skQqXdOQ",
+          "end": 34,
+          "expanded_url": "https://x.com/i78i9/status/2047377838387397041/video/1",
+          "media_key": "13_2047377747798867968",
+          "start": 11,
+          "url": "https://t.co/V9skQqXdOQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047612376225361981",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9318
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047377838387397041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i78i9: https://t.co/V9skQqXdOQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11166,
+        "height": 720,
+        "media_key": "13_2047377747798867968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047377747798867968/img/LBUBshGpTgC6YJEO.jpg",
+        "public_metrics": {
+          "view_count": 405008
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047377747798867968/vid/avc1/360x270/C3IPaaHISdF8jv8R.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047377747798867968/vid/avc1/480x360/E6de-3vVEVM3ceIz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047377747798867968/vid/avc1/960x720/9Ezy-5zUSpmqo6yG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047377747798867968/pl/X8xMpCMMJ9G_7iIc.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047377747798867968"
+          ],
+          "media_source_tweet_id": [
+            "2047377838387397041"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047612376225361981",
+        "created_at": "2026-04-24T09:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047612376225361981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883936277919125504",
+              "start": 3,
+              "username": "i78i9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V9skQqXdOQ",
+              "end": 34,
+              "expanded_url": "https://x.com/i78i9/status/2047377838387397041/video/1",
+              "media_key": "13_2047377747798867968",
+              "start": 11,
+              "url": "https://t.co/V9skQqXdOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047612376225361981",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9318
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047377838387397041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i78i9: https://t.co/V9skQqXdOQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047377747798867968"
+          ]
+        },
+        "author_id": "1883936277919125504",
+        "conversation_id": "2047377838387397041",
+        "created_at": "2026-04-23T18:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047377838387397041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V9skQqXdOQ",
+              "end": 23,
+              "expanded_url": "https://x.com/i78i9/status/2047377838387397041/video/1",
+              "media_key": "13_2047377747798867968",
+              "start": 0,
+              "url": "https://t.co/V9skQqXdOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047377838387397041",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8212,
+          "impression_count": 1076656,
+          "like_count": 51401,
+          "quote_count": 710,
+          "reply_count": 102,
+          "retweet_count": 9318
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/V9skQqXdOQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2046548745811382505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 222,
+          "like_count": 3288,
+          "listed_count": 1,
+          "media_count": 672,
+          "tweet_count": 3141
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T17:53:13.000Z",
+        "description": "في سبيل الاوفرشيرينقيات",
+        "id": "1883936277919125504",
+        "name": "i",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037291701157728256/ce0pp7rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3829,
+          "following_count": 173,
+          "like_count": 14440,
+          "listed_count": 0,
+          "media_count": 464,
+          "tweet_count": 3716
+        },
+        "username": "i78i9",
+        "verified": false
+      }
+    ]
+  }
+}

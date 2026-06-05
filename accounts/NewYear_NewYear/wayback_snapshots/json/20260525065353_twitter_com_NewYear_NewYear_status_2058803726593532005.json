@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2058766997111107862",
+    "created_at": "2026-05-25T06:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T07:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058803726593532005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1471664699951382529",
+          "start": 0,
+          "username": "xianchen0411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058803726593532005",
+    "in_reply_to_user_id": "1471664699951382529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058797388828197195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xianchen0411 好咪🥰🥰🥰\n我打算有时间去浏览一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2058766997111107862",
+        "created_at": "2026-05-25T06:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058803726593532005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1471664699951382529",
+              "start": 0,
+              "username": "xianchen0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058803726593532005",
+        "in_reply_to_user_id": "1471664699951382529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058797388828197195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xianchen0411 好咪🥰🥰🥰\n我打算有时间去浏览一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471664699951382529",
+        "conversation_id": "2058766997111107862",
+        "created_at": "2026-05-25T06:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058797388828197195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058797388828197195",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058766997111107862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 去那种小区门口逛逛，看看有没有公告板那种，打电话问一下，这种一般直租比较多，不要去城中村那种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 391,
+          "like_count": 7109,
+          "listed_count": 1,
+          "media_count": 800,
+          "tweet_count": 4687
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-17T02:13:13.000Z",
+        "description": "数据工程师\nhttps://t.co/7G8sdwpLUP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xianchen0411",
+                "end": 29,
+                "expanded_url": "http://ngl.link/xianchen0411",
+                "start": 6,
+                "url": "https://t.co/7G8sdwpLUP"
+              }
+            ]
+          }
+        },
+        "id": "1471664699951382529",
+        "location": "距离你1.1km",
+        "name": "白也",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922889318202281985/-8MvEx7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 59,
+          "like_count": 16,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 177
+        },
+        "username": "xianchen0411",
+        "verified": false
+      }
+    ]
+  }
+}

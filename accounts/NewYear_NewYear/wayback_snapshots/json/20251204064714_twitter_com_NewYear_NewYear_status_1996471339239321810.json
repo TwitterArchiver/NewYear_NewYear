@@ -1,0 +1,600 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1996238360625762305"
+      ],
+      "media_source_tweet_id": [
+        "1996238418989457878"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1308899335468244992",
+          "name": "Hamsters"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+          "id": "166",
+          "name": "Stocks"
+        },
+        "entity": {
+          "id": "1308899335468244992",
+          "name": "Hamsters"
+        }
+      }
+    ],
+    "conversation_id": "1996471339239321810",
+    "created_at": "2025-12-04T06:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T07:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996471339239321810"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 29,
+          "tag": "キャンベルハムスター"
+        },
+        {
+          "end": 47,
+          "start": 41,
+          "tag": "ハムスター"
+        },
+        {
+          "end": 54,
+          "start": 48,
+          "tag": "ののちゃん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1538750838445047808",
+          "start": 3,
+          "username": "hamuhamu202205"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1W93L31UKk",
+          "end": 78,
+          "expanded_url": "https://x.com/hamuhamu202205/status/1996238418989457878/video/1",
+          "media_key": "13_1996238360625762305",
+          "start": 55,
+          "url": "https://t.co/1W93L31UKk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996471339239321810",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996238418989457878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hamuhamu202205: 頭洗うの上手だ👏\n#キャンベルハムスター　#ハムスター　#ののちゃん https://t.co/1W93L31UKk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4530,
+        "height": 1080,
+        "media_key": "13_1996238360625762305",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996238360625762305/img/rZdbNFAU9L0szfJQ.jpg",
+        "public_metrics": {
+          "view_count": 5617
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996238360625762305/vid/avc1/640x360/pw4M6iuS11He54ty.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996238360625762305/vid/avc1/480x270/jWbvrheIXPSnjP-8.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996238360625762305/vid/avc1/1920x1080/GyzsvKhSc1OF52Pl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996238360625762305/vid/avc1/1280x720/alA9IsuLBkv7t6dH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996238360625762305/pl/bod9UB0YXdPbKA0E.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996238360625762305"
+          ],
+          "media_source_tweet_id": [
+            "1996238418989457878"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308899335468244992",
+              "name": "Hamsters"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1308899335468244992",
+              "name": "Hamsters"
+            }
+          }
+        ],
+        "conversation_id": "1996471339239321810",
+        "created_at": "2025-12-04T06:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T07:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996471339239321810"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 29,
+              "tag": "キャンベルハムスター"
+            },
+            {
+              "end": 47,
+              "start": 41,
+              "tag": "ハムスター"
+            },
+            {
+              "end": 54,
+              "start": 48,
+              "tag": "ののちゃん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1538750838445047808",
+              "start": 3,
+              "username": "hamuhamu202205"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1W93L31UKk",
+              "end": 78,
+              "expanded_url": "https://x.com/hamuhamu202205/status/1996238418989457878/video/1",
+              "media_key": "13_1996238360625762305",
+              "start": 55,
+              "url": "https://t.co/1W93L31UKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996471339239321810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996238418989457878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hamuhamu202205: 頭洗うの上手だ👏\n#キャンベルハムスター　#ハムスター　#ののちゃん https://t.co/1W93L31UKk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996238360625762305"
+          ]
+        },
+        "author_id": "1538750838445047808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308899335468244992",
+              "name": "Hamsters"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1308899335468244992",
+              "name": "Hamsters"
+            }
+          }
+        ],
+        "conversation_id": "1996238418989457878",
+        "created_at": "2025-12-03T15:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T16:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996238418989457878"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 9,
+              "tag": "キャンベルハムスター"
+            },
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "ハムスター"
+            },
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "ののちゃん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1W93L31UKk",
+              "end": 58,
+              "expanded_url": "https://x.com/hamuhamu202205/status/1996238418989457878/video/1",
+              "media_key": "13_1996238360625762305",
+              "start": 35,
+              "url": "https://t.co/1W93L31UKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996238418989457878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 18071,
+          "like_count": 1064,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "頭洗うの上手だ👏\n#キャンベルハムスター　#ハムスター　#ののちゃん https://t.co/1W93L31UKk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 167,
+          "like_count": 1079,
+          "listed_count": 1,
+          "media_count": 390,
+          "tweet_count": 1689
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-20T05:09:35.000Z",
+        "description": "🐹ジャンガリーズ→うり🌈/ちゃい🌈/きい🌈/ちの🌈/みるく🌈/りり🌈/ひな/める/ふあ/うい/ちう/うる/ぽぽ/なの/きき 🐹ロボローズ→るな/るか/ひま/りま 🐹キャンベリーズ→のあ/もか/ぱん/のこ/のの/るの 🐹チャイニイズ→ちも #ハムスター ※無断転載禁止です",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 119,
+                "tag": "ハムスター"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/uri202205",
+                "end": 23,
+                "expanded_url": "https://lit.link/uri202205",
+                "start": 0,
+                "url": "https://t.co/vTL2tjTJxQ"
+              }
+            ]
+          }
+        },
+        "id": "1538750838445047808",
+        "location": "ジャンロボキャン村",
+        "name": "ジャンガリーズハムスター",
+        "pinned_tweet_id": "1919333946552184959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956269538267557888/JTG_Vrx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9727,
+          "following_count": 1223,
+          "like_count": 54184,
+          "listed_count": 122,
+          "media_count": 16123,
+          "tweet_count": 26878
+        },
+        "url": "https://t.co/vTL2tjTJxQ",
+        "username": "hamuhamu202205",
+        "verified": true
+      }
+    ]
+  }
+}

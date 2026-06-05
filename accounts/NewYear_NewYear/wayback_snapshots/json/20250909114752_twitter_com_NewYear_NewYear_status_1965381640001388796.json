@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1965378362211532964",
+    "created_at": "2025-09-09T11:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T12:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965381640001388796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820412962479407104",
+          "start": 0,
+          "username": "Enaaaaa0122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965381640001388796",
+    "in_reply_to_user_id": "1820412962479407104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965378362211532964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enaaaaa0122 萌🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965378347531468804",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ZtMa3bgAQX0R0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1965378362211532964",
+        "created_at": "2025-09-09T11:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T12:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965381640001388796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820412962479407104",
+              "start": 0,
+              "username": "Enaaaaa0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965381640001388796",
+        "in_reply_to_user_id": "1820412962479407104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965378362211532964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enaaaaa0122 萌🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965378347531468804"
+          ]
+        },
+        "author_id": "1820412962479407104",
+        "conversation_id": "1965378362211532964",
+        "created_at": "2025-09-09T11:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T12:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965378362211532964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/95uPBD7FOh",
+              "end": 27,
+              "expanded_url": "https://x.com/Enaaaaa0122/status/1965378362211532964/photo/1",
+              "media_key": "3_1965378347531468804",
+              "start": 4,
+              "url": "https://t.co/95uPBD7FOh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965378362211532964",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "jk。 https://t.co/95uPBD7FOh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 148,
+          "like_count": 110,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 678
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T10:54:15.000Z",
+        "description": "猫。 ❤️@nimaemegu1019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "nimaemegu1019"
+              }
+            ]
+          }
+        },
+        "id": "1820412962479407104",
+        "location": "下水道",
+        "name": "Enaaaaa_",
+        "pinned_tweet_id": "1900187879902765070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949004781424676864/iwbF4N7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 83,
+          "like_count": 2313,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 438
+        },
+        "username": "Enaaaaa0122",
+        "verified": false
+      }
+    ]
+  }
+}

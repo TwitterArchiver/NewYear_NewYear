@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948440092433154051"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1948440097738944621",
+    "created_at": "2025-07-24T17:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T18:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948440097738944621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yy1cLTy9Bz",
+          "end": 39,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1948440097738944621/photo/1",
+          "media_key": "3_1948440092433154051",
+          "start": 16,
+          "url": "https://t.co/Yy1cLTy9Bz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948440097738944621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊……我们这对小情侣真的很抽象 https://t.co/Yy1cLTy9Bz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948440092433154051",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwo_8NebgAMP7TQ.jpg",
+        "width": 317
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948440092433154051"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1948440097738944621",
+        "created_at": "2025-07-24T17:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T18:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948440097738944621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yy1cLTy9Bz",
+              "end": 39,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1948440097738944621/photo/1",
+              "media_key": "3_1948440092433154051",
+              "start": 16,
+              "url": "https://t.co/Yy1cLTy9Bz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948440097738944621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊……我们这对小情侣真的很抽象 https://t.co/Yy1cLTy9Bz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 142,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 424
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

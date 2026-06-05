@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2060884794863739283",
+    "created_at": "2026-05-31T00:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T01:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060885870694346875"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060885870694346875",
+    "in_reply_to_user_id": "1850587533924876288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060884794863739283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "各种理科竞赛我都参加过\n化学竞赛还拿了市第三还是第四\n本来要去参加省赛的，我们市组织了一个集中学习暑假班，不去就不让参加省赛\n我想着我去省赛也不能晋级国赛就没去暑假班，暑假班七天还是十天，早八到晚九真受不了，鬼才去😠😠😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2060884794863739283",
+        "created_at": "2026-05-31T00:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T01:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060885870694346875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060885870694346875",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060884794863739283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各种理科竞赛我都参加过\n化学竞赛还拿了市第三还是第四\n本来要去参加省赛的，我们市组织了一个集中学习暑假班，不去就不让参加省赛\n我想着我去省赛也不能晋级国赛就没去暑假班，暑假班七天还是十天，早八到晚九真受不了，鬼才去😠😠😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2060884794863739283",
+        "created_at": "2026-05-31T00:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T01:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060884794863739283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060884794863739283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我感觉我其实还是很有天赋的\n我高一的时候只学了高一上学期和一半的下学期内容，就去参加高中生数学竞赛\n然后拿了市前二十吧，于是进入省赛\n省赛也拿了三等奖，差几分二等奖\n\n回想起来真的觉得那个时候自己真厉害啊，高一的和那帮高二的专门学过竞赛内容的人去竞争还能拿到一个不错的成绩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 442,
+          "like_count": 8822,
+          "listed_count": 1,
+          "media_count": 864,
+          "tweet_count": 5502
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1966896477017719194",
+    "created_at": "2025-09-13T16:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T17:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966898968429994064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1806538395612819457",
+          "start": 0,
+          "username": "TPNHET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966898968429994064",
+    "in_reply_to_user_id": "1806538395612819457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966898409581015308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TPNHET 太过分了TAT\n完全就是不在意别人费心费力的关心……\n太过分了（＞д＜）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1966896477017719194",
+        "created_at": "2025-09-13T16:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T17:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966898968429994064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1806538395612819457",
+              "start": 0,
+              "username": "TPNHET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966898968429994064",
+        "in_reply_to_user_id": "1806538395612819457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966898409581015308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TPNHET 太过分了TAT\n完全就是不在意别人费心费力的关心……\n太过分了（＞д＜）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806538395612819457",
+        "conversation_id": "1966896477017719194",
+        "created_at": "2025-09-13T16:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T17:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966898409581015308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966898409581015308",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966898015572316614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 是的…說自己遭受別人的冷淡對待把我當槍使最後又去找對方和好了…完全在把關心她的人當安全套吧！？！非常過分˃̣̣̥᷄⌓˂̣̣̥᷅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号",
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 150,
+          "like_count": 173,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 849
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T04:02:11.000Z",
+        "description": "請叫我小順⸝⸝⸝˘◡˘♡",
+        "id": "1806538395612819457",
+        "name": "小順",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964354362655809536/Hog-wcrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 19,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 77
+        },
+        "username": "TPNHET",
+        "verified": false
+      }
+    ]
+  }
+}

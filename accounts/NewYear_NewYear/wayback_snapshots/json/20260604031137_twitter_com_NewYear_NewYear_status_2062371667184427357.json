@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2062366562007629865",
+    "created_at": "2026-06-04T03:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062371667184427357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1713713115270139904",
+          "start": 0,
+          "username": "shirochankawa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062371667184427357",
+    "in_reply_to_user_id": "1713713115270139904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062366562007629865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirochankawa1 所以杀人比背单词有性价比"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2062366562007629865",
+        "created_at": "2026-06-04T03:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062371667184427357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062371667184427357",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062366562007629865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 所以杀人比背单词有性价比"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2062366562007629865",
+        "created_at": "2026-06-04T02:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062366562007629865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062366562007629865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你一天背10个单词，隔一天你可能会忘掉5个，但如果你一天杀10个人，你就真的杀了10个人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 448,
+          "like_count": 10048,
+          "listed_count": 1,
+          "media_count": 908,
+          "tweet_count": 5910
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2585,
+          "following_count": 2131,
+          "like_count": 70535,
+          "listed_count": 8,
+          "media_count": 1749,
+          "tweet_count": 11784
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

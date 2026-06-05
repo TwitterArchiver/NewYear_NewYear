@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2059283258203152429",
+    "created_at": "2026-05-27T17:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059693207118811289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1329352754922450952",
+          "start": 0,
+          "username": "JeremyMastroja1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059693207118811289",
+    "in_reply_to_user_id": "1329352754922450952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059283258203152429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JeremyMastroja1 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2059283144961036288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQLHBtaEAAKVN2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2059283258203152429",
+        "created_at": "2026-05-27T17:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059693207118811289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1329352754922450952",
+              "start": 0,
+              "username": "JeremyMastroja1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059693207118811289",
+        "in_reply_to_user_id": "1329352754922450952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059283258203152429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JeremyMastroja1 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059283144961036288"
+          ]
+        },
+        "author_id": "1329352754922450952",
+        "conversation_id": "2059283258203152429",
+        "created_at": "2026-05-26T14:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059283258203152429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LzHvml88I7",
+              "end": 36,
+              "expanded_url": "https://x.com/JeremyMastroja1/status/2059283258203152429/photo/1",
+              "media_key": "3_2059283144961036288",
+              "start": 13,
+              "url": "https://t.co/LzHvml88I7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059283258203152429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘻嘻泥萌都来夸我的小帽萌 https://t.co/LzHvml88I7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 433,
+          "like_count": 8102,
+          "listed_count": 1,
+          "media_count": 840,
+          "tweet_count": 5153
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-19T09:16:37.000Z",
+        "description": "重焦中抑 | 自伤od | 日高生 |",
+        "id": "1329352754922450952",
+        "name": "ハル",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751092675891200/CPLGw6G2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 17,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 41
+        },
+        "username": "JeremyMastroja1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1965327130084204836",
+    "created_at": "2025-09-10T00:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T01:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965574393335288127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937334914808184834",
+          "start": 0,
+          "username": "VitaminC0327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965574393335288127",
+    "in_reply_to_user_id": "1937334914808184834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965574281695560000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VitaminC0327 🥰🥰🥰很好用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1965327130084204836",
+        "created_at": "2025-09-10T00:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T01:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965574393335288127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937334914808184834",
+              "start": 0,
+              "username": "VitaminC0327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965574393335288127",
+        "in_reply_to_user_id": "1937334914808184834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965574281695560000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VitaminC0327 🥰🥰🥰很好用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937334914808184834",
+        "conversation_id": "1965327130084204836",
+        "created_at": "2025-09-10T00:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T01:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965574281695560000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965574281695560000",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965432455546163394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 哇！一模一样！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 150,
+          "like_count": 119,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 714
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T02:20:19.000Z",
+        "description": "碎碎念｜分享日常｜喜欢和礼貌的宝宝一起玩耍｜我眼熟的互关可来找我加v｜若要互关请私信我——！｜正常私信和账号我看到都会尽量回的🥹｜自认为是高p｜我帖子会很多 甚至刷屏 介意勿关注可屏蔽｜只过眼熟经常互动的互关@JellyVitaminC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "JellyVitaminC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vitaminc0327",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vitaminc0327",
+                "start": 0,
+                "url": "https://t.co/AFsuEF1NBQ"
+              }
+            ]
+          }
+        },
+        "id": "1937334914808184834",
+        "location": "^ ^等你读懂我的隐喻 等我们的心脏共鸣^ ^",
+        "name": "VitaminC",
+        "pinned_tweet_id": "1938976614056169561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961282585948262400/RRe1el0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3915,
+          "following_count": 309,
+          "like_count": 4590,
+          "listed_count": 8,
+          "media_count": 431,
+          "tweet_count": 6537
+        },
+        "url": "https://t.co/AFsuEF1NBQ",
+        "username": "VitaminC0327",
+        "verified": false
+      }
+    ]
+  }
+}

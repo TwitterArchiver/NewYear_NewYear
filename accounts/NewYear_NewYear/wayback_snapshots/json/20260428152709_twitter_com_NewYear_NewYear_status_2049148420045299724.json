@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2049130223929594047",
+    "created_at": "2026-04-28T15:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049148420045299724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870313420807163904",
+          "start": 0,
+          "username": "IzayoiMarin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049148420045299724",
+    "in_reply_to_user_id": "1870313420807163904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049130223929594047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzayoiMarin 那说明他们买东西给你是有目的性的，不是单纯的想给你🥺🥺🥺\n所以如果没有达成目的，他们就会觉得这一次的“投资”亏本了，就会恼怒\n感觉是这样w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049130220490461185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_5FCraEAErkUb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2049130223929594047",
+        "created_at": "2026-04-28T15:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049148420045299724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049148420045299724",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049130223929594047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin 那说明他们买东西给你是有目的性的，不是单纯的想给你🥺🥺🥺\n所以如果没有达成目的，他们就会觉得这一次的“投资”亏本了，就会恼怒\n感觉是这样w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049130220490461185"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "2049130223929594047",
+        "created_at": "2026-04-28T14:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049130223929594047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8TgmkkVCvp",
+              "end": 93,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2049130223929594047/photo/1",
+              "media_key": "3_2049130220490461185",
+              "start": 70,
+              "url": "https://t.co/8TgmkkVCvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049130223929594047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他娘的\n刚回家看见桌上放了个新本\n我妹说我妈知道我喜欢乌萨奇特意给我买的\n我第一想法不是开心\n而是感觉考完之后考砸了要被道德绑架了\n没招了 https://t.co/8TgmkkVCvp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 1,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 686,
+          "tweet_count": 3238
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "hoshino marin | 白夜行（びゃくやこう）|   09高二🇨🇳   |   梗图源网络，如有侵权可删   |  永遠のlove💍： @Yogiuras  ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "Yogiuras"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQroFMf"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "name": "星野 まりん",
+        "pinned_tweet_id": "2046609476602548612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035001529271263232/11cFwK_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2733,
+          "following_count": 2205,
+          "like_count": 40625,
+          "listed_count": 5,
+          "media_count": 2191,
+          "tweet_count": 20051
+        },
+        "url": "https://t.co/BABPQroFMf",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

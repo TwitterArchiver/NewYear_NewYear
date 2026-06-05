@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1976699181088882723",
+    "created_at": "2025-10-10T17:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T18:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976699181088882723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/1976698193212780975",
+          "start": 41,
+          "url": "https://t.co/lOLCVOr8pT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976699181088882723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976698193212780975",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好搞笑，我现在刷新可以看到三四个骂他的，又得看三四遍这个人\n笑死了，流量也太高了 https://t.co/lOLCVOr8pT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976698177425489920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26khPWbwAAOj4K.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1976699181088882723",
+        "created_at": "2025-10-10T17:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976699181088882723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/1976698193212780975",
+              "start": 41,
+              "url": "https://t.co/lOLCVOr8pT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976699181088882723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976698193212780975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好搞笑，我现在刷新可以看到三四个骂他的，又得看三四遍这个人\n笑死了，流量也太高了 https://t.co/lOLCVOr8pT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976698177425489920"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1976698193212780975",
+        "created_at": "2025-10-10T17:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976698193212780975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4XHvTRF1i3",
+              "end": 77,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1976698193212780975/photo/1",
+              "media_key": "3_1976698177425489920",
+              "start": 54,
+              "url": "https://t.co/4XHvTRF1i3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976698193212780975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都在骂这个人，特别搞的是，每次我刷新都会刷出来别人骂他的推文，然后又能看到他……\n我补药看这种人口牙！ https://t.co/4XHvTRF1i3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 159,
+          "like_count": 544,
+          "listed_count": 1,
+          "media_count": 287,
+          "tweet_count": 1299
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

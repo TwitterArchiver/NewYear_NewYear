@@ -1,0 +1,330 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Mar 30 08:38:37 +0000 2021",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          34,
+          43
+        ],
+        "text": "TREASURE"
+      },
+      {
+        "indices": [
+          53,
+          57
+        ],
+        "text": "アサヒ"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 966581497124696064,
+        "id_str": "966581497124696064",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "HMV&BOOKS SHINSAIBASHI",
+        "screen_name": "hmvbookssinsaib"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1376816119965569027,
+  "id_str": "1376816119965569027",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "ja",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 30 02:00:26 +0000 2021",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            13,
+            22
+          ],
+          "text": "TREASURE"
+        },
+        {
+          "indices": [
+            32,
+            36
+          ],
+          "text": "アサヒ"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1376715914641514496",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/4rvMcluQYn"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        157
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              13,
+              22
+            ],
+            "text": "TREASURE"
+          },
+          {
+            "indices": [
+              32,
+              36
+            ],
+            "text": "アサヒ"
+          },
+          {
+            "indices": [
+              130,
+              136
+            ],
+            "text": "ASAHI"
+          },
+          {
+            "indices": [
+              137,
+              141
+            ],
+            "text": "아사히"
+          },
+          {
+            "indices": [
+              142,
+              146
+            ],
+            "text": "트레저"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/KiCk0kSkiz",
+            "expanded_url": "https://twitter.com/hmvbookssinsaib/status/1376715914641514496/photo/1",
+            "id": 1376715573220892673,
+            "id_str": "1376715573220892673",
+            "indices": [
+              158,
+              181
+            ],
+            "media_url": "http://pbs.twimg.com/media/ExsThQqUYAE7G8O.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ExsThQqUYAE7G8O.jpg",
+            "sizes": {
+              "large": {
+                "h": 959,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 899,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 509,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KiCk0kSkiz"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/KiCk0kSkiz",
+            "expanded_url": "https://twitter.com/hmvbookssinsaib/status/1376715914641514496/photo/1",
+            "id": 1376715573220892673,
+            "id_str": "1376715573220892673",
+            "indices": [
+              158,
+              181
+            ],
+            "media_url": "http://pbs.twimg.com/media/ExsThQqUYAE7G8O.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ExsThQqUYAE7G8O.jpg",
+            "sizes": {
+              "large": {
+                "h": 959,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 899,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 509,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KiCk0kSkiz"
+          }
+        ]
+      },
+      "full_text": "💎✨💎✨💎✨💎✨💎\n\n【 #TREASURE 】なんと、、、\n\n#アサヒ くんから....！\n\n当店へ特別に素敵なサインと\nメッセージが届きました、、（ ;  ; ）\n\n大阪から世界へと羽ばたくアサヒくんをHMV心斎橋店はこれからも全力で応援しております🔥\n\n#ASAHI #아사히 #트레저\n\n💎✨💎✨💎✨💎✨💎 https://t.co/KiCk0kSkiz"
+    },
+    "favorite_count": 7825,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1376715914641514496,
+    "id_str": "1376715914641514496",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "ja",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 250,
+    "reply_count": 30,
+    "retweet_count": 2317,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "💎✨💎✨💎✨💎✨💎\n\n【 #TREASURE 】なんと、、、\n\n#アサヒ くんから....！\n\n当店へ特別に素敵なサインと\nメッセージが届きました、、（ ;  ; ）\n\n大阪から世界へと羽ばたくアサヒくんをHMV心斎橋店はこれから… https://t.co/4rvMcluQYn",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 22 07:52:41 +0000 2018",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "心斎橋OPA８FにあるHMV&BOOKS SHINSAIBASHI公式アカウントです。\n営業時間は3/1より11:00~21:00の通常営業となりました。\nご予約・お取り置きはご自宅から簡単、WEB予約がオススメ➡http://bit.ly/35Ehhay",
+      "favourites_count": 3390,
+      "follow_request_sent": null,
+      "followers_count": 33686,
+      "following": null,
+      "friends_count": 5161,
+      "geo_enabled": false,
+      "id": 966581497124696064,
+      "id_str": "966581497124696064",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 87,
+      "location": "大阪府大阪市中央区西心斎橋1-4-3　心斎橋オーパ 8F",
+      "name": "HMV&BOOKS SHINSAIBASHI",
+      "notifications": null,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/966581497124696064/1612493347",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1240877169468817409/xqDOojaU_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240877169468817409/xqDOojaU_normal.jpg",
+      "profile_link_color": "E5004F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "hmvbookssinsaib",
+      "statuses_count": 20878,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://www.hmv.co.jp/fl/34/73/1/",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @hmvbookssinsaib: 💎✨💎✨💎✨💎✨💎\n\n【 #TREASURE 】なんと、、、\n\n#アサヒ くんから....！\n\n当店へ特別に素敵なサインと\nメッセージが届きました、、（ ;  ; ）\n\n大阪から世界へと羽ばたくアサヒくんをHMV心斎橋店はこれからも全力…",
+  "timestamp_ms": "1617093517663",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "ออกผัวแต่เป็น นางงาม",
+    "favourites_count": 2662,
+    "follow_request_sent": null,
+    "followers_count": 64,
+    "following": null,
+    "friends_count": 70,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "New Year",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1376159416521662471/YziwbT5o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376159416521662471/YziwbT5o_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 4097,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

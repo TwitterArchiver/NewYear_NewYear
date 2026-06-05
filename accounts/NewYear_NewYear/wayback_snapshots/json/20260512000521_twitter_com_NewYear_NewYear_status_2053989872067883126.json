@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2053818591993381029",
+    "created_at": "2026-05-12T00:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T01:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053989872067883126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841768354178334721",
+          "start": 0,
+          "username": "jingzi004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053989872067883126",
+    "in_reply_to_user_id": "1841768354178334721",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053927806225236051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzi004 awa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2053818591993381029",
+        "created_at": "2026-05-12T00:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T01:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053989872067883126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841768354178334721",
+              "start": 0,
+              "username": "jingzi004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053989872067883126",
+        "in_reply_to_user_id": "1841768354178334721",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053927806225236051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzi004 awa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841768354178334721",
+        "conversation_id": "2053818591993381029",
+        "created_at": "2026-05-11T19:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T20:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053927806225236051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053927806225236051",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053818591993381029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 戀愛找我☝️🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 328,
+          "like_count": 5545,
+          "listed_count": 1,
+          "media_count": 745,
+          "tweet_count": 4050
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T09:14:54.000Z",
+        "description": "出廠日期1996.11.1；無證含糖；2022年HRT，176cm70kg，減肥中，沒有SRS，手作雌二醇糖商，減肥、豐胸、泌乳、脫毛、美白、雌墮、互fo、面基找我",
+        "id": "1841768354178334721",
+        "location": "上海",
+        "name": "劉英茂（京子）",
+        "pinned_tweet_id": "2040620007886131325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947896196036759558/jZW-lLDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4734,
+          "following_count": 4725,
+          "like_count": 1340,
+          "listed_count": 6,
+          "media_count": 450,
+          "tweet_count": 6908
+        },
+        "username": "jingzi004",
+        "verified": false
+      }
+    ]
+  }
+}

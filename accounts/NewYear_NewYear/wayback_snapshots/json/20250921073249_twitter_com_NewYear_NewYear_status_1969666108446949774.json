@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969666105187975169"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1969666108446949774",
+    "created_at": "2025-09-21T07:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T08:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969666108446949774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "lovetype16.com/result/FCRE",
+          "end": 32,
+          "expanded_url": "https://lovetype16.com/result/FCRE",
+          "start": 9,
+          "status": 200,
+          "title": "Love Type 16 Quiz",
+          "unwound_url": "https://lovetype16.com/result/FCRE",
+          "url": "https://t.co/WIcBuOaluf"
+        },
+        {
+          "display_url": "pic.x.com/SqyBKxO1FU",
+          "end": 56,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1969666108446949774/photo/1",
+          "media_key": "3_1969666105187975169",
+          "start": 33,
+          "url": "https://t.co/SqyBKxO1FU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969666108446949774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是聪明小兔子😝 https://t.co/WIcBuOaluf https://t.co/SqyBKxO1FU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1969666105187975169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Wo4w3bQAEAr87.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969666105187975169"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1969666108446949774",
+        "created_at": "2025-09-21T07:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T08:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969666108446949774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "lovetype16.com/result/FCRE",
+              "end": 32,
+              "expanded_url": "https://lovetype16.com/result/FCRE",
+              "start": 9,
+              "status": 200,
+              "title": "Love Type 16 Quiz",
+              "unwound_url": "https://lovetype16.com/result/FCRE",
+              "url": "https://t.co/WIcBuOaluf"
+            },
+            {
+              "display_url": "pic.x.com/SqyBKxO1FU",
+              "end": 56,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1969666108446949774/photo/1",
+              "media_key": "3_1969666105187975169",
+              "start": 33,
+              "url": "https://t.co/SqyBKxO1FU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969666108446949774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是聪明小兔子😝 https://t.co/WIcBuOaluf https://t.co/SqyBKxO1FU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 153,
+          "like_count": 323,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 1064
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

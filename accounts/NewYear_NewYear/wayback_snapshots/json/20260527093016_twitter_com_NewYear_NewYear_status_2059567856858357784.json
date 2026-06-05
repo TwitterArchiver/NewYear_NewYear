@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2059311723606348007",
+    "created_at": "2026-05-27T09:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059567856858357784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982342965029900289",
+          "start": 0,
+          "username": "Yuikawujinxia"
+        },
+        {
+          "end": 24,
+          "id": "2057729979677548544",
+          "start": 15,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059567856858357784",
+    "in_reply_to_user_id": "1982342965029900289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059566389925753190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuikawujinxia @Numiouoo 🥺🥺🥺多问问呢w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2059311723606348007",
+        "created_at": "2026-05-27T09:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059567856858357784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1982342965029900289",
+              "start": 0,
+              "username": "Yuikawujinxia"
+            },
+            {
+              "end": 24,
+              "id": "2057729979677548544",
+              "start": 15,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059567856858357784",
+        "in_reply_to_user_id": "1982342965029900289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059566389925753190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuikawujinxia @Numiouoo 🥺🥺🥺多问问呢w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982342965029900289",
+        "conversation_id": "2059311723606348007",
+        "created_at": "2026-05-27T09:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059566389925753190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            },
+            {
+              "end": 26,
+              "id": "2057729979677548544",
+              "start": 17,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059566389925753190",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059458572627615748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear @Numiouoo 我就死活找不到同样性癖的女生，每次能找到的都是男的，不想跟男的玩这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 428,
+          "like_count": 7863,
+          "listed_count": 1,
+          "media_count": 826,
+          "tweet_count": 5040
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T07:06:30.000Z",
+        "description": "4i，老婆是@yuanbaoyuanyuan\n时间塑造我成为勇敢的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "yuanbaoyuanyuan"
+              }
+            ]
+          }
+        },
+        "id": "1982342965029900289",
+        "name": "那就茉莉乌龙吧",
+        "pinned_tweet_id": "2050826586308727112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042883735654404099/S8e7cfEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 56,
+          "like_count": 1182,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 403
+        },
+        "username": "Yuikawujinxia",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素神经病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 406,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 393
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

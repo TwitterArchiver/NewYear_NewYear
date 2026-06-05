@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1978293386730762305",
+    "created_at": "2025-10-15T02:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T03:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978293386730762305"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1978293386730762305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你有什么资历？我宇宙大爆炸的时候就是自由夸克了，当时当了10-6秒左右的上夸克。我们那个圈子玩的都谁，你知道吗？我@一个给你看@胶子 只不过我后面发现晚期宇宙根本没有夸克胶子等离子体的土壤，在10-6秒左右都退了加入核子了，结果你们这些新生代又搞退禁闭起来了。我只是在感叹你们悲惨的结局而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1978293386730762305",
+        "created_at": "2025-10-15T02:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T03:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978293386730762305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978293386730762305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你有什么资历？我宇宙大爆炸的时候就是自由夸克了，当时当了10-6秒左右的上夸克。我们那个圈子玩的都谁，你知道吗？我@一个给你看@胶子 只不过我后面发现晚期宇宙根本没有夸克胶子等离子体的土壤，在10-6秒左右都退了加入核子了，结果你们这些新生代又搞退禁闭起来了。我只是在感叹你们悲惨的结局而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 160,
+          "like_count": 632,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 1339
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

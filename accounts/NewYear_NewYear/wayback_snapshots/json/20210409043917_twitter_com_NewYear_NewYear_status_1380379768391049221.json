@@ -1,0 +1,502 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Apr 09 04:39:17 +0000 2021",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2425373402,
+        "id_str": "2425373402",
+        "indices": [
+          3,
+          15
+        ],
+        "name": ":💗)",
+        "screen_name": "Bubearjelly"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1380379768391049221,
+  "id_str": "1380379768391049221",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "th",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 08 23:25:29 +0000 2021",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1380300796235980801",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/E8DARwoqv2"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        170
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              119,
+              131
+            ],
+            "text": "HappyNCTDay"
+          },
+          {
+            "indices": [
+              132,
+              150
+            ],
+            "text": "ToTheWorldwithNCT"
+          },
+          {
+            "indices": [
+              151,
+              170
+            ],
+            "text": "NCity의_조명만큼_밝게_빛나자"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/HfXJ0reCOk",
+            "expanded_url": "https://twitter.com/Bubearjelly/status/1380300796235980801/photo/1",
+            "id": 1380300782268948480,
+            "id_str": "1380300782268948480",
+            "indices": [
+              171,
+              194
+            ],
+            "media_url": "http://pbs.twimg.com/media/EyfQP5JVoAAfBCV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EyfQP5JVoAAfBCV.jpg",
+            "sizes": {
+              "large": {
+                "h": 800,
+                "resize": "fit",
+                "w": 801
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 801
+              },
+              "small": {
+                "h": 679,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/HfXJ0reCOk"
+          },
+          {
+            "display_url": "pic.twitter.com/HfXJ0reCOk",
+            "expanded_url": "https://twitter.com/Bubearjelly/status/1380300796235980801/photo/1",
+            "id": 1380300785456611329,
+            "id_str": "1380300785456611329",
+            "indices": [
+              171,
+              194
+            ],
+            "media_url": "http://pbs.twimg.com/media/EyfQQFBVgAEPTQg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EyfQQFBVgAEPTQg.jpg",
+            "sizes": {
+              "large": {
+                "h": 844,
+                "resize": "fit",
+                "w": 1500
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/HfXJ0reCOk"
+          },
+          {
+            "display_url": "pic.twitter.com/HfXJ0reCOk",
+            "expanded_url": "https://twitter.com/Bubearjelly/status/1380300796235980801/photo/1",
+            "id": 1380300790011551744,
+            "id_str": "1380300790011551744",
+            "indices": [
+              171,
+              194
+            ],
+            "media_url": "http://pbs.twimg.com/media/EyfQQV_UYAA_reF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EyfQQV_UYAA_reF.jpg",
+            "sizes": {
+              "large": {
+                "h": 754,
+                "resize": "fit",
+                "w": 1024
+              },
+              "medium": {
+                "h": 754,
+                "resize": "fit",
+                "w": 1024
+              },
+              "small": {
+                "h": 501,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/HfXJ0reCOk"
+          },
+          {
+            "display_url": "pic.twitter.com/HfXJ0reCOk",
+            "expanded_url": "https://twitter.com/Bubearjelly/status/1380300796235980801/photo/1",
+            "id": 1380300793731948550,
+            "id_str": "1380300793731948550",
+            "indices": [
+              171,
+              194
+            ],
+            "media_url": "http://pbs.twimg.com/media/EyfQQj2VIAYZtcq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EyfQQj2VIAYZtcq.jpg",
+            "sizes": {
+              "large": {
+                "h": 682,
+                "resize": "fit",
+                "w": 1024
+              },
+              "medium": {
+                "h": 682,
+                "resize": "fit",
+                "w": 1024
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/HfXJ0reCOk"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/HfXJ0reCOk",
+            "expanded_url": "https://twitter.com/Bubearjelly/status/1380300796235980801/photo/1",
+            "id": 1380300782268948480,
+            "id_str": "1380300782268948480",
+            "indices": [
+              171,
+              194
+            ],
+            "media_url": "http://pbs.twimg.com/media/EyfQP5JVoAAfBCV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EyfQP5JVoAAfBCV.jpg",
+            "sizes": {
+              "large": {
+                "h": 800,
+                "resize": "fit",
+                "w": 801
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 801
+              },
+              "small": {
+                "h": 679,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/HfXJ0reCOk"
+          },
+          {
+            "display_url": "pic.twitter.com/HfXJ0reCOk",
+            "expanded_url": "https://twitter.com/Bubearjelly/status/1380300796235980801/photo/1",
+            "id": 1380300785456611329,
+            "id_str": "1380300785456611329",
+            "indices": [
+              171,
+              194
+            ],
+            "media_url": "http://pbs.twimg.com/media/EyfQQFBVgAEPTQg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EyfQQFBVgAEPTQg.jpg",
+            "sizes": {
+              "large": {
+                "h": 844,
+                "resize": "fit",
+                "w": 1500
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/HfXJ0reCOk"
+          },
+          {
+            "display_url": "pic.twitter.com/HfXJ0reCOk",
+            "expanded_url": "https://twitter.com/Bubearjelly/status/1380300796235980801/photo/1",
+            "id": 1380300790011551744,
+            "id_str": "1380300790011551744",
+            "indices": [
+              171,
+              194
+            ],
+            "media_url": "http://pbs.twimg.com/media/EyfQQV_UYAA_reF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EyfQQV_UYAA_reF.jpg",
+            "sizes": {
+              "large": {
+                "h": 754,
+                "resize": "fit",
+                "w": 1024
+              },
+              "medium": {
+                "h": 754,
+                "resize": "fit",
+                "w": 1024
+              },
+              "small": {
+                "h": 501,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/HfXJ0reCOk"
+          },
+          {
+            "display_url": "pic.twitter.com/HfXJ0reCOk",
+            "expanded_url": "https://twitter.com/Bubearjelly/status/1380300796235980801/photo/1",
+            "id": 1380300793731948550,
+            "id_str": "1380300793731948550",
+            "indices": [
+              171,
+              194
+            ],
+            "media_url": "http://pbs.twimg.com/media/EyfQQj2VIAYZtcq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EyfQQj2VIAYZtcq.jpg",
+            "sizes": {
+              "large": {
+                "h": 682,
+                "resize": "fit",
+                "w": 1024
+              },
+              "medium": {
+                "h": 682,
+                "resize": "fit",
+                "w": 1024
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/HfXJ0reCOk"
+          }
+        ]
+      },
+      "full_text": "𓏔 5 ʸᵉᵃʳˢ ♡𓂃⋆｡\nขอบคุณที่ทำงานอย่างหนักมาโดยตลอด ขอบคุณที่เข้ามาเป็นความสุขให้กันมาโดยตลอด รักพวกนายทั้ง23 มากมาก 🤲🏻🌟🤍 \n#HappyNCTDay\n#ToTheWorldwithNCT\n#NCity의_조명만큼_밝게_빛나자 https://t.co/HfXJ0reCOk"
+    },
+    "favorite_count": 742,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1380300796235980801,
+    "id_str": "1380300796235980801",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "th",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 2,
+    "reply_count": 1,
+    "retweet_count": 2043,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "𓏔 5 ʸᵉᵃʳˢ ♡𓂃⋆｡\nขอบคุณที่ทำงานอย่างหนักมาโดยตลอด ขอบคุณที่เข้ามาเป็นความสุขให้กันมาโดยตลอด รักพวกนายทั้ง23 มากมาก 🤲🏻… https://t.co/E8DARwoqv2",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Apr 03 09:53:56 +0000 2014",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Lᴇᴇ HᴀᴇCʜᴀɴ - Hᴀɴɢʏᴜʟ*⑅BᴀɴɢYᴀDᴀᴍ ✦ 🥛˙ᘧ ͜ ˙🥖🥚 EXO , NEO CITY ✿ ɴᴏɴɢ IɴJᴜɴ",
+      "favourites_count": 14277,
+      "follow_request_sent": null,
+      "followers_count": 38,
+      "following": null,
+      "friends_count": 619,
+      "geo_enabled": false,
+      "id": 2425373402,
+      "id_str": "2425373402",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 0,
+      "location": "𝟹𝙾𝙾𝙾%",
+      "name": ":💗)",
+      "notifications": null,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2425373402/1617547515",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1374316452476379140/puh5InoP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1374316452476379140/puh5InoP_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Bubearjelly",
+      "statuses_count": 57051,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @Bubearjelly: 𓏔 5 ʸᵉᵃʳˢ ♡𓂃⋆｡\nขอบคุณที่ทำงานอย่างหนักมาโดยตลอด ขอบคุณที่เข้ามาเป็นความสุขให้กันมาโดยตลอด รักพวกนายทั้ง23 มากมาก 🤲🏻🌟🤍 \n#Ha…",
+  "timestamp_ms": "1617943157657",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี",
+    "favourites_count": 3592,
+    "follow_request_sent": null,
+    "followers_count": 67,
+    "following": null,
+    "friends_count": 72,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "New Year",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1376159416521662471/YziwbT5o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376159416521662471/YziwbT5o_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 5061,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

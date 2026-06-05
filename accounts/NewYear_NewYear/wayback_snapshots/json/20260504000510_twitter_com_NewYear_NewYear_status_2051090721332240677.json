@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2051010408769786079",
+    "created_at": "2026-05-04T00:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T01:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051090721332240677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813561571941183488",
+          "start": 0,
+          "username": "careforme123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051090721332240677",
+    "in_reply_to_user_id": "1813561571941183488",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051010408769786079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@careforme123 😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 862,
+        "media_key": "3_2051010398355333121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHanFzCaIAEy-LC.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2051010408769786079",
+        "created_at": "2026-05-04T00:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T01:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051090721332240677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051090721332240677",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051010408769786079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051010398355333121"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2051010408769786079",
+        "created_at": "2026-05-03T18:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051010408769786079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/auydcDrxnK",
+              "end": 165,
+              "expanded_url": "https://x.com/careforme123/status/2051010408769786079/photo/1",
+              "media_key": "3_2051010398355333121",
+              "start": 142,
+              "url": "https://t.co/auydcDrxnK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051010408769786079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在这五年里\n\n我已经见证了几百名推友将自己葬在了过去\n\n有些从未与我有交集，有些曾和我彻夜畅谈，最无法原谅的可能是他们的名字在我的大脑中早已模糊\n\n推特真的是一个自杀率很高的地方，大概是因为绝望的人都来此发泄吧\n\n我拖着残败的身躯，看着同行的人们在我面前消逝，我的眼泪融于雪中，我的\n步伐从未停止\n\n换句话说，求生不得，求死不能，也许大家都是这样吧\n\n你们不懂，你们不懂，一千多个日夜前曾与我一起嗑右美沙芬的人们，如今能联系上的也只剩两三个，他们还活着吗？这种感受，有谁能懂...."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 387,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在这五年里\n\n我已经见证了几百名推友将自己葬在了过去\n\n有些从未与我有交集，有些曾和我彻夜畅谈，最无法原谅的可能是他们的名字在我的大脑中早已模糊\n\n推特真的是一个自杀率很高的地方，大概是因为绝望的人都来此发泄吧\n\n我拖着残败的身躯，看着同行的人们在我面前消逝，我的眼泪融于雪中，我的 https://t.co/auydcDrxnK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 240,
+          "like_count": 3735,
+          "listed_count": 1,
+          "media_count": 706,
+          "tweet_count": 3406
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2050235797643678119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 402,
+          "like_count": 4716,
+          "listed_count": 5,
+          "media_count": 532,
+          "tweet_count": 1949
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

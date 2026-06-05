@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1969542099663274220",
+    "created_at": "2025-09-21T01:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T02:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969572097543586275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1937096175351689216",
+          "start": 0,
+          "username": "iki8937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969572097543586275",
+    "in_reply_to_user_id": "1937096175351689216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969542099663274220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iki8937 会不会是落枕了😣\n如果落枕了的话可以去B站什么的搜那种视频，之前安装视频的方法做过感觉缓解的蛮快的🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1969542099663274220",
+        "created_at": "2025-09-21T01:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T02:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969572097543586275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1937096175351689216",
+              "start": 0,
+              "username": "iki8937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969572097543586275",
+        "in_reply_to_user_id": "1937096175351689216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969542099663274220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iki8937 会不会是落枕了😣\n如果落枕了的话可以去B站什么的搜那种视频，之前安装视频的方法做过感觉缓解的蛮快的🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937096175351689216",
+        "conversation_id": "1969542099663274220",
+        "created_at": "2025-09-20T23:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T00:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969542099663274220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969542099663274220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脖子一天到晚都好痛好痛咋整"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 154,
+          "like_count": 314,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 1055
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T10:32:03.000Z",
+        "description": "🚪99/199/299/520线下欢迎交友欢迎私信",
+        "id": "1937096175351689216",
+        "location": "距离你18km",
+        "name": "小树皮（不要发口令",
+        "pinned_tweet_id": "1967382448901403097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960639232852287488/cdLmK5eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 76,
+          "like_count": 32,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 65
+        },
+        "username": "iki8937",
+        "verified": false
+      }
+    ]
+  }
+}

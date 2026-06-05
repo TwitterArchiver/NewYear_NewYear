@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2055218400109216056",
+    "created_at": "2026-05-15T12:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055263713914159600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1383869795372732423",
+          "start": 0,
+          "username": "ls8w24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055263713914159600",
+    "in_reply_to_user_id": "1383869795372732423",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055259117112140023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ls8w24 我去看看🤤🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2055218400109216056",
+        "created_at": "2026-05-15T12:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055263713914159600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1383869795372732423",
+              "start": 0,
+              "username": "ls8w24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055263713914159600",
+        "in_reply_to_user_id": "1383869795372732423",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055259117112140023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ls8w24 我去看看🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383869795372732423",
+        "conversation_id": "2055218400109216056",
+        "created_at": "2026-05-15T12:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055259117112140023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055259117112140023",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055218400109216056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 洞洞鞋卡骆驰的泡芙吧我觉得好穿颜值也还可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 352,
+          "like_count": 6350,
+          "listed_count": 1,
+          "media_count": 767,
+          "tweet_count": 4272
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-18T19:47:35.000Z",
+        "description": "156 92 小土豆 Mtx⚧？偶尔吐槽 好色",
+        "id": "1383869795372732423",
+        "location": "Hong Kong",
+        "name": "章魚小汍子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054134956809748480/V3We1x2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1234,
+          "like_count": 6172,
+          "listed_count": 6,
+          "media_count": 30,
+          "tweet_count": 567
+        },
+        "username": "ls8w24",
+        "verified": false
+      }
+    ]
+  }
+}

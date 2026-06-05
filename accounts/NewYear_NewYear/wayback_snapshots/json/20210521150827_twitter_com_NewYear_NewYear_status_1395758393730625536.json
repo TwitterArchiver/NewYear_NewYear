@@ -1,0 +1,354 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri May 21 15:08:27 +0000 2021",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1127819079253839872,
+        "id_str": "1127819079253839872",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "darkhouse%🦓",
+        "screen_name": "princeyoshinori"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1395758393730625536,
+  "id_str": "1395758393730625536",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "th",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 21 03:56:04 +0000 2021",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1395589180692996104",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/Ap9XEsrEIl"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        206
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              150,
+              159
+            ],
+            "text": "TREASURE"
+          },
+          {
+            "indices": [
+              161,
+              173
+            ],
+            "text": "TREASUREMAP"
+          },
+          {
+            "indices": [
+              175,
+              181
+            ],
+            "text": "YEDAM"
+          }
+        ],
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/UhHPCY0MzH",
+            "expanded_url": "https://twitter.com/tdybaes/status/1395582529726423040/video/1",
+            "id": 1395582472717422594,
+            "id_str": "1395582472717422594",
+            "indices": [
+              183,
+              206
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1395582472717422594/pu/img/LHS62BJKEaaqJiH-.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1395582472717422594/pu/img/LHS62BJKEaaqJiH-.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1395582529726423040,
+            "source_status_id_str": "1395582529726423040",
+            "source_user_id": 2164068344,
+            "source_user_id_str": "2164068344",
+            "type": "video",
+            "url": "https://t.co/UhHPCY0MzH",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 6370,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1395582472717422594/pu/vid/640x360/aS1H231iHEa8K0FL.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1395582472717422594/pu/pl/QubK6RwAGVYCBGOk.m3u8?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1395582472717422594/pu/vid/1280x720/eRxgef0SlM9ZAAPK.mp4?tag=12"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1395582472717422594/pu/vid/480x270/NfXIPqmIrX2bHaxM.mp4?tag=12"
+                }
+              ]
+            }
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/UhHPCY0MzH",
+            "expanded_url": "https://twitter.com/tdybaes/status/1395582529726423040/video/1",
+            "id": 1395582472717422594,
+            "id_str": "1395582472717422594",
+            "indices": [
+              183,
+              206
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1395582472717422594/pu/img/LHS62BJKEaaqJiH-.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1395582472717422594/pu/img/LHS62BJKEaaqJiH-.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1395582529726423040,
+            "source_status_id_str": "1395582529726423040",
+            "source_user_id": 2164068344,
+            "source_user_id_str": "2164068344",
+            "type": "video",
+            "url": "https://t.co/UhHPCY0MzH",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 6370,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1395582472717422594/pu/vid/640x360/aS1H231iHEa8K0FL.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1395582472717422594/pu/pl/QubK6RwAGVYCBGOk.m3u8?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1395582472717422594/pu/vid/1280x720/eRxgef0SlM9ZAAPK.mp4?tag=12"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1395582472717422594/pu/vid/480x270/NfXIPqmIrX2bHaxM.mp4?tag=12"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "full_text": "พี่จีฮุนป่วยเลยมาถ่ายอีพีนี้ไม่ได้น้องฮาจุนแวะมาทักทาย\n🦊: พูดว่า\"พี่จีฮุน​ อย่าป่วยอีกน้าาา~\"\n🧒: พี่จีฮุน​ อย่าป่วยอีกน้า​ เจอกันครั้งหน้านะครับ\n//😭😭\n#TREASURE​ #TREASUREMAP​ #YEDAM​ https://t.co/UhHPCY0MzH"
+    },
+    "favorite_count": 498,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1395589180692996104,
+    "id_str": "1395589180692996104",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "th",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 3,
+    "reply_count": 0,
+    "retweet_count": 831,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "พี่จีฮุนป่วยเลยมาถ่ายอีพีนี้ไม่ได้น้องฮาจุนแวะมาทักทาย\n🦊: พูดว่า\"พี่จีฮุน​ อย่าป่วยอีกน้าาา~\"\n🧒: พี่จีฮุน​ อย่าป่วย… https://t.co/Ap9XEsrEIl",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 13 06:13:17 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "falling in monet",
+      "favourites_count": 6807,
+      "follow_request_sent": null,
+      "followers_count": 211,
+      "following": null,
+      "friends_count": 1173,
+      "geo_enabled": false,
+      "id": 1127819079253839872,
+      "id_str": "1127819079253839872",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 0,
+      "location": null,
+      "name": "darkhouse%🦓",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1127819079253839872/1614655071",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1392916179627352064/zI6d46Tt_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392916179627352064/zI6d46Tt_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "princeyoshinori",
+      "statuses_count": 73397,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @princeyoshinori: พี่จีฮุนป่วยเลยมาถ่ายอีพีนี้ไม่ได้น้องฮาจุนแวะมาทักทาย\n🦊: พูดว่า\"พี่จีฮุน​ อย่าป่วยอีกน้าาา~\"\n🧒: พี่จีฮุน​ อย่าป่วยอีก…",
+  "timestamp_ms": "1621609707659",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี น้องเจคของอุนแม่",
+    "favourites_count": 8154,
+    "follow_request_sent": null,
+    "followers_count": 112,
+    "following": null,
+    "friends_count": 125,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "แฮปปี้นิวเยียร์แห่งจักรวาล",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1393288207068893185/M3fkxnJi_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393288207068893185/M3fkxnJi_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 12527,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

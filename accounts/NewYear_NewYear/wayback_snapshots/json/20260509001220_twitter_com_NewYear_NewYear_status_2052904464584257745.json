@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2052726745112162407",
+    "created_at": "2026-05-09T00:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T01:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052904464584257745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1363778249277382656",
+          "start": 0,
+          "username": "JVltGillEasbaig"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 46,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2052729623532970451?s=20",
+          "start": 23,
+          "url": "https://t.co/qmT2ti699D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052904464584257745",
+    "in_reply_to_user_id": "1363778249277382656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052729623532970451",
+        "type": "quoted"
+      },
+      {
+        "id": "2052875807165706615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JVltGillEasbaig 就这样（）\nhttps://t.co/qmT2ti699D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2052726745112162407",
+        "created_at": "2026-05-09T00:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T01:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052904464584257745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1363778249277382656",
+              "start": 0,
+              "username": "JVltGillEasbaig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 46,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2052729623532970451?s=20",
+              "start": 23,
+              "url": "https://t.co/qmT2ti699D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052904464584257745",
+        "in_reply_to_user_id": "1363778249277382656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052729623532970451",
+            "type": "quoted"
+          },
+          {
+            "id": "2052875807165706615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JVltGillEasbaig 就这样（）\nhttps://t.co/qmT2ti699D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2052726745112162407",
+        "created_at": "2026-05-08T12:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052729623532970451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1605245047590780928",
+              "start": 0,
+              "username": "djx00919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052729623532970451",
+        "in_reply_to_user_id": "1605245047590780928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052728816498540872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@djx00919 因为我想着都要死了最后爽一下，然后手冲了一发，进入贤者模式后就没跳了\n在上面吹了半个小时的风"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363778249277382656",
+        "conversation_id": "2052726745112162407",
+        "created_at": "2026-05-08T22:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052875807165706615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052875807165706615",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052726745112162407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 第二张照片很美\n\n所以最后为啥又反悔的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 286,
+          "like_count": 4719,
+          "listed_count": 1,
+          "media_count": 729,
+          "tweet_count": 3760
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T09:10:56.000Z",
+        "description": "LI̅CMIV XLVIII̅DCXV XLVIII̅DCCCXXVII XLVIII̅XLVII",
+        "id": "1363778249277382656",
+        "location": "Silent Hill, Maine, USA",
+        "name": "𝕵𝖊𝖓𝖓𝖊𝖙𝖙𝖊 𝖁.𝕲𝖎𝖑𝖑𝕰𝖆𝖘𝖕𝖆𝖎𝖌",
+        "pinned_tweet_id": "1846474709371961734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900714103322406917/nPKZ9VlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 525,
+          "like_count": 16110,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 7759
+        },
+        "username": "JVltGillEasbaig",
+        "verified": false
+      }
+    ]
+  }
+}

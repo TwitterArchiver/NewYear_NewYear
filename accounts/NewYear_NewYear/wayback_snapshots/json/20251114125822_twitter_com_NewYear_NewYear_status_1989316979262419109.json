@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1989288696928215059",
+    "created_at": "2025-11-14T12:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T13:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989316979262419109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1692386236248309760",
+          "start": 0,
+          "username": "featherr1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989316979262419109",
+    "in_reply_to_user_id": "1692386236248309760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989300599154688158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@featherr1024 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1989288696928215059",
+        "created_at": "2025-11-14T12:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989316979262419109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692386236248309760",
+              "start": 0,
+              "username": "featherr1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989316979262419109",
+        "in_reply_to_user_id": "1692386236248309760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989300599154688158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@featherr1024 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692386236248309760",
+        "conversation_id": "1989288696928215059",
+        "created_at": "2025-11-14T11:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989300599154688158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989300599154688158",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989288696928215059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 我也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 163,
+          "like_count": 893,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 1588
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T04:01:46.000Z",
+        "description": "我叫Umou 可以叫我小羽｜od｜地雷｜cos｜視覺系｜歡迎妹子找我互fo!男的先過門",
+        "id": "1692386236248309760",
+        "location": "🚪55/155/520",
+        "name": "Fuezasama",
+        "pinned_tweet_id": "1988525357901992366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980315943701016576/r7J6Polm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 108,
+          "like_count": 755,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 223
+        },
+        "username": "featherr1024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Apr 08 16:22:04 +0000 2021",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          32,
+          45
+        ],
+        "text": "PARKJEONGWOO"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1093843490696384512,
+        "id_str": "1093843490696384512",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "TREASURE THAILAND🇹🇭 (SLOW)",
+        "screen_name": "TREASUREth_"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1380194241750556672,
+  "id_str": "1380194241750556672",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "th",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 08 14:22:12 +0000 2021",
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            15,
+            28
+          ],
+          "text": "PARKJEONGWOO"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1380164076345548800",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/7QS0CAUYZx"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        268
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              15,
+              28
+            ],
+            "text": "PARKJEONGWOO"
+          },
+          {
+            "indices": [
+              237,
+              246
+            ],
+            "text": "TREASURE"
+          },
+          {
+            "indices": [
+              247,
+              251
+            ],
+            "text": "트레저"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 1240627844868268033,
+            "id_str": "1240627844868268033",
+            "indices": [
+              252,
+              268
+            ],
+            "name": "TREASURE",
+            "screen_name": "treasuremembers"
+          }
+        ]
+      },
+      "full_text": "[Weverse Post]\n#PARKJEONGWOO🐺: เหล่าทึเมทุกคน ที่จริงเมนู Baskin Robbins เมนูโปรดของผมคือ Rainbow Sherbet ครับ!! 💕💕💕 มันอร่อยมากๆเลยครับ ต้องลองทานดูสักครั้งนะครับ! (รูปเป็นรูปที่ถ่ายตอนถ่าย tmap ตอนพิเศษวันหยุดชูซอกครับ!)\n(+รูปเซลฟี่)\n\n#TREASURE #트레저 @treasuremembers"
+    },
+    "favorite_count": 107,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1380164076345548800,
+    "id_str": "1380164076345548800",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "th",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 77,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "[Weverse Post]\n#PARKJEONGWOO🐺: เหล่าทึเมทุกคน ที่จริงเมนู Baskin Robbins เมนูโปรดของผมคือ Rainbow Sherbet ครับ!! 💕💕… https://t.co/7QS0CAUYZx",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 08 12:06:25 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Update and Trans about @treasuremembers & @ygtreasuremaker | Contact : DM / yg.treasurethai@gmail.com | Howto & Updates in likes♡ (own @YGTreasureBoxTH)",
+      "favourites_count": 199,
+      "follow_request_sent": null,
+      "followers_count": 74750,
+      "following": null,
+      "friends_count": 6,
+      "geo_enabled": false,
+      "id": 1093843490696384512,
+      "id_str": "1093843490696384512",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 154,
+      "location": null,
+      "name": "TREASURE THAILAND🇹🇭 (SLOW)",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1280791856951910402/1TzjkBVP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280791856951910402/1TzjkBVP_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TREASUREth_",
+      "statuses_count": 7174,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @TREASUREth_: [Weverse Post]\n#PARKJEONGWOO🐺: เหล่าทึเมทุกคน ที่จริงเมนู Baskin Robbins เมนูโปรดของผมคือ Rainbow Sherbet ครับ!! 💕💕💕 มันอ…",
+  "timestamp_ms": "1617898924659",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี",
+    "favourites_count": 3515,
+    "follow_request_sent": null,
+    "followers_count": 66,
+    "following": null,
+    "friends_count": 72,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "New Year",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1376159416521662471/YziwbT5o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376159416521662471/YziwbT5o_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 4983,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

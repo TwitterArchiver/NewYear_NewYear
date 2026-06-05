@@ -1,0 +1,420 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Apr 08 13:07:44 +0000 2021",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          101,
+          112
+        ],
+        "text": "ProudofNCT"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/tKdeWkpTgl",
+        "expanded_url": "https://twitter.com/imjuniinchan/status/1380046723704188928/photo/1",
+        "id": 1380046717488295941,
+        "id_str": "1380046717488295941",
+        "indices": [
+          113,
+          136
+        ],
+        "media_url": "http://pbs.twimg.com/media/EybpLYFVcAUKBMQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EybpLYFVcAUKBMQ.jpg",
+        "sizes": {
+          "large": {
+            "h": 552,
+            "resize": "fit",
+            "w": 736
+          },
+          "medium": {
+            "h": 552,
+            "resize": "fit",
+            "w": 736
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1380046723704188928,
+        "source_status_id_str": "1380046723704188928",
+        "source_user_id": 1077095780379291648,
+        "source_user_id_str": "1077095780379291648",
+        "type": "photo",
+        "url": "https://t.co/tKdeWkpTgl"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1077095780379291648,
+        "id_str": "1077095780379291648",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "𝗷 𝘂 𝗻 𝗶 𝗻テン🍳",
+        "screen_name": "imjuniinchan"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/tKdeWkpTgl",
+        "expanded_url": "https://twitter.com/imjuniinchan/status/1380046723704188928/photo/1",
+        "id": 1380046717488295941,
+        "id_str": "1380046717488295941",
+        "indices": [
+          113,
+          136
+        ],
+        "media_url": "http://pbs.twimg.com/media/EybpLYFVcAUKBMQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EybpLYFVcAUKBMQ.jpg",
+        "sizes": {
+          "large": {
+            "h": 552,
+            "resize": "fit",
+            "w": 736
+          },
+          "medium": {
+            "h": 552,
+            "resize": "fit",
+            "w": 736
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1380046723704188928,
+        "source_status_id_str": "1380046723704188928",
+        "source_user_id": 1077095780379291648,
+        "source_user_id_str": "1077095780379291648",
+        "type": "photo",
+        "url": "https://t.co/tKdeWkpTgl"
+      },
+      {
+        "display_url": "pic.twitter.com/tKdeWkpTgl",
+        "expanded_url": "https://twitter.com/imjuniinchan/status/1380046723704188928/photo/1",
+        "id": 1380046720252321795,
+        "id_str": "1380046720252321795",
+        "indices": [
+          113,
+          136
+        ],
+        "media_url": "http://pbs.twimg.com/media/EybpLiYVIAMaJYg.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EybpLiYVIAMaJYg.jpg",
+        "sizes": {
+          "large": {
+            "h": 552,
+            "resize": "fit",
+            "w": 736
+          },
+          "medium": {
+            "h": 552,
+            "resize": "fit",
+            "w": 736
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1380046723704188928,
+        "source_status_id_str": "1380046723704188928",
+        "source_user_id": 1077095780379291648,
+        "source_user_id_str": "1077095780379291648",
+        "type": "photo",
+        "url": "https://t.co/tKdeWkpTgl"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1380145336178511873,
+  "id_str": "1380145336178511873",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "th",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 08 06:35:53 +0000 2021",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            83,
+            94
+          ],
+          "text": "ProudofNCT"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/tKdeWkpTgl",
+          "expanded_url": "https://twitter.com/imjuniinchan/status/1380046723704188928/photo/1",
+          "id": 1380046717488295941,
+          "id_str": "1380046717488295941",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/EybpLYFVcAUKBMQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EybpLYFVcAUKBMQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 552,
+              "resize": "fit",
+              "w": 736
+            },
+            "medium": {
+              "h": 552,
+              "resize": "fit",
+              "w": 736
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/tKdeWkpTgl"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/tKdeWkpTgl",
+          "expanded_url": "https://twitter.com/imjuniinchan/status/1380046723704188928/photo/1",
+          "id": 1380046717488295941,
+          "id_str": "1380046717488295941",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/EybpLYFVcAUKBMQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EybpLYFVcAUKBMQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 552,
+              "resize": "fit",
+              "w": 736
+            },
+            "medium": {
+              "h": 552,
+              "resize": "fit",
+              "w": 736
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/tKdeWkpTgl"
+        },
+        {
+          "display_url": "pic.twitter.com/tKdeWkpTgl",
+          "expanded_url": "https://twitter.com/imjuniinchan/status/1380046723704188928/photo/1",
+          "id": 1380046720252321795,
+          "id_str": "1380046720252321795",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/EybpLiYVIAMaJYg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EybpLiYVIAMaJYg.jpg",
+          "sizes": {
+            "large": {
+              "h": 552,
+              "resize": "fit",
+              "w": 736
+            },
+            "medium": {
+              "h": 552,
+              "resize": "fit",
+              "w": 736
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/tKdeWkpTgl"
+        }
+      ]
+    },
+    "favorite_count": 494,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1380046723704188928,
+    "id_str": "1380046723704188928",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "th",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1623,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "ฉลองยอดขายสุงสุดในค่าย มุแง้ มีวันนี้แร้วนะคะ เอ้ดเอมรู้ใช่ไหมคะว่าต้องทำไรบ่อยๆ\n\n #ProudofNCT https://t.co/tKdeWkpTgl",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Dec 24 06:57:00 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "น้องเตน โพคนสวยขา ผลิตผงพิกซี่เองได้ มีปีกวิบวับส่องแสงนำทางชีวิตเตนรึนและมัมหมี✨",
+      "favourites_count": 14,
+      "follow_request_sent": null,
+      "followers_count": 334,
+      "following": null,
+      "friends_count": 21,
+      "geo_enabled": false,
+      "id": 1077095780379291648,
+      "id_str": "1077095780379291648",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 0,
+      "location": "นายก็เป็นได้นะ เตนรึนน่ะ",
+      "name": "𝗷 𝘂 𝗻 𝗶 𝗻テン🍳",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1077095780379291648/1617550535",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1378773761197887488/KepEIh4a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378773761197887488/KepEIh4a_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "imjuniinchan",
+      "statuses_count": 105,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @imjuniinchan: ฉลองยอดขายสุงสุดในค่าย มุแง้ มีวันนี้แร้วนะคะ เอ้ดเอมรู้ใช่ไหมคะว่าต้องทำไรบ่อยๆ\n\n #ProudofNCT https://t.co/tKdeWkpTgl",
+  "timestamp_ms": "1617887264662",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี",
+    "favourites_count": 3454,
+    "follow_request_sent": null,
+    "followers_count": 65,
+    "following": null,
+    "friends_count": 71,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "New Year",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1376159416521662471/YziwbT5o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376159416521662471/YziwbT5o_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 4910,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

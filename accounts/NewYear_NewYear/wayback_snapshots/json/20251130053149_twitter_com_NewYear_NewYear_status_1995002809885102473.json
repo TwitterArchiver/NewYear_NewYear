@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1994806814513528947",
+    "created_at": "2025-11-30T05:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T06:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995002809885102473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1969641212761292801",
+          "start": 0,
+          "username": "dndndn1330285"
+        },
+        {
+          "end": 24,
+          "id": "1897597646162079744",
+          "start": 15,
+          "username": "foooxwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995002809885102473",
+    "in_reply_to_user_id": "1969641212761292801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994816746784718969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dndndn1330285 @foooxwww 我皮肤是一坨大粪🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1994806814513528947",
+        "created_at": "2025-11-30T05:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T06:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995002809885102473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1969641212761292801",
+              "start": 0,
+              "username": "dndndn1330285"
+            },
+            {
+              "end": 24,
+              "id": "1897597646162079744",
+              "start": 15,
+              "username": "foooxwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995002809885102473",
+        "in_reply_to_user_id": "1969641212761292801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994816746784718969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dndndn1330285 @foooxwww 我皮肤是一坨大粪🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969641212761292801",
+        "conversation_id": "1994806814513528947",
+        "created_at": "2025-11-29T17:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T18:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994816746784718969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            },
+            {
+              "end": 26,
+              "id": "1897597646162079744",
+              "start": 17,
+              "username": "foooxwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994816746784718969",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994810675953283143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear @foooxwww 感觉遮瑕好是因为主播本身皮肤就挺好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 165,
+          "like_count": 1009,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 1649
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T05:54:07.000Z",
+        "description": "内含gore向负面情绪分享和🔞❗️慎入\n欢迎和我有同种想法的人与我交流\n匿名提问箱：https://t.co/fdl2yBLQkT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dandandan95169",
+                "end": 65,
+                "expanded_url": "https://ngl.link/dandandan95169",
+                "start": 42,
+                "url": "https://t.co/fdl2yBLQkT"
+              }
+            ]
+          }
+        },
+        "id": "1969641212761292801",
+        "location": "home",
+        "name": "但淡丹",
+        "pinned_tweet_id": "1989667627770556464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971584612284391424/1dqsqRFN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 18,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 94
+        },
+        "username": "dndndn1330285",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T10:38:38.000Z",
+        "description": "🚪10块钱，成都，欢迎面基一起玩，接纯绿线下陪玩😋。私聊不了就在我置顶下评论。想要互fo请私聊我哦。我只有85斤，我的目标是至少长胖到90斤😿😿。匿名问答😋：https://t.co/DZBWxF5NS0。反跨，特别是鲨臂mtf别TM来恶心我，死一边去",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/foooxwww",
+                "end": 102,
+                "expanded_url": "https://ngl.link/foooxwww",
+                "start": 79,
+                "url": "https://t.co/DZBWxF5NS0"
+              }
+            ]
+          }
+        },
+        "id": "1897597646162079744",
+        "location": "布吉岛",
+        "name": "🧀小狐狸🦊🎃🎃🎃",
+        "pinned_tweet_id": "1970307554015080759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897914261416116224/2Vvi2Ate_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 132,
+          "like_count": 2062,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 826
+        },
+        "username": "foooxwww",
+        "verified": false
+      }
+    ]
+  }
+}

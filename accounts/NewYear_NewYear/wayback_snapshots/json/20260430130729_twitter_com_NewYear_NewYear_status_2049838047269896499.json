@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2049747858656723434",
+    "created_at": "2026-04-30T13:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T14:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049838047269896499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2015354038293037056",
+          "start": 0,
+          "username": "shutiaoxiximiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049838047269896499",
+    "in_reply_to_user_id": "2015354038293037056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049798863750615316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shutiaoxiximiao 五天后带着一身霉味的上课😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2049747858656723434",
+        "created_at": "2026-04-30T13:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049838047269896499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2015354038293037056",
+              "start": 0,
+              "username": "shutiaoxiximiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049838047269896499",
+        "in_reply_to_user_id": "2015354038293037056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049798863750615316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shutiaoxiximiao 五天后带着一身霉味的上课😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015354038293037056",
+        "conversation_id": "2049747858656723434",
+        "created_at": "2026-04-30T10:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049798863750615316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049798863750615316",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049747858656723434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 躺尸五天喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 232,
+          "like_count": 3484,
+          "listed_count": 1,
+          "media_count": 689,
+          "tweet_count": 3273
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T09:20:39.000Z",
+        "description": "🟰艾露/🍟，怎么称呼请随意，会说很多负能量的话👿和很多意义不明的话💤/ od / 记录日常/如果不小心冒犯到你了我很抱歉\n晚安，永远最好的朋友小云@Ochette_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 73,
+                "username": "Ochette_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shutiaoxiximiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shutiaoxiximiao",
+                "start": 0,
+                "url": "https://t.co/2g0YrMIXju"
+              }
+            ]
+          }
+        },
+        "id": "2015354038293037056",
+        "location": "天国",
+        "name": "WLPS🍟",
+        "pinned_tweet_id": "2040398998427849130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330146793836544/3XSZZAvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 154,
+          "like_count": 4169,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/2g0YrMIXju",
+        "username": "shutiaoxiximiao",
+        "verified": false
+      }
+    ]
+  }
+}

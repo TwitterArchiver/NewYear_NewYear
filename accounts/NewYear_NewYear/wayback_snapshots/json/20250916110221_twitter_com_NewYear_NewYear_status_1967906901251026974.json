@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "1967884109805654232",
+    "created_at": "2025-09-16T11:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T12:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967906901251026974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877920276316585984",
+          "start": 0,
+          "username": "CelestialSayuki"
+        },
+        {
+          "end": 30,
+          "id": "1688215989970968576",
+          "start": 17,
+          "username": "mizuki_liang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967906901251026974",
+    "in_reply_to_user_id": "1877920276316585984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967906131084447929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CelestialSayuki @mizuki_liang 我最新的一台iPhone还是之前二手两百买的iPhone se这个才上古😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1967884109805654232",
+        "created_at": "2025-09-16T11:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967906901251026974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877920276316585984",
+              "start": 0,
+              "username": "CelestialSayuki"
+            },
+            {
+              "end": 30,
+              "id": "1688215989970968576",
+              "start": 17,
+              "username": "mizuki_liang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967906901251026974",
+        "in_reply_to_user_id": "1877920276316585984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967906131084447929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CelestialSayuki @mizuki_liang 我最新的一台iPhone还是之前二手两百买的iPhone se这个才上古😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877920276316585984",
+        "conversation_id": "1967884109805654232",
+        "created_at": "2025-09-16T10:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T11:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967906131084447929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1688215989970968576",
+              "start": 0,
+              "username": "mizuki_liang"
+            },
+            {
+              "end": 30,
+              "id": "1850587533924876288",
+              "start": 14,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967906131084447929",
+        "in_reply_to_user_id": "1688215989970968576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967897052672823418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuki_liang @NewYear_NewYear 12 Pro上古手机，并非😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 154,
+          "like_count": 249,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 949
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T03:27:49.000Z",
+        "description": "19岁 | 摆烂大学生 | UESTC | Arcaea | https://t.co/VMTivG91k7 维护者 | 想找对象 | 发些日常 | 想和大家做朋友❤️ | 无🍥不术mtf (心理上可能是)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "infodrop.cn",
+                "end": 54,
+                "expanded_url": "http://infodrop.cn",
+                "start": 31,
+                "url": "https://t.co/VMTivG91k7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "infodrop.cn",
+                "end": 23,
+                "expanded_url": "http://infodrop.cn",
+                "start": 0,
+                "url": "https://t.co/VMTivG91k7"
+              }
+            ]
+          }
+        },
+        "id": "1877920276316585984",
+        "location": " Celestial Ethereal Labs",
+        "name": "Celestial紗雪",
+        "pinned_tweet_id": "1967835108939010229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879836377480900608/zKNfkNH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 38,
+          "like_count": 153,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 683
+        },
+        "url": "https://t.co/VMTivG91k7",
+        "username": "CelestialSayuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T15:50:37.000Z",
+        "description": "wmc | mtf🏳️‍⚧️ | 喜欢折腾(但是有时候也懒得折腾) | 喜欢发日常 | 极度缺乏安全感 | 看成分回fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/liangowo",
+                "end": 23,
+                "expanded_url": "https://t.me/liangowo",
+                "start": 0,
+                "url": "https://t.co/6xL3ldpJYb"
+              }
+            ]
+          }
+        },
+        "id": "1688215989970968576",
+        "location": "舞萌国",
+        "name": "凉老师不是娘老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955251749461344256/SXfHqMH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 791,
+          "like_count": 5040,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 2986
+        },
+        "url": "https://t.co/6xL3ldpJYb",
+        "username": "mizuki_liang",
+        "verified": true
+      }
+    ]
+  }
+}

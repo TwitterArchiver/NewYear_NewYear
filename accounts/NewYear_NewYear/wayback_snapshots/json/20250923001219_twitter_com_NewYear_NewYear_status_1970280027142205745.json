@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1970062137415663866",
+    "created_at": "2025-09-23T00:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T01:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970280027142205745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877920276316585984",
+          "start": 0,
+          "username": "CelestialSayuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970280027142205745",
+    "in_reply_to_user_id": "1877920276316585984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970171620028506481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CelestialSayuki 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1970062137415663866",
+        "created_at": "2025-09-23T00:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T01:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970280027142205745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877920276316585984",
+              "start": 0,
+              "username": "CelestialSayuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970280027142205745",
+        "in_reply_to_user_id": "1877920276316585984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970171620028506481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CelestialSayuki 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877920276316585984",
+        "conversation_id": "1970062137415663866",
+        "created_at": "2025-09-22T17:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970171620028506481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970171620028506481",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970135789721063746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 152,
+          "like_count": 326,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 1093
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T03:27:49.000Z",
+        "description": "19岁 | 摆烂大学生 | UESTC | Arcaea | https://t.co/VMTivG91k7 维护者 | 想找对象 | 发些日常 | 想和大家做朋友❤️ | 无🍥不术mtf (心理上可能是)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "infodrop.cn",
+                "end": 54,
+                "expanded_url": "http://infodrop.cn",
+                "start": 31,
+                "url": "https://t.co/VMTivG91k7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "infodrop.cn",
+                "end": 23,
+                "expanded_url": "http://infodrop.cn",
+                "start": 0,
+                "url": "https://t.co/VMTivG91k7"
+              }
+            ]
+          }
+        },
+        "id": "1877920276316585984",
+        "location": " Celestial Ethereal Labs",
+        "name": "Celestial紗雪",
+        "pinned_tweet_id": "1967835108939010229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879836377480900608/zKNfkNH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 42,
+          "like_count": 313,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 929
+        },
+        "url": "https://t.co/VMTivG91k7",
+        "username": "CelestialSayuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1983489981445259264"
+      ],
+      "media_source_tweet_id": [
+        "1983490040794857628"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1983579979951829202",
+    "created_at": "2025-10-29T17:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T18:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983579979951829202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1939635496092934144",
+          "start": 3,
+          "username": "girlslikegunss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/66sAfwCCTJ",
+          "end": 47,
+          "expanded_url": "https://x.com/girlslikegunss/status/1983490040794857628/video/1",
+          "media_key": "13_1983489981445259264",
+          "start": 24,
+          "url": "https://t.co/66sAfwCCTJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983579979951829202",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983490040794857628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @girlslikegunss: Old https://t.co/66sAfwCCTJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983579979951829202].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983579979951829202",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983579979951829202"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15241,
+        "height": 1280,
+        "media_key": "13_1983489981445259264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1983489981445259264/img/XSviuNLymJlOHWbo.jpg",
+        "public_metrics": {
+          "view_count": 1199
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983489981445259264/vid/avc1/320x568/x8BiPhMWL9Dms1vI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983489981445259264/vid/avc1/480x852/4VooAGcUDWHp0p7r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983489981445259264/vid/avc1/720x1280/ygG70CEInBnTYVR_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1983489981445259264/pl/2qXSr9kmQAPZ8feK.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983489981445259264"
+          ]
+        },
+        "author_id": "1939635496092934144",
+        "conversation_id": "1983490040794857628",
+        "created_at": "2025-10-29T11:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983490040794857628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66sAfwCCTJ",
+              "end": 27,
+              "expanded_url": "https://x.com/girlslikegunss/status/1983490040794857628/video/1",
+              "media_key": "13_1983489981445259264",
+              "start": 4,
+              "url": "https://t.co/66sAfwCCTJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983490040794857628",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 3463,
+          "like_count": 709,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "Old https://t.co/66sAfwCCTJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 161,
+          "like_count": 762,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 1461
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T10:42:28.000Z",
+        "description": "personal acc and reserve -- @abyzowurawrr // In case of removal, call me on dm  // telegram channel below 👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "abyzowurawrr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hospitalismuwu",
+                "end": 23,
+                "expanded_url": "https://t.me/hospitalismuwu",
+                "start": 0,
+                "url": "https://t.co/YSXgtaYgqP"
+              }
+            ]
+          }
+        },
+        "id": "1939635496092934144",
+        "location": "Aokigahara Forest",
+        "name": "tumblr Shedtwt gallery",
+        "pinned_tweet_id": "1971544190602584492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939636519913848832/HHczUfol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7179,
+          "following_count": 1184,
+          "like_count": 532,
+          "listed_count": 3,
+          "media_count": 693,
+          "tweet_count": 1316
+        },
+        "url": "https://t.co/YSXgtaYgqP",
+        "username": "girlslikegunss",
+        "verified": false
+      }
+    ]
+  }
+}

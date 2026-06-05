@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1965809781278695518",
+    "created_at": "2025-09-10T16:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T17:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965809781278695518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1958052679915335680",
+          "start": 0,
+          "username": "neeeeet_ewe72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965809781278695518",
+    "in_reply_to_user_id": "1958052679915335680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@neeeeet_ewe72 这是我闺蜜的号，快去给她点小红心以及关注🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1965809781278695518",
+        "created_at": "2025-09-10T16:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T17:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965809781278695518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1958052679915335680",
+              "start": 0,
+              "username": "neeeeet_ewe72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965809781278695518",
+        "in_reply_to_user_id": "1958052679915335680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@neeeeet_ewe72 这是我闺蜜的号，快去给她点小红心以及关注🥰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 150,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 767
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T06:26:11.000Z",
+        "description": "我的名字叫net/网\n互fo欢迎   不是男娘\n    精分/人格分裂/休学中",
+        "id": "1958052679915335680",
+        "location": "风俗店",
+        "name": "Net.*",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963536806538002432/dplBNRpL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 76,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 79
+        },
+        "username": "neeeeet_ewe72",
+        "verified": false
+      }
+    ]
+  }
+}

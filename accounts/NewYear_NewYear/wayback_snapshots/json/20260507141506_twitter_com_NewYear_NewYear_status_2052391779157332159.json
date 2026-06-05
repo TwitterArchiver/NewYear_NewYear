@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2052391779157332159",
+    "created_at": "2026-05-07T14:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052391779157332159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/2051923150250955243",
+          "start": 12,
+          "url": "https://t.co/qpLqwycsVt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052391779157332159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051923150250955243",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我会时不时来捞一下的🥺 https://t.co/qpLqwycsVt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2052391779157332159",
+        "created_at": "2026-05-07T14:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052391779157332159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/2051923150250955243",
+              "start": 12,
+              "url": "https://t.co/qpLqwycsVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052391779157332159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051923150250955243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会时不时来捞一下的🥺 https://t.co/qpLqwycsVt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2051923150250955243",
+        "created_at": "2026-05-06T07:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051923150250955243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/1972593142626202027",
+              "start": 66,
+              "url": "https://t.co/IgFPCZoJ2V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051923150250955243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 933,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972593142626202027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我大概八九月份会搬校区\n川大望江校区附近\n有没有人想和我合租🥺🥺🥺\n我们可以提前了解\n要是没有人和我合租的话我只能去找套一的房子了 https://t.co/IgFPCZoJ2V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 277,
+          "like_count": 4492,
+          "listed_count": 1,
+          "media_count": 729,
+          "tweet_count": 3701
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

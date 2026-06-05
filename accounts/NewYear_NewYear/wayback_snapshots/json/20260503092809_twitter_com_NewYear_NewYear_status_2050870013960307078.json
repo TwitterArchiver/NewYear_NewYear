@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050869893382471680"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2050870013960307078",
+    "created_at": "2026-05-03T09:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T10:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050870013960307078"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PgzTtjRyT4",
+          "end": 38,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2050870013960307078/video/1",
+          "media_key": "13_2050869893382471680",
+          "start": 15,
+          "url": "https://t.co/PgzTtjRyT4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050870013960307078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "完全做完了捏\n鸡块旋转ing https://t.co/PgzTtjRyT4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16933,
+        "height": 1920,
+        "media_key": "13_2050869893382471680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050869893382471680/img/xCYQXnCYwSG36Gsr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050869893382471680/vid/avc1/320x568/TyqjMbq8zAt156gN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050869893382471680/vid/avc1/480x852/VcETiW96MI_paurs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050869893382471680/vid/avc1/720x1280/Ruj7Xa2e13Y8X3Ve.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050869893382471680/pl/y45a0Zz9haRwD-In.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050869893382471680"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2050870013960307078",
+        "created_at": "2026-05-03T09:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050870013960307078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PgzTtjRyT4",
+              "end": 38,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2050870013960307078/video/1",
+              "media_key": "13_2050869893382471680",
+              "start": 15,
+              "url": "https://t.co/PgzTtjRyT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050870013960307078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完全做完了捏\n鸡块旋转ing https://t.co/PgzTtjRyT4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 236,
+          "like_count": 3635,
+          "listed_count": 1,
+          "media_count": 703,
+          "tweet_count": 3358
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

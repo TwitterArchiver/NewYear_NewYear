@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2046527317384831093",
+    "created_at": "2026-04-21T10:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046537179485381087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2015583135480811520",
+          "start": 0,
+          "username": "OvooLOO3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046537179485381087",
+    "in_reply_to_user_id": "2015583135480811520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046527317384831093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvooLOO3o 我！举手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2046527317384831093",
+        "created_at": "2026-04-21T10:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046537179485381087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015583135480811520",
+              "start": 0,
+              "username": "OvooLOO3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046537179485381087",
+        "in_reply_to_user_id": "2015583135480811520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046527317384831093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvooLOO3o 我！举手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015583135480811520",
+        "conversation_id": "2046527317384831093",
+        "created_at": "2026-04-21T09:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046527317384831093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2045734340168942071",
+              "start": 9,
+              "url": "https://t.co/U8HAZCL2TM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046527317384831093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045734340168942071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请来（仅限互关） https://t.co/U8HAZCL2TM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 212,
+          "like_count": 2982,
+          "listed_count": 1,
+          "media_count": 651,
+          "tweet_count": 2938
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T00:30:52.000Z",
+        "description": "最近太累了已读不回的话非常抱歉 小号@salmon__sukiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "salmon__sukiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thaliana_su",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thaliana_su",
+                "start": 0,
+                "url": "https://t.co/hZvkczeF5U"
+              }
+            ]
+          }
+        },
+        "id": "2015583135480811520",
+        "name": "Arabidopsis thaliana (L.) Heynh.",
+        "pinned_tweet_id": "2045451569374855471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045450317400272897/ErKF8qy5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 561,
+          "like_count": 17381,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 5079
+        },
+        "url": "https://t.co/hZvkczeF5U",
+        "username": "OvooLOO3o",
+        "verified": false
+      }
+    ]
+  }
+}

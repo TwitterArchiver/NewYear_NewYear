@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2042401464489033753",
+    "created_at": "2026-04-10T00:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T01:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042401464489033753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/2041716379771138465",
+          "start": 43,
+          "url": "https://t.co/nrC38PrMdB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042401464489033753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041716379771138465",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好坏，我不知道怎么实现这种效果🥲🥲\n想象了好几版都没有很好的效果\n我得去观察一下海浪 https://t.co/nrC38PrMdB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2042401464489033753",
+        "created_at": "2026-04-10T00:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T01:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042401464489033753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/2041716379771138465",
+              "start": 43,
+              "url": "https://t.co/nrC38PrMdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042401464489033753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041716379771138465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好坏，我不知道怎么实现这种效果🥲🥲\n想象了好几版都没有很好的效果\n我得去观察一下海浪 https://t.co/nrC38PrMdB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2041716379771138465",
+        "created_at": "2026-04-08T03:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041716379771138465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041716379771138465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚矫揉造作遣词造句的时候，想到我可以在我的网站的ai页用粒子效果显示大海，到时候大家和那个小ai对话的时候就可以看到海涛了😋😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 203,
+          "like_count": 2498,
+          "listed_count": 1,
+          "media_count": 608,
+          "tweet_count": 2686
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

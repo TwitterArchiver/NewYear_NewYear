@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2048694956005687797",
+    "created_at": "2026-04-27T15:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T16:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048791159544386043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047879211168493568",
+          "start": 0,
+          "username": "aberyoheiabe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048791159544386043",
+    "in_reply_to_user_id": "2047879211168493568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048694956005687797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aberyoheiabe 🥺\n就这样迫害我们这一群人😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2048694956005687797",
+        "created_at": "2026-04-27T15:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048791159544386043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047879211168493568",
+              "start": 0,
+              "username": "aberyoheiabe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048791159544386043",
+        "in_reply_to_user_id": "2047879211168493568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048694956005687797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiabe 🥺\n就这样迫害我们这一群人😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047879211168493568",
+        "conversation_id": "2048694956005687797",
+        "created_at": "2026-04-27T09:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048694956005687797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048694956005687797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦我去我现在想评论都不能畅所欲言了\n好担心又被创……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 227,
+          "like_count": 3449,
+          "listed_count": 1,
+          "media_count": 681,
+          "tweet_count": 3214
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T03:24:13.000Z",
+        "description": "这里是@aberyoheiskmの小号（爆哭）（←成分看这个号）\n被封了七天饶了我吧离开大家我怎么活哇😭\n寻回推友中……在大号解封之前只能用小号和大家联系了呜呜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "aberyoheiskm"
+              }
+            ]
+          }
+        },
+        "id": "2047879211168493568",
+        "location": "地獄の監禁室",
+        "name": "Suzume？🩵（我也要二代目寻回推友吗）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047885258499162112/U69oegBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 42,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 40
+        },
+        "username": "aberyoheiabe",
+        "verified": false
+      }
+    ]
+  }
+}

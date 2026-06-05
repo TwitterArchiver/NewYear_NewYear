@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041172038015168512",
+        "3_2041172038073962496",
+        "3_2041172038069768193"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2041172088900526284",
+    "created_at": "2026-04-06T15:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041172088900526284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YP84teuivi",
+          "end": 40,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2041172088900526284/photo/1",
+          "media_key": "3_2041172038015168512",
+          "start": 17,
+          "url": "https://t.co/YP84teuivi"
+        },
+        {
+          "display_url": "pic.x.com/YP84teuivi",
+          "end": 40,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2041172088900526284/photo/1",
+          "media_key": "3_2041172038073962496",
+          "start": 17,
+          "url": "https://t.co/YP84teuivi"
+        },
+        {
+          "display_url": "pic.x.com/YP84teuivi",
+          "end": 40,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2041172088900526284/photo/1",
+          "media_key": "3_2041172038069768193",
+          "start": 17,
+          "url": "https://t.co/YP84teuivi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041172088900526284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个橘皮小盒子已经基本上完工了w https://t.co/YP84teuivi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2041172038015168512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOzJ2tasAAicit.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2041172038073962496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOzJ27b0AAFYjy.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2041172038069768193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOzJ26b0AE7UXE.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041172038015168512",
+            "3_2041172038073962496",
+            "3_2041172038069768193"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041172088900526284",
+        "created_at": "2026-04-06T15:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041172088900526284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YP84teuivi",
+              "end": 40,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2041172088900526284/photo/1",
+              "media_key": "3_2041172038015168512",
+              "start": 17,
+              "url": "https://t.co/YP84teuivi"
+            },
+            {
+              "display_url": "pic.x.com/YP84teuivi",
+              "end": 40,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2041172088900526284/photo/1",
+              "media_key": "3_2041172038073962496",
+              "start": 17,
+              "url": "https://t.co/YP84teuivi"
+            },
+            {
+              "display_url": "pic.x.com/YP84teuivi",
+              "end": 40,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2041172088900526284/photo/1",
+              "media_key": "3_2041172038069768193",
+              "start": 17,
+              "url": "https://t.co/YP84teuivi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041172088900526284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个橘皮小盒子已经基本上完工了w https://t.co/YP84teuivi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "EVERYWHERE",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 206,
+          "like_count": 2381,
+          "listed_count": 1,
+          "media_count": 590,
+          "tweet_count": 2610
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2061412310678437997",
+    "created_at": "2026-06-01T11:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061412310678437997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Blossom11710/s…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Blossom11710/status/2061357306898706438",
+          "start": 35,
+          "url": "https://t.co/AdMAGN7py6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061412310678437997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061357306898706438",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看到这个好想画画，这个很适合作为翅膀🥺🥺🥺\n一想到我的画技就放弃了 https://t.co/AdMAGN7py6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2061357300783382528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtpiyRaAAA578z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2061412310678437997",
+        "created_at": "2026-06-01T11:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061412310678437997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Blossom11710/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Blossom11710/status/2061357306898706438",
+              "start": 35,
+              "url": "https://t.co/AdMAGN7py6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061412310678437997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061357306898706438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看到这个好想画画，这个很适合作为翅膀🥺🥺🥺\n一想到我的画技就放弃了 https://t.co/AdMAGN7py6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061357300783382528"
+          ]
+        },
+        "author_id": "980690237906075650",
+        "conversation_id": "2061357306898706438",
+        "created_at": "2026-06-01T08:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061357306898706438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1CvcnsZ89",
+              "end": 49,
+              "expanded_url": "https://x.com/Blossom11710/status/2061357306898706438/photo/1",
+              "media_key": "3_2061357300783382528",
+              "start": 26,
+              "url": "https://t.co/n1CvcnsZ89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061357306898706438",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 25266,
+          "like_count": 1119,
+          "quote_count": 17,
+          "reply_count": 5,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "論文読んでたらクトゥルフ神話みたいな配位子出てきた https://t.co/n1CvcnsZ89"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 446,
+          "like_count": 9184,
+          "listed_count": 1,
+          "media_count": 877,
+          "tweet_count": 5630
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-02T06:15:47.000Z",
+        "description": "ここが私のアナザースカイ",
+        "id": "980690237906075650",
+        "name": "✿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356155318720372739/nQ9BfoA5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 259,
+          "like_count": 97693,
+          "listed_count": 4,
+          "media_count": 4298,
+          "tweet_count": 64227
+        },
+        "username": "Blossom11710",
+        "verified": false
+      }
+    ]
+  }
+}

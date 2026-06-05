@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1930857512938745931",
+    "created_at": "2025-06-08T06:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T07:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931604528409047245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1627501884704722944",
+          "start": 0,
+          "username": "Kage4ofpain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931604528409047245",
+    "in_reply_to_user_id": "1627501884704722944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931505655531360761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kage4ofpain 主要是中介费好贵😣😣😣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1930857512938745931",
+        "created_at": "2025-06-08T06:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T07:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931604528409047245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1627501884704722944",
+              "start": 0,
+              "username": "Kage4ofpain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931604528409047245",
+        "in_reply_to_user_id": "1627501884704722944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931505655531360761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kage4ofpain 主要是中介费好贵😣😣😣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627501884704722944",
+        "conversation_id": "1930857512938745931",
+        "created_at": "2025-06-08T00:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T01:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931505655531360761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931505655531360761",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931391694534287640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 那其实还挺正常的呀，初中小学好像都这个价钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 142,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 319
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-20T02:54:22.000Z",
+        "description": "请不要对我说过分的话 自用🪜 https://t.co/54vyOcdqWT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xyz004.damoplane.xyz/#/register?cod…",
+                "end": 38,
+                "expanded_url": "https://xyz004.damoplane.xyz/#/register?code=UC63ZGzv",
+                "start": 15,
+                "url": "https://t.co/54vyOcdqWT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.net/a/Kage4Luv",
+                "end": 23,
+                "expanded_url": "https://afdian.net/a/Kage4Luv",
+                "start": 0,
+                "url": "https://t.co/6T9iWCqLKn"
+              }
+            ]
+          }
+        },
+        "id": "1627501884704722944",
+        "location": "主页有血图，不看莫伤害。爱发电可以打赏",
+        "name": "☆*:.｡. Kage★サターン.｡.:*☆",
+        "pinned_tweet_id": "1913542202233639054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688390904405762048/FldU3g-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5054,
+          "following_count": 349,
+          "like_count": 4390,
+          "listed_count": 14,
+          "media_count": 421,
+          "tweet_count": 4799
+        },
+        "url": "https://t.co/6T9iWCqLKn",
+        "username": "Kage4ofpain",
+        "verified": false
+      }
+    ]
+  }
+}

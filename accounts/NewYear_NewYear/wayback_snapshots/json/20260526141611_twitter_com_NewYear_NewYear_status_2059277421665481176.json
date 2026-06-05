@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2059276711901184438",
+    "created_at": "2026-05-26T14:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059277421665481176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1650209029724196865",
+          "start": 0,
+          "username": "KarBwk5251"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059277421665481176",
+    "in_reply_to_user_id": "1650209029724196865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059276711901184438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KarBwk5251 抱歉，我目前没有相关信息，暂时无法为你解答这个问题。 我们可以换个话题聊聊，我会尽力为你解答。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2059276678606761984",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJQFOoqaMAAGtov.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJQFOoqaMAAGtov.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2059276711901184438",
+        "created_at": "2026-05-26T14:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059277421665481176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1650209029724196865",
+              "start": 0,
+              "username": "KarBwk5251"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059277421665481176",
+        "in_reply_to_user_id": "1650209029724196865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059276711901184438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarBwk5251 抱歉，我目前没有相关信息，暂时无法为你解答这个问题。 我们可以换个话题聊聊，我会尽力为你解答。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2059276678606761984"
+          ]
+        },
+        "author_id": "1650209029724196865",
+        "conversation_id": "2059276711901184438",
+        "created_at": "2026-05-26T14:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059276711901184438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/we0KzUBFu3",
+              "end": 49,
+              "expanded_url": "https://x.com/KarBwk5251/status/2059276711901184438/photo/1",
+              "media_key": "16_2059276678606761984",
+              "start": 26,
+              "url": "https://t.co/we0KzUBFu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059276711901184438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么当女的。\n刻板印象的那种女的到底要怎么当\n我测 https://t.co/we0KzUBFu3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 414,
+          "like_count": 7677,
+          "listed_count": 1,
+          "media_count": 822,
+          "tweet_count": 4919
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T18:44:49.000Z",
+        "description": "我是kobo激推！\n我是小桃\n我英语不好\n🐱叫圈圈\n非二元\n乐子人\n不看黄也不建政我是中推最美逆行人",
+        "id": "1650209029724196865",
+        "location": "Yuki是我的宝宝～(^з^)-♡",
+        "name": "☔️AAA.星露谷钓鱼佬桃酱☔️",
+        "pinned_tweet_id": "2055309283466879202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054122479896162304/6TdbPeaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 1827,
+          "like_count": 10313,
+          "listed_count": 2,
+          "media_count": 1813,
+          "tweet_count": 8006
+        },
+        "username": "KarBwk5251",
+        "verified": false
+      }
+    ]
+  }
+}

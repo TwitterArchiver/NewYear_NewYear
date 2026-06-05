@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946501564715196417"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1946501571753529700",
+    "created_at": "2025-07-19T09:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T10:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946501571753529700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/070CgvaRAY",
+          "end": 41,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1946501571753529700/photo/1",
+          "media_key": "3_1946501564715196417",
+          "start": 18,
+          "url": "https://t.co/070CgvaRAY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946501571753529700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "简单的一个日常妆加特效竟然如此好看 https://t.co/070CgvaRAY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1946501564715196417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwNc3C-XYAEWxtr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946501564715196417"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1946501571753529700",
+        "created_at": "2025-07-19T09:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T10:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946501571753529700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/070CgvaRAY",
+              "end": 41,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1946501571753529700/photo/1",
+              "media_key": "3_1946501564715196417",
+              "start": 18,
+              "url": "https://t.co/070CgvaRAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946501571753529700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简单的一个日常妆加特效竟然如此好看 https://t.co/070CgvaRAY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 142,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 416
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

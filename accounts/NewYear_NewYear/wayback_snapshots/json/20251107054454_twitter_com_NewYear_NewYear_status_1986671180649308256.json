@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986671173518958595"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1986671180649308256",
+    "created_at": "2025-11-07T05:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T06:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986671180649308256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4lDcURkMSv",
+          "end": 88,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1986671180649308256/photo/1",
+          "media_key": "3_1986671173518958595",
+          "start": 65,
+          "url": "https://t.co/4lDcURkMSv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986671180649308256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我之前买了一个臂套用来遮疤+搭配那套连衣裙，到手发现很修型捏～\n前半段有丝带装饰，后半段是蕾丝，质量也不错，关键是只需要五块钱！ https://t.co/4lDcURkMSv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1986671173518958595",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5IS6A8bIAMpQtb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986671173518958595"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1986671180649308256",
+        "created_at": "2025-11-07T05:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T06:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986671180649308256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4lDcURkMSv",
+              "end": 88,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1986671180649308256/photo/1",
+              "media_key": "3_1986671173518958595",
+              "start": 65,
+              "url": "https://t.co/4lDcURkMSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986671180649308256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前买了一个臂套用来遮疤+搭配那套连衣裙，到手发现很修型捏～\n前半段有丝带装饰，后半段是蕾丝，质量也不错，关键是只需要五块钱！ https://t.co/4lDcURkMSv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 162,
+          "like_count": 829,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 1537
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

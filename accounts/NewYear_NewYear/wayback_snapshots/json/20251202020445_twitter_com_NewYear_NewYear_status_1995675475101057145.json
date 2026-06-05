@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1995675475101057145",
+    "created_at": "2025-12-02T02:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T03:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995675475101057145"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995675475101057145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不行了我一直好冷\n我想买一套衣服，因为我在学校的衣服虽然厚但是少有加绒\n本来自己就比较凉，穿不带绒的衣服怎么穿都是冷冷的\n但是如果买衣服的话，我就不能买零食了\n之前决定拿出来一百块买零食的，如果衣服零食都要买的话可能需要五百了\n我的攒钱大业就受到重创了twt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1995675475101057145",
+        "created_at": "2025-12-02T02:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T03:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995675475101057145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995675475101057145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了我一直好冷\n我想买一套衣服，因为我在学校的衣服虽然厚但是少有加绒\n本来自己就比较凉，穿不带绒的衣服怎么穿都是冷冷的\n但是如果买衣服的话，我就不能买零食了\n之前决定拿出来一百块买零食的，如果衣服零食都要买的话可能需要五百了\n我的攒钱大业就受到重创了twt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 165,
+          "like_count": 1035,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 1661
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

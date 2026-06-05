@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2059681354384846881",
+    "created_at": "2026-05-27T17:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059683672115261870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954577234846781440",
+          "start": 0,
+          "username": "yzi1460075"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059683672115261870",
+    "in_reply_to_user_id": "1954577234846781440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059683511867408769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzi1460075 对的，看着自己飘在水里，像尸体一样好惬意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2059681354384846881",
+        "created_at": "2026-05-27T17:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059683672115261870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954577234846781440",
+              "start": 0,
+              "username": "yzi1460075"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059683672115261870",
+        "in_reply_to_user_id": "1954577234846781440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059683511867408769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzi1460075 对的，看着自己飘在水里，像尸体一样好惬意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954577234846781440",
+        "conversation_id": "2059681354384846881",
+        "created_at": "2026-05-27T17:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059683511867408769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059683511867408769",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059681354384846881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 感觉泡澡能把我退化成婴儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 433,
+          "like_count": 8029,
+          "listed_count": 1,
+          "media_count": 839,
+          "tweet_count": 5137
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T16:15:14.000Z",
+        "description": "22岁  为了去旅游而在努力学习日语中",
+        "id": "1954577234846781440",
+        "location": "中国",
+        "name": "叶子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954625178060939264/kPHecMjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 26,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 629
+        },
+        "username": "yzi1460075",
+        "verified": false
+      }
+    ]
+  }
+}

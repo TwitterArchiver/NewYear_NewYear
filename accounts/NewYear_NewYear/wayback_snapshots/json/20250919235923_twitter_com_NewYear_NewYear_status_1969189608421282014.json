@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1968355750516072922",
+    "created_at": "2025-09-19T23:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T00:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969189608421282014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1889149001309503488",
+          "start": 0,
+          "username": "i_skapa83590"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969189608421282014",
+    "in_reply_to_user_id": "1889149001309503488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968521596349612246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i_skapa83590 谢谢你～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1968355750516072922",
+        "created_at": "2025-09-19T23:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T00:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969189608421282014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1889149001309503488",
+              "start": 0,
+              "username": "i_skapa83590"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969189608421282014",
+        "in_reply_to_user_id": "1889149001309503488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968521596349612246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i_skapa83590 谢谢你～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889149001309503488",
+        "conversation_id": "1968355750516072922",
+        "created_at": "2025-09-18T03:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T04:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968521596349612246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968521596349612246",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968355750516072922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 生日快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 154,
+          "like_count": 305,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 1031
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T03:06:47.000Z",
+        "description": "NUSQUAM CELARE",
+        "id": "1889149001309503488",
+        "location": "Miðgarðr",
+        "name": "Djöfullinn þú skapaðir",
+        "pinned_tweet_id": "1889853887160717522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889149245049212928/v2U1PAfX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 79
+        },
+        "username": "i_skapa83590",
+        "verified": false
+      }
+    ]
+  }
+}

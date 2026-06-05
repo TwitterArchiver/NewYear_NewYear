@@ -1,0 +1,318 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon May 03 15:03:57 +0000 2021",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          101,
+          110
+        ],
+        "text": "NCTDREAM"
+      },
+      {
+        "indices": [
+          111,
+          122
+        ],
+        "text": "맛_HotSauce"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 870188817537355776,
+        "id_str": "870188817537355776",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "NCT DREAM",
+        "screen_name": "NCTsmtown_DREAM"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1389234279708717062,
+  "id_str": "1389234279708717062",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 03 15:00:01 +0000 2021",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            80,
+            89
+          ],
+          "text": "NCTDREAM"
+        },
+        {
+          "indices": [
+            90,
+            101
+          ],
+          "text": "맛_HotSauce"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1389233291065131009",
+          "indices": [
+            103,
+            126
+          ],
+          "url": "https://t.co/ttsE6L8X8S"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        122
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              80,
+              89
+            ],
+            "text": "NCTDREAM"
+          },
+          {
+            "indices": [
+              90,
+              101
+            ],
+            "text": "맛_HotSauce"
+          },
+          {
+            "indices": [
+              102,
+              122
+            ],
+            "text": "NCTDREAM_맛_HotSauce"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/479ETcdCoL",
+            "expanded_url": "https://twitter.com/NCTsmtown_DREAM/status/1389233291065131009/photo/1",
+            "id": 1389229389615812613,
+            "id_str": "1389229389615812613",
+            "indices": [
+              123,
+              146
+            ],
+            "media_url": "http://pbs.twimg.com/media/E0eIxPeVUAUmlFr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E0eIxPeVUAUmlFr.jpg",
+            "sizes": {
+              "large": {
+                "h": 1535,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/479ETcdCoL"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/479ETcdCoL",
+            "expanded_url": "https://twitter.com/NCTsmtown_DREAM/status/1389233291065131009/photo/1",
+            "id": 1389229389615812613,
+            "id_str": "1389229389615812613",
+            "indices": [
+              123,
+              146
+            ],
+            "media_url": "http://pbs.twimg.com/media/E0eIxPeVUAUmlFr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E0eIxPeVUAUmlFr.jpg",
+            "sizes": {
+              "large": {
+                "h": 1535,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/479ETcdCoL"
+          }
+        ]
+      },
+      "full_text": "Chilling Jalapeños\n\nNCT DREAM The 1st Album\n〖맛 (Hot Sauce)〗\n➫ 2021.05.10 (KST)\n\n#NCTDREAM #맛_HotSauce\n#NCTDREAM_맛_HotSauce https://t.co/479ETcdCoL"
+    },
+    "favorite_count": 67319,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1389233291065131009,
+    "id_str": "1389233291065131009",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 6280,
+    "reply_count": 3747,
+    "retweet_count": 50835,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Chilling Jalapeños\n\nNCT DREAM The 1st Album\n〖맛 (Hot Sauce)〗\n➫ 2021.05.10 (KST)\n\n#NCTDREAM #맛_HotSauce… https://t.co/ttsE6L8X8S",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 01 08:02:36 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "NCT DREAM The 1st Album 〖맛 (Hot Sauce)〗\n2021.05.10 (KST)",
+      "favourites_count": 2,
+      "follow_request_sent": null,
+      "followers_count": 4881924,
+      "following": null,
+      "friends_count": 4,
+      "geo_enabled": false,
+      "id": 870188817537355776,
+      "id_str": "870188817537355776",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 15166,
+      "location": null,
+      "name": "NCT DREAM",
+      "notifications": null,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/870188817537355776/1618153202",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1381260753546567685/WWqvgAXs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381260753546567685/WWqvgAXs_normal.jpg",
+      "profile_link_color": "7FDBB6",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "NCTsmtown_DREAM",
+      "statuses_count": 1888,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://www.youtube.com/nctdream",
+      "utc_offset": null,
+      "verified": true,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @NCTsmtown_DREAM: Chilling Jalapeños\n\nNCT DREAM The 1st Album\n〖맛 (Hot Sauce)〗\n➫ 2021.05.10 (KST)\n\n#NCTDREAM #맛_HotSauce\n#NCTDREAM_맛_HotS…",
+  "timestamp_ms": "1620054237664",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี น้องเจคของอุนแม่",
+    "favourites_count": 6031,
+    "follow_request_sent": null,
+    "followers_count": 85,
+    "following": null,
+    "friends_count": 89,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "แฮปปี้นิวเยียร์แห่งจักรวาล",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1388572592311726080/SzYt1Eg7_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388572592311726080/SzYt1Eg7_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 8370,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

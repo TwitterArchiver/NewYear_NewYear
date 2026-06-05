@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2050926259304382667",
+    "created_at": "2026-05-03T16:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T17:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050971227708412306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1599377355503726592",
+          "start": 0,
+          "username": "meiiiTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050971227708412306",
+    "in_reply_to_user_id": "1599377355503726592",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050952423590826005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiiiTvT 🥰🥰😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2050926259304382667",
+        "created_at": "2026-05-03T16:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050971227708412306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1599377355503726592",
+              "start": 0,
+              "username": "meiiiTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050971227708412306",
+        "in_reply_to_user_id": "1599377355503726592",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050952423590826005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiiiTvT 🥰🥰😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599377355503726592",
+        "conversation_id": "2050926259304382667",
+        "created_at": "2026-05-03T14:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050952423590826005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050952423590826005",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050949687285588410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 宝宝我亲死你吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 238,
+          "like_count": 3699,
+          "listed_count": 1,
+          "media_count": 705,
+          "tweet_count": 3386
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:17:45.000Z",
+        "description": "我是小莓🍓｜07重抑中焦ed｜互fo欢迎｜🚪50纯绿\n🤍爱我先打钱",
+        "id": "1599377355503726592",
+        "name": "meiii",
+        "pinned_tweet_id": "2037903436201734285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048663644729491456/OlbPhjDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 458,
+          "like_count": 1696,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 2294
+        },
+        "username": "meiiiTvT",
+        "verified": false
+      }
+    ]
+  }
+}

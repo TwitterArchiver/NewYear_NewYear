@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2039549260677677175",
+    "created_at": "2026-04-02T09:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T10:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039633759704932695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1897597646162079744",
+          "start": 0,
+          "username": "foooxwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039633759704932695",
+    "in_reply_to_user_id": "1897597646162079744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039631745998553133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foooxwww 哼哼哼🥸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2039549260677677175",
+        "created_at": "2026-04-02T09:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039633759704932695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897597646162079744",
+              "start": 0,
+              "username": "foooxwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039633759704932695",
+        "in_reply_to_user_id": "1897597646162079744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039631745998553133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foooxwww 哼哼哼🥸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897597646162079744",
+        "conversation_id": "2039549260677677175",
+        "created_at": "2026-04-02T09:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039631745998553133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039631745998553133",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039549260677677175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 这么强😯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "EVERYWHERE",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 203,
+          "like_count": 2194,
+          "listed_count": 1,
+          "media_count": 561,
+          "tweet_count": 2482
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T10:38:38.000Z",
+        "description": "🚪10块钱，成都，欢迎面基一起玩，接纯绿线下陪玩😋。私聊不了就在我置顶下评论。想要互fo请私聊我哦。我只有85斤，我的目标是至少长胖到90斤😿😿。匿名问答😋：https://t.co/DZBWxF5NS0。（快来找我匿名问答🥺）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/foooxwww",
+                "end": 102,
+                "expanded_url": "https://ngl.link/foooxwww",
+                "start": 79,
+                "url": "https://t.co/DZBWxF5NS0"
+              }
+            ]
+          }
+        },
+        "id": "1897597646162079744",
+        "location": "布吉岛",
+        "name": "🧀小狐狸🦊🎃⛄❄️",
+        "pinned_tweet_id": "1970307554015080759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998285392169308160/q8wM6Nz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 166,
+          "like_count": 3655,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 1412
+        },
+        "username": "foooxwww",
+        "verified": false
+      }
+    ]
+  }
+}

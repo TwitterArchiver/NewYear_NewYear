@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2053130509023379465",
+    "created_at": "2026-05-10T00:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T01:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053267714081534410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1744347762047803392",
+          "start": 0,
+          "username": "YouKiARiA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053267714081534410",
+    "in_reply_to_user_id": "1744347762047803392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053169841360830696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YouKiARiA 我更多的只是单纯想“给予”，或者利用道德“绑定”\n🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2053130509023379465",
+        "created_at": "2026-05-10T00:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053267714081534410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1744347762047803392",
+              "start": 0,
+              "username": "YouKiARiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053267714081534410",
+        "in_reply_to_user_id": "1744347762047803392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053169841360830696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YouKiARiA 我更多的只是单纯想“给予”，或者利用道德“绑定”\n🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744347762047803392",
+        "conversation_id": "2053130509023379465",
+        "created_at": "2026-05-09T17:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053169841360830696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053169841360830696",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053130509023379465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 其实我也喜欢残缺美，如果对方把我的双腿吃掉，那么以后都要依靠对方推着轮椅。如果把双眼吃掉，那么以后都要牵着对方的手来走，无论哪一方面我都超级喜欢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 302,
+          "like_count": 4902,
+          "listed_count": 1,
+          "media_count": 733,
+          "tweet_count": 3852
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T13:18:21.000Z",
+        "description": "mtftx \n中文/tiếng Việt\nhrt准备中 \n媚黑仅为XP，发图的为第二人格\n如果有射屏会很高兴的喵",
+        "id": "1744347762047803392",
+        "name": "山と风🍥♠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968331931545972736/y4cMjfD3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 849,
+          "like_count": 514,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 610
+        },
+        "username": "YouKiARiA",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924869281160024064"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1924869284481925525",
+    "created_at": "2025-05-20T16:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T17:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924869284481925525"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WUxkcyWuO4",
+          "end": 44,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1924869284481925525/photo/1",
+          "media_key": "3_1924869281160024064",
+          "start": 21,
+          "url": "https://t.co/WUxkcyWuO4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924869284481925525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "多年前年夜饭炸的鱼(❁´◡`❁)*✲ﾟ* https://t.co/WUxkcyWuO4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 867,
+        "media_key": "3_1924869281160024064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GraCaa6a0AAAE32.jpg",
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924869281160024064"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1924869284481925525",
+        "created_at": "2025-05-20T16:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T17:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924869284481925525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUxkcyWuO4",
+              "end": 44,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1924869284481925525/photo/1",
+              "media_key": "3_1924869281160024064",
+              "start": 21,
+              "url": "https://t.co/WUxkcyWuO4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924869284481925525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多年前年夜饭炸的鱼(❁´◡`❁)*✲ﾟ* https://t.co/WUxkcyWuO4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1923422676971933952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 136,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 228
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

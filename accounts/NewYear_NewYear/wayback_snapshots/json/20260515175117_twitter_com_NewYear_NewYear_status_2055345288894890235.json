@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2055234212337475668",
+    "created_at": "2026-05-15T17:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T18:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055345288894890235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1787149306740510720",
+          "start": 0,
+          "username": "freeindx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055345288894890235",
+    "in_reply_to_user_id": "1787149306740510720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055345029003256106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freeindx 我也讨厌TAT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2055234212337475668",
+        "created_at": "2026-05-15T17:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055345288894890235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1787149306740510720",
+              "start": 0,
+              "username": "freeindx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055345288894890235",
+        "in_reply_to_user_id": "1787149306740510720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055345029003256106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freeindx 我也讨厌TAT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787149306740510720",
+        "conversation_id": "2055234212337475668",
+        "created_at": "2026-05-15T17:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055345029003256106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055345029003256106",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055324483024752749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 哎好吧我讨厌增生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 360,
+          "like_count": 6477,
+          "listed_count": 1,
+          "media_count": 771,
+          "tweet_count": 4355
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T15:56:21.000Z",
+        "description": "🚪188r",
+        "id": "1787149306740510720",
+        "name": "杨静萍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041557235252572160/W_-S2GCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2485,
+          "following_count": 824,
+          "like_count": 7118,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 3403
+        },
+        "username": "freeindx",
+        "verified": false
+      }
+    ]
+  }
+}

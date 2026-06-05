@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913263253331046400"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1913263260671049895",
+    "created_at": "2025-04-18T16:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T17:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913263260671049895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ajlfsK5l8I",
+          "end": 42,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1913263260671049895/photo/1",
+          "media_key": "3_1913263253331046400",
+          "start": 19,
+          "url": "https://t.co/ajlfsK5l8I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913263260671049895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎呀我草，奥利奥碎冰淇淋怎么这么好吃 https://t.co/ajlfsK5l8I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1913263253331046400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go1GysCa8AABt6j.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913263253331046400"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1913263260671049895",
+        "created_at": "2025-04-18T16:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T17:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913263260671049895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ajlfsK5l8I",
+              "end": 42,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1913263260671049895/photo/1",
+              "media_key": "3_1913263253331046400",
+              "start": 19,
+              "url": "https://t.co/ajlfsK5l8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913263260671049895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀我草，奥利奥碎冰淇淋怎么这么好吃 https://t.co/ajlfsK5l8I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850587758617890816/1iNTpnM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 129,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 86
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

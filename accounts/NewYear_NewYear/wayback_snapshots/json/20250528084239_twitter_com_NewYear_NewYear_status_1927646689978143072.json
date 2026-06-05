@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1927412743599968645",
+    "created_at": "2025-05-28T08:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T09:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927646689978143072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646433542661115904",
+          "start": 0,
+          "username": "Kiraxiaoyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927646689978143072",
+    "in_reply_to_user_id": "1646433542661115904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927412743599968645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiraxiaoyao 漂亮酒可爱捏w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927412739602829312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr-LrL-W0AA6g-u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1927412743599968645",
+        "created_at": "2025-05-28T08:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T09:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927646689978143072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646433542661115904",
+              "start": 0,
+              "username": "Kiraxiaoyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927646689978143072",
+        "in_reply_to_user_id": "1646433542661115904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927412743599968645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiraxiaoyao 漂亮酒可爱捏w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927412739602829312"
+          ]
+        },
+        "author_id": "1646433542661115904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1927412743599968645",
+        "created_at": "2025-05-27T17:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T18:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927412743599968645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ns6cjZ6Mso",
+              "end": 33,
+              "expanded_url": "https://x.com/Kiraxiaoyao/status/1927412743599968645/photo/1",
+              "media_key": "3_1927412739602829312",
+              "start": 10,
+              "url": "https://t.co/ns6cjZ6Mso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927412743599968645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2298,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近喝了一堆漂亮酒 https://t.co/ns6cjZ6Mso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1926315041835381104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 137,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 263
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T08:42:08.000Z",
+        "description": "大号@Lanyinwu 小号@kiraxiaoyao 丨仅此两号，私信不开，其他墙内外账号都是盗图假号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Lanyinwu"
+              },
+              {
+                "end": 26,
+                "start": 14,
+                "username": "kiraxiaoyao"
+              }
+            ]
+          }
+        },
+        "id": "1646433542661115904",
+        "location": "我不用推特盈利，不会主动发私信私联，假号很多❗不要被骗❗",
+        "name": "盛小予",
+        "pinned_tweet_id": "1916828098747679113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848436220306792448/SX5oednd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12008,
+          "following_count": 11,
+          "like_count": 3046,
+          "listed_count": 26,
+          "media_count": 301,
+          "tweet_count": 2119
+        },
+        "username": "Kiraxiaoyao",
+        "verified": false
+      }
+    ]
+  }
+}

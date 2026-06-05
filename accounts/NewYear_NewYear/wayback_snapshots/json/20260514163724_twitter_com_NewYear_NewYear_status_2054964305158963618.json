@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2054964305158963618",
+    "created_at": "2026-05-14T16:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T17:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054964305158963618"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054964305158963618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的英语好烂物理好烂一切的一切都好烂\n焦虑呃呃呃\n咋没人爱我\n我的天哪我竟然一个人在这个破地方上了两年多学\n其实我的意思是没有什么朋友\n好吧其实有过但是\n不联系了\n没有人可以接受真正的我，当然和我自己也有关系\n如果我越喜欢你我就越不会给你说我阴暗面，你就越不了解我\n好矛盾\n好扭捏\n去死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2054964305158963618",
+        "created_at": "2026-05-14T16:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054964305158963618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054964305158963618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的英语好烂物理好烂一切的一切都好烂\n焦虑呃呃呃\n咋没人爱我\n我的天哪我竟然一个人在这个破地方上了两年多学\n其实我的意思是没有什么朋友\n好吧其实有过但是\n不联系了\n没有人可以接受真正的我，当然和我自己也有关系\n如果我越喜欢你我就越不会给你说我阴暗面，你就越不了解我\n好矛盾\n好扭捏\n去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 342,
+          "like_count": 6153,
+          "listed_count": 1,
+          "media_count": 760,
+          "tweet_count": 4193
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

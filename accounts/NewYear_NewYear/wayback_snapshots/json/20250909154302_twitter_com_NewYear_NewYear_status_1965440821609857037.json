@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1965440821609857037",
+    "created_at": "2025-09-09T15:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T16:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965440821609857037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/1965423549986079050",
+          "start": 20,
+          "url": "https://t.co/i9j1GdO0RE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965440821609857037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965423549986079050",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "割手也没力气了，现在只想躺着什么都不干 https://t.co/i9j1GdO0RE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1965440821609857037",
+        "created_at": "2025-09-09T15:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T16:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965440821609857037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/1965423549986079050",
+              "start": 20,
+              "url": "https://t.co/i9j1GdO0RE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965440821609857037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965423549986079050",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "割手也没力气了，现在只想躺着什么都不干 https://t.co/i9j1GdO0RE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1965423549986079050",
+        "created_at": "2025-09-09T14:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T15:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965423549986079050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965423549986079050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想割割割割割"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 148,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 696
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

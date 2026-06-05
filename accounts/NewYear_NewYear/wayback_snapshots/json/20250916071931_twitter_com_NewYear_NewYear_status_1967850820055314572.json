@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1967848564559843548",
+    "created_at": "2025-09-16T07:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T08:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967850820055314572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1806538395612819457",
+          "start": 0,
+          "username": "TPNHET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967850820055314572",
+    "in_reply_to_user_id": "1806538395612819457",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967848564559843548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TPNHET 🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967848530518708224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08zz_lXkAA6DZe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1967848564559843548",
+        "created_at": "2025-09-16T07:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T08:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967850820055314572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1806538395612819457",
+              "start": 0,
+              "username": "TPNHET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967850820055314572",
+        "in_reply_to_user_id": "1806538395612819457",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967848564559843548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TPNHET 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967848530518708224"
+          ]
+        },
+        "author_id": "1806538395612819457",
+        "conversation_id": "1967848564559843548",
+        "created_at": "2025-09-16T07:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T08:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967848564559843548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/phkKrTAHPa",
+              "end": 43,
+              "expanded_url": "https://x.com/TPNHET/status/1967848564559843548/photo/1",
+              "media_key": "3_1967848530518708224",
+              "start": 20,
+              "url": "https://t.co/phkKrTAHPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967848564559843548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被媽媽拉過來縫針了然後還被醫生訓了一頓 https://t.co/phkKrTAHPa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 153,
+          "like_count": 241,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 930
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T04:02:11.000Z",
+        "description": "請叫我小順⸝⸝⸝˘◡˘♡",
+        "id": "1806538395612819457",
+        "name": "小順",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964354362655809536/Hog-wcrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 22,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 100
+        },
+        "username": "TPNHET",
+        "verified": false
+      }
+    ]
+  }
+}

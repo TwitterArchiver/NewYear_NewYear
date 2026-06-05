@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963979977797627904"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1963979994209923164",
+    "created_at": "2025-09-05T14:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T15:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963979994209923164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wJmobFrvGr",
+          "end": 33,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1963979994209923164/photo/1",
+          "media_key": "3_1963979977797627904",
+          "start": 10,
+          "url": "https://t.co/wJmobFrvGr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963979994209923164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这里还有一张以前的 https://t.co/wJmobFrvGr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1425,
+        "media_key": "3_1963979977797627904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0F1YlqbcAA4ZLg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963979977797627904"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1963979994209923164",
+        "created_at": "2025-09-05T14:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T15:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963979994209923164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wJmobFrvGr",
+              "end": 33,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1963979994209923164/photo/1",
+              "media_key": "3_1963979977797627904",
+              "start": 10,
+              "url": "https://t.co/wJmobFrvGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963979994209923164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里还有一张以前的 https://t.co/wJmobFrvGr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福",
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 146,
+          "like_count": 62,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 549
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967141537202270212"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1967141541954416951",
+    "created_at": "2025-09-14T08:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T09:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967141541954416951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DnDrnevVzW",
+          "end": 33,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1967141541954416951/photo/1",
+          "media_key": "3_1967141537202270212",
+          "start": 10,
+          "url": "https://t.co/DnDrnevVzW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967141541954416951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有21世纪孤独症 https://t.co/DnDrnevVzW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_1967141537202270212",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ywzkPbcAQloN2.jpg",
+        "width": 2169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967141537202270212"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967141541954416951",
+        "created_at": "2025-09-14T08:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T09:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967141541954416951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DnDrnevVzW",
+              "end": 33,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1967141541954416951/photo/1",
+              "media_key": "3_1967141537202270212",
+              "start": 10,
+              "url": "https://t.co/DnDrnevVzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967141541954416951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有21世纪孤独症 https://t.co/DnDrnevVzW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号",
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 152,
+          "like_count": 197,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 868
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

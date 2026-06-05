@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2052364756632182985",
+    "created_at": "2026-05-07T12:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052367797439857139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1834507955804536833",
+          "start": 0,
+          "username": "qianye_zhenyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052367797439857139",
+    "in_reply_to_user_id": "1834507955804536833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052364756632182985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianye_zhenyu 好美萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052364733982875650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt22gaWoAIDhNv.jpg",
+        "width": 1714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2052364756632182985",
+        "created_at": "2026-05-07T12:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052367797439857139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834507955804536833",
+              "start": 0,
+              "username": "qianye_zhenyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052367797439857139",
+        "in_reply_to_user_id": "1834507955804536833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052364756632182985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye_zhenyu 好美萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052364733982875650"
+          ]
+        },
+        "author_id": "1834507955804536833",
+        "conversation_id": "2052364756632182985",
+        "created_at": "2026-05-07T12:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052364756632182985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RKAuKFG9PP",
+              "end": 55,
+              "expanded_url": "https://x.com/qianye_zhenyu/status/2052364756632182985/photo/1",
+              "media_key": "3_2052364733982875650",
+              "start": 32,
+              "url": "https://t.co/RKAuKFG9PP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052364756632182985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三个月没画画。感觉自己已经废了🫠\n今天刚画的草稿，真的拉完了😭 https://t.co/RKAuKFG9PP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 277,
+          "like_count": 4475,
+          "listed_count": 1,
+          "media_count": 729,
+          "tweet_count": 3694
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生再次复活！\n不喜欢被别人贴上标签//喜欢一个人安静//路人勿扰请谅解//\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "pinned_tweet_id": "2051680473718346218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 1075,
+          "like_count": 32322,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 726
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      }
+    ]
+  }
+}

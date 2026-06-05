@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2046188073382498333",
+    "created_at": "2026-04-21T11:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T12:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046557733332341227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1839085606573637632",
+          "start": 0,
+          "username": "qii1969243"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046557733332341227",
+    "in_reply_to_user_id": "1839085606573637632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046188073382498333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qii1969243 芒果真的很好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2046188073382498333",
+        "created_at": "2026-04-21T11:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046557733332341227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "qii1969243"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046557733332341227",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046188073382498333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qii1969243 芒果真的很好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2046188073382498333",
+        "created_at": "2026-04-20T11:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046188073382498333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qii1969243/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/qii1969243/status/2044286004480327803",
+              "start": 10,
+              "url": "https://t.co/iOZnAhbKX9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046188073382498333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044286004480327803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯现在多了个吃芒果 https://t.co/iOZnAhbKX9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2046548745811382505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 220,
+          "like_count": 3081,
+          "listed_count": 1,
+          "media_count": 655,
+          "tweet_count": 2999
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2044769767119270351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039490693140549632/hYgO0Ks5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 285,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1140
+        },
+        "username": "qii1969243",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972343242852311040"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1972343253946273989",
+    "created_at": "2025-09-28T16:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T17:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972343253946273989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oMuKKuYFnS",
+          "end": 212,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1972343253946273989/photo/1",
+          "media_key": "3_1972343242852311040",
+          "start": 189,
+          "url": "https://t.co/oMuKKuYFnS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972343253946273989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "*****        要哭了已经\n       我的\n                    耳  木几（7点9买的）\n         又      不      见      了\n读一年大学阵亡  三个【!!!】我\n      真的 『累」了    -**\n                     抢走所有人的耳机充电仓\n大学就是：\n        机不可失失不再来 https://t.co/oMuKKuYFnS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1972343242852311040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G18rur1aoAAnS7W.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972343242852311040"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1972343253946273989",
+        "created_at": "2025-09-28T16:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T17:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972343253946273989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMuKKuYFnS",
+              "end": 212,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1972343253946273989/photo/1",
+              "media_key": "3_1972343242852311040",
+              "start": 189,
+              "url": "https://t.co/oMuKKuYFnS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972343253946273989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "*****        要哭了已经\n       我的\n                    耳  木几（7点9买的）\n         又      不      见      了\n读一年大学阵亡  三个【!!!】我\n      真的 『累」了    -**\n                     抢走所有人的耳机充电仓\n大学就是：\n        机不可失失不再来 https://t.co/oMuKKuYFnS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 154,
+          "like_count": 408,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1154
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

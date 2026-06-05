@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2050937734043488600",
+    "created_at": "2026-05-03T14:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050950562888462349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1634598602126540800",
+          "start": 0,
+          "username": "234qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050950562888462349",
+    "in_reply_to_user_id": "1634598602126540800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050937734043488600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@234qaq *拍屁股"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48250,
+        "height": 1280,
+        "media_key": "7_2050937657824571392",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050937657824571392/pu/img/Fd7Uwu2sImSgw-or.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050937657824571392/pu/vid/avc1/320x568/tFDnlD49xsHGlyM7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050937657824571392/pu/vid/avc1/480x852/uys4eeCDF8wsAEKD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050937657824571392/pu/vid/avc1/720x1280/U840jzlB6sjlUeXL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050937657824571392/pu/pl/0oaQ2jyiOJSueCwm.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2050937734043488600",
+        "created_at": "2026-05-03T14:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050950562888462349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1634598602126540800",
+              "start": 0,
+              "username": "234qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050950562888462349",
+        "in_reply_to_user_id": "1634598602126540800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050937734043488600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@234qaq *拍屁股"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050937657824571392"
+          ]
+        },
+        "author_id": "1634598602126540800",
+        "conversation_id": "2050937734043488600",
+        "created_at": "2026-05-03T13:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050937734043488600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CaCeZRqQ4Y",
+              "end": 31,
+              "expanded_url": "https://x.com/234qaq/status/2050937734043488600/video/1",
+              "media_key": "7_2050937657824571392",
+              "start": 8,
+              "url": "https://t.co/CaCeZRqQ4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050937734043488600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水水被我摸屁屁 https://t.co/CaCeZRqQ4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 237,
+          "like_count": 3692,
+          "listed_count": 1,
+          "media_count": 705,
+          "tweet_count": 3382
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T16:54:16.000Z",
+        "description": "喜欢小猫 🚪0/9999/99999/   匿名问我问题吧https://t.co/Xs4wUELEBh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/23465562",
+                "end": 52,
+                "expanded_url": "https://ngl.link/23465562",
+                "start": 29,
+                "url": "https://t.co/Xs4wUELEBh"
+              }
+            ]
+          }
+        },
+        "id": "1634598602126540800",
+        "name": "3222号工具人",
+        "pinned_tweet_id": "2043922979449634834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004859859259568128/sGFfmyVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 208,
+          "like_count": 15133,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 2548
+        },
+        "username": "234qaq",
+        "verified": false
+      }
+    ]
+  }
+}

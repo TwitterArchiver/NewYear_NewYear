@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972836658438623232"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1972836669499023445",
+    "created_at": "2025-09-30T01:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T02:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972836669499023445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kNIJLRt8LJ",
+          "end": 29,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1972836669499023445/photo/1",
+          "media_key": "3_1972836658438623232",
+          "start": 6,
+          "url": "https://t.co/kNIJLRt8LJ"
+        },
+        {
+          "display_url": "x.com/CelestialSayuk…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/CelestialSayuki/status/1972617169600188463",
+          "start": 30,
+          "url": "https://t.co/I8G3qAc7ek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972836669499023445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972617169600188463",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太坏了这也 https://t.co/kNIJLRt8LJ https://t.co/I8G3qAc7ek"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_1972836658438623232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2DsfQIaUAATnE5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1208,
+        "media_key": "3_1972617162092371968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Ak24ha4AALdkC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972836658438623232"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1972836669499023445",
+        "created_at": "2025-09-30T01:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T02:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972836669499023445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kNIJLRt8LJ",
+              "end": 29,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1972836669499023445/photo/1",
+              "media_key": "3_1972836658438623232",
+              "start": 6,
+              "url": "https://t.co/kNIJLRt8LJ"
+            },
+            {
+              "display_url": "x.com/CelestialSayuk…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/CelestialSayuki/status/1972617169600188463",
+              "start": 30,
+              "url": "https://t.co/I8G3qAc7ek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972836669499023445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972617169600188463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太坏了这也 https://t.co/kNIJLRt8LJ https://t.co/I8G3qAc7ek"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972617162092371968"
+          ]
+        },
+        "author_id": "1877920276316585984",
+        "conversation_id": "1972617169600188463",
+        "created_at": "2025-09-29T10:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T11:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972617169600188463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9DKhzHZfvz",
+              "end": 25,
+              "expanded_url": "https://x.com/CelestialSayuki/status/1972617169600188463/photo/1",
+              "media_key": "3_1972617162092371968",
+              "start": 2,
+              "url": "https://t.co/9DKhzHZfvz"
+            },
+            {
+              "display_url": "x.com/in_life_d/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/in_life_d/status/1971438840515879218",
+              "start": 26,
+              "url": "https://t.co/fgf8m2NkzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972617169600188463",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971438840515879218",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱 https://t.co/9DKhzHZfvz https://t.co/fgf8m2NkzG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 156,
+          "like_count": 444,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 1188
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T03:27:49.000Z",
+        "description": "19岁 | 摆烂大学生 | UESTC | Arcaea | https://t.co/VMTivG91k7 维护者 | 想找对象 | 发些日常 | 想和大家做朋友❤️ | 无🍥不术mtf (心理上可能是)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "infodrop.cn",
+                "end": 54,
+                "expanded_url": "http://infodrop.cn",
+                "start": 31,
+                "url": "https://t.co/VMTivG91k7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "infodrop.cn",
+                "end": 23,
+                "expanded_url": "http://infodrop.cn",
+                "start": 0,
+                "url": "https://t.co/VMTivG91k7"
+              }
+            ]
+          }
+        },
+        "id": "1877920276316585984",
+        "location": " Celestial Ethereal Labs",
+        "name": "Celestial紗雪",
+        "pinned_tweet_id": "1967835108939010229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879836377480900608/zKNfkNH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 54,
+          "like_count": 486,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1140
+        },
+        "url": "https://t.co/VMTivG91k7",
+        "username": "CelestialSayuki",
+        "verified": false
+      }
+    ]
+  }
+}

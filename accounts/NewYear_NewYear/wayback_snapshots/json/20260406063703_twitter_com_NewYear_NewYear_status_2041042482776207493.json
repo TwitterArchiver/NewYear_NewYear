@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2041032006218420399",
+    "created_at": "2026-04-06T06:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041042482776207493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1758399635733798912",
+          "start": 0,
+          "username": "wdlyrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041042482776207493",
+    "in_reply_to_user_id": "1758399635733798912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041034743077302753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdlyrg 砸你的猪脑🤫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 154,
+        "media_key": "16_2041034723389292544",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFM2RF3bQAAHNlr.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFM2RF3bQAAHNlr.mp4"
+          }
+        ],
+        "width": 204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2041032006218420399",
+        "created_at": "2026-04-06T06:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041042482776207493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1758399635733798912",
+              "start": 0,
+              "username": "wdlyrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041042482776207493",
+        "in_reply_to_user_id": "1758399635733798912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041034743077302753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdlyrg 砸你的猪脑🤫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2041034723389292544"
+          ]
+        },
+        "author_id": "1758399635733798912",
+        "conversation_id": "2041032006218420399",
+        "created_at": "2026-04-06T06:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041034743077302753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sJ6Z6teEOk",
+              "end": 49,
+              "expanded_url": "https://x.com/wdlyrg/status/2041034743077302753/photo/1",
+              "media_key": "16_2041034723389292544",
+              "start": 26,
+              "url": "https://t.co/sJ6Z6teEOk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041034743077302753",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041032006218420399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 拍出来看着像冰雹 https://t.co/sJ6Z6teEOk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "EVERYWHERE",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 206,
+          "like_count": 2363,
+          "listed_count": 1,
+          "media_count": 588,
+          "tweet_count": 2591
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T07:56:20.000Z",
+        "description": "",
+        "id": "1758399635733798912",
+        "name": "wdlyrg",
+        "pinned_tweet_id": "1949960480191131693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768523202798780416/oMqgshRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 507,
+          "like_count": 255,
+          "listed_count": 1,
+          "media_count": 12268,
+          "tweet_count": 19524
+        },
+        "username": "wdlyrg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1990221527015387136"
+      ],
+      "media_source_tweet_id": [
+        "1990221565183578224"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1990616245734117787",
+    "created_at": "2025-11-18T03:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T04:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990616245734117787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1453792596816498689",
+          "start": 3,
+          "username": "stoyanovStoya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MuAF8nNQuC",
+          "end": 42,
+          "expanded_url": "https://x.com/stoyanovStoya/status/1990221565183578224/video/1",
+          "media_key": "7_1990221527015387136",
+          "start": 19,
+          "url": "https://t.co/MuAF8nNQuC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990616245734117787",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 317
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990221565183578224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stoyanovStoya: https://t.co/MuAF8nNQuC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7987,
+        "height": 1280,
+        "media_key": "7_1990221527015387136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1990221527015387136/pu/img/XRsjS__h0JAotHEd.jpg",
+        "public_metrics": {
+          "view_count": 67051
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990221527015387136/pu/vid/avc1/320x568/oz5OM8RhWMpF9rm5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990221527015387136/pu/vid/avc1/480x852/MtzBXcLFfmd8PDC_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990221527015387136/pu/vid/avc1/720x1280/Q7-jQJil-ONsgR1Y.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1990221527015387136/pu/pl/NuTMhFFL2_tLZgZw.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1990221527015387136"
+          ],
+          "media_source_tweet_id": [
+            "1990221565183578224"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1990616245734117787",
+        "created_at": "2025-11-18T03:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T04:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990616245734117787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1453792596816498689",
+              "start": 3,
+              "username": "stoyanovStoya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MuAF8nNQuC",
+              "end": 42,
+              "expanded_url": "https://x.com/stoyanovStoya/status/1990221565183578224/video/1",
+              "media_key": "7_1990221527015387136",
+              "start": 19,
+              "url": "https://t.co/MuAF8nNQuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990616245734117787",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 317
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990221565183578224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stoyanovStoya: https://t.co/MuAF8nNQuC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1990221527015387136"
+          ]
+        },
+        "author_id": "1453792596816498689",
+        "conversation_id": "1990221565183578224",
+        "created_at": "2025-11-17T00:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T01:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990221565183578224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MuAF8nNQuC",
+              "end": 23,
+              "expanded_url": "https://x.com/stoyanovStoya/status/1990221565183578224/video/1",
+              "media_key": "7_1990221527015387136",
+              "start": 0,
+              "url": "https://t.co/MuAF8nNQuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990221565183578224",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 390,
+          "impression_count": 176699,
+          "like_count": 3002,
+          "quote_count": 12,
+          "reply_count": 34,
+          "retweet_count": 317
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MuAF8nNQuC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 165,
+          "like_count": 912,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 1598
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T18:35:54.000Z",
+        "description": "信猫皇得冻干、得罐罐、得猫条、得水牛/\n早猫晚猫/猫睡时看人类/严格遵守陛下作息时间/大内总管李公公谨遵陛下圣旨发布推特/需要回关的请留言/找陛下请 問大厨小三花🐱“陛下在寢宮還是在禦膳房？”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com",
+                "end": 23,
+                "expanded_url": "https://youtube.com",
+                "start": 0,
+                "url": "https://t.co/84jCq8brwL"
+              }
+            ]
+          }
+        },
+        "id": "1453792596816498689",
+        "location": "Taoyuan County, Taiwan",
+        "name": "🙇‍♀️貓皇陛下🙇‍♀️",
+        "pinned_tweet_id": "1990221565183578224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934943728839360512/bEM1_xpM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12123,
+          "following_count": 1117,
+          "like_count": 74293,
+          "listed_count": 50,
+          "media_count": 4477,
+          "tweet_count": 8242
+        },
+        "url": "https://t.co/84jCq8brwL",
+        "username": "stoyanovStoya",
+        "verified": false
+      }
+    ]
+  }
+}

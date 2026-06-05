@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1965614116162470013",
+    "created_at": "2025-09-10T05:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T06:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965653522265096642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847153221900685312",
+          "start": 0,
+          "username": "weiheyaokanwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965653522265096642",
+    "in_reply_to_user_id": "1847153221900685312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965614116162470013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiheyaokanwo 我的这种幻想最后会因为想到这样死去会给房东带来麻烦然后结束，活着已经麻烦很多人了，死了不想再这样了🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1965614116162470013",
+        "created_at": "2025-09-10T05:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T06:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965653522265096642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847153221900685312",
+              "start": 0,
+              "username": "weiheyaokanwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965653522265096642",
+        "in_reply_to_user_id": "1847153221900685312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965614116162470013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiheyaokanwo 我的这种幻想最后会因为想到这样死去会给房东带来麻烦然后结束，活着已经麻烦很多人了，死了不想再这样了🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847153221900685312",
+        "conversation_id": "1965614116162470013",
+        "created_at": "2025-09-10T03:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T04:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965614116162470013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965614116162470013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我幻想了一千遍在自己的出租屋里悄悄的自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 150,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 724
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "病み垢/陰キャ 剥离表达欲中/提问箱: https://t.co/MhyZBZnGpQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/noi48823",
+                "end": 43,
+                "expanded_url": "https://ngl.link/noi48823",
+                "start": 20,
+                "url": "https://t.co/MhyZBZnGpQ"
+              }
+            ]
+          }
+        },
+        "id": "1847153221900685312",
+        "location": "不约 ",
+        "name": "匿名同学@提不起劲",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927445670220247040/w5rEe2HV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 520,
+          "like_count": 1197,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 2206
+        },
+        "username": "weiheyaokanwo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2041840998968651779"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2041841076697493996",
+    "created_at": "2026-04-08T11:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T12:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041841076697493996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F7MljsNU2e",
+          "end": 42,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2041841076697493996/video/1",
+          "media_key": "13_2041840998968651779",
+          "start": 19,
+          "url": "https://t.co/F7MljsNU2e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041841076697493996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的网站的留言板，到时候欢迎大家来玩 https://t.co/F7MljsNU2e"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21066,
+        "height": 1256,
+        "media_key": "13_2041840998968651779",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041840998968651779/img/Qoxa8Sk7Oixcm4HQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041840998968651779/vid/avc1/320x470/AziRFb9oq6QLjsbC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041840998968651779/vid/avc1/480x706/bKH4YKoOmcutJWqh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041840998968651779/vid/avc1/720x1060/n_FFjA4AzCTHsSh2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041840998968651779/pl/wwqHQIxPi3FOfZqQ.m3u8?tag=14"
+          }
+        ],
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041840998968651779"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2041841076697493996",
+        "created_at": "2026-04-08T11:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041841076697493996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F7MljsNU2e",
+              "end": 42,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2041841076697493996/video/1",
+              "media_key": "13_2041840998968651779",
+              "start": 19,
+              "url": "https://t.co/F7MljsNU2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041841076697493996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的网站的留言板，到时候欢迎大家来玩 https://t.co/F7MljsNU2e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 204,
+          "like_count": 2467,
+          "listed_count": 1,
+          "media_count": 600,
+          "tweet_count": 2662
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

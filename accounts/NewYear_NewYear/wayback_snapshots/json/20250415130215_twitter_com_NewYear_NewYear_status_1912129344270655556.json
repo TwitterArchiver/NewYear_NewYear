@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1911363294260302058",
+    "created_at": "2025-04-15T13:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T14:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912129344270655556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1823898821673541633",
+          "start": 0,
+          "username": "BengBengChuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912129344270655556",
+    "in_reply_to_user_id": "1823898821673541633",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911363294260302058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BengBengChuang neko～   ᯠ _   ̫  _ ᯄ ੭"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1911363294260302058].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1911363294260302058",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1911363294260302058"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1911363294260302058",
+        "created_at": "2025-04-15T13:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T14:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912129344270655556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1823898821673541633",
+              "start": 0,
+              "username": "BengBengChuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912129344270655556",
+        "in_reply_to_user_id": "1823898821673541633",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911363294260302058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BengBengChuang neko～   ᯠ _   ̫  _ ᯄ ੭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福",
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850587758617890816/1iNTpnM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 128,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 74
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T01:45:46.000Z",
+        "description": "重生之我在X写日记/infp-t/记录向碎碎念/自言自语胡言乱语/牢骚吐槽/私信只回眼熟 意义不明不像活人不回/骚扰拉黑/不互fo/我是弱智\n我要散发负面情绪啊啊啊（话多慎关\n我要发很多很多的牢骚，（可以叫我骨头🦴",
+        "id": "1823898821673541633",
+        "location": "自由岛",
+        "name": "蹦蹦床🦴",
+        "pinned_tweet_id": "1910144273401684062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823933164466921474/W7eJZZGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 101,
+          "like_count": 465,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1893
+        },
+        "username": "BengBengChuang",
+        "verified": false
+      }
+    ]
+  }
+}

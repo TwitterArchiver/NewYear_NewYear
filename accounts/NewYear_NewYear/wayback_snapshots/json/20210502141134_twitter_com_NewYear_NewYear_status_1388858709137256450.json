@@ -1,0 +1,328 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun May 02 14:11:34 +0000 2021",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1232917536569622528,
+        "id_str": "1232917536569622528",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "다미부 🧬",
+        "screen_name": "godyedam0507"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1388858709137256450,
+  "id_str": "1388858709137256450",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "th",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 02 13:27:58 +0000 2021",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1388847734644350976",
+          "indices": [
+            116,
+            139
+          ],
+          "url": "https://t.co/PwOAfyHCLo"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        173
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/3Bd9bUUxLi",
+            "expanded_url": "https://twitter.com/godyedam0507/status/1388847734644350976/video/1",
+            "id": 1388847701236740098,
+            "id_str": "1388847701236740098",
+            "indices": [
+              174,
+              197
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1388847701236740098/pu/img/gKtg8Zbh_aXz6YG8.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1388847701236740098/pu/img/gKtg8Zbh_aXz6YG8.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/3Bd9bUUxLi",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 15485,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1388847701236740098/pu/vid/1280x720/L4hcFV8Xv_K-5NOC.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1388847701236740098/pu/pl/mAbDVQYQYc4gUm_P.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1388847701236740098/pu/vid/480x270/mi5A5xXIXpNiRRfv.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1388847701236740098/pu/vid/640x360/wzjXZZUnan8UU7A7.mp4?tag=12"
+                }
+              ]
+            }
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/3Bd9bUUxLi",
+            "expanded_url": "https://twitter.com/godyedam0507/status/1388847734644350976/video/1",
+            "id": 1388847701236740098,
+            "id_str": "1388847701236740098",
+            "indices": [
+              174,
+              197
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1388847701236740098/pu/img/gKtg8Zbh_aXz6YG8.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1388847701236740098/pu/img/gKtg8Zbh_aXz6YG8.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/3Bd9bUUxLi",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 15485,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1388847701236740098/pu/vid/1280x720/L4hcFV8Xv_K-5NOC.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1388847701236740098/pu/pl/mAbDVQYQYc4gUm_P.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1388847701236740098/pu/vid/480x270/mi5A5xXIXpNiRRfv.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1388847701236740098/pu/vid/640x360/wzjXZZUnan8UU7A7.mp4?tag=12"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "full_text": "คุณเค้าบอกว่าตอนประถมเคยชอบน้องเยดัม แล้วได้เจอน้องที่รรบ่อยมาก คุณครูสอนดนตรีรู้ก็เลยจัดให้นั่งใกล้กัน ได้คุยแล้วก็ได้ถ่ายรูปด้วย ตอนนั้นเป็นช่วงเวลาที่ตื่นเต้นที่สุดเลย 🥺🥺 https://t.co/3Bd9bUUxLi"
+    },
+    "favorite_count": 123,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1388847734644350976,
+    "id_str": "1388847734644350976",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "th",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 271,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "คุณเค้าบอกว่าตอนประถมเคยชอบน้องเยดัม แล้วได้เจอน้องที่รรบ่อยมาก คุณครูสอนดนตรีรู้ก็เลยจัดให้นั่งใกล้กัน ได้คุยแล้ว… https://t.co/PwOAfyHCLo",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 27 06:37:14 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "대한민국 3 해 바다 1.동해 2.남해 3.방예담 사랑해❣️ @treasuremembers ෆ #예담아너만봐 ෆ",
+      "favourites_count": 21770,
+      "follow_request_sent": null,
+      "followers_count": 2057,
+      "following": null,
+      "friends_count": 237,
+      "geo_enabled": true,
+      "id": 1232917536569622528,
+      "id_str": "1232917536569622528",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 6,
+      "location": "found my special TREASURE ✦.ᐟ",
+      "name": "다미부 🧬",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232917536569622528/1615646437",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1348935456986042371/BkrT5upy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1348935456986042371/BkrT5upy_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "godyedam0507",
+      "statuses_count": 22790,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://youtu.be/p9LLoijPQfg",
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @godyedam0507: คุณเค้าบอกว่าตอนประถมเคยชอบน้องเยดัม แล้วได้เจอน้องที่รรบ่อยมาก คุณครูสอนดนตรีรู้ก็เลยจัดให้นั่งใกล้กัน ได้คุยแล้วก็ได้ถ่…",
+  "timestamp_ms": "1619964694662",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "น้องมาร์คของมัมหมี น้องอาซาฮิของมัมหมี น้องเจคของอุนแม่",
+    "favourites_count": 5955,
+    "follow_request_sent": null,
+    "followers_count": 81,
+    "following": null,
+    "friends_count": 85,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "แฮปปี้นิวเยียร์แห่งจักรวาล",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1388572592311726080/SzYt1Eg7_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388572592311726080/SzYt1Eg7_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 8036,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1981397693483405759",
+    "created_at": "2025-10-23T16:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T17:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981397693483405759"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1981397693483405759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我把上一条推文的照片发了动态，视奸哥看到就特别大声的说“你发这个干嘛啊，什么意思”然后就在笑我\n他笑不笑其实无所谓，主要是现在已经凌晨十二点半了……寝室里面安静了很久，有一个舍友已经在睡觉了\n他一直这样没素质🙏🏻\n所以我一直想出去租房子住…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1981397693483405759",
+        "created_at": "2025-10-23T16:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T17:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981397693483405759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981397693483405759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把上一条推文的照片发了动态，视奸哥看到就特别大声的说“你发这个干嘛啊，什么意思”然后就在笑我\n他笑不笑其实无所谓，主要是现在已经凌晨十二点半了……寝室里面安静了很久，有一个舍友已经在睡觉了\n他一直这样没素质🙏🏻\n所以我一直想出去租房子住…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 158,
+          "like_count": 699,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 1398
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

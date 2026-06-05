@@ -1,0 +1,102 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898577571194834945"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1898577577901445447",
+    "created_at": "2025-03-09T03:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T04:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898577577901445447"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 1,
+          "normalized_text": "尾巴",
+          "probability": 0.7993,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yiaONDxmlI",
+          "end": 26,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1898577577901445447/photo/1",
+          "media_key": "3_1898577571194834945",
+          "start": 3,
+          "url": "https://t.co/yiaONDxmlI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898577577901445447",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "尾巴 https://t.co/yiaONDxmlI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898577577901445447].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898577577901445447",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898577577901445447"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1623,
+        "media_key": "3_1898577571194834945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlkaPe2XkAE6Qjy.jpg",
+        "width": 1220
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福",
+        "id": "1850587533924876288",
+        "name": "New&Year",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850587758617890816/1iNTpnM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 95,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 17
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

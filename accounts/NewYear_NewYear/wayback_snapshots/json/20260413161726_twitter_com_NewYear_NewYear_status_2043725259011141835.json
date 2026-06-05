@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2043710476874559988",
+    "created_at": "2026-04-13T16:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T17:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043725259011141835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1816053084164087813",
+          "start": 0,
+          "username": "Haiku_Hikari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043725259011141835",
+    "in_reply_to_user_id": "1816053084164087813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043710476874559988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haiku_Hikari 包的包的，想赚钱可以搞小社区（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2043710436261203969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFy30FEbkAE9o2R.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2043710476874559988",
+        "created_at": "2026-04-13T16:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043725259011141835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1816053084164087813",
+              "start": 0,
+              "username": "Haiku_Hikari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043725259011141835",
+        "in_reply_to_user_id": "1816053084164087813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043710476874559988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haiku_Hikari 包的包的，想赚钱可以搞小社区（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043710436261203969"
+          ]
+        },
+        "author_id": "1816053084164087813",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043710476874559988",
+        "created_at": "2026-04-13T15:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043710476874559988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/88XlOewPPa",
+              "end": 41,
+              "expanded_url": "https://x.com/Haiku_Hikari/status/2043710476874559988/photo/1",
+              "media_key": "3_2043710436261203969",
+              "start": 18,
+              "url": "https://t.co/88XlOewPPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043710476874559988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们说这个相机集邮app有没有搞头 https://t.co/88XlOewPPa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 202,
+          "like_count": 2539,
+          "listed_count": 1,
+          "media_count": 618,
+          "tweet_count": 2717
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T10:09:37.000Z",
+        "description": "我活不过这个月",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vlnc.top/lastfm",
+                "end": 23,
+                "expanded_url": "https://vlnc.top/lastfm",
+                "start": 0,
+                "url": "https://t.co/Y5PZPszThH"
+              }
+            ]
+          }
+        },
+        "id": "1816053084164087813",
+        "location": "Earth",
+        "name": "企饿饿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042418874331906048/jI6kfSmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 286,
+          "like_count": 29692,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/Y5PZPszThH",
+        "username": "Haiku_Hikari",
+        "verified": false
+      }
+    ]
+  }
+}

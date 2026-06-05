@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2010378705387106810",
+    "created_at": "2026-01-11T16:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T17:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010382346680426856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1605245047590780928",
+          "start": 0,
+          "username": "djx00919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010382346680426856",
+    "in_reply_to_user_id": "1605245047590780928",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010381571459858640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@djx00919 😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2010378705387106810",
+        "created_at": "2026-01-11T16:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T17:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010382346680426856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1605245047590780928",
+              "start": 0,
+              "username": "djx00919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010382346680426856",
+        "in_reply_to_user_id": "1605245047590780928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010381571459858640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@djx00919 😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605245047590780928",
+        "conversation_id": "2010378705387106810",
+        "created_at": "2026-01-11T16:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T17:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010381571459858640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010381571459858640",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010378839936078052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 很有艺术感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 182,
+          "like_count": 1377,
+          "listed_count": 1,
+          "media_count": 460,
+          "tweet_count": 1943
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T16:53:45.000Z",
+        "description": "2009/8/19男\n推特经常炸掉喵，梯子也没问题，根本不知道什么原因。想聊天的话可以私信喵 多和我互fo~\n||||||烟鬼 od 约炮 卖淫 有主的请远离我",
+        "id": "1605245047590780928",
+        "location": "北京",
+        "name": "uosɐɾ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784751371708944384/zJKEhXae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 1970,
+          "like_count": 139210,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 6411
+        },
+        "username": "djx00919",
+        "verified": false
+      }
+    ]
+  }
+}

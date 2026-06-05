@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1981052390343397729",
+    "created_at": "2025-10-22T17:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T18:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981052390343397729"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1981052390343397729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我其实很讨厌我妈他们给我谈一些工作方面的问题\n他们问我之前其实已经有一个答案了\n给我说我也不能帮到忙，只能让我又多一项要焦虑的事情\n我很小的时候我的妈妈就一直在给我说家里的财政情况，一直到现在\n这让我进入大学后极度的想要自己赚到钱供养自己，但是很难平衡\n我不想为现实生活发愁……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1981052390343397729",
+        "created_at": "2025-10-22T17:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T18:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981052390343397729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981052390343397729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实很讨厌我妈他们给我谈一些工作方面的问题\n他们问我之前其实已经有一个答案了\n给我说我也不能帮到忙，只能让我又多一项要焦虑的事情\n我很小的时候我的妈妈就一直在给我说家里的财政情况，一直到现在\n这让我进入大学后极度的想要自己赚到钱供养自己，但是很难平衡\n我不想为现实生活发愁……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 159,
+          "like_count": 688,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 1386
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

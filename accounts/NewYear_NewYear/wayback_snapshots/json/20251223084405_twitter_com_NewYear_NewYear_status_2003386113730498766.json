@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2003307744070172672"
+      ],
+      "media_source_tweet_id": [
+        "2003307799787552870"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2003386113730498766",
+    "created_at": "2025-12-23T08:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T09:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003386113730498766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1638262165269368846",
+          "start": 3,
+          "username": "SteveLovesAmmo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ANAob4Ldcq",
+          "end": 68,
+          "expanded_url": "https://x.com/SteveLovesAmmo/status/2003307799787552870/video/1",
+          "media_key": "13_2003307744070172672",
+          "start": 45,
+          "url": "https://t.co/ANAob4Ldcq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003386113730498766",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 246
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003307799787552870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SteveLovesAmmo: Quit hitting yourself 😂😂 https://t.co/ANAob4Ldcq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15667,
+        "height": 876,
+        "media_key": "13_2003307744070172672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003307744070172672/img/I2Q5ijaFZDVVGAG6.jpg",
+        "public_metrics": {
+          "view_count": 239088
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003307744070172672/vid/avc1/320x438/Deqp4RD5-jrww1Ll.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003307744070172672/vid/avc1/480x656/9R7AfvIrsnpANFt6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003307744070172672/vid/avc1/640x876/3F_Yp4Cg4kHfOqpn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003307744070172672/pl/Kf8ZwG28OXaAdyaJ.m3u8?v=cfc"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003307744070172672"
+          ],
+          "media_source_tweet_id": [
+            "2003307799787552870"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2003386113730498766",
+        "created_at": "2025-12-23T08:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T09:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003386113730498766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1638262165269368846",
+              "start": 3,
+              "username": "SteveLovesAmmo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ANAob4Ldcq",
+              "end": 68,
+              "expanded_url": "https://x.com/SteveLovesAmmo/status/2003307799787552870/video/1",
+              "media_key": "13_2003307744070172672",
+              "start": 45,
+              "url": "https://t.co/ANAob4Ldcq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003386113730498766",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 246
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003307799787552870",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SteveLovesAmmo: Quit hitting yourself 😂😂 https://t.co/ANAob4Ldcq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003307744070172672"
+          ]
+        },
+        "author_id": "1638262165269368846",
+        "conversation_id": "2003307799787552870",
+        "created_at": "2025-12-23T03:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T04:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003307799787552870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ANAob4Ldcq",
+              "end": 48,
+              "expanded_url": "https://x.com/SteveLovesAmmo/status/2003307799787552870/video/1",
+              "media_key": "13_2003307744070172672",
+              "start": 25,
+              "url": "https://t.co/ANAob4Ldcq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003307799787552870",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 477,
+          "impression_count": 283648,
+          "like_count": 3851,
+          "quote_count": 10,
+          "reply_count": 17,
+          "retweet_count": 246
+        },
+        "reply_settings": "everyone",
+        "text": "Quit hitting yourself 😂😂 https://t.co/ANAob4Ldcq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 171,
+          "like_count": 1226,
+          "listed_count": 1,
+          "media_count": 421,
+          "tweet_count": 1799
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-21T19:32:01.000Z",
+        "description": "Freedom Extremist | Purple Heart Recipient | U.S. Army 2x Combat Veteran | 🎙️ Podcast with @lanativepatriot | #SpacesHost",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 121,
+                "start": 110,
+                "tag": "SpacesHost"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "lanativepatriot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@stevelovesamm…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@stevelovesammo?_t=ZT-8tHgi7ulSZS&_r=1",
+                "start": 0,
+                "url": "https://t.co/5sfQRDta65"
+              }
+            ]
+          }
+        },
+        "id": "1638262165269368846",
+        "location": "Texas, USA",
+        "name": "Steve 🇺🇸",
+        "pinned_tweet_id": "1971313542914556320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976645166078320640/bFOLUR-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477804,
+          "following_count": 20669,
+          "like_count": 83725,
+          "listed_count": 904,
+          "media_count": 12393,
+          "tweet_count": 55062
+        },
+        "url": "https://t.co/5sfQRDta65",
+        "username": "SteveLovesAmmo",
+        "verified": true
+      }
+    ]
+  }
+}

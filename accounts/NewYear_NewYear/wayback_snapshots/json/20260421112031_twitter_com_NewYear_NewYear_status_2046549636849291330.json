@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2046536300245950506",
+    "created_at": "2026-04-21T11:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T12:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046549636849291330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1353930508758085633",
+          "start": 0,
+          "username": "KagurazakaYuki_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046549636849291330",
+    "in_reply_to_user_id": "1353930508758085633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046536300245950506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaYuki_ 完全是成熟大姐姐来的🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2046536280130068482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbB510aIAI3K2d.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2046536300245950506",
+        "created_at": "2026-04-21T11:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046549636849291330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1353930508758085633",
+              "start": 0,
+              "username": "KagurazakaYuki_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046549636849291330",
+        "in_reply_to_user_id": "1353930508758085633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046536300245950506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaYuki_ 完全是成熟大姐姐来的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046536280130068482"
+          ]
+        },
+        "author_id": "1353930508758085633",
+        "conversation_id": "2046536300245950506",
+        "created_at": "2026-04-21T10:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046536300245950506"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "男生穿搭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/15tnrpP3yJ",
+              "end": 48,
+              "expanded_url": "https://x.com/KagurazakaYuki_/status/2046536300245950506/photo/1",
+              "media_key": "3_2046536280130068482",
+              "start": 25,
+              "url": "https://t.co/15tnrpP3yJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046536300245950506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 581,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了一条版型很好的裤子，就是肥了一点\n#男生穿搭 https://t.co/15tnrpP3yJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2046548745811382505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 219,
+          "like_count": 3047,
+          "listed_count": 1,
+          "media_count": 653,
+          "tweet_count": 2971
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T04:59:37.000Z",
+        "description": "愿我们都能达到理想的彼岸",
+        "id": "1353930508758085633",
+        "location": "China",
+        "name": "惑砂",
+        "pinned_tweet_id": "1761943590526427560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044958977822453760/Hx5XlT7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22735,
+          "following_count": 253,
+          "like_count": 620,
+          "listed_count": 114,
+          "media_count": 382,
+          "tweet_count": 1785
+        },
+        "username": "KagurazakaYuki_",
+        "verified": false
+      }
+    ]
+  }
+}

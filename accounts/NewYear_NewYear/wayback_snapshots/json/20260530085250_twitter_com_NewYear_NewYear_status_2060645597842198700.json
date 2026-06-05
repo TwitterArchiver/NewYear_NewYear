@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2060014787468415103",
+    "created_at": "2026-05-30T08:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060645597842198700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2019112285017632777",
+          "start": 0,
+          "username": "Nyx1131422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060645597842198700",
+    "in_reply_to_user_id": "2019112285017632777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060014787468415103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nyx1131422 好逆天好魔幻\n感觉中国本土的魔幻现实主义就是好些高中的一切"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2060014787468415103",
+        "created_at": "2026-05-30T08:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060645597842198700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2019112285017632777",
+              "start": 0,
+              "username": "Nyx1131422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060645597842198700",
+        "in_reply_to_user_id": "2019112285017632777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060014787468415103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nyx1131422 好逆天好魔幻\n感觉中国本土的魔幻现实主义就是好些高中的一切"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019112285017632777",
+        "conversation_id": "2060014787468415103",
+        "created_at": "2026-05-28T15:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060014787468415103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060014787468415103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠学校颁布雷霆新规定，晚自习四个小时不准抬头😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 442,
+          "like_count": 8577,
+          "listed_count": 1,
+          "media_count": 856,
+          "tweet_count": 5401
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T18:14:29.000Z",
+        "description": "这里是Nyx📍顺女\n泛性恋/日常碎碎念\n二次元鉴证摇滚都沾点\n请找我玩",
+        "id": "2019112285017632777",
+        "name": "Nyx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019114933687074816/-cV2hYOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 166,
+          "like_count": 1764,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 240
+        },
+        "username": "Nyx1131422",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038661053937221633"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2038661087063855388",
+    "created_at": "2026-03-30T16:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T17:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038661087063855388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9bs6Kt5yMr",
+          "end": 134,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2038661087063855388/photo/1",
+          "media_key": "3_2038661053937221633",
+          "start": 111,
+          "url": "https://t.co/9bs6Kt5yMr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038661087063855388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不行了我有点崩溃了大家\n我之前想买这个套餐，犹豫了好久下定决心打算点，但是当时太早了，买了也不太方便拿\n我想着过一会再点，这样回寝室就差不多到了，结果我刚刚看发现没有券了……变成了将近七十块\n（发生在3月30日晚十点） https://t.co/9bs6Kt5yMr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1039,
+        "media_key": "3_2038661053937221633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErHbWFaAAE3Sy1.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038661053937221633"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2038661087063855388",
+        "created_at": "2026-03-30T16:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038661087063855388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bs6Kt5yMr",
+              "end": 134,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2038661087063855388/photo/1",
+              "media_key": "3_2038661053937221633",
+              "start": 111,
+              "url": "https://t.co/9bs6Kt5yMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038661087063855388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了我有点崩溃了大家\n我之前想买这个套餐，犹豫了好久下定决心打算点，但是当时太早了，买了也不太方便拿\n我想着过一会再点，这样回寝室就差不多到了，结果我刚刚看发现没有券了……变成了将近七十块\n（发生在3月30日晚十点） https://t.co/9bs6Kt5yMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 196,
+          "like_count": 2100,
+          "listed_count": 1,
+          "media_count": 549,
+          "tweet_count": 2416
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

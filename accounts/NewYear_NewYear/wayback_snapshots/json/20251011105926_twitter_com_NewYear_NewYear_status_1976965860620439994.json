@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976965844782792705"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1976965860620439994",
+    "created_at": "2025-10-11T10:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T11:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976965860620439994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T8rCpYhSbN",
+          "end": 39,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/1976965860620439994/photo/1",
+          "media_key": "3_1976965844782792705",
+          "start": 16,
+          "url": "https://t.co/T8rCpYhSbN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976965860620439994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友第一次约，我真的没绷住（） https://t.co/T8rCpYhSbN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1483,
+        "media_key": "3_1976965844782792705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-X9h9bwAE6WCz.jpg",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976965844782792705"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1976965860620439994",
+        "created_at": "2025-10-11T10:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T11:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976965860620439994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8rCpYhSbN",
+              "end": 39,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/1976965860620439994/photo/1",
+              "media_key": "3_1976965844782792705",
+              "start": 16,
+              "url": "https://t.co/T8rCpYhSbN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976965860620439994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友第一次约，我真的没绷住（） https://t.co/T8rCpYhSbN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 159,
+          "like_count": 573,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 1311
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

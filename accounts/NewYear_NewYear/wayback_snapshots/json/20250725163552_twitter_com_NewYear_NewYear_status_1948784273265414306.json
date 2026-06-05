@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "1947718564519055465",
+    "created_at": "2025-07-25T16:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T17:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948784273265414306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910147922873966592",
+          "start": 0,
+          "username": "TGh005762340547"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948784273265414306",
+    "in_reply_to_user_id": "1910147922873966592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947917241120657809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TGh005762340547 太有生活了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "1947718564519055465",
+        "created_at": "2025-07-25T16:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T17:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948784273265414306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910147922873966592",
+              "start": 0,
+              "username": "TGh005762340547"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948784273265414306",
+        "in_reply_to_user_id": "1910147922873966592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947917241120657809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TGh005762340547 太有生活了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910147922873966592",
+        "conversation_id": "1947718564519055465",
+        "created_at": "2025-07-23T07:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T08:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947917241120657809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947917241120657809",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947718564519055465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 太带派了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n小号@ChushouGuandao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "ChushouGuandao"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "荒眼见山河",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 142,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 426
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T01:50:19.000Z",
+        "description": "",
+        "id": "1910147922873966592",
+        "name": "T Gh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910148304203382784/AEI0NPyO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 61,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 36
+        },
+        "username": "TGh005762340547",
+        "verified": false
+      }
+    ]
+  }
+}

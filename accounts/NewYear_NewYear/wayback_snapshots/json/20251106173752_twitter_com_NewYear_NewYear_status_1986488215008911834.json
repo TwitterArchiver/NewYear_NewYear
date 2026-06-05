@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964841582051368960"
+      ],
+      "media_source_tweet_id": [
+        "1964841633964490873"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1986488215008911834",
+    "created_at": "2025-11-06T17:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T18:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986488215008911834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935738584679825409",
+          "start": 3,
+          "username": "abyzowurawrr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vLX6D7MGtq",
+          "end": 72,
+          "expanded_url": "https://x.com/abyzowurawrr/status/1964841633964490873/photo/1",
+          "media_key": "3_1964841582051368960",
+          "start": 49,
+          "url": "https://t.co/vLX6D7MGtq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986488215008911834",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 252
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964841633964490873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abyzowurawrr: I want to take a pic like this https://t.co/vLX6D7MGtq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1986488215008911834].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1986488215008911834",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1986488215008911834"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 789,
+        "media_key": "3_1964841582051368960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0SFAjoWoAA6k4s.png",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964841582051368960"
+          ]
+        },
+        "author_id": "1935738584679825409",
+        "conversation_id": "1964841633964490873",
+        "created_at": "2025-09-08T00:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T01:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964841633964490873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vLX6D7MGtq",
+              "end": 54,
+              "expanded_url": "https://x.com/abyzowurawrr/status/1964841633964490873/photo/1",
+              "media_key": "3_1964841582051368960",
+              "start": 31,
+              "url": "https://t.co/vLX6D7MGtq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964841633964490873",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 19262,
+          "like_count": 937,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "I want to take a pic like this https://t.co/vLX6D7MGtq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 162,
+          "like_count": 829,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 1535
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T16:37:12.000Z",
+        "description": "my personal acc and reserve from - @girlslikegunss ͏ ͏͏ ͏ 🎃👻🩸💉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "girlslikegunss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/girlslikesnuff…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/girlslikesnuffmen/",
+                "start": 0,
+                "url": "https://t.co/TWYBQlTrJG"
+              }
+            ]
+          }
+        },
+        "id": "1935738584679825409",
+        "location": "LO/SER",
+        "name": "𝔞𝔱𝔞 abyzowu rawrr",
+        "pinned_tweet_id": "1975586258945523828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970933838764261377/Fa9NATwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3672,
+          "following_count": 220,
+          "like_count": 1312,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 860
+        },
+        "url": "https://t.co/TWYBQlTrJG",
+        "username": "abyzowurawrr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2024529274515181827",
+    "created_at": "2026-02-19T16:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024529274515181827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1132541109547278336",
+          "start": 3,
+          "username": "Hamsterie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024529274515181827",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2437
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024202255600144470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hamsterie: ∴｡　\n　･ﾟ*｡. \n　　･ *ﾟ\n　 ･ ﾟ*\n     ･｡     \n   *･｡\n      *.｡ \n           ｡･\n              °*. ﾟ｡\n                      °*.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2022358667723767808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDcfk4bgAAw0VI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2024529274515181827",
+        "created_at": "2026-02-19T16:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024529274515181827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1132541109547278336",
+              "start": 3,
+              "username": "Hamsterie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024529274515181827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2437
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024202255600144470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hamsterie: ∴｡　\n　･ﾟ*｡. \n　　･ *ﾟ\n　 ･ ﾟ*\n     ･｡     \n   *･｡\n      *.｡ \n           ｡･\n              °*. ﾟ｡\n                      °*.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022358667723767808"
+          ]
+        },
+        "author_id": "1132541109547278336",
+        "conversation_id": "2024202255600144470",
+        "created_at": "2026-02-18T19:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T20:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024202255600144470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTvae5oOvz",
+              "end": 227,
+              "expanded_url": "https://x.com/Hamsterie/status/2024202255600144470/photo/1",
+              "media_key": "3_2022358667723767808",
+              "start": 204,
+              "url": "https://t.co/lTvae5oOvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024202255600144470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 622,
+          "impression_count": 200473,
+          "like_count": 12613,
+          "quote_count": 47,
+          "reply_count": 6,
+          "retweet_count": 2437
+        },
+        "reply_settings": "everyone",
+        "text": "∴｡　\n　･ﾟ*｡. \n　　･ *ﾟ\n　 ･ ﾟ*\n     ･｡     \n   *･｡\n      *.｡ \n           ｡･\n              °*. ﾟ｡\n                      °*.\n                      ﾟ*.\n                 ｡｡ ･\n             ｡ ･ﾟ\n       ｡°*.\n   ｡*･｡ https://t.co/lTvae5oOvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 183,
+          "like_count": 1597,
+          "listed_count": 1,
+          "media_count": 505,
+          "tweet_count": 2119
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T06:56:56.000Z",
+        "description": "dm for removal // 削除はDMで // 삭제 원하면 DM 주세요 // DM p/ remover • business inquiries hamsteriebusiness@gmail.com",
+        "id": "1132541109547278336",
+        "name": "hamster",
+        "pinned_tweet_id": "1986059047305654556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1132543489953214464/Vjj2v_A-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122773,
+          "following_count": 1231,
+          "like_count": 5893,
+          "listed_count": 438,
+          "media_count": 6160,
+          "tweet_count": 6349
+        },
+        "username": "Hamsterie",
+        "verified": true
+      }
+    ]
+  }
+}

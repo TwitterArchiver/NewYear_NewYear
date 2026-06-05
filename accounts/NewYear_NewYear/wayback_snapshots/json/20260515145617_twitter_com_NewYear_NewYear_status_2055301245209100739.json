@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2055218400109216056",
+    "created_at": "2026-05-15T14:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055301245209100739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1742425805735735296",
+          "start": 0,
+          "username": "huan_yige"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055301245209100739",
+    "in_reply_to_user_id": "1742425805735735296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055288001513791842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huan_yige 好的咪✧٩(ˊωˋ*)و✧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2055218400109216056",
+        "created_at": "2026-05-15T14:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055301245209100739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1742425805735735296",
+              "start": 0,
+              "username": "huan_yige"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055301245209100739",
+        "in_reply_to_user_id": "1742425805735735296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055288001513791842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huan_yige 好的咪✧٩(ˊωˋ*)و✧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742425805735735296",
+        "conversation_id": "2055218400109216056",
+        "created_at": "2026-05-15T14:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055288001513791842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055288001513791842",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055278624014737444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 感觉你可以先试试搞一堆装饰品，洞洞鞋拆卸了之后基本上都一样，你可以多看看之后选一选"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 357,
+          "like_count": 6377,
+          "listed_count": 1,
+          "media_count": 766,
+          "tweet_count": 4289
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T06:01:09.000Z",
+        "description": "梦想是谈一个长久的恋爱/莫名其妙的碎碎念/随机在线（私信开放中ing）",
+        "id": "1742425805735735296",
+        "name": "涣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789911827914407936/TdOrYOCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 428
+        },
+        "username": "huan_yige",
+        "verified": false
+      }
+    ]
+  }
+}

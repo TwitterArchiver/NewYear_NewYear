@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1995047588471701504"
+      ],
+      "media_source_tweet_id": [
+        "1995047610005209416"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "1995403264742019161",
+    "created_at": "2025-12-01T08:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T09:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995403264742019161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1410890985538678784",
+          "start": 3,
+          "username": "ThePetsX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oiIbaN3GFG",
+          "end": 65,
+          "expanded_url": "https://x.com/ThePetsX/status/1995047610005209416/video/1",
+          "media_key": "7_1995047588471701504",
+          "start": 42,
+          "url": "https://t.co/oiIbaN3GFG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995403264742019161",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 377
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995047610005209416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ThePetsX: Don't talk to me, I'm angry https://t.co/oiIbaN3GFG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3577,
+        "height": 1280,
+        "media_key": "7_1995047588471701504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1995047588471701504/pu/img/nqrl9ag5ljB5ZOJh.jpg",
+        "public_metrics": {
+          "view_count": 13430
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995047588471701504/pu/vid/avc1/320x568/wAPrRivwZ6gvS9ed.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995047588471701504/pu/vid/avc1/480x852/eK4IihBN-1I-hyha.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995047588471701504/pu/vid/avc1/720x1280/zS5C-V-q0UngsuUT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1995047588471701504/pu/pl/KPSmiNK1FMcBrxEt.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1995047588471701504"
+          ],
+          "media_source_tweet_id": [
+            "1995047610005209416"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "1995403264742019161",
+        "created_at": "2025-12-01T08:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995403264742019161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1410890985538678784",
+              "start": 3,
+              "username": "ThePetsX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oiIbaN3GFG",
+              "end": 65,
+              "expanded_url": "https://x.com/ThePetsX/status/1995047610005209416/video/1",
+              "media_key": "7_1995047588471701504",
+              "start": 42,
+              "url": "https://t.co/oiIbaN3GFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995403264742019161",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 377
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995047610005209416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ThePetsX: Don't talk to me, I'm angry https://t.co/oiIbaN3GFG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1995047588471701504"
+          ]
+        },
+        "author_id": "1410890985538678784",
+        "conversation_id": "1995047610005209416",
+        "created_at": "2025-11-30T08:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T09:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995047610005209416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oiIbaN3GFG",
+              "end": 51,
+              "expanded_url": "https://x.com/ThePetsX/status/1995047610005209416/video/1",
+              "media_key": "7_1995047588471701504",
+              "start": 28,
+              "url": "https://t.co/oiIbaN3GFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995047610005209416",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 52933,
+          "like_count": 3307,
+          "quote_count": 25,
+          "reply_count": 16,
+          "retweet_count": 377
+        },
+        "reply_settings": "everyone",
+        "text": "Don't talk to me, I'm angry https://t.co/oiIbaN3GFG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "1900761743590404546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 165,
+          "like_count": 1035,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 1657
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-02T09:20:30.000Z",
+        "description": "Welcome to the positive side of 𝕏. Posting the most beautiful & Adorable pictures,videos of pets. 🦁🐯🐱🐶🐺🐻🐻‍❄️🐨🐼🦝🦊",
+        "id": "1410890985538678784",
+        "location": "DM FOR CREDIT OR REMOVEL ✉️",
+        "name": "The Pets 𝕏",
+        "pinned_tweet_id": "1994248046247596190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876704343052734464/N6IQSW7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30015,
+          "following_count": 3823,
+          "like_count": 203,
+          "listed_count": 128,
+          "media_count": 4794,
+          "tweet_count": 4813
+        },
+        "username": "ThePetsX",
+        "verified": true
+      }
+    ]
+  }
+}

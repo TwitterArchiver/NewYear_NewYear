@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2038583450572296429",
+    "created_at": "2026-03-30T11:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T12:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038583450572296429"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/2038583222070923281",
+          "start": 7,
+          "url": "https://t.co/lqidE1qzIy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038583450572296429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038583222070923281",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我咋这么脆弱 https://t.co/lqidE1qzIy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2038583450572296429",
+        "created_at": "2026-03-30T11:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038583450572296429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/2038583222070923281",
+              "start": 7,
+              "url": "https://t.co/lqidE1qzIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038583450572296429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038583222070923281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我咋这么脆弱 https://t.co/lqidE1qzIy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2038583222070923281",
+        "created_at": "2026-03-30T11:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038583222070923281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/2038581713392345554",
+              "start": 48,
+              "url": "https://t.co/YvjG1pSygk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038583222070923281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038581713392345554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为这个事我有一点崩溃，怎么这样，我好想吃但是我又不敢吃，为什么我会觉得在学校花钱比较多很罪恶 https://t.co/YvjG1pSygk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4fwms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4fwms"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2005898388710252762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 196,
+          "like_count": 2090,
+          "listed_count": 1,
+          "media_count": 547,
+          "tweet_count": 2406
+        },
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

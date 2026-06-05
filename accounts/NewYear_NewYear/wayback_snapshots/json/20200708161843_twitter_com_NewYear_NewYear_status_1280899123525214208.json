@@ -1,0 +1,272 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jul 08 16:18:43 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1152804864080015360,
+        "id_str": "1152804864080015360",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "˗ˏˋ✿sawaddeedyˎˊ˗",
+        "screen_name": "padtuuaann"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1280899123525214208,
+  "id_str": "1280899123525214208",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 08 13:13:54 +0000 2020",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1280852612066054145",
+          "indices": [
+            121,
+            144
+          ],
+          "url": "https://t.co/vtQ1ZgcYVW"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        161
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              146,
+              161
+            ],
+            "text": "HappyJaeminDay"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/To7rbrq0CQ",
+            "expanded_url": "https://twitter.com/padtuuaann/status/1280852612066054145/photo/1",
+            "id": 1280852600338800641,
+            "id_str": "1280852600338800641",
+            "indices": [
+              162,
+              185
+            ],
+            "media_url": "http://pbs.twimg.com/media/EcaAp1zUYAE1XQR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EcaAp1zUYAE1XQR.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/To7rbrq0CQ"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/To7rbrq0CQ",
+            "expanded_url": "https://twitter.com/padtuuaann/status/1280852612066054145/photo/1",
+            "id": 1280852600338800641,
+            "id_str": "1280852600338800641",
+            "indices": [
+              162,
+              185
+            ],
+            "media_url": "http://pbs.twimg.com/media/EcaAp1zUYAE1XQR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EcaAp1zUYAE1XQR.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/To7rbrq0CQ"
+          }
+        ]
+      },
+      "full_text": "✨give away ✨\nPls rt  &amp; show this tweet 🚃🤸🏻‍♂️\n🏄🏻‍♂️postcard 50ea\n🧵photo id. 50es\n🍊siam \n🍎date/time : 15aug/tba\n\nรอบไปรไว้เราจะมาแจ้งอีกทีนะคะ\n#HappyJaeminDay https://t.co/To7rbrq0CQ"
+    },
+    "favorite_count": 55,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1280852612066054145,
+    "id_str": "1280852612066054145",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "quote_count": 2,
+    "reply_count": 13,
+    "retweet_count": 155,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "✨give away ✨\nPls rt  &amp; show this tweet 🚃🤸🏻‍♂️\n🏄🏻‍♂️postcard 50ea\n🧵photo id. 50es\n🍊siam \n🍎date/time : 15aug/tba\n\nรอบ… https://t.co/vtQ1ZgcYVW",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Jul 21 04:57:52 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "✋🏻🚃👀🍋🛌d̆̈y̆̈ r̆̈j̆̈ j̆̈m̆̈-",
+      "favourites_count": 4754,
+      "follow_request_sent": null,
+      "followers_count": 934,
+      "following": null,
+      "friends_count": 263,
+      "geo_enabled": false,
+      "id": 1152804864080015360,
+      "id_str": "1152804864080015360",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 0,
+      "location": "jd,jr,nr,tt",
+      "name": "˗ˏˋ✿sawaddeedyˎˊ˗",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152804864080015360/1592564089",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1273932184038961154/0gl2P444_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273932184038961154/0gl2P444_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "padtuuaann",
+      "statuses_count": 74269,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @padtuuaann: ✨give away ✨\nPls rt  &amp; show this tweet 🚃🤸🏻‍♂️\n🏄🏻‍♂️postcard 50ea\n🧵photo id. 50es\n🍊siam \n🍎date/time : 15aug/tba\n\nรอบไปรไว้เร…",
+  "timestamp_ms": "1594225123660",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 21 05:25:31 +0000 2019",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "เป็นทุกอย่างให้เธอแล้ว",
+    "favourites_count": 228,
+    "follow_request_sent": null,
+    "followers_count": 50,
+    "following": null,
+    "friends_count": 41,
+    "geo_enabled": false,
+    "id": 1152811823059460096,
+    "id_str": "1152811823059460096",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "นิวเยียร์",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152811823059460096/1593363009",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1280517569640685569/PpfPw9_j_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280517569640685569/PpfPw9_j_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "NewYear_NewYear",
+    "statuses_count": 949,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}
