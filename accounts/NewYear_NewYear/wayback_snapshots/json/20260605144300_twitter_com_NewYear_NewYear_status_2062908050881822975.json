@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2062908050881822975",
+    "created_at": "2026-06-05T14:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062908050881822975"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062908050881822975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好崩溃，因为一件小事\n我买了美团单车月卡，美团单车长期不动不会自动关锁，每次都是满一个小时之后才会自动关锁\n但是这样就超过免费时长了，美团仅限一个小时内免费\n所以就会多收一块钱\n就是这一块钱把我搞得很崩溃\n我总是忘记，我怪美团，怪自己，好难受我开始内耗了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2062908050881822975",
+        "created_at": "2026-06-05T14:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062908050881822975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062908050881822975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好崩溃，因为一件小事\n我买了美团单车月卡，美团单车长期不动不会自动关锁，每次都是满一个小时之后才会自动关锁\n但是这样就超过免费时长了，美团仅限一个小时内免费\n所以就会多收一块钱\n就是这一块钱把我搞得很崩溃\n我总是忘记，我怪美团，怪自己，好难受我开始内耗了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 448,
+          "like_count": 10407,
+          "listed_count": 1,
+          "media_count": 920,
+          "tweet_count": 5989
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

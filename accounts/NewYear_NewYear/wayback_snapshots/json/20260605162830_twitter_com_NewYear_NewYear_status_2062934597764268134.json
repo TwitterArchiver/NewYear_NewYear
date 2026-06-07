@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2062931564389097705",
+    "created_at": "2026-06-05T16:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062934597764268134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1592120524276002817",
+          "start": 0,
+          "username": "cywhanjian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062934597764268134",
+    "in_reply_to_user_id": "1592120524276002817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062933057301360805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cywhanjian 窒息难受的点是不管肺部怎么用力也扩张不了，这也是一个爽点\n如果已经到憋气的极限也还是不能呼吸，可以清晰感受到心跳咚咚咚的声音\n会变得很焦躁很难受，身体迫切的想要呼吸\n这个时候如果是自己憋气的话，很难坚持下去，除非借助外物或别人帮忙\n再往后是肺部炸了一样的痛，很难受\n之后我就没体验过了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2062931564389097705",
+        "created_at": "2026-06-05T16:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062934597764268134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592120524276002817",
+              "start": 0,
+              "username": "cywhanjian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062934597764268134",
+        "in_reply_to_user_id": "1592120524276002817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062933057301360805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cywhanjian 窒息难受的点是不管肺部怎么用力也扩张不了，这也是一个爽点\n如果已经到憋气的极限也还是不能呼吸，可以清晰感受到心跳咚咚咚的声音\n会变得很焦躁很难受，身体迫切的想要呼吸\n这个时候如果是自己憋气的话，很难坚持下去，除非借助外物或别人帮忙\n再往后是肺部炸了一样的痛，很难受\n之后我就没体验过了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592120524276002817",
+        "conversation_id": "2062931564389097705",
+        "created_at": "2026-06-05T16:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062933057301360805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062933057301360805",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062931564389097705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 窒息啥感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 448,
+          "like_count": 10448,
+          "listed_count": 1,
+          "media_count": 920,
+          "tweet_count": 6006
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T11:41:35.000Z",
+        "description": "Can I chat with you？🤔",
+        "id": "1592120524276002817",
+        "location": "距你114514m",
+        "name": "c17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051947732286439425/BrPQMAVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 253,
+          "like_count": 267,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1099
+        },
+        "username": "cywhanjian",
+        "verified": false
+      }
+    ]
+  }
+}
