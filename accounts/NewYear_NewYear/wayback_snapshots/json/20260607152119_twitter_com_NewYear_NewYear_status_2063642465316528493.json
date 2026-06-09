@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2063642465316528493",
+    "created_at": "2026-06-07T15:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063642465316528493"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063642465316528493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉我说不定下学期真要用邪修搞钱了\n高薪的家教越来越难找，成都太坏了\n下学期我要租房TAT\n然后我不敢给父母说让他们像之前一样每个月给我一些生活费，因为我给他们说了我不想要了\n实际上我提到过我的家教的学生高三了毕业了，但是我妈没听出来，我根本不好意思直说……\n唉走一步看一步，先过活到放假"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2063642465316528493",
+        "created_at": "2026-06-07T15:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063642465316528493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063642465316528493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我说不定下学期真要用邪修搞钱了\n高薪的家教越来越难找，成都太坏了\n下学期我要租房TAT\n然后我不敢给父母说让他们像之前一样每个月给我一些生活费，因为我给他们说了我不想要了\n实际上我提到过我的家教的学生高三了毕业了，但是我妈没听出来，我根本不好意思直说……\n唉走一步看一步，先过活到放假"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 449,
+          "like_count": 10846,
+          "listed_count": 1,
+          "media_count": 931,
+          "tweet_count": 6134
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}
