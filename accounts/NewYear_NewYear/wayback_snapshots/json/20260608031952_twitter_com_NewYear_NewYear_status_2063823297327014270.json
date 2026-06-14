@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2063772076759257535",
+    "created_at": "2026-06-08T03:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063823297327014270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982342965029900289",
+          "start": 0,
+          "username": "Yuikawujinxia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063823297327014270",
+    "in_reply_to_user_id": "1982342965029900289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063818168590848083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuikawujinxia 我都不接小学生，小学生太难管了\n初中生也没有多好管"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2063772076759257535",
+        "created_at": "2026-06-08T03:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063823297327014270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1982342965029900289",
+              "start": 0,
+              "username": "Yuikawujinxia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063823297327014270",
+        "in_reply_to_user_id": "1982342965029900289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063818168590848083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuikawujinxia 我都不接小学生，小学生太难管了\n初中生也没有多好管"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982342965029900289",
+        "conversation_id": "2063772076759257535",
+        "created_at": "2026-06-08T02:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063818168590848083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063818168590848083",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063816429313679431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 小孩还威胁我，不让他玩就让他妈把我换了，所以我去了一次不去了，这个小孩家离我学校很近。后面去了一个远的，太难教了，根本不愿意学，都是小男孩小学生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 450,
+          "like_count": 10990,
+          "listed_count": 1,
+          "media_count": 931,
+          "tweet_count": 6164
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T07:06:30.000Z",
+        "description": "4iS，老婆@yuanbaoyuanyuan\n脖子控，窒息控，爱好是啃老婆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "yuanbaoyuanyuan"
+              }
+            ]
+          }
+        },
+        "id": "1982342965029900289",
+        "name": "那就茉莉乌龙吧",
+        "pinned_tweet_id": "2062954073033454077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042883735654404099/S8e7cfEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 72,
+          "like_count": 1609,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 539
+        },
+        "username": "Yuikawujinxia",
+        "verified": false
+      }
+    ]
+  }
+}

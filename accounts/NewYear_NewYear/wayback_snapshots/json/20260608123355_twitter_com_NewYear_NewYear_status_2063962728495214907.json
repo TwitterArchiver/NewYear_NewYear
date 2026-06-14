@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2063950863635488971",
+    "created_at": "2026-06-08T12:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063962728495214907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1805172293758582784",
+          "start": 0,
+          "username": "mingwang642679"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063962728495214907",
+    "in_reply_to_user_id": "1805172293758582784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063962134263074821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingwang642679 社会就是很可怕的存在啊\nww\n主要是感觉不管选什么方式自杀，都会有人的利益因此受到损害\n明明死了还要坑害一些人...这样想让我更加自责和焦虑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2063950863635488971",
+        "created_at": "2026-06-08T12:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063962728495214907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1805172293758582784",
+              "start": 0,
+              "username": "mingwang642679"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063962728495214907",
+        "in_reply_to_user_id": "1805172293758582784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063962134263074821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingwang642679 社会就是很可怕的存在啊\nww\n主要是感觉不管选什么方式自杀，都会有人的利益因此受到损害\n明明死了还要坑害一些人...这样想让我更加自责和焦虑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805172293758582784",
+        "conversation_id": "2063950863635488971",
+        "created_at": "2026-06-08T12:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063962134263074821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063962134263074821",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063950863635488971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 這樣的角度啊？有時候自責到極點就覺得自己活著就是給別人添麻煩……但自殺也會給別人帶來麻煩啊，這個社會真可怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 451,
+          "like_count": 11195,
+          "listed_count": 1,
+          "media_count": 932,
+          "tweet_count": 6200
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T09:33:32.000Z",
+        "description": "東方厨（蓬萊廚/夾克子厨）東方project賽高！\n目前在研究神學✝️（新教）如果各位感興趣的話可以與我交流喔！雖說咱不是跨性別者，但咱對於大家都是一樣的喔！🏳️‍🌈🏳️‍⚧️友好 目前不清楚咱的性取向（咱認為情感才是最重要的）泛愛是對的！\n儘量不要聊政治啦，那樣會讓咱很難堪的\n可能會有負面帖子，致歉！",
+        "id": "1805172293758582784",
+        "name": "瑞.Rie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956007318979796994/bsrPhO5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 61,
+          "like_count": 1131,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 217
+        },
+        "username": "mingwang642679",
+        "verified": false
+      }
+    ]
+  }
+}

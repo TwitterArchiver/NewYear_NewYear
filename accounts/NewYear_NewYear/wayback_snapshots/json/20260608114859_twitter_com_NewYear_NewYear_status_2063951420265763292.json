@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2063951420265763292",
+    "created_at": "2026-06-08T11:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063951420265763292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/7q46843886669/…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/7q46843886669/status/2063876126221680942",
+          "start": 69,
+          "url": "https://t.co/HfUbmarfaE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063951420265763292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063876126221680942",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "突然想起来一个朋友，在我心里地位挺高的\n不知道什么时候开始就变得淡淡的了，就两三个月前，到现在我都耿耿于怀\n好害怕被自己放在心里的人讨厌 https://t.co/HfUbmarfaE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1252,
+        "media_key": "3_2063876122513993728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRcZgbbcAAz_nH.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2063951420265763292",
+        "created_at": "2026-06-08T11:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063951420265763292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7q46843886669/…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/7q46843886669/status/2063876126221680942",
+              "start": 69,
+              "url": "https://t.co/HfUbmarfaE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063951420265763292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063876126221680942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然想起来一个朋友，在我心里地位挺高的\n不知道什么时候开始就变得淡淡的了，就两三个月前，到现在我都耿耿于怀\n好害怕被自己放在心里的人讨厌 https://t.co/HfUbmarfaE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063876122513993728"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063876126221680942",
+        "created_at": "2026-06-08T06:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063876126221680942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wuBwWlA1OE",
+              "end": 23,
+              "expanded_url": "https://x.com/7q46843886669/status/2063876126221680942/photo/1",
+              "media_key": "3_2063876122513993728",
+              "start": 0,
+              "url": "https://t.co/wuBwWlA1OE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063876126221680942",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wuBwWlA1OE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 451,
+          "like_count": 11165,
+          "listed_count": 1,
+          "media_count": 932,
+          "tweet_count": 6191
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 3376,
+          "like_count": 17696,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 4888
+        },
+        "username": "7q46843886669",
+        "verified": false
+      }
+    ]
+  }
+}

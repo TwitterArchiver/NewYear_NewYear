@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2063195175137276180",
+    "created_at": "2026-06-06T09:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063195175137276180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LazyCataww/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/LazyCataww/status/2063166692499550370",
+          "start": 18,
+          "url": "https://t.co/UPU8GxL7s9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063195175137276180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063166692499550370",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也转发这个然后污染推友的时间线😈 https://t.co/UPU8GxL7s9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 856,
+        "media_key": "3_2063166685964869633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHXK3VbIAE29wM.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2063195175137276180",
+        "created_at": "2026-06-06T09:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063195175137276180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LazyCataww/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/LazyCataww/status/2063166692499550370",
+              "start": 18,
+              "url": "https://t.co/UPU8GxL7s9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063195175137276180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063166692499550370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也转发这个然后污染推友的时间线😈 https://t.co/UPU8GxL7s9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063166685964869633"
+          ]
+        },
+        "author_id": "1841429529413529600",
+        "conversation_id": "2063166692499550370",
+        "created_at": "2026-06-06T07:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063166692499550370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TvVqkQcdVb",
+              "end": 23,
+              "expanded_url": "https://x.com/LazyCataww/status/2063166692499550370/photo/1",
+              "media_key": "3_2063166685964869633",
+              "start": 0,
+              "url": "https://t.co/TvVqkQcdVb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063166692499550370",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TvVqkQcdVb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 449,
+          "like_count": 10611,
+          "listed_count": 1,
+          "media_count": 924,
+          "tweet_count": 6048
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T10:46:34.000Z",
+        "description": "emm缺爱逼泛（双？）性恋（x）爱喝酒爱吃菠萝白切鸡……长发男短发女重度依赖（确信）喜欢年上但长相多半没人喜欢……想不起来了……会写欧体不抽烟没精神疾病……差不多这些XD……很喜欢一句歌词：别忘了寂寞的山谷的角落里野百合也有春天！",
+        "id": "1841429529413529600",
+        "name": "天雨雋子",
+        "pinned_tweet_id": "2050612191548825768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051214180745650176/YgDV8phI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 330,
+          "like_count": 10479,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2350
+        },
+        "username": "LazyCataww",
+        "verified": false
+      }
+    ]
+  }
+}
