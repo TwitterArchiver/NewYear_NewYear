@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2065584749926912479",
+    "created_at": "2026-06-13T07:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T08:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065698866616529042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1892971043280814080",
+          "start": 0,
+          "username": "sawatama_arijit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065698866616529042",
+    "in_reply_to_user_id": "1892971043280814080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065691527549276195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sawatama_arijit 葵花小鸡🐥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 678,
+        "media_key": "3_2065691488131137536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrPdsWawAAJp7b.jpg",
+        "width": 452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2065584749926912479",
+        "created_at": "2026-06-13T07:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065698866616529042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892971043280814080",
+              "start": 0,
+              "username": "sawatama_arijit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065698866616529042",
+        "in_reply_to_user_id": "1892971043280814080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065691527549276195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sawatama_arijit 葵花小鸡🐥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065691488131137536"
+          ]
+        },
+        "author_id": "1892971043280814080",
+        "conversation_id": "2065584749926912479",
+        "created_at": "2026-06-13T07:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065691527549276195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pxjdHHnoOI",
+              "end": 51,
+              "expanded_url": "https://x.com/sawatama_arijit/status/2065691527549276195/photo/1",
+              "media_key": "3_2065691488131137536",
+              "start": 28,
+              "url": "https://t.co/pxjdHHnoOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065691527549276195",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065584749926912479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 我头发乱翘像葵花鹦鹉 https://t.co/pxjdHHnoOI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 474,
+          "like_count": 12413,
+          "listed_count": 1,
+          "media_count": 957,
+          "tweet_count": 6529
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T16:15:19.000Z",
+        "description": "室内乐享受者，喜欢山下和仁。是诗人。取向为futa。\n头像为シオン：跟我一起睡的话就原谅你。",
+        "id": "1892971043280814080",
+        "location": "Sheffield, United Kingdom",
+        "name": "空气动力少女∆的水曜日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054870518084595712/qgNyTLab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 53,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 281
+        },
+        "username": "sawatama_arijit",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2066830993500307763",
+    "created_at": "2026-06-16T13:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066876752388104629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1731113472157532160",
+          "start": 0,
+          "username": "wnnw486486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066876752388104629",
+    "in_reply_to_user_id": "1731113472157532160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066830993500307763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wnnw486486 生日快乐小春！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066830982993575936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7b1BgagAAhojl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2066830993500307763",
+        "created_at": "2026-06-16T13:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066876752388104629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1731113472157532160",
+              "start": 0,
+              "username": "wnnw486486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066876752388104629",
+        "in_reply_to_user_id": "1731113472157532160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066830993500307763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wnnw486486 生日快乐小春！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066830982993575936"
+          ]
+        },
+        "author_id": "1731113472157532160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066830993500307763",
+        "created_at": "2026-06-16T10:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066830993500307763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OypxCIxi35",
+              "end": 33,
+              "expanded_url": "https://x.com/wnnw486486/status/2066830993500307763/photo/1",
+              "media_key": "3_2066830982993575936",
+              "start": 10,
+              "url": "https://t.co/OypxCIxi35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066830993500307763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第十八次阴历生日！ https://t.co/OypxCIxi35"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 484,
+          "like_count": 13072,
+          "listed_count": 1,
+          "media_count": 973,
+          "tweet_count": 6673
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T00:50:07.000Z",
+        "description": "🚪52，120，178，288 增加线下可能 520，霜🐔，求别再有智障找我，也有爸爸活的，爰我\n请过🚪💰💰💰，\n，，《求私》，， ，《胜哥系列完事》欢迎投搞各种事情，梦想520，1314，520 ，想谈恋爱\n，，，",
+        "id": "1731113472157532160",
+        "location": "吉林省长春市       区",
+        "name": "不懂发抽象的小春",
+        "pinned_tweet_id": "1948593227025842656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057784478282678272/Wlcjrf2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 150,
+          "like_count": 3948,
+          "listed_count": 5,
+          "media_count": 3368,
+          "tweet_count": 8374
+        },
+        "username": "wnnw486486",
+        "verified": false
+      }
+    ]
+  }
+}

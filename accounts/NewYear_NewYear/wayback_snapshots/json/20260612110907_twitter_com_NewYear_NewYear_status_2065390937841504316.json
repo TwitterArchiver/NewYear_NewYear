@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2065390937841504316",
+    "created_at": "2026-06-12T11:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065390937841504316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hakanopesu/sta…",
+          "end": 121,
+          "expanded_url": "https://twitter.com/hakanopesu/status/2065387495186157837",
+          "start": 98,
+          "url": "https://t.co/U03lCgh8Av"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065390937841504316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065387495186157837",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "称呼   自指 他指\n男的     🟩    🟩\n男娘     🟩    🟩\n药娘     🟩    🟩\n跨女     🟩    🟩\n女的     🟩    🟩\nmtf       🟩    🟩 https://t.co/U03lCgh8Av"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2065390937841504316",
+        "created_at": "2026-06-12T11:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065390937841504316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hakanopesu/sta…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/hakanopesu/status/2065387495186157837",
+              "start": 98,
+              "url": "https://t.co/U03lCgh8Av"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065390937841504316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065387495186157837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "称呼   自指 他指\n男的     🟩    🟩\n男娘     🟩    🟩\n药娘     🟩    🟩\n跨女     🟩    🟩\n女的     🟩    🟩\nmtf       🟩    🟩 https://t.co/U03lCgh8Av"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491630608832876547",
+        "conversation_id": "2065387495186157837",
+        "created_at": "2026-06-12T10:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065387495186157837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZX65535plus1/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/ZX65535plus1/status/2065261721498054941",
+              "start": 141,
+              "url": "https://t.co/WnPwFx469l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065387495186157837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065261721498054941",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想知道大家对称呼的接受程度\nHaskina是这样的\n称呼   自指 他指\n男的     🟩    🟨\n男娘     🟥    🟥\n药娘     🟨    🟥\n跨女     🟥    🟥\n女的     🟥    🟨\nmtf       🟥    🟥\n 🐟        🟩    🟩 https://t.co/WnPwFx469l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 466,
+          "like_count": 12285,
+          "listed_count": 1,
+          "media_count": 954,
+          "tweet_count": 6468
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T04:30:46.000Z",
+        "description": "想成为男娘 | 不学无术 | 并非Developer | 实则 Engineer | HRT since 24.02.23 | 含糖顺男 | 如果你想 block 我的话请记住道不同不相为谋 | 星乃一歌&宵崎奏 推し！",
+        "id": "1491630608832876547",
+        "name": "Haskina🍥",
+        "pinned_tweet_id": "1790356918353158650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056370706414440448/vRvj9fW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 476,
+          "like_count": 3413,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1502
+        },
+        "username": "hakanopesu",
+        "verified": false
+      }
+    ]
+  }
+}

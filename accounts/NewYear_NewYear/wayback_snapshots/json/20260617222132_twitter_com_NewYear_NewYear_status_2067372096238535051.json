@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2067247385395568877",
+    "created_at": "2026-06-17T22:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T23:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067372096238535051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2035025566018281472",
+          "start": 0,
+          "username": "wyy7711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067372096238535051",
+    "in_reply_to_user_id": "2035025566018281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067264594029252640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyy7711 天天都没吃什么东西（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2067247385395568877",
+        "created_at": "2026-06-17T22:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T23:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067372096238535051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2035025566018281472",
+              "start": 0,
+              "username": "wyy7711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067372096238535051",
+        "in_reply_to_user_id": "2035025566018281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067264594029252640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyy7711 天天都没吃什么东西（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035025566018281472",
+        "conversation_id": "2067247385395568877",
+        "created_at": "2026-06-17T15:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067264594029252640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067264594029252640",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067247385395568877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 求教程（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 484,
+          "like_count": 13363,
+          "listed_count": 1,
+          "media_count": 979,
+          "tweet_count": 6729
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T16:09:41.000Z",
+        "description": "咕噜咕噜^我是南瓜。\n26年小嬰兒😭/小女男孩小男女孩/喝爪喝酒/大海豹/喜歡你耶我是真的餓\n從wx換到這裡發廢話好爽\n此人說話不會經過腦子",
+        "id": "2035025566018281472",
+        "name": "南呱呱呱",
+        "pinned_tweet_id": "2066939498362249598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051326649359323136/qkjT6Ne7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 49,
+          "like_count": 1292,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 652
+        },
+        "url": "",
+        "username": "wyy7711",
+        "verified": false
+      }
+    ]
+  }
+}

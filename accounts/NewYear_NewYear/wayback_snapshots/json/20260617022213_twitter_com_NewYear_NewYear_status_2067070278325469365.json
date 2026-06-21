@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2066917062463959050",
+    "created_at": "2026-06-17T02:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T03:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067070278325469365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1667156388869550084",
+          "start": 0,
+          "username": "Moyun_OwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067070278325469365",
+    "in_reply_to_user_id": "1667156388869550084",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066950440428999053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moyun_OwO 🥸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2066917062463959050",
+        "created_at": "2026-06-17T02:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067070278325469365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1667156388869550084",
+              "start": 0,
+              "username": "Moyun_OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067070278325469365",
+        "in_reply_to_user_id": "1667156388869550084",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066950440428999053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moyun_OwO 🥸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667156388869550084",
+        "conversation_id": "2066917062463959050",
+        "created_at": "2026-06-16T18:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066950440428999053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066950440428999053",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066917062463959050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 我去不早说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 485,
+          "like_count": 13092,
+          "listed_count": 1,
+          "media_count": 973,
+          "tweet_count": 6686
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T13:07:28.000Z",
+        "description": "「 愿与愁 」\n\n叫我墨云就好｜直男｜我真的很好说话！\ndm开放 欢迎互fo！⬇️我的主页⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/m0yvn",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/m0yvn",
+                "start": 0,
+                "url": "https://t.co/lvV4voyDZW"
+              }
+            ]
+          }
+        },
+        "id": "1667156388869550084",
+        "location": "你心里",
+        "name": "M0YVN.",
+        "pinned_tweet_id": "2065907876984721453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886644300458708992/pApJsolJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 2268,
+          "like_count": 19871,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1035
+        },
+        "url": "https://t.co/lvV4voyDZW",
+        "username": "Moyun_OwO",
+        "verified": false
+      }
+    ]
+  }
+}

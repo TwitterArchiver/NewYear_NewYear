@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2067204368521441427",
+    "created_at": "2026-06-17T12:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067220239134425581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554696046021730305",
+          "start": 0,
+          "username": "Pyuyi233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067220239134425581",
+    "in_reply_to_user_id": "1554696046021730305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067204368521441427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pyuyi233 好厉害w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2067204337550647296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAvZHnaYAAIkAr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067204337525514240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAvZHha4AA2ozy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2067204368521441427",
+        "created_at": "2026-06-17T12:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067220239134425581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554696046021730305",
+              "start": 0,
+              "username": "Pyuyi233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067220239134425581",
+        "in_reply_to_user_id": "1554696046021730305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067204368521441427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pyuyi233 好厉害w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067204337550647296",
+            "3_2067204337525514240"
+          ]
+        },
+        "author_id": "1554696046021730305",
+        "conversation_id": "2067204368521441427",
+        "created_at": "2026-06-17T11:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067204368521441427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3puHX4rPo",
+              "end": 111,
+              "expanded_url": "https://x.com/Pyuyi233/status/2067204368521441427/photo/1",
+              "media_key": "3_2067204337550647296",
+              "start": 88,
+              "url": "https://t.co/L3puHX4rPo"
+            },
+            {
+              "display_url": "pic.x.com/L3puHX4rPo",
+              "end": 111,
+              "expanded_url": "https://x.com/Pyuyi233/status/2067204368521441427/photo/1",
+              "media_key": "3_2067204337525514240",
+              "start": 88,
+              "url": "https://t.co/L3puHX4rPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067204368521441427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被教务老师叫回去贴照片，这个照片看得我想笑，证件照总是这样显人唐\n\n毕业了啊……结果一点毕业的感觉都没有\n\n感觉本科最后悔的事就是降转之后没有升回去，整个大四一节课都没有（） https://t.co/L3puHX4rPo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 484,
+          "like_count": 13339,
+          "listed_count": 1,
+          "media_count": 978,
+          "tweet_count": 6722
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T05:10:13.000Z",
+        "description": "可以叫我mmm(Pyuyi)，INFJ\n\nmath\nAI Interpretability\nCybersecurity\n\n红薯：https://t.co/y6JigVtyfe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/4magpdT",
+                "end": 87,
+                "expanded_url": "https://xhslink.com/m/4magpdT",
+                "start": 64,
+                "url": "https://t.co/y6JigVtyfe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/VeraPyuyi",
+                "end": 23,
+                "expanded_url": "https://github.com/VeraPyuyi",
+                "start": 0,
+                "url": "https://t.co/vZgYQSg5hB"
+              }
+            ]
+          }
+        },
+        "id": "1554696046021730305",
+        "location": "卡冈图雅",
+        "name": "Pyuyi",
+        "pinned_tweet_id": "2065675267646108047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060548602880221185/XP4emOUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 63,
+          "like_count": 167,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 187
+        },
+        "url": "https://t.co/vZgYQSg5hB",
+        "username": "Pyuyi233",
+        "verified": true
+      }
+    ]
+  }
+}

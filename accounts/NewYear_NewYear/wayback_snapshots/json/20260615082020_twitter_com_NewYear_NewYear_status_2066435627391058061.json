@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2066378248527986985",
+    "created_at": "2026-06-15T08:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066435627391058061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1859058867352858625",
+          "start": 0,
+          "username": "lgdlaika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066435627391058061",
+    "in_reply_to_user_id": "1859058867352858625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066434888228802997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lgdlaika 就是感觉什么也吃不下，唉，吃东西要用很大的力气下咽这样的，我也不好描述"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2066378248527986985",
+        "created_at": "2026-06-15T08:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066435627391058061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1859058867352858625",
+              "start": 0,
+              "username": "lgdlaika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066435627391058061",
+        "in_reply_to_user_id": "1859058867352858625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066434888228802997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lgdlaika 就是感觉什么也吃不下，唉，吃东西要用很大的力气下咽这样的，我也不好描述"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859058867352858625",
+        "conversation_id": "2066378248527986985",
+        "created_at": "2026-06-15T08:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066434888228802997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066434888228802997",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066378248527986985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 有胃口吃蔬菜么喵…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 480,
+          "like_count": 12933,
+          "listed_count": 1,
+          "media_count": 967,
+          "tweet_count": 6627
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T02:19:44.000Z",
+        "description": "10年的一个普通南孩纸 (認知是非二元喵\n会画画但很烂\n想是成爲一名游戲程序員？\n不长玩游戏打游戏很菜的歇（喜歡mc\n用网抑郁音乐，同时也是术批（最喜欢张丽丽小入机啦！！\n在线时间：早八到晚6随机上线；周末不在线\n欢迎私信骚扰喵\n请理性玩梗！！！！",
+        "id": "1859058867352858625",
+        "name": "諾亞_lgdlaika🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059478017093894144/F7g9Bo3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 120,
+          "like_count": 11817,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 584
+        },
+        "username": "lgdlaika",
+        "verified": false
+      }
+    ]
+  }
+}

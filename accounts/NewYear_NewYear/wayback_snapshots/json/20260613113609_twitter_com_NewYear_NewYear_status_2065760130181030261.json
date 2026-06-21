@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2065346234211287395",
+    "created_at": "2026-06-13T11:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065760130181030261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1920665768750182401",
+          "start": 0,
+          "username": "Restorelife0771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065760130181030261",
+    "in_reply_to_user_id": "1920665768750182401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065759485906530607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Restorelife0771 是的唉😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2065346234211287395",
+        "created_at": "2026-06-13T11:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065760130181030261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920665768750182401",
+              "start": 0,
+              "username": "Restorelife0771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065760130181030261",
+        "in_reply_to_user_id": "1920665768750182401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065759485906530607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Restorelife0771 是的唉😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920665768750182401",
+        "conversation_id": "2065346234211287395",
+        "created_at": "2026-06-13T11:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065759485906530607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065759485906530607",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065346234211287395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 学校的这种东西自己签还不认嘞 只认家长签的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 475,
+          "like_count": 12460,
+          "listed_count": 1,
+          "media_count": 958,
+          "tweet_count": 6540
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T02:23:09.000Z",
+        "description": "账号尾数改成 0772 就能搜到我的另一个账号。；\n顺男友跨 ；*非* MtF/顺女 请注意；\n喜欢玩音游 喜欢听电音 在学习日语 成绩很\n是个胖子 属于 98% 健全人(可能无攻击性)；\nにほんの友達が欲しい",
+        "id": "1920665768750182401",
+        "name": "Restorelife0771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920699900645261312/_sh8PWQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 215,
+          "like_count": 3653,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 720
+        },
+        "username": "Restorelife0771",
+        "verified": false
+      }
+    ]
+  }
+}

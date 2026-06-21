@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2065812699632771282",
+    "created_at": "2026-06-14T01:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065966499769315418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2055834950017208320",
+          "start": 0,
+          "username": "xxs0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065966499769315418",
+    "in_reply_to_user_id": "2055834950017208320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065812699632771282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxs0721 好神秘"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29947,
+        "height": 1280,
+        "media_key": "7_2065812056910282752",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065812056910282752/pu/img/Nmqr5SzLbt0PpPy6.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065812056910282752/pu/vid/avc1/320x568/ce6A7npwiwhYT3vS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065812056910282752/pu/vid/avc1/480x852/xIgHU2vOzwLeBHj3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065812056910282752/pu/vid/avc1/720x1280/gmyJQrU5zt9cyyDH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065812056910282752/pu/pl/u5MrRv-t9KmMg8kp.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2065812699632771282",
+        "created_at": "2026-06-14T01:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065966499769315418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055834950017208320",
+              "start": 0,
+              "username": "xxs0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065966499769315418",
+        "in_reply_to_user_id": "2055834950017208320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065812699632771282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxs0721 好神秘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065812056910282752"
+          ]
+        },
+        "author_id": "2055834950017208320",
+        "conversation_id": "2065812699632771282",
+        "created_at": "2026-06-13T15:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065812699632771282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xHiPgC9GbL",
+              "end": 23,
+              "expanded_url": "https://x.com/xxs0721/status/2065812699632771282/video/1",
+              "media_key": "7_2065812056910282752",
+              "start": 0,
+              "url": "https://t.co/xHiPgC9GbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065812699632771282",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xHiPgC9GbL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 475,
+          "like_count": 12533,
+          "listed_count": 1,
+          "media_count": 958,
+          "tweet_count": 6548
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T02:17:34.000Z",
+        "description": "小学生2.0!参上!",
+        "id": "2055834950017208320",
+        "name": "高性能小学生2.0",
+        "pinned_tweet_id": "2065512564067586185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055835266812944384/7QydfEUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 308,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 192
+        },
+        "username": "xxs0721",
+        "verified": false
+      }
+    ]
+  }
+}

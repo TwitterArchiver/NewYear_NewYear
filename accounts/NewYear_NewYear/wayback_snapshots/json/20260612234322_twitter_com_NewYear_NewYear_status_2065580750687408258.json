@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2065440095633879421",
+    "created_at": "2026-06-12T23:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T00:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065580750687408258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1616847813559844866",
+          "start": 0,
+          "username": "pn09425326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065580750687408258",
+    "in_reply_to_user_id": "1616847813559844866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065503149897765206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pn09425326 主要是我被抓包的事情是自残，割手割腿这种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2065440095633879421",
+        "created_at": "2026-06-12T23:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T00:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065580750687408258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1616847813559844866",
+              "start": 0,
+              "username": "pn09425326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065580750687408258",
+        "in_reply_to_user_id": "1616847813559844866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065503149897765206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pn09425326 主要是我被抓包的事情是自残，割手割腿这种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616847813559844866",
+        "conversation_id": "2065440095633879421",
+        "created_at": "2026-06-12T18:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065503149897765206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065503149897765206",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065440095633879421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 会问很正常啊，挺多自己割了魔丸的。还有找人帮自己割然后大出血进医院被报警，动手的人被当故意伤害抓。我不觉得你爸担忧有什么问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 468,
+          "like_count": 12334,
+          "listed_count": 1,
+          "media_count": 956,
+          "tweet_count": 6499
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T17:19:03.000Z",
+        "description": "头像是家养的鼠鼠，半夜出来偷吃被监控拍下。",
+        "id": "1616847813559844866",
+        "location": "广州",
+        "name": "鱼尝生",
+        "pinned_tweet_id": "1642952738215698435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616992417856770048/DMABG7Fg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 33,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 301
+        },
+        "username": "pn09425326",
+        "verified": false
+      }
+    ]
+  }
+}

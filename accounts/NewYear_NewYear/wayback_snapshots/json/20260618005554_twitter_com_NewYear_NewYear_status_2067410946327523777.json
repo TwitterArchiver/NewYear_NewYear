@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2067287234295005687",
+    "created_at": "2026-06-18T00:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T01:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067410946327523777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547950839280439296",
+          "start": 0,
+          "username": "jiangdadianshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067410946327523777",
+    "in_reply_to_user_id": "1547950839280439296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067287234295005687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangdadianshen 摸摸你🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2067287234295005687",
+        "created_at": "2026-06-18T00:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067410946327523777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547950839280439296",
+              "start": 0,
+              "username": "jiangdadianshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067410946327523777",
+        "in_reply_to_user_id": "1547950839280439296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067287234295005687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangdadianshen 摸摸你🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547950839280439296",
+        "conversation_id": "2067287234295005687",
+        "created_at": "2026-06-17T16:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067287234295005687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067287234295005687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我又在流眼泪呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 485,
+          "like_count": 13428,
+          "listed_count": 1,
+          "media_count": 980,
+          "tweet_count": 6739
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T14:27:03.000Z",
+        "description": "鸟在唱歌",
+        "id": "1547950839280439296",
+        "location": "₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "name": "MING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007611709557747713/OoS2OsY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 426,
+          "like_count": 19888,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 2560
+        },
+        "url": "",
+        "username": "jiangdadianshen",
+        "verified": false
+      }
+    ]
+  }
+}

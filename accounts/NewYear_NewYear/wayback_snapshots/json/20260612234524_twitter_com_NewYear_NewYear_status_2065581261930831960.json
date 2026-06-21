@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2065422260123697210",
+    "created_at": "2026-06-12T23:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T00:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065581261930831960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "971003340602486784",
+          "start": 0,
+          "username": "Ixoryss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065581261930831960",
+    "in_reply_to_user_id": "971003340602486784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065548283528020453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ixoryss 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2065422260123697210",
+        "created_at": "2026-06-12T23:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T00:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065581261930831960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "971003340602486784",
+              "start": 0,
+              "username": "Ixoryss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065581261930831960",
+        "in_reply_to_user_id": "971003340602486784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065548283528020453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ixoryss 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "971003340602486784",
+        "conversation_id": "2065422260123697210",
+        "created_at": "2026-06-12T21:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T22:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065548283528020453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065548283528020453",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065422260123697210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 是我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 468,
+          "like_count": 12341,
+          "listed_count": 1,
+          "media_count": 956,
+          "tweet_count": 6503
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-06T12:43:31.000Z",
+        "description": "硬件/嵌入式开发/摄影/产品工作室 | 苏州｜ Sister: @CelestialSayuki | \nnot a cat.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "CelestialSayuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixoryss91199",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ixoryss91199",
+                "start": 0,
+                "url": "https://t.co/0a5rcjMkxs"
+              }
+            ]
+          }
+        },
+        "id": "971003340602486784",
+        "location": "Dusk-Kissed TrES-2b, Cygnus",
+        "name": "镜涟",
+        "pinned_tweet_id": "2017629909221605473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042862643762102272/_mIwOzB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 333,
+          "like_count": 882,
+          "listed_count": 1,
+          "media_count": 516,
+          "tweet_count": 1847
+        },
+        "url": "https://t.co/0a5rcjMkxs",
+        "username": "Ixoryss",
+        "verified": false
+      }
+    ]
+  }
+}

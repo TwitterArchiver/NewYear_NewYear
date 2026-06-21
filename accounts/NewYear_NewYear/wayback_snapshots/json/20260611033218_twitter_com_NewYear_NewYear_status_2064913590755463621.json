@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2064913590755463621",
+    "created_at": "2026-06-11T03:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T04:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064913590755463621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/2064891829108224342",
+          "start": 63,
+          "url": "https://t.co/3RrCa2Hy1k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064913590755463621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064891829108224342",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "先发给学校，然后辅导员收到消息\n大早上给我打电话让我过去找她，然后我刚洗漱好直接跑寝室了\n去沟通好久，然后要让我的父母来学校 https://t.co/3RrCa2Hy1k"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2064913590755463621",
+        "created_at": "2026-06-11T03:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064913590755463621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/2064891829108224342",
+              "start": 63,
+              "url": "https://t.co/3RrCa2Hy1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064913590755463621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064891829108224342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先发给学校，然后辅导员收到消息\n大早上给我打电话让我过去找她，然后我刚洗漱好直接跑寝室了\n去沟通好久，然后要让我的父母来学校 https://t.co/3RrCa2Hy1k"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2064891829108224342",
+        "created_at": "2026-06-11T02:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064891829108224342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064891829108224342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好绝望，有人把我自残照片发给辅导员了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 467,
+          "like_count": 12034,
+          "listed_count": 1,
+          "media_count": 947,
+          "tweet_count": 6369
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

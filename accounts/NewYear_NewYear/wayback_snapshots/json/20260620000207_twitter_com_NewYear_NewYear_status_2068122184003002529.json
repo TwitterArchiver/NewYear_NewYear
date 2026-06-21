@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2067933363617648787",
+    "created_at": "2026-06-20T00:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T01:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068122184003002529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1928776430063857665",
+          "start": 0,
+          "username": "ahanpoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068122184003002529",
+    "in_reply_to_user_id": "1928776430063857665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068011244335034831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahanpoq 吼吼吼😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2067933363617648787",
+        "created_at": "2026-06-20T00:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068122184003002529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1928776430063857665",
+              "start": 0,
+              "username": "ahanpoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068122184003002529",
+        "in_reply_to_user_id": "1928776430063857665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068011244335034831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahanpoq 吼吼吼😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928776430063857665",
+        "conversation_id": "2067933363617648787",
+        "created_at": "2026-06-19T16:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068011244335034831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068011244335034831",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067933363617648787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 这也太神圣了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 486,
+          "like_count": 13943,
+          "listed_count": 1,
+          "media_count": 997,
+          "tweet_count": 6839
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T11:32:02.000Z",
+        "description": "老鼠人分享自己的碎碎念 gay来的\n匿名信箱https://t.co/96NQ4kVxya",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nori97543",
+                "end": 45,
+                "expanded_url": "https://ngl.link/nori97543",
+                "start": 22,
+                "url": "https://t.co/96NQ4kVxya"
+              }
+            ]
+          }
+        },
+        "id": "1928776430063857665",
+        "location": "吧唧",
+        "name": "🥑",
+        "pinned_tweet_id": "2066804584048365615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929161465929560064/kUB_Dfv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 287,
+          "like_count": 690,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "ahanpoq",
+        "verified": false
+      }
+    ]
+  }
+}
