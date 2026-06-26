@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2069997926437572980",
+    "created_at": "2026-06-25T11:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070110105413320945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844768000416571405",
+          "start": 0,
+          "username": "fog1056149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070110105413320945",
+    "in_reply_to_user_id": "1844768000416571405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069997926437572980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fog1056149 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2069997923526742018",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLocJOWbkAIXlE-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2069997926437572980",
+        "created_at": "2026-06-25T11:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070110105413320945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844768000416571405",
+              "start": 0,
+              "username": "fog1056149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070110105413320945",
+        "in_reply_to_user_id": "1844768000416571405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069997926437572980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fog1056149 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069997923526742018"
+          ]
+        },
+        "author_id": "1844768000416571405",
+        "conversation_id": "2069997926437572980",
+        "created_at": "2026-06-25T04:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069997926437572980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/diC6J3jAqj",
+              "end": 40,
+              "expanded_url": "https://x.com/fog1056149/status/2069997926437572980/photo/1",
+              "media_key": "3_2069997923526742018",
+              "start": 17,
+              "url": "https://t.co/diC6J3jAqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069997926437572980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是个盗版小水怪，除了我没人要你 https://t.co/diC6J3jAqj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 494,
+          "like_count": 14854,
+          "listed_count": 1,
+          "media_count": 1025,
+          "tweet_count": 7034
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-11T15:52:38.000Z",
+        "description": "长发\n\n infp  switch 我很奇怪",
+        "id": "1844768000416571405",
+        "name": "fog",
+        "pinned_tweet_id": "2036237226330505533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066092855974862848/ImsT8H06_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 1427,
+          "like_count": 9267,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "fog1056149",
+        "verified": false
+      }
+    ]
+  }
+}

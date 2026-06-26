@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069430410539577344",
+        "3_2069430410527055872",
+        "3_2069430410552205312",
+        "3_2069430410552176640"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2069430446350618765",
+    "created_at": "2026-06-23T14:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069430446350618765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "欢迎来到小荒的电子空间。这里有我的碎碎念、作品展示以及精神状态记录。",
+          "display_url": "littlehuang.icu",
+          "end": 69,
+          "expanded_url": "http://littlehuang.icu",
+          "start": 46,
+          "status": 200,
+          "title": "小荒————电子精神体",
+          "unwound_url": "https://littlehuang.icu/",
+          "url": "https://t.co/8MRgMkUy0p"
+        },
+        {
+          "display_url": "littlehuang.icu/date/",
+          "end": 125,
+          "expanded_url": "https://littlehuang.icu/date/",
+          "start": 102,
+          "status": 200,
+          "title": "小荒的资源库",
+          "unwound_url": "https://littlehuang.icu/date/",
+          "url": "https://t.co/uLlKHKHhPK"
+        },
+        {
+          "display_url": "pic.x.com/vMrCY1E2sv",
+          "end": 149,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2069430446350618765/photo/1",
+          "media_key": "3_2069430410539577344",
+          "start": 126,
+          "url": "https://t.co/vMrCY1E2sv"
+        },
+        {
+          "display_url": "pic.x.com/vMrCY1E2sv",
+          "end": 149,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2069430446350618765/photo/1",
+          "media_key": "3_2069430410527055872",
+          "start": 126,
+          "url": "https://t.co/vMrCY1E2sv"
+        },
+        {
+          "display_url": "pic.x.com/vMrCY1E2sv",
+          "end": 149,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2069430446350618765/photo/1",
+          "media_key": "3_2069430410552205312",
+          "start": 126,
+          "url": "https://t.co/vMrCY1E2sv"
+        },
+        {
+          "display_url": "pic.x.com/vMrCY1E2sv",
+          "end": 149,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2069430446350618765/photo/1",
+          "media_key": "3_2069430410552176640",
+          "start": 126,
+          "url": "https://t.co/vMrCY1E2sv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069430446350618765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "更新自介\n我是小荒（荒眼见山河）\n无性别/低精力/烹饪/画画/文学/物理\n想了解更多点这里→https://t.co/8MRgMkUy0p\n然后我还有一个放我自己找到的东西和自己的一些数据的网站\n在这里→https://t.co/uLlKHKHhPK https://t.co/vMrCY1E2sv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2069430410539577344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgX_nuaMAAOlv7.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2402,
+        "media_key": "3_2069430410527055872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgX_nrbIAA4wCA.jpg",
+        "width": 2402
+      },
+      {
+        "height": 2710,
+        "media_key": "3_2069430410552205312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgX_nxa4AA2qkK.jpg",
+        "width": 2293
+      },
+      {
+        "height": 2638,
+        "media_key": "3_2069430410552176640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgX_nxacAAdrr7.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069430410539577344",
+            "3_2069430410527055872",
+            "3_2069430410552205312",
+            "3_2069430410552176640"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2069430446350618765",
+        "created_at": "2026-06-23T14:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069430446350618765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "欢迎来到小荒的电子空间。这里有我的碎碎念、作品展示以及精神状态记录。",
+              "display_url": "littlehuang.icu",
+              "end": 69,
+              "expanded_url": "http://littlehuang.icu",
+              "start": 46,
+              "status": 200,
+              "title": "小荒————电子精神体",
+              "unwound_url": "https://littlehuang.icu/",
+              "url": "https://t.co/8MRgMkUy0p"
+            },
+            {
+              "display_url": "littlehuang.icu/date/",
+              "end": 125,
+              "expanded_url": "https://littlehuang.icu/date/",
+              "start": 102,
+              "status": 200,
+              "title": "小荒的资源库",
+              "unwound_url": "https://littlehuang.icu/date/",
+              "url": "https://t.co/uLlKHKHhPK"
+            },
+            {
+              "display_url": "pic.x.com/vMrCY1E2sv",
+              "end": 149,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2069430446350618765/photo/1",
+              "media_key": "3_2069430410539577344",
+              "start": 126,
+              "url": "https://t.co/vMrCY1E2sv"
+            },
+            {
+              "display_url": "pic.x.com/vMrCY1E2sv",
+              "end": 149,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2069430446350618765/photo/1",
+              "media_key": "3_2069430410527055872",
+              "start": 126,
+              "url": "https://t.co/vMrCY1E2sv"
+            },
+            {
+              "display_url": "pic.x.com/vMrCY1E2sv",
+              "end": 149,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2069430446350618765/photo/1",
+              "media_key": "3_2069430410552205312",
+              "start": 126,
+              "url": "https://t.co/vMrCY1E2sv"
+            },
+            {
+              "display_url": "pic.x.com/vMrCY1E2sv",
+              "end": 149,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2069430446350618765/photo/1",
+              "media_key": "3_2069430410552176640",
+              "start": 126,
+              "url": "https://t.co/vMrCY1E2sv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069430446350618765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "更新自介\n我是小荒（荒眼见山河）\n无性别/低精力/烹饪/画画/文学/物理\n想了解更多点这里→https://t.co/8MRgMkUy0p\n然后我还有一个放我自己找到的东西和自己的一些数据的网站\n在这里→https://t.co/uLlKHKHhPK https://t.co/vMrCY1E2sv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 490,
+          "like_count": 14595,
+          "listed_count": 1,
+          "media_count": 1017,
+          "tweet_count": 6972
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

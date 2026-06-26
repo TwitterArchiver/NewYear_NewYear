@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2069214107505729765",
+    "created_at": "2026-06-23T00:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T01:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069214107505729765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Magpieneko/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Magpieneko/status/2068994431752217063",
+          "start": 6,
+          "url": "https://t.co/nCH8ut6ldU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069214107505729765",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068994431752217063",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我趣我也是 https://t.co/nCH8ut6ldU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2069214107505729765",
+        "created_at": "2026-06-23T00:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T01:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069214107505729765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Magpieneko/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Magpieneko/status/2068994431752217063",
+              "start": 6,
+              "url": "https://t.co/nCH8ut6ldU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069214107505729765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068994431752217063",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我趣我也是 https://t.co/nCH8ut6ldU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520285442737770496",
+        "conversation_id": "2068994431752217063",
+        "created_at": "2026-06-22T09:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068994431752217063"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068994431752217063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 457,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "欸我才发现\n我左右两边脸柔韧性不一样欸\n右半边脸要更软一点手感更好一点，左半边就不如右半边"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 491,
+          "like_count": 14443,
+          "listed_count": 1,
+          "media_count": 1012,
+          "tweet_count": 6934
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T06:14:47.000Z",
+        "description": "INFP4w5｜Cptsd｜是个不可爱的孩子｜学着成为人类｜社恐｜总是很困｜自杀惯犯｜一切都会好起来的……吧\nWhat do u want to be when u grow up?\nKind.",
+        "id": "1520285442737770496",
+        "location": "距你2.1KM",
+        "name": "惊鹊",
+        "pinned_tweet_id": "2056572888778727508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000047111682097152/toPEt8jA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 55,
+          "like_count": 1363,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1076
+        },
+        "url": "",
+        "username": "Magpieneko",
+        "verified": true
+      }
+    ]
+  }
+}

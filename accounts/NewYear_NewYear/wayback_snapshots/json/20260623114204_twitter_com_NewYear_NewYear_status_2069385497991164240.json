@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2069028697798332876",
+    "created_at": "2026-06-23T11:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069385497991164240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1851327101946953728",
+          "start": 0,
+          "username": "060105o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069385497991164240",
+    "in_reply_to_user_id": "1851327101946953728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069028697798332876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@060105o 懂了，病人静脉曲张"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1977,
+        "media_key": "3_2069028690684723200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaqocpawAA15rh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2069028697798332876",
+        "created_at": "2026-06-23T11:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069385497991164240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1851327101946953728",
+              "start": 0,
+              "username": "060105o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069385497991164240",
+        "in_reply_to_user_id": "1851327101946953728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069028697798332876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@060105o 懂了，病人静脉曲张"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069028690684723200"
+          ]
+        },
+        "author_id": "1851327101946953728",
+        "conversation_id": "2069028697798332876",
+        "created_at": "2026-06-22T12:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069028697798332876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQKd0p4eJ8",
+              "end": 36,
+              "expanded_url": "https://x.com/060105o/status/2069028697798332876/photo/1",
+              "media_key": "3_2069028690684723200",
+              "start": 13,
+              "url": "https://t.co/EQKd0p4eJ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069028697798332876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 572,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来到我的课堂找我打针 https://t.co/EQKd0p4eJ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 491,
+          "like_count": 14592,
+          "listed_count": 1,
+          "media_count": 1015,
+          "tweet_count": 6967
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T18:16:07.000Z",
+        "description": "哇咔/双相情感障碍/自残/ 双性恋/生活推/疾病生活日记录/治愈/满怀希望就会所向披靡/希望可以和更多的人成为朋友 一起聊天 /(。•ω•。)ノ♡/树洞博主/即使你没有米但是你真诚有趣有分享生活的欲望你依然可以和我成为朋友/成为你的树洞 倾诉心中压力 为你而活 门槛🚪十块钱谢谢宝子们可怜我这路边一条",
+        "id": "1851327101946953728",
+        "location": "门槛10r  520米可打视频打电话",
+        "name": "哇咔",
+        "pinned_tweet_id": "2056420109837860868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855710973828702208/HGKYxt_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 521,
+          "like_count": 6851,
+          "listed_count": 3,
+          "media_count": 1860,
+          "tweet_count": 9485
+        },
+        "url": "",
+        "username": "060105o",
+        "verified": false
+      }
+    ]
+  }
+}
