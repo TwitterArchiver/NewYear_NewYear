@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2069006458138857486",
+    "created_at": "2026-06-22T14:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069072362742636865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554696046021730305",
+          "start": 0,
+          "username": "Pyuyi233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069072362742636865",
+    "in_reply_to_user_id": "1554696046021730305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069006458138857486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pyuyi233 挠头度：5根头发/秒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 274,
+        "media_key": "16_2069006444880695296",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLaWZkkbkAAZ9Vm.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLaWZkkbkAAZ9Vm.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2069006458138857486",
+        "created_at": "2026-06-22T14:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069072362742636865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554696046021730305",
+              "start": 0,
+              "username": "Pyuyi233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069072362742636865",
+        "in_reply_to_user_id": "1554696046021730305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069006458138857486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pyuyi233 挠头度：5根头发/秒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2069006444880695296"
+          ]
+        },
+        "author_id": "1554696046021730305",
+        "conversation_id": "2069006458138857486",
+        "created_at": "2026-06-22T10:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069006458138857486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nkBCEqrHM3",
+              "end": 47,
+              "expanded_url": "https://x.com/Pyuyi233/status/2069006458138857486/photo/1",
+              "media_key": "16_2069006444880695296",
+              "start": 24,
+              "url": "https://t.co/nkBCEqrHM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069006458138857486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 336,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "困惑度真的是很形象的词，要是能改成挠头度就好了 https://t.co/nkBCEqrHM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 491,
+          "like_count": 14417,
+          "listed_count": 1,
+          "media_count": 1011,
+          "tweet_count": 6919
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T05:10:13.000Z",
+        "description": "可以叫我mmm(Pyuyi)，INFJ\n\nmath\nAI Interpretability\nCybersecurity\n\n红薯：https://t.co/Bsz7QlXkD8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xiaohongshu.com/user/profile/6…",
+                "end": 87,
+                "expanded_url": "https://www.xiaohongshu.com/user/profile/60aa2bc40000000001002d6e?xsec_token=YBzOnWib22kxz9OHHhQ",
+                "start": 64,
+                "url": "https://t.co/Bsz7QlXkD8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/VeraPyuyi",
+                "end": 23,
+                "expanded_url": "https://github.com/VeraPyuyi",
+                "start": 0,
+                "url": "https://t.co/vZgYQSg5hB"
+              }
+            ]
+          }
+        },
+        "id": "1554696046021730305",
+        "location": "卡冈图雅",
+        "name": "Pyuyi",
+        "pinned_tweet_id": "2065675267646108047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060548602880221185/XP4emOUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 56,
+          "like_count": 273,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/vZgYQSg5hB",
+        "username": "Pyuyi233",
+        "verified": true
+      }
+    ]
+  }
+}
