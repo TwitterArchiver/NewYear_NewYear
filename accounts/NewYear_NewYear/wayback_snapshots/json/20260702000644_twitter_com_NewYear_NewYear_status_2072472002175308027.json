@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2072364587908002146",
+    "created_at": "2026-07-02T00:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T01:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072472002175308027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1642486163951820800",
+          "start": 0,
+          "username": "wshanserdg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072472002175308027",
+    "in_reply_to_user_id": "1642486163951820800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072364587908002146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wshanserdg 好辛苦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2072364579666223104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKEmvgbYAAal0W.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2072364587908002146",
+        "created_at": "2026-07-02T00:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T01:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072472002175308027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1642486163951820800",
+              "start": 0,
+              "username": "wshanserdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072472002175308027",
+        "in_reply_to_user_id": "1642486163951820800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072364587908002146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wshanserdg 好辛苦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072364579666223104"
+          ]
+        },
+        "author_id": "1642486163951820800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072364587908002146",
+        "created_at": "2026-07-01T16:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072364587908002146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M5XAUReo9J",
+              "end": 30,
+              "expanded_url": "https://x.com/wshanserdg/status/2072364587908002146/photo/1",
+              "media_key": "3_2072364579666223104",
+              "start": 7,
+              "url": "https://t.co/M5XAUReo9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072364587908002146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要吃这么多药 https://t.co/M5XAUReo9J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 495,
+          "like_count": 15329,
+          "listed_count": 1,
+          "media_count": 1040,
+          "tweet_count": 7128
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T11:16:50.000Z",
+        "description": "召唤一个恶魔，你得先知道他的名字",
+        "id": "1642486163951820800",
+        "name": "让青天不见黑云",
+        "pinned_tweet_id": "2051463306192539946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949536411197022208/g2uCOxIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 500,
+          "like_count": 2324,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "wshanserdg",
+        "verified": false
+      }
+    ]
+  }
+}
