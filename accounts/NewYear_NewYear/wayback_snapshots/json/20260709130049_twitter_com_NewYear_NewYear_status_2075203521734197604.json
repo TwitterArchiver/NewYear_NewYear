@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075203518911406080"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2074479064128295003",
+    "created_at": "2026-07-09T13:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T14:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075203521734197604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1908957018469085184",
+          "start": 0,
+          "username": "ml921127"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SqtUKG8FXo",
+          "end": 59,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2075203521734197604/photo/1",
+          "media_key": "3_2075203518911406080",
+          "start": 36,
+          "url": "https://t.co/SqtUKG8FXo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075203521734197604",
+    "in_reply_to_user_id": "1908957018469085184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074795876124381371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ml921127 今天直接红色预警了，我第一次见到高温红色预警😭😭😭 https://t.co/SqtUKG8FXo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075203518911406080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyamwVa4AApoiS.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075203518911406080"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2074479064128295003",
+        "created_at": "2026-07-09T13:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075203521734197604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1908957018469085184",
+              "start": 0,
+              "username": "ml921127"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SqtUKG8FXo",
+              "end": 59,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2075203521734197604/photo/1",
+              "media_key": "3_2075203518911406080",
+              "start": 36,
+              "url": "https://t.co/SqtUKG8FXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075203521734197604",
+        "in_reply_to_user_id": "1908957018469085184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074795876124381371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ml921127 今天直接红色预警了，我第一次见到高温红色预警😭😭😭 https://t.co/SqtUKG8FXo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908957018469085184",
+        "conversation_id": "2074479064128295003",
+        "created_at": "2026-07-08T10:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074795876124381371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074795876124381371",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074773208822407663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 我已完全不出门24h开着空调在家，热懵逼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 495,
+          "like_count": 15381,
+          "listed_count": 1,
+          "media_count": 1042,
+          "tweet_count": 7138
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T18:56:49.000Z",
+        "description": "药物会带我们逃离这个世界，要和Archer一起吗这里很安全^^（非同圈闲聊🚪188\n不约炮不下海，男的再问4000+关注我的我会查成分。你在看我的同时我也在看你。提问箱https://t.co/BguYWWr14J",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ar96376",
+                "end": 107,
+                "expanded_url": "https://ngl.link/ar96376",
+                "start": 84,
+                "url": "https://t.co/BguYWWr14J"
+              }
+            ]
+          }
+        },
+        "id": "1908957018469085184",
+        "name": "Archer",
+        "pinned_tweet_id": "2070783668377858442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070820490600407040/KnVuGfp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 42,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 297
+        },
+        "url": "",
+        "username": "ml921127",
+        "verified": false
+      }
+    ]
+  }
+}
