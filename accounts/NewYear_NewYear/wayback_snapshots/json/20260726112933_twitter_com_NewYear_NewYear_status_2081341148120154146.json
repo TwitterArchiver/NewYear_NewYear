@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2081341148120154146",
+    "created_at": "2026-07-26T11:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T12:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081341148120154146"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/2081336855812026602",
+          "start": 20,
+          "url": "https://t.co/ktaOPcCcf2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081341148120154146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081336855812026602",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉要是一次性吃完可以给我吃的质壁分离 https://t.co/ktaOPcCcf2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2081336838770561024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJk09TakAAhGWS.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2081336850002915328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJk1nJasAAEgcD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2081341148120154146",
+        "created_at": "2026-07-26T11:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081341148120154146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/2081336855812026602",
+              "start": 20,
+              "url": "https://t.co/ktaOPcCcf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081341148120154146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081336855812026602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉要是一次性吃完可以给我吃的质壁分离 https://t.co/ktaOPcCcf2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081336838770561024",
+            "3_2081336850002915328"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081336855812026602",
+        "created_at": "2026-07-26T11:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081336855812026602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEMeeqaDi0",
+              "end": 29,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2081336855812026602/photo/1",
+              "media_key": "3_2081336838770561024",
+              "start": 6,
+              "url": "https://t.co/fEMeeqaDi0"
+            },
+            {
+              "display_url": "pic.x.com/fEMeeqaDi0",
+              "end": 29,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2081336855812026602/photo/1",
+              "media_key": "3_2081336850002915328",
+              "start": 6,
+              "url": "https://t.co/fEMeeqaDi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081336855812026602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "薯片十重奏 https://t.co/fEMeeqaDi0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 504,
+          "like_count": 16167,
+          "listed_count": 1,
+          "media_count": 1087,
+          "tweet_count": 7331
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

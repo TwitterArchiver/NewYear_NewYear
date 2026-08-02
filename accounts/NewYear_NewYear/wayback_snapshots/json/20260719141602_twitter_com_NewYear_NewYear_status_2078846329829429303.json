@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2078828770807754985",
+    "created_at": "2026-07-19T14:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078846329829429303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2005739449058230272",
+          "start": 0,
+          "username": "usagimm208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078846329829429303",
+    "in_reply_to_user_id": "2005739449058230272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078828770807754985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@usagimm208 好厉害！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2078828674108063744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl7qj0bgAANw6Z.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2078828770807754985",
+        "created_at": "2026-07-19T14:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078846329829429303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2005739449058230272",
+              "start": 0,
+              "username": "usagimm208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078846329829429303",
+        "in_reply_to_user_id": "2005739449058230272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078828770807754985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@usagimm208 好厉害！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078828674108063744"
+          ]
+        },
+        "author_id": "2005739449058230272",
+        "conversation_id": "2078828770807754985",
+        "created_at": "2026-07-19T13:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078828770807754985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqRH1Z9PWy",
+              "end": 40,
+              "expanded_url": "https://x.com/usagimm208/status/2078828770807754985/photo/1",
+              "media_key": "3_2078828674108063744",
+              "start": 17,
+              "url": "https://t.co/oqRH1Z9PWy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078828770807754985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要全世界来夸这个很牛逼的发色 https://t.co/oqRH1Z9PWy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 499,
+          "like_count": 15679,
+          "listed_count": 1,
+          "media_count": 1064,
+          "tweet_count": 7207
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "无能系弱女オタク",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "そちゃ",
+        "pinned_tweet_id": "2076625403981258852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 52,
+          "like_count": 3400,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 1243
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

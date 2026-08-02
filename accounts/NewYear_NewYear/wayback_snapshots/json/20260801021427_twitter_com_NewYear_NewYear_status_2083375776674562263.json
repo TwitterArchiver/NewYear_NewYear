@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2083216159151960405",
+    "created_at": "2026-08-01T02:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T03:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083375776674562263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "73477249",
+          "start": 0,
+          "username": "secondox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083375776674562263",
+    "in_reply_to_user_id": "73477249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083280971017712070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@secondox 沙拉酱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2083216159151960405",
+        "created_at": "2026-08-01T02:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083375776674562263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "73477249",
+              "start": 0,
+              "username": "secondox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083375776674562263",
+        "in_reply_to_user_id": "73477249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083280971017712070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@secondox 沙拉酱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "73477249",
+        "conversation_id": "2083216159151960405",
+        "created_at": "2026-07-31T19:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083280971017712070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083280971017712070",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083216159151960405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 那里面白色粘稠的是什么😧😨😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 501,
+          "like_count": 16571,
+          "listed_count": 1,
+          "media_count": 1107,
+          "tweet_count": 7429
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-11T20:35:03.000Z",
+        "description": "红烧鸡翅膀昂我鹅喜欢吃",
+        "id": "73477249",
+        "name": "二狗红烧鸡翅膀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417909184302047241/aUe32npn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 2611,
+          "like_count": 86563,
+          "listed_count": 7,
+          "media_count": 877,
+          "tweet_count": 16255
+        },
+        "url": "",
+        "username": "secondox",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2080574693606867224",
+    "created_at": "2026-07-25T04:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080873216705540406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1967633634074169351",
+          "start": 0,
+          "username": "Chems302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080873216705540406",
+    "in_reply_to_user_id": "1967633634074169351",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080871804877602952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chems302 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2080574693606867224",
+        "created_at": "2026-07-25T04:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080873216705540406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1967633634074169351",
+              "start": 0,
+              "username": "Chems302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080873216705540406",
+        "in_reply_to_user_id": "1967633634074169351",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080871804877602952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chems302 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967633634074169351",
+        "conversation_id": "2080574693606867224",
+        "created_at": "2026-07-25T04:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080871804877602952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080871804877602952",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080574693606867224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 503,
+          "like_count": 16102,
+          "listed_count": 1,
+          "media_count": 1080,
+          "tweet_count": 7306
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T16:56:43.000Z",
+        "description": "Just share myself and post my view:)\nhttps://t.co/s26dioFJeQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dingtalk",
+                "end": 60,
+                "expanded_url": "https://ngl.link/dingtalk",
+                "start": 37,
+                "url": "https://t.co/s26dioFJeQ"
+              }
+            ]
+          }
+        },
+        "id": "1967633634074169351",
+        "name": "Chems",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967633767084011520/Mdmsdx5e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 52,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "Chems302",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2081586993990078503",
+    "created_at": "2026-07-27T14:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081748383463809457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1650209029724196865",
+          "start": 0,
+          "username": "KarBwk5251"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081748383463809457",
+    "in_reply_to_user_id": "1650209029724196865",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081706875062546584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KarBwk5251 😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2081586993990078503",
+        "created_at": "2026-07-27T14:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081748383463809457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1650209029724196865",
+              "start": 0,
+              "username": "KarBwk5251"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081748383463809457",
+        "in_reply_to_user_id": "1650209029724196865",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081706875062546584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarBwk5251 😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650209029724196865",
+        "conversation_id": "2081586993990078503",
+        "created_at": "2026-07-27T11:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081706875062546584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081706875062546584",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081586993990078503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear （摸腿）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 502,
+          "like_count": 16261,
+          "listed_count": 1,
+          "media_count": 1090,
+          "tweet_count": 7355
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T18:44:49.000Z",
+        "description": "互fo请私信\n我是小桃\n🐱叫圈圈\n非二元\n乐乐\n不看黄也不建政（假的）我是中推最美逆行人",
+        "id": "1650209029724196865",
+        "location": "Yuki是我的宝宝～(^з^)-♡",
+        "name": "☔️8964.星露谷骑手桃酱☔️",
+        "pinned_tweet_id": "2071179216071385551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078310922624659456/YLcKIH57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 1970,
+          "like_count": 11979,
+          "listed_count": 9,
+          "media_count": 2012,
+          "tweet_count": 9056
+        },
+        "url": "",
+        "username": "KarBwk5251",
+        "verified": false
+      }
+    ]
+  }
+}

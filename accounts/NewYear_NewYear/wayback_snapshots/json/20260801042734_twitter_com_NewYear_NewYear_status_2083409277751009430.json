@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2082721546800656396",
+    "created_at": "2026-08-01T04:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083409277751009430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2056753157858844672",
+          "start": 0,
+          "username": "xyxyxy4111111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083409277751009430",
+    "in_reply_to_user_id": "2056753157858844672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083405813654204841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyxyxy4111111 弹弹弹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2082721546800656396",
+        "created_at": "2026-08-01T04:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083409277751009430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2056753157858844672",
+              "start": 0,
+              "username": "xyxyxy4111111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083409277751009430",
+        "in_reply_to_user_id": "2056753157858844672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083405813654204841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyxyxy4111111 弹弹弹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056753157858844672",
+        "conversation_id": "2082721546800656396",
+        "created_at": "2026-08-01T04:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083405813654204841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083405813654204841",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082721546800656396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 蹦蹦蹦 彈彈彈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 501,
+          "like_count": 16597,
+          "listed_count": 1,
+          "media_count": 1107,
+          "tweet_count": 7440
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T15:05:53.000Z",
+        "description": "oshi 上坂すみれ  浠mizuki 前島亜美\n負面負面負面負面和一些我熱愛的事",
+        "id": "2056753157858844672",
+        "location": "你家隔壁",
+        "name": "41",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081360643198955520/kKwDvKDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 245,
+          "like_count": 859,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 317
+        },
+        "url": "",
+        "username": "xyxyxy4111111",
+        "verified": false
+      }
+    ]
+  }
+}

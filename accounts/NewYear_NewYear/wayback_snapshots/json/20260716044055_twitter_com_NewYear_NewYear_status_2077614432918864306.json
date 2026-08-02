@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2077358633915175223",
+    "created_at": "2026-07-16T04:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077614432918864306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554696046021730305",
+          "start": 0,
+          "username": "Pyuyi233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077614432918864306",
+    "in_reply_to_user_id": "1554696046021730305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077358633915175223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pyuyi233 但愿长醉不愿醒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2077358633915175223",
+        "created_at": "2026-07-16T04:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077614432918864306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554696046021730305",
+              "start": 0,
+              "username": "Pyuyi233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077614432918864306",
+        "in_reply_to_user_id": "1554696046021730305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077358633915175223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pyuyi233 但愿长醉不愿醒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554696046021730305",
+        "conversation_id": "2077358633915175223",
+        "created_at": "2026-07-15T11:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:39:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077357497929830560",
+          "2077358633915175223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077358633915175223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 518,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天站在三环路天桥上，第一次萌生了跳下去的想法，，\n\n到头来还是孤身一人一事无成呢\n\n真是……好想长睡不醒啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 493,
+          "like_count": 15473,
+          "listed_count": 1,
+          "media_count": 1052,
+          "tweet_count": 7172
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T05:10:13.000Z",
+        "description": "可以叫我mmm(Pyuyi) | INFJ | 希望被大家喜欢😜 | 艰难找对象ing(ㄒoㄒ) | 也想成为全栈工程师(≧∇≦)/\n\n| math |\nAI Interpretability |\nCybersecurity |\n\n高P，线下查无此人😭 |\n\n私信和留言看到会回，抽象的不回，被机器人挡住看不到的见谅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/VeraPyuyi",
+                "end": 23,
+                "expanded_url": "https://github.com/VeraPyuyi",
+                "start": 0,
+                "url": "https://t.co/vZgYQSg5hB"
+              }
+            ]
+          }
+        },
+        "id": "1554696046021730305",
+        "location": "卡冈图雅",
+        "name": "Pyuyi",
+        "pinned_tweet_id": "2065675267646108047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060548602880221185/XP4emOUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 78,
+          "like_count": 723,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/vZgYQSg5hB",
+        "username": "Pyuyi233",
+        "verified": true
+      }
+    ]
+  }
+}

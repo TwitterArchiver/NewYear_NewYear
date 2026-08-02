@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2079927507852448073",
+    "created_at": "2026-07-22T14:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079930407689330844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1892971043280814080",
+          "start": 0,
+          "username": "sawatama_arijit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079930407689330844",
+    "in_reply_to_user_id": "1892971043280814080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079928609205325994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sawatama_arijit 😋😋😋\n不知道咋烤的，居然不是很干并且还挺有嚼劲\n好吃好吃，就是吃一大个有点撑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_2079928450773827584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1j5_KaQAAEASM.jpg",
+        "width": 604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2079927507852448073",
+        "created_at": "2026-07-22T14:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079930407689330844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892971043280814080",
+              "start": 0,
+              "username": "sawatama_arijit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079930407689330844",
+        "in_reply_to_user_id": "1892971043280814080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079928609205325994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sawatama_arijit 😋😋😋\n不知道咋烤的，居然不是很干并且还挺有嚼劲\n好吃好吃，就是吃一大个有点撑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079928450773827584"
+          ]
+        },
+        "author_id": "1892971043280814080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079927507852448073",
+        "created_at": "2026-07-22T13:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079928609205325994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f8Zi54c720",
+              "end": 87,
+              "expanded_url": "https://x.com/sawatama_arijit/status/2079928609205325994/photo/1",
+              "media_key": "3_2079928450773827584",
+              "start": 64,
+              "url": "https://t.co/f8Zi54c720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079928609205325994",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079927507852448073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 我家楼下有卖馕的，跟平底锅一样大，他卖15一个，好贵，但是我斥巨资买过一个，说实话烤得不错。 https://t.co/f8Zi54c720"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 502,
+          "like_count": 15884,
+          "listed_count": 1,
+          "media_count": 1073,
+          "tweet_count": 7245
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T16:15:19.000Z",
+        "description": "这个人是山下和仁推，取向为futa\n头像为シオン，？！跟我一起睡就原谅你！？",
+        "id": "1892971043280814080",
+        "location": "Sheffield, United Kingdom",
+        "name": "空气动力少女的水曜日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054870518084595712/qgNyTLab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 55,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "sawatama_arijit",
+        "verified": false
+      }
+    ]
+  }
+}

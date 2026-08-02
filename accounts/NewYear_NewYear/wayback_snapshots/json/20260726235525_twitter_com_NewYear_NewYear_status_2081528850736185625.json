@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2081411106078339295",
+    "created_at": "2026-07-26T23:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T00:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081528850736185625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053536594427338752",
+          "start": 0,
+          "username": "sonia_lychee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081528850736185625",
+    "in_reply_to_user_id": "2053536594427338752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081434988445352295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sonia_lychee 嘎嘎嘎🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2081411106078339295",
+        "created_at": "2026-07-26T23:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081528850736185625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053536594427338752",
+              "start": 0,
+              "username": "sonia_lychee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081528850736185625",
+        "in_reply_to_user_id": "2053536594427338752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081434988445352295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sonia_lychee 嘎嘎嘎🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053536594427338752",
+        "conversation_id": "2081411106078339295",
+        "created_at": "2026-07-26T17:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081434988445352295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081434988445352295",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081411106078339295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 可爱荒荒鸭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 503,
+          "like_count": 16203,
+          "listed_count": 1,
+          "media_count": 1089,
+          "tweet_count": 7346
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T18:04:22.000Z",
+        "description": "只是吐黑泥的地方。\n路过的朋友我祝你肠胃健康，睡眠健康。",
+        "id": "2053536594427338752",
+        "location": "Nakano-ku, Tokyo",
+        "name": "AAA肠胃睡眠健康宣传大使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053536777672278016/QaKcIqe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 63,
+          "like_count": 3110,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 501
+        },
+        "url": "",
+        "username": "sonia_lychee",
+        "verified": false
+      }
+    ]
+  }
+}
