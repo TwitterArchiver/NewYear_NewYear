@@ -1,5 +1,4 @@
 https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
-https://pbs.twimg.com/profile_images/1639818034406907904/P_yUZofL_normal.jpg
 https://pbs.twimg.com/profile_images/1657346355990519810/Mv3oDXsg_normal.jpg
 https://pbs.twimg.com/profile_images/1776147587726532608/PDRPZmXY_normal.jpg
 https://pbs.twimg.com/profile_images/1781510900635009024/ggVgOfNK_normal.jpg
@@ -86,7 +85,6 @@ https://pbs.twimg.com/profile_images/1988322246809841665/pxvvMtGf_normal.jpg
 https://pbs.twimg.com/profile_images/1990345620318720001/tAR9g5Bf_normal.jpg
 https://pbs.twimg.com/profile_images/1992039552731725825/3Uy_y4UJ_normal.jpg
 https://pbs.twimg.com/profile_images/1994857195658231808/vf9vK3Bs_normal.jpg
-https://pbs.twimg.com/profile_images/1997310784519409664/YzWyhr7Z_normal.jpg
 https://pbs.twimg.com/profile_images/1998085267593543680/jCEvLV7L_normal.jpg
 https://pbs.twimg.com/profile_images/2001460860678709248/SsaSYNC__normal.jpg
 https://pbs.twimg.com/profile_images/2004329674328129538/Wd4LU80G_normal.jpg
@@ -143,7 +141,6 @@ https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg
 https://pbs.twimg.com/profile_images/2051295624193294336/pHRa5vCQ_normal.jpg
 https://pbs.twimg.com/profile_images/2052179665373241344/ZGXpnCLy_normal.jpg
 https://pbs.twimg.com/profile_images/2052399868107497472/NeEayGvN_normal.jpg
-https://pbs.twimg.com/profile_images/2053168025998925824/vH0cK6kQ_normal.jpg
 https://pbs.twimg.com/profile_images/2053244743933632512/shPOzzpb_normal.jpg
 https://pbs.twimg.com/profile_images/2055331092056645632/M79qtwh1_normal.jpg
 https://pbs.twimg.com/profile_images/2055617823880445952/Q9inNwRM_normal.jpg
@@ -151,4 +148,3 @@ https://pbs.twimg.com/profile_images/2055958442708504576/QBGf6TQs_normal.jpg
 https://pbs.twimg.com/profile_images/2056754600015990784/afE4wiO2_normal.jpg
 https://pbs.twimg.com/profile_images/2059621155779276800/glRf3b5P_normal.jpg
 https://pbs.twimg.com/profile_images/2066110727547727872/SC6Uboog_normal.jpg
-https://pbs.twimg.com/profile_images/2069371732063145984/03HtpSoi_normal.jpg
