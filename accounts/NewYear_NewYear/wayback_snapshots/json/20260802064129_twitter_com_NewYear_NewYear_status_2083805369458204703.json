@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2083385115741458717",
+    "created_at": "2026-08-02T06:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083805369458204703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1556985487784493056",
+          "start": 0,
+          "username": "LokmenoWer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083805369458204703",
+    "in_reply_to_user_id": "1556985487784493056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083769285793755489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LokmenoWer 3g😨岂不是30t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2083385115741458717",
+        "created_at": "2026-08-02T06:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083805369458204703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1556985487784493056",
+              "start": 0,
+              "username": "LokmenoWer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083805369458204703",
+        "in_reply_to_user_id": "1556985487784493056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083769285793755489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LokmenoWer 3g😨岂不是30t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556985487784493056",
+        "conversation_id": "2083385115741458717",
+        "created_at": "2026-08-02T04:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083769285793755489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083769285793755489",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083385115741458717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 猛睡，吃过3g，睡了18小时，无事发生，那次入睡挺快的但是我不确定是不是劳拉的效果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 502,
+          "like_count": 16691,
+          "listed_count": 1,
+          "media_count": 1107,
+          "tweet_count": 7455
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-09T12:47:33.000Z",
+        "description": "mtf 20岁\n是只大废物",
+        "id": "1556985487784493056",
+        "name": "洛洛",
+        "pinned_tweet_id": "1726214497608798601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824319614157029376/S0RfkneQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 462,
+          "like_count": 6802,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1954
+        },
+        "url": "",
+        "username": "LokmenoWer",
+        "verified": false
+      }
+    ]
+  }
+}

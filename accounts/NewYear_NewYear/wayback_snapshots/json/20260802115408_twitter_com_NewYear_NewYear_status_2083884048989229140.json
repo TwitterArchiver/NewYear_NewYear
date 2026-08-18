@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083884043545051136"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083884048989229140",
+    "created_at": "2026-08-02T11:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083884048989229140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CxPuewRPcY",
+          "end": 28,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2083884048989229140/photo/1",
+          "media_key": "3_2083884043545051136",
+          "start": 5,
+          "url": "https://t.co/CxPuewRPcY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083884048989229140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/CxPuewRPcY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 797,
+        "media_key": "3_2083884043545051136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtxfyibgAAN3wz.jpg",
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083884043545051136"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083884048989229140",
+        "created_at": "2026-08-02T11:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083884048989229140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CxPuewRPcY",
+              "end": 28,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2083884048989229140/photo/1",
+              "media_key": "3_2083884043545051136",
+              "start": 5,
+              "url": "https://t.co/CxPuewRPcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083884048989229140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/CxPuewRPcY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 503,
+          "like_count": 16718,
+          "listed_count": 1,
+          "media_count": 1109,
+          "tweet_count": 7462
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

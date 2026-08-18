@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2087575050652373292",
+    "created_at": "2026-08-13T05:15:13.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T06:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087769923401687498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1805172293758582784",
+          "start": 0,
+          "username": "mingwang642679"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087769923401687498",
+    "in_reply_to_user_id": "1805172293758582784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087740980669898975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingwang642679 太坏了呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2087575050652373292",
+        "created_at": "2026-08-13T05:15:13.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087769923401687498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1805172293758582784",
+              "start": 0,
+              "username": "mingwang642679"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087769923401687498",
+        "in_reply_to_user_id": "1805172293758582784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087740980669898975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingwang642679 太坏了呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805172293758582784",
+        "conversation_id": "2087575050652373292",
+        "created_at": "2026-08-13T03:20:12.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T04:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087740980669898975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087740980669898975",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087575050652373292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 可惡的水果刺客😡👊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "is_identity_verified": false,
+        "location": "已有闺",
+        "most_recent_tweet_id": "2087769923401687498",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850587533924876288/1732007350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 498,
+          "like_count": 16985,
+          "listed_count": 2,
+          "media_count": 1123,
+          "tweet_count": 7530
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T09:33:32.000Z",
+        "description": "生理男性 東方厨（夾克子厨）蓬萊人形\n咱對於大家都是一樣的喔！🏳️‍🌈🏳️‍⚧️友好 我自己很幼稚，很多東西都不太懂ㄌ 但是咱願意繼續聽取大家的意見 增長見識喔（（（ 泛愛是對的！想要成為被傾訴的人，愛別人的人！\n儘量不要聊政治啦，那樣會讓咱很難堪的\n可能會有負面帖子，致歉！\n致力於打造低壓力程度的安全區域",
+        "id": "1805172293758582784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087740980669898975",
+        "name": "瑞.Rie",
+        "pinned_tweet_id": "2076285505705308425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805172293758582784/1780710020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956007318979796994/bsrPhO5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 93,
+          "like_count": 1709,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "mingwang642679",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
