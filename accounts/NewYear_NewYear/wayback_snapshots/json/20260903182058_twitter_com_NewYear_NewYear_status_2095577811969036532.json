@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2095577811969036532",
+    "created_at": "2026-09-03T18:20:58.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T19:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095577811969036532"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/2095374067897614844",
+          "start": 97,
+          "url": "https://t.co/ByRJ1eIuu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095577811969036532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095374067897614844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草我表达失误了\n是租的房子但是表达出来的感觉是我买的房子😭😭😭\n好尴尬。。。\n我本来想的是这套房子是我自己赚的钱租的房子，所以说“属于我自己的房子”\n但是现在才发现其实不是我想的那个意思…… https://t.co/ByRJ1eIuu1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2095374056937926656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRDml9asAAC_D2.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2095577811969036532",
+        "created_at": "2026-09-03T18:20:58.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T19:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095577811969036532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/2095374067897614844",
+              "start": 97,
+              "url": "https://t.co/ByRJ1eIuu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095577811969036532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095374067897614844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草我表达失误了\n是租的房子但是表达出来的感觉是我买的房子😭😭😭\n好尴尬。。。\n我本来想的是这套房子是我自己赚的钱租的房子，所以说“属于我自己的房子”\n但是现在才发现其实不是我想的那个意思…… https://t.co/ByRJ1eIuu1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095374056937926656"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2095374067897614844",
+        "created_at": "2026-09-03T04:51:22.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T05:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095374067897614844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMq4iv1zCv",
+              "end": 64,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2095374067897614844/photo/1",
+              "media_key": "3_2095374056937926656",
+              "start": 41,
+              "url": "https://t.co/ZMq4iv1zCv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095374067897614844",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095374056937926656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5888,
+          "like_count": 184,
+          "quote_count": 0,
+          "reply_count": 59,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我在成都的家，属于我自己的房子\n在46楼，超级高，可以看到成都天际线\n我喜欢这个 https://t.co/ZMq4iv1zCv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2095577811969036532",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850587533924876288/1732007350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 491,
+          "like_count": 17119,
+          "listed_count": 2,
+          "media_count": 1134,
+          "tweet_count": 7581
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

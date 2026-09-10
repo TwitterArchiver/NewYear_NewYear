@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094080654816444417"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2094081012309582142",
+    "created_at": "2026-08-30T15:13:14.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T16:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094081012309582142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e8X7a6qmEf",
+          "end": 28,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2094081012309582142/video/1",
+          "media_key": "13_2094080654816444417",
+          "start": 5,
+          "url": "https://t.co/e8X7a6qmEf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094081012309582142",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2094080654816444417"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小猫拉屎 https://t.co/e8X7a6qmEf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32020,
+        "height": 1920,
+        "media_key": "13_2094080654816444417",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094080654816444417/img/7lO-taqjwyXP-DVB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094080654816444417/vid/avc1/320x568/IQIgjXDzalhOInQl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094080654816444417/vid/avc1/480x852/6BrPGrCDkguAZY3L.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094080654816444417/vid/avc1/720x1280/7fc5HoTRw2uD1LBw.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094080654816444417/pl/S2QYx4M-98CgBY0K.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094080654816444417"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2094081012309582142",
+        "created_at": "2026-08-30T15:13:14.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094081012309582142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8X7a6qmEf",
+              "end": 28,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2094081012309582142/video/1",
+              "media_key": "13_2094080654816444417",
+              "start": 5,
+              "url": "https://t.co/e8X7a6qmEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094081012309582142",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2094080654816444417"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫拉屎 https://t.co/e8X7a6qmEf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2094081012309582142",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850587533924876288/1732007350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 491,
+          "like_count": 17022,
+          "listed_count": 2,
+          "media_count": 1131,
+          "tweet_count": 7558
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

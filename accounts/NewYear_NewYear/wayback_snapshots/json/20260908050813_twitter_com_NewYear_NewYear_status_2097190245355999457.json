@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2096943933993750758",
+    "created_at": "2026-09-08T05:08:13.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097190245355999457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1417446435700625414",
+          "start": 0,
+          "username": "Aasuka_kkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097190245355999457",
+    "in_reply_to_user_id": "1417446435700625414",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096971789469643229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aasuka_kkk ✋🏻😭✋🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2096943933993750758",
+        "created_at": "2026-09-08T05:08:13.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097190245355999457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1417446435700625414",
+              "start": 0,
+              "username": "Aasuka_kkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097190245355999457",
+        "in_reply_to_user_id": "1417446435700625414",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096971789469643229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aasuka_kkk ✋🏻😭✋🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417446435700625414",
+        "conversation_id": "2096943933993750758",
+        "created_at": "2026-09-07T14:40:09.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096971789469643229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096971789469643229",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096943933993750758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 不兑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2097190245355999457",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850587533924876288/1732007350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 501,
+          "like_count": 17238,
+          "listed_count": 2,
+          "media_count": 1143,
+          "tweet_count": 7619
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-20T11:29:09.000Z",
+        "description": "现在立刻死掉就不会再感受到痛苦了对吧",
+        "id": "1417446435700625414",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096978455061819410",
+        "name": "AASuKa",
+        "pinned_tweet_id": "2047544704691265555",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417446435700625414/1780517574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057641568421720064/G6VSqD4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 30,
+          "like_count": 2378,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 686
+        },
+        "url": "",
+        "username": "Aasuka_kkk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

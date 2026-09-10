@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2095374067897614844",
+    "created_at": "2026-09-03T12:17:20.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T13:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095486297926439002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1636981660553207809",
+          "start": 0,
+          "username": "MoTianYou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095486297926439002",
+    "in_reply_to_user_id": "1636981660553207809",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095476801292444063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoTianYou 😨😨😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2095374067897614844",
+        "created_at": "2026-09-03T12:17:20.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095486297926439002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1636981660553207809",
+              "start": 0,
+              "username": "MoTianYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095486297926439002",
+        "in_reply_to_user_id": "1636981660553207809",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095476801292444063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoTianYou 😨😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636981660553207809",
+        "conversation_id": "2095374067897614844",
+        "created_at": "2026-09-03T11:39:36.000Z",
+        "display_text_range": [
+          17,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095476801292444063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095476801292444063",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095374067897614844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 卧槽？我住你前面那栋房子里"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2095486297926439002",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850587533924876288/1732007350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 492,
+          "like_count": 17085,
+          "listed_count": 2,
+          "media_count": 1134,
+          "tweet_count": 7567
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-18T06:43:47.000Z",
+        "description": "",
+        "id": "1636981660553207809",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095482462822617296",
+        "name": "Qingly",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637444880833339394/8r2RdIDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 28,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "MoTianYou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

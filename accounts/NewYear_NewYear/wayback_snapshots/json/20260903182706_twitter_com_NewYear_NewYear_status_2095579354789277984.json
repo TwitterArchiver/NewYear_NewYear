@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2095374067897614844",
+    "created_at": "2026-09-03T18:27:06.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T19:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095579354789277984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1932296035445182464",
+          "start": 0,
+          "username": "PinkPepperC_137"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095579354789277984",
+    "in_reply_to_user_id": "1932296035445182464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095577342240530695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PinkPepperC_137 是的咪🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2095374067897614844",
+        "created_at": "2026-09-03T18:27:06.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T19:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095579354789277984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1932296035445182464",
+              "start": 0,
+              "username": "PinkPepperC_137"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095579354789277984",
+        "in_reply_to_user_id": "1932296035445182464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095577342240530695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkPepperC_137 是的咪🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932296035445182464",
+        "conversation_id": "2095374067897614844",
+        "created_at": "2026-09-03T18:19:06.000Z",
+        "display_text_range": [
+          17,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T19:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095577342240530695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095577342240530695",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095374067897614844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 真幸福呀！窗外的景色对心情真的超级重要！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2095579354789277984",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850587533924876288/1732007350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 498,
+          "like_count": 17133,
+          "listed_count": 2,
+          "media_count": 1134,
+          "tweet_count": 7582
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-10T04:37:43.000Z",
+        "description": "牢骚型人格。",
+        "id": "1932296035445182464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095577342240530695",
+        "name": "粉红胡椒",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932296035445182464/1749530554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095423627504254976/U8UySSyE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "PinkPepperC_137",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

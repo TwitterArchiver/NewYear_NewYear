@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096943926049755136"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096943933993750758",
+    "created_at": "2026-09-07T12:49:27.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T13:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096943933993750758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zRNvMskcwW",
+          "end": 39,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2096943933993750758/photo/1",
+          "media_key": "3_2096943926049755136",
+          "start": 16,
+          "url": "https://t.co/zRNvMskcwW"
+        },
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/2096838774714175855",
+          "start": 40,
+          "url": "https://t.co/OQ3fwbi9UB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096943933993750758",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096943926049755136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096838774714175855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主要是后面加微信\n感觉怪怪的😭 https://t.co/zRNvMskcwW https://t.co/OQ3fwbi9UB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2468,
+        "media_key": "3_2096943926049755136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnXZAIb0AASBTQ.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1384,
+        "media_key": "3_2096838766807928832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRl3v7ba0AAqaQ3.jpg",
+        "width": 1065
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096943926049755136"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096943933993750758",
+        "created_at": "2026-09-07T12:49:27.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096943933993750758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRNvMskcwW",
+              "end": 39,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2096943933993750758/photo/1",
+              "media_key": "3_2096943926049755136",
+              "start": 16,
+              "url": "https://t.co/zRNvMskcwW"
+            },
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/2096838774714175855",
+              "start": 40,
+              "url": "https://t.co/OQ3fwbi9UB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096943933993750758",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096943926049755136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096838774714175855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主要是后面加微信\n感觉怪怪的😭 https://t.co/zRNvMskcwW https://t.co/OQ3fwbi9UB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096838766807928832"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2096838774714175855",
+        "created_at": "2026-09-07T05:51:35.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096838774714175855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LeVPsoM4vX",
+              "end": 35,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2096838774714175855/photo/1",
+              "media_key": "3_2096838766807928832",
+              "start": 12,
+              "url": "https://t.co/LeVPsoM4vX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096838774714175855",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096838766807928832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1708,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好疑惑\n觉得好怪 https://t.co/LeVPsoM4vX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2096943933993750758",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850587533924876288/1732007350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 501,
+          "like_count": 17236,
+          "listed_count": 2,
+          "media_count": 1143,
+          "tweet_count": 7617
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

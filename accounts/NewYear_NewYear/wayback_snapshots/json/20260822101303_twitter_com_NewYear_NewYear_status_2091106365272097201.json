@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1850587533924876288",
+    "conversation_id": "2091028711114178876",
+    "created_at": "2026-08-22T10:13:03.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091106365272097201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1677530479782768641",
+          "start": 0,
+          "username": "bai57248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091106365272097201",
+    "in_reply_to_user_id": "1677530479782768641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091028711114178876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai57248 好吃好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2091028699026182144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTTheSaUAAlKPS.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2091028711114178876",
+        "created_at": "2026-08-22T10:13:03.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091106365272097201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1677530479782768641",
+              "start": 0,
+              "username": "bai57248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091106365272097201",
+        "in_reply_to_user_id": "1677530479782768641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091028711114178876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai57248 好吃好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091028699026182144"
+          ]
+        },
+        "author_id": "1677530479782768641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091028711114178876",
+        "created_at": "2026-08-22T05:04:28.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T06:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091028711114178876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XP6NuvCcAB",
+              "end": 28,
+              "expanded_url": "https://x.com/bai57248/status/2091028711114178876/photo/1",
+              "media_key": "3_2091028699026182144",
+              "start": 5,
+              "url": "https://t.co/XP6NuvCcAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091028711114178876",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091028699026182144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耶斯莫拉 https://t.co/XP6NuvCcAB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2091106365272097201",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850587533924876288/1732007350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 494,
+          "like_count": 17031,
+          "listed_count": 2,
+          "media_count": 1129,
+          "tweet_count": 7554
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-08T04:10:14.000Z",
+        "description": "泉//类日记//！！包含无意义喊话！！//",
+        "id": "1677530479782768641",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091028711114178876",
+        "name": "小水儿",
+        "pinned_tweet_id": "2025813693687308701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677530479782768641/1694149668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033832964237496323/B-NIeNXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5623,
+          "following_count": 784,
+          "like_count": 48999,
+          "listed_count": 10,
+          "media_count": 2047,
+          "tweet_count": 12550
+        },
+        "url": "",
+        "username": "bai57248",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095896205410942976",
+        "3_2095896220837597184"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2095896233986740514",
+    "created_at": "2026-09-04T15:26:16.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T16:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095896233986740514"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kWCokLbdA4",
+          "end": 37,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2095896233986740514/photo/1",
+          "media_key": "3_2095896205410942976",
+          "start": 14,
+          "url": "https://t.co/kWCokLbdA4"
+        },
+        {
+          "display_url": "pic.x.com/kWCokLbdA4",
+          "end": 37,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2095896233986740514/photo/1",
+          "media_key": "3_2095896220837597184",
+          "start": 14,
+          "url": "https://t.co/kWCokLbdA4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095896233986740514",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095896205410942976"
+      },
+      {
+        "media_key": "3_2095896220837597184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笨笨：好险，差一点就饿死了 https://t.co/kWCokLbdA4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2095896205410942976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYefombwAAxH3i.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2095896220837597184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYegiEb0AAMS84.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095896205410942976",
+            "3_2095896220837597184"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2095896233986740514",
+        "created_at": "2026-09-04T15:26:16.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T16:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095896233986740514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kWCokLbdA4",
+              "end": 37,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2095896233986740514/photo/1",
+              "media_key": "3_2095896205410942976",
+              "start": 14,
+              "url": "https://t.co/kWCokLbdA4"
+            },
+            {
+              "display_url": "pic.x.com/kWCokLbdA4",
+              "end": 37,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2095896233986740514/photo/1",
+              "media_key": "3_2095896220837597184",
+              "start": 14,
+              "url": "https://t.co/kWCokLbdA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095896233986740514",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095896205410942976"
+          },
+          {
+            "media_key": "3_2095896220837597184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笨笨：好险，差一点就饿死了 https://t.co/kWCokLbdA4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2095896233986740514",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850587533924876288/1732007350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 498,
+          "like_count": 17134,
+          "listed_count": 2,
+          "media_count": 1137,
+          "tweet_count": 7587
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
