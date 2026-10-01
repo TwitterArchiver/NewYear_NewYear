@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099750910364905472"
+      ]
+    },
+    "author_id": "1850587533924876288",
+    "conversation_id": "2099750974252576863",
+    "created_at": "2026-09-15T06:43:38.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T07:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099750974252576863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6MAjRXifht",
+          "end": 30,
+          "expanded_url": "https://x.com/NewYear_NewYear/status/2099750974252576863/photo/1",
+          "media_key": "3_2099750910364905472",
+          "start": 7,
+          "url": "https://t.co/6MAjRXifht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099750974252576863",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099750910364905472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "富士山≡ω≡ https://t.co/6MAjRXifht"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1189,
+        "media_key": "3_2099750910364905472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPQU_kacAAEQ0h.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099750910364905472"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2099750974252576863",
+        "created_at": "2026-09-15T06:43:38.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T07:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099750974252576863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MAjRXifht",
+              "end": 30,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2099750974252576863/photo/1",
+              "media_key": "3_2099750910364905472",
+              "start": 7,
+              "url": "https://t.co/6MAjRXifht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099750974252576863",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099750910364905472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "富士山≡ω≡ https://t.co/6MAjRXifht"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2099750974252576863",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850587533924876288/1732007350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 500,
+          "like_count": 17618,
+          "listed_count": 2,
+          "media_count": 1157,
+          "tweet_count": 7707
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
